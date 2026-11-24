@@ -1,0 +1,680 @@
+{
+  "version": "1.0.1",
+  "date": "2026-11-24",
+  "modules": [
+    {
+      "id": "m1",
+      "title": "市场战略",
+      "english": "Marketing Strategy",
+      "desc": "市场选择与竞争策略",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "m2",
+      "title": "品牌管理",
+      "english": "Brand Management",
+      "desc": "品牌定位与品牌资产",
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "m3",
+      "title": "数字营销",
+      "english": "Digital Marketing",
+      "desc": "投放与转化优化",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "m4",
+      "title": "营销分析",
+      "english": "Marketing Analytics",
+      "desc": "指标与效果评估",
+      "color": "#10B981"
+    }
+  ],
+  "words": [
+    {
+      "id": "MKT001",
+      "moduleId": "m1",
+      "module": "市场战略",
+      "term": "Target market",
+      "zh": "目标市场",
+      "definition": "企业决定重点服务的客户群体。",
+      "example": "We need to define the target market before launch.",
+      "exampleZh": "上市前我们需要明确目标市场。",
+      "collocation": "define the target market",
+      "collocationZh": "明确目标市场",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing target market?",
+          "zh": "讨论目标市场时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to define the target market before launch.",
+          "zh": "上市前我们需要明确目标市场。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 1,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Target market",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT002",
+      "moduleId": "m1",
+      "module": "市场战略",
+      "term": "Market segmentation",
+      "zh": "市场细分",
+      "definition": "按共同特征将市场划分为不同群体。",
+      "example": "Market segmentation helps us tailor our messaging.",
+      "exampleZh": "市场细分帮助我们定制传播信息。",
+      "collocation": "conduct market segmentation",
+      "collocationZh": "开展市场细分",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing market segmentation?",
+          "zh": "讨论市场细分时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Market segmentation helps us tailor our messaging.",
+          "zh": "市场细分帮助我们定制传播信息。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 2,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Market segmentation",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT003",
+      "moduleId": "m1",
+      "module": "市场战略",
+      "term": "Value proposition",
+      "zh": "价值主张",
+      "definition": "产品为目标客户提供的核心价值及选择理由。",
+      "example": "Let's refine the value proposition for small businesses.",
+      "exampleZh": "我们来优化面向小企业的价值主张。",
+      "collocation": "refine the value proposition",
+      "collocationZh": "优化价值主张",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing value proposition?",
+          "zh": "讨论价值主张时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's refine the value proposition for small businesses.",
+          "zh": "我们来优化面向小企业的价值主张。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 3,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Value proposition",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT004",
+      "moduleId": "m1",
+      "module": "市场战略",
+      "term": "Competitive advantage",
+      "zh": "竞争优势",
+      "definition": "相较竞争对手能够创造更高客户价值的优势。",
+      "example": "Fast delivery gives us a competitive advantage.",
+      "exampleZh": "快速交付为我们带来竞争优势。",
+      "collocation": "build a competitive advantage",
+      "collocationZh": "建立竞争优势",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing competitive advantage?",
+          "zh": "讨论竞争优势时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Fast delivery gives us a competitive advantage.",
+          "zh": "快速交付为我们带来竞争优势。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 4,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Competitive advantage",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT005",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand positioning",
+      "zh": "品牌定位",
+      "definition": "品牌希望在目标消费者心智中占据的独特位置。",
+      "example": "We need to refine our brand positioning.",
+      "exampleZh": "我们需要优化品牌定位。",
+      "collocation": "refine brand positioning",
+      "collocationZh": "优化品牌定位",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing brand positioning?",
+          "zh": "讨论品牌定位时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to refine our brand positioning.",
+          "zh": "我们需要优化品牌定位。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 5,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Brand positioning",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT006",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand awareness",
+      "zh": "品牌知名度",
+      "definition": "目标受众识别或回忆品牌的程度。",
+      "example": "The campaign aims to increase brand awareness.",
+      "exampleZh": "本次活动旨在提高品牌知名度。",
+      "collocation": "increase brand awareness",
+      "collocationZh": "提高品牌知名度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing brand awareness?",
+          "zh": "讨论品牌知名度时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The campaign aims to increase brand awareness.",
+          "zh": "本次活动旨在提高品牌知名度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 6,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Brand awareness",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT007",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand equity",
+      "zh": "品牌资产",
+      "definition": "品牌名称及认知为产品带来的附加价值。",
+      "example": "Consistent messaging helps build brand equity.",
+      "exampleZh": "一致的传播信息有助于积累品牌资产。",
+      "collocation": "build brand equity",
+      "collocationZh": "积累品牌资产",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing brand equity?",
+          "zh": "讨论品牌资产时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Consistent messaging helps build brand equity.",
+          "zh": "一致的传播信息有助于积累品牌资产。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 7,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Brand equity",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT008",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand identity",
+      "zh": "品牌识别体系",
+      "definition": "品牌通过名称、视觉和语言等传达的身份特征。",
+      "example": "The design team will develop a new brand identity.",
+      "exampleZh": "设计团队将建立新的品牌识别体系。",
+      "collocation": "develop a brand identity",
+      "collocationZh": "建立品牌识别体系",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing brand identity?",
+          "zh": "讨论品牌识别体系时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The design team will develop a new brand identity.",
+          "zh": "设计团队将建立新的品牌识别体系。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 8,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Brand identity",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT009",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Conversion rate",
+      "zh": "转化率",
+      "definition": "完成指定目标的用户或访问次数占相应基数的比例。",
+      "example": "A clearer landing page may improve the conversion rate.",
+      "exampleZh": "更清晰的落地页可能提高转化率。",
+      "collocation": "improve the conversion rate",
+      "collocationZh": "提高转化率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing conversion rate?",
+          "zh": "讨论转化率时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A clearer landing page may improve the conversion rate.",
+          "zh": "更清晰的落地页可能提高转化率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 9,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Conversion rate",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT010",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Landing page",
+      "zh": "落地页",
+      "definition": "用户点击营销链接后进入的目标页面。",
+      "example": "We should optimize the landing page for mobile users.",
+      "exampleZh": "我们应针对移动端用户优化落地页。",
+      "collocation": "optimize the landing page",
+      "collocationZh": "优化落地页",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing landing page?",
+          "zh": "讨论落地页时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should optimize the landing page for mobile users.",
+          "zh": "我们应针对移动端用户优化落地页。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 10,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Landing page",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT011",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Paid search",
+      "zh": "付费搜索广告",
+      "definition": "通过付费方式在搜索结果中展示广告。",
+      "example": "We plan to invest in paid search next quarter.",
+      "exampleZh": "我们计划下季度投入付费搜索广告。",
+      "collocation": "invest in paid search",
+      "collocationZh": "投入付费搜索广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing paid search?",
+          "zh": "讨论付费搜索广告时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We plan to invest in paid search next quarter.",
+          "zh": "我们计划下季度投入付费搜索广告。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 11,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Paid search",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT012",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Retargeting",
+      "zh": "再营销定向",
+      "definition": "向曾与品牌或网站互动的受众再次投放广告。",
+      "example": "We will launch a retargeting campaign for previous visitors.",
+      "exampleZh": "我们将针对曾访问网站的用户启动再营销活动。",
+      "collocation": "launch a retargeting campaign",
+      "collocationZh": "启动再营销活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing retargeting?",
+          "zh": "讨论再营销定向时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will launch a retargeting campaign for previous visitors.",
+          "zh": "我们将针对曾访问网站的用户启动再营销活动。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 12,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Retargeting",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT013",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Customer acquisition cost",
+      "zh": "客户获取成本",
+      "definition": "在指定期间内获取新客户的相关成本除以新客户数。",
+      "example": "We need to reduce customer acquisition cost without sacrificing quality.",
+      "exampleZh": "我们需要在不牺牲质量的前提下降低获客成本。",
+      "collocation": "reduce customer acquisition cost",
+      "collocationZh": "降低客户获取成本",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing customer acquisition cost?",
+          "zh": "讨论客户获取成本时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to reduce customer acquisition cost without sacrificing quality.",
+          "zh": "我们需要在不牺牲质量的前提下降低获客成本。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 13,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Customer acquisition cost",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT014",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Return on ad spend",
+      "zh": "广告支出回报率",
+      "definition": "归因于广告的收入与广告支出的比率。",
+      "example": "We track return on ad spend by channel.",
+      "exampleZh": "我们按渠道追踪广告支出回报率。",
+      "collocation": "track return on ad spend",
+      "collocationZh": "追踪广告支出回报率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing return on ad spend?",
+          "zh": "讨论广告支出回报率时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We track return on ad spend by channel.",
+          "zh": "我们按渠道追踪广告支出回报率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 14,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Return on ad spend",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT015",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Attribution",
+      "zh": "归因",
+      "definition": "将转化贡献分配给营销接触点的过程。",
+      "example": "Let's review the attribution model before reallocating the budget.",
+      "exampleZh": "重新分配预算前，我们先审查归因模型。",
+      "collocation": "review the attribution model",
+      "collocationZh": "审查归因模型",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing attribution?",
+          "zh": "讨论归因时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's review the attribution model before reallocating the budget.",
+          "zh": "重新分配预算前，我们先审查归因模型。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 15,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Attribution",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    },
+    {
+      "id": "MKT016",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Incrementality",
+      "zh": "增量效果",
+      "definition": "相对于未实施营销活动的反事实基准所产生的额外效果。",
+      "example": "A holdout group can help us measure incrementality.",
+      "exampleZh": "留出对照组有助于衡量增量效果。",
+      "collocation": "measure incrementality",
+      "collocationZh": "衡量增量效果",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we focus on when discussing incrementality?",
+          "zh": "讨论增量效果时，我们应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A holdout group can help us measure incrementality.",
+          "zh": "留出对照组有助于衡量增量效果。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 16,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "",
+      "ipaUS": "",
+      "ipaSource": "待核验",
+      "speakTerm": "Incrementality",
+      "ipaReview": "待核验",
+      "ipaNote": "使用设备语音包"
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "S01",
+      "moduleId": "m2",
+      "title": "品牌定位讨论",
+      "titleEn": "Brand positioning review",
+      "lines": [
+        {
+          "role": "Brand Manager",
+          "en": "Our brand awareness is growing, but customers still confuse us with competitors.",
+          "zh": "我们的品牌知名度正在提升，但客户仍会将我们与竞争对手混淆。"
+        },
+        {
+          "role": "Marketing Director",
+          "en": "What makes our value proposition different?",
+          "zh": "我们的价值主张有什么不同？"
+        },
+        {
+          "role": "Brand Manager",
+          "en": "We offer faster delivery and more flexible plans.",
+          "zh": "我们提供更快的交付和更灵活的方案。"
+        },
+        {
+          "role": "Marketing Director",
+          "en": "Let’s test that positioning with our target market.",
+          "zh": "我们在目标市场中测试这一定位吧。"
+        }
+      ],
+      "quiz": "What should the team test?",
+      "answer": "brand positioning",
+      "quizZh": "团队应该测试什么？",
+      "answerZh": "品牌定位"
+    },
+    {
+      "id": "S02",
+      "moduleId": "m3",
+      "title": "广告投放复盘",
+      "titleEn": "Campaign performance review",
+      "lines": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did paid search perform last month?",
+          "zh": "上个月付费搜索广告表现如何？"
+        },
+        {
+          "role": "Analyst",
+          "en": "The conversion rate improved, but acquisition costs also rose.",
+          "zh": "转化率提高了，但获客成本也上升了。"
+        },
+        {
+          "role": "Marketing Manager",
+          "en": "Can we test a different landing page?",
+          "zh": "我们能测试不同的落地页吗？"
+        },
+        {
+          "role": "Analyst",
+          "en": "Yes. We should split traffic randomly and compare results.",
+          "zh": "可以。我们应随机分配流量并比较结果。"
+        }
+      ],
+      "quiz": "What page will the team test?",
+      "answer": "landing page",
+      "quizZh": "团队将测试什么页面？",
+      "answerZh": "落地页"
+    }
+  ],
+  "references": [],
+  "editorial_note": "Alpha 1 示例词库，音标待核验，非正式600词版本。"
+}

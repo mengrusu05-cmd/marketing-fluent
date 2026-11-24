@@ -1,0 +1,32 @@
+{
+  "name": "Marketing Fluent｜市场营销职场英语",
+  "short_name": "Marketing Fluent",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#674cf4",
+  "lang": "zh-CN",
+  "description": "Alpha 1：16 个示例词汇与 2 组双语情景",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./marketing-fluent-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "id": "./index.html"
+}

@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"/><meta name="marketing-fluent-build" content="1.0.1"/><meta content="width=device-width,initial-scale=1,viewport-fit=cover" name="viewport"/><meta content="#f6f7fb" name="theme-color"/><meta content="yes" name="apple-mobile-web-app-capable"/><meta content="default" name="apple-mobile-web-app-status-bar-style"/><meta content="Marketing Fluent" name="apple-mobile-web-app-title"/><meta content="Marketing Fluent V1.0.1：修复「换一组」重复出现相同单词；每日达标后仍可继续学习新的 Marketing 词汇。" name="description"/><title>Marketing Fluent V1.0.1｜Marketing 职场英语学习</title><style>
+:root{--bg:#f6f7fb;--paper:#fff;--text:#191b30;--muted:#81849a;--line:#eaebf1;--violet:#654cf3;--violet2:#8775fb;--soft:#f0edff;--mint:#dafff3;--green:#168a6c;--orange:#fbaa72;--shadow:0 12px 40px rgba(38,35,79,.065);--round:22px;--navH:76px;--bar:72px}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,-apple-system,BlinkMacSystemFont,'SF Pro Display','PingFang SC','Microsoft Yahei',sans-serif;line-height:1.45}button,input,select{font:inherit}button{border:0;cursor:pointer}button:disabled{opacity:.45;cursor:not-allowed}button:focus-visible,input:focus-visible,select:focus-visible,.tapcard:focus-visible{outline:3px solid #aa9cfd;outline-offset:3px}a{color:var(--violet)}.muted{color:var(--muted)}.tiny{font-size:12px}.tag{font-size:11px;font-weight:750;letter-spacing:.02em;border-radius:99px;padding:6px 10px;display:inline-flex;align-items:center;gap:5px}.tag.lav{background:#eeebff;color:var(--violet)}.tag.green{background:#e2f8ef;color:#168164}.tag.peach{background:#fff0e6;color:#b66a34}.tag.neutral{background:var(--bg);color:var(--muted)}svg.i{width:20px;height:20px;display:inline-block;vertical-align:middle;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;flex:none}svg.i.sm{width:16px;height:16px}svg.i.lg{width:24px;height:24px}.ico{display:inline-flex;justify-content:center;align-items:center}.app{min-height:100vh;display:flex}.sidebar{position:sticky;top:0;height:100vh;flex:0 0 252px;background:var(--paper);border-right:1px solid var(--line);padding:31px 19px;display:flex;flex-direction:column;z-index:5}.brand{display:flex;align-items:center;gap:11px;padding:0 12px 31px}.brandmark{background:var(--violet);color:white;border-radius:14px;height:40px;width:40px;display:grid;place-items:center;box-shadow:0 7px 16px #654cf32c;font-weight:850;font-size:20px;letter-spacing:-1.5px}.brandname{font-size:18px;font-weight:850;letter-spacing:-.7px}.brandtag{color:var(--muted);font-size:10px;letter-spacing:1.5px;font-weight:700}.side-label{font-size:11px;font-weight:800;color:#a2a4b6;letter-spacing:2px;padding:0 14px;margin:10px 0}.side-link{display:flex;align-items:center;gap:13px;width:100%;padding:15px 16px;text-align:left;border-radius:15px;color:#70738d;background:transparent;font-weight:700;font-size:14px;margin:3px 0;transition:background .2s}.side-link:hover{background:var(--bg)}.side-link.active{background:var(--soft);color:var(--violet)}.sidebar-bottom{margin-top:auto;background:#f7f5ff;border-radius:20px;padding:18px;color:var(--text)}.sidebar-bottom b{display:block;font-size:13px}.mini-progress{height:7px;background:#e3defe;border-radius:99px;overflow:hidden;margin:12px 0 8px}.mini-progress span{height:100%;display:block;background:var(--violet);border-radius:99px}.main{max-width:1240px;width:100%;margin:0 auto;padding:0 48px 66px;min-width:0}.topbar{height:86px;display:flex;justify-content:space-between;align-items:center;gap:20px}.top-kicker{font-size:11px;letter-spacing:2px;font-weight:850;color:var(--violet)}.top-title{font-size:20px;font-weight:850;letter-spacing:-.5px;margin-top:3px}.top-actions{display:flex;align-items:center;gap:10px}.pill{background:var(--paper);border:1px solid var(--line);border-radius:99px;padding:10px 14px;display:inline-flex;align-items:center;gap:8px;color:var(--text);font-size:13px;font-weight:750}.flame{color:#ff9166}.avatar{background:#dcd6ff;color:#5238df;border:3px solid #fff;height:43px;width:43px;display:grid;place-items:center;border-radius:50%;font-weight:850}.bottom-nav{display:none}.section-title{font-size:22px;font-weight:850;letter-spacing:-.6px;margin:0}.section-top{display:flex;justify-content:space-between;align-items:end;gap:12px;margin:30px 0 16px}.section-desc{font-size:13px;color:var(--muted);margin:5px 0 0}.link-btn{background:none;color:var(--violet);font-weight:800;display:inline-flex;align-items:center;gap:6px;font-size:13px;white-space:nowrap}.hero{border-radius:30px;background:linear-gradient(115deg,#25264e 0%,#494091 61%,#786af6 100%);min-height:294px;padding:33px 42px;color:white;position:relative;overflow:hidden;isolation:isolate;display:flex;align-items:center}.hero::after{content:'';position:absolute;inset:auto -85px -170px auto;width:415px;height:415px;border:1px solid #ffffff3d;border-radius:50%;z-index:-1;box-shadow:0 0 0 65px #ffffff08,0 0 0 125px #ffffff08}.hero h1{font-size:clamp(29px,4vw,42px);letter-spacing:-1.5px;line-height:1.3;max-width:570px;margin:17px 0 10px}.hero p{color:#e1dffa;font-size:14px;margin:0 0 22px}.eyebrow{letter-spacing:2.5px;font-weight:800;color:#d7d0ff;font-size:11px}.primary{display:inline-flex;align-items:center;justify-content:center;gap:8px;background:var(--violet);color:#fff;padding:13px 20px;font-weight:800;border-radius:14px;box-shadow:0 7px 14px #654cf323}.primary:hover{filter:brightness(1.07)}.primary.white{background:white;color:#36306a;box-shadow:none}.secondary{display:inline-flex;align-items:center;justify-content:center;gap:8px;background:var(--soft);color:var(--violet);padding:13px 18px;font-weight:800;border-radius:14px}.ghost-on-dark{border:1px solid #ffffff5a;background:#ffffff1e;color:white;border-radius:14px;padding:12px 17px;font-weight:750}.hero-buttons{display:flex;gap:10px;flex-wrap:wrap}.hero-art{position:absolute;right:65px;top:45px;width:250px;height:215px;pointer-events:none}.art-circle{position:absolute;width:206px;height:206px;background:linear-gradient(135deg,#a7a4ff80,#f6bdcf77);border-radius:50%;left:25px;top:10px;box-shadow:inset 0 0 60px #ffffff22}.art-card{position:absolute;background:#fff;border-radius:17px;color:#292d54;padding:13px 16px;box-shadow:0 20px 40px #15133844;transform:rotate(-8deg)}.art-card .dots{display:flex;gap:4px;margin-bottom:10px}.art-card .dots i{height:6px;width:6px;border-radius:50%;background:#dacfff}.art-card b{font-size:18px;display:block}.art-card small{color:#9294a9}.art-card.one{top:17px;left:13px;width:173px}.art-card.two{top:123px;left:74px;width:163px;transform:rotate(8deg)}.art-bubble{position:absolute;right:-6px;top:80px;background:#ffba77;color:#704d22;border-radius:13px 13px 13px 0;padding:13px;font-size:18px;font-weight:800;transform:rotate(11deg)}.stats-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px;margin-top:17px}.stat{background:var(--paper);padding:21px 20px;border-radius:23px;border:1px solid #f0f0f4;min-width:0;display:flex;justify-content:space-between;gap:8px;align-items:center}.stat small{font-size:12px;color:var(--muted);font-weight:650}.stat strong{display:block;font-size:29px;letter-spacing:-1px;line-height:1.4}.stat .iconbox{width:44px;height:44px;border-radius:15px;display:grid;place-items:center}.stat:nth-child(1) .iconbox{background:#fff0e1;color:#d89153}.stat:nth-child(2) .iconbox{background:#e6f8ef;color:#25a27b}.stat:nth-child(3) .iconbox{background:#eeecff;color:#7664e9}.module-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}.module-card{background:var(--paper);padding:17px 14px;text-align:left;border-radius:21px;min-height:150px;transition:transform .2s,box-shadow .2s;border:1px solid var(--line);min-width:0}.module-card:hover{transform:translateY(-3px);box-shadow:var(--shadow)}.module-icon{height:43px;width:43px;border-radius:15px;display:grid;place-items:center;margin-bottom:16px;font-size:22px}.module-card b{display:block;font-size:13px;line-height:1.5}.module-card small{color:var(--muted);font-size:11px}.two-column{display:grid;grid-template-columns:1.15fr .85fr;gap:16px;margin-top:26px}.surface{background:var(--paper);border-radius:25px;border:1px solid var(--line);padding:23px}.spotlight{display:flex;flex-direction:column;justify-content:space-between;min-height:195px;background:#f3f1ff;border-color:#ede8ff}.spotlight-title{font-size:25px;font-weight:850;margin:10px 0 3px}.spotlight-desc{margin:0;color:#777592;font-size:13px}.spotlight-actions{display:flex;gap:10px;margin-top:20px}.spotlight-actions button{padding:10px 13px}.task-list{display:flex;flex-direction:column;gap:11px}.task-item{width:100%;text-align:left;display:flex;align-items:center;gap:12px;padding:9px 4px;background:transparent;border-radius:14px}.task-item:hover{background:var(--bg)}.task-dot{width:40px;height:40px;display:grid;place-items:center;border-radius:13px}.task-item b{font-size:13px;display:block}.task-item small{font-size:11px;color:var(--muted)}.task-item .arrow{margin-left:auto;color:#9b9cb0}.page-head{display:flex;align-items:end;justify-content:space-between;gap:10px;margin:13px 0 23px}.page-head h1{font-size:29px;letter-spacing:-1px;margin:5px 0 6px}.page-head p{margin:0;font-size:13px;color:var(--muted)}.study-layout{display:grid;grid-template-columns:minmax(0,680px) minmax(230px,1fr);gap:23px;align-items:start}.study-card-container{min-width:0}.study-topline{display:flex;align-items:center;justify-content:space-between;margin:0 0 13px}.study-topline small{font-weight:750;color:var(--muted)}.bar{background:#e8e8f2;height:8px;border-radius:99px;overflow:hidden}.bar>span{display:block;background:linear-gradient(90deg,#7764ff,#aa95ff);height:100%;border-radius:99px;transition:width .3s}.tapcard{min-height:395px;margin-top:16px;position:relative;perspective:1000px;cursor:pointer;-webkit-tap-highlight-color:transparent}.flashcard{border-radius:30px;background:var(--paper);border:1px solid var(--line);box-shadow:var(--shadow);width:100%;min-height:395px;position:relative;transform-style:preserve-3d;transition:transform .55s cubic-bezier(.18,.68,.2,1);display:grid}.tapcard.is-flipped .flashcard{transform:rotateY(180deg)}.flash-face{grid-area:1/1;backface-visibility:hidden;-webkit-backface-visibility:hidden;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:40px 28px;border-radius:30px}.flash-face.back{transform:rotateY(180deg);background:linear-gradient(145deg,#ffffff,#f3f0ff)}.flash-label{color:var(--muted);font-size:12px;letter-spacing:1.4px;font-weight:850}.flash-term{font-size:clamp(30px,4vw,41px);font-weight:850;letter-spacing:-1.4px;line-height:1.26;margin:26px 0 14px;overflow-wrap:anywhere;max-width:100%}.flash-zh{font-size:32px;font-weight:850;line-height:1.4;margin:26px 0 10px}.flash-meaning{font-size:14px;color:#74778c;line-height:1.8;max-width:455px}.flash-footer{position:absolute;bottom:30px;display:flex;gap:9px;align-items:center;color:#a0a0b2;font-size:12px}.listen{border-radius:99px;background:var(--soft);color:var(--violet);display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:10px 14px;font-weight:780;font-size:13px}.flash-actions{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:16px}.flash-actions button{min-height:57px;font-size:15px;border-radius:17px;display:flex;align-items:center;justify-content:center;gap:8px;font-weight:830}.dontknow{background:#fff0e9;color:#c16b41}.iknow{background:#dff8ef;color:#168d6f}.flash-tools{display:flex;align-items:center;justify-content:space-between;gap:15px;margin-top:16px}.textbtn{color:var(--muted);background:transparent;font-size:13px;font-weight:760;display:flex;align-items:center;gap:6px;padding:10px}.study-side .surface{margin-bottom:15px}.side-detail{display:grid;gap:12px}.side-detail small{color:var(--muted)}.side-detail b{font-size:14px}.tipbox{background:#fff9ec;border-radius:17px;padding:18px;line-height:1.8;color:#a06a36;font-size:13px}.searchbox{background:var(--paper);display:flex;align-items:center;gap:10px;padding:12px 16px;border:1px solid var(--line);border-radius:16px;color:var(--muted)}.searchbox input{background:transparent;border:0;outline:0;min-width:0;width:100%;color:var(--text);font-size:14px}.searchbox input:focus-visible{outline:0}.searchbox:focus-within{outline:2px solid #c0b8ff}.word-tools{display:flex;gap:12px;align-items:center;margin-bottom:16px;flex-wrap:wrap}.word-tools .searchbox{flex:1;min-width:210px}.chips{display:flex;gap:8px;overflow:auto;scrollbar-width:none;padding:4px 0 13px}.chips::-webkit-scrollbar{display:none}.chip{background:var(--paper);border:1px solid var(--line);border-radius:99px;white-space:nowrap;color:#7e8095;padding:10px 15px;font-size:12px;font-weight:800}.chip.active{background:var(--violet);color:white;border-color:var(--violet)}.filter-row{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:8px 0 13px}.filter-row small{color:var(--muted)}select.control{background:var(--paper);color:var(--text);border:1px solid var(--line);border-radius:11px;padding:9px 12px;font-size:12px}.word-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}.word-row{background:var(--paper);border:1px solid var(--line);border-radius:19px;display:flex;justify-content:space-between;gap:12px;padding:17px;min-width:0;transition:border-color .2s}.word-row:hover{border-color:#bdafff}.word-main{min-width:0;text-align:left;flex:1;background:transparent;padding:0;color:var(--text)}.word-main b{display:block;font-size:16px;overflow-wrap:anywhere}.word-main p{margin:6px 0 7px;font-size:13px;color:#72758b}.word-main small{font-size:11px;color:#aaa8b7}.word-side{display:flex;align-items:center;gap:5px}.iconbtn{width:35px;height:35px;background:transparent;display:grid;place-items:center;color:#8587a1;border-radius:12px}.iconbtn:hover{background:var(--soft);color:var(--violet)}.iconbtn.faved{color:#ff807d}.load-more{margin:18px auto;display:block;border-radius:13px;color:var(--violet);background:var(--soft);padding:12px 25px;font-weight:800}.scene-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}.scene-card{background:var(--paper);border:1px solid var(--line);padding:22px;text-align:left;border-radius:23px;min-width:0;transition:transform .2s}.scene-card:hover{transform:translateY(-2px)}.scene-card h3{font-size:18px;margin:16px 0 4px}.scene-card p{color:var(--muted);font-size:12px;margin:0 0 15px}.scene-foot{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:12px}.scene-hero{background:linear-gradient(110deg,#e9e5ff,#f4f2ff);border-radius:24px;padding:26px;margin:0 0 15px}.scene-hero h2{margin:14px 0 3px}.scene-hero p{color:#74718b;margin:0 0 16px;font-size:13px}.conversation{display:flex;flex-direction:column;gap:17px;margin-top:22px}.bubble-wrap{display:flex;flex-direction:column;align-items:flex-start;max-width:85%}.bubble-wrap.right{align-self:flex-end;align-items:flex-end}.bubble-role{font-size:11px;color:var(--muted);margin:0 0 6px 5px;font-weight:750}.bubble{background:#f0f0f8;border-radius:17px 17px 17px 4px;padding:17px 18px;line-height:1.65;font-size:14px}.bubble-wrap.right .bubble{background:#ece9ff;border-radius:17px 17px 4px 17px}.bubble p{margin:0}.bubble .translation{color:#77778d;margin:8px 0 0;font-size:12px}.bubble-action{background:transparent;color:var(--violet);padding:8px 4px 0;font-size:12px;font-weight:780;display:flex;align-items:center;gap:6px}.roleplay-cover{background:#fff2e8;border:1px dashed #f0c59d;border-radius:20px;padding:22px;text-align:center;color:#99623a}.roleplay-cover b{display:block;margin:10px 0}.quiz-shell{max-width:750px;margin:0 auto}.quiz-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:15px}.quiz-box{background:var(--paper);border:1px solid var(--line);border-radius:29px;padding:33px;margin-top:17px}.quiz-number{font-size:12px;font-weight:850;color:var(--violet);letter-spacing:1px}.quiz-term{font-size:30px;font-weight:850;margin:21px 0 6px;overflow-wrap:anywhere}.quiz-options{display:grid;gap:10px;margin:26px 0}.quiz-option{background:var(--bg);border:1.5px solid var(--line);border-radius:16px;padding:17px 18px;text-align:left;display:flex;align-items:center;gap:12px;font-weight:700;color:var(--text)}.quiz-option .letter{height:29px;width:29px;border-radius:9px;background:var(--paper);display:grid;place-items:center;font-size:12px;font-weight:850;color:#8d8fa6}.quiz-option.selected{border-color:var(--violet);background:#f2efff}.quiz-option.correct{border-color:#32b58b;background:#e9fbf3}.quiz-option.wrong{border-color:#f1a386;background:#fff2ec}.quiz-explain{background:#f5f3ff;color:#5a528d;border-radius:17px;padding:16px;margin-top:12px;font-size:13px;line-height:1.8}.quiz-bottom{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:24px}.quiz-score{text-align:center;padding:40px 25px}.score-ring{width:130px;height:130px;border-radius:50%;background:conic-gradient(var(--violet) var(--pct),#e6e4f0 var(--pct));padding:11px;margin:0 auto 22px}.score-ring-inner{border-radius:50%;height:100%;background:var(--paper);display:grid;place-items:center;font-size:28px;font-weight:900}.me-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:16px}.progress-hero{background:linear-gradient(135deg,#312f70,#7264de);border-radius:27px;color:#fff;padding:28px}.progress-hero h2{font-size:27px;margin:11px 0 6px}.progress-hero p{color:#dedafa;font-size:13px}.progress-numbers{display:flex;gap:30px;margin-top:26px}.progress-numbers b{font-size:25px;display:block}.progress-numbers small{font-size:11px;color:#ddd9fb}.setting-row{display:flex;justify-content:space-between;align-items:center;gap:15px;padding:16px 0;border-bottom:1px solid var(--line)}.setting-row:last-child{border:0}.setting-row b{font-size:14px}.setting-row small{font-size:12px;color:var(--muted)}.btn-danger{background:#fff0ef;color:#b75c63;border-radius:12px;padding:12px 16px;font-weight:800}.empty{background:var(--paper);border:1px dashed var(--line);border-radius:22px;padding:45px 20px;text-align:center;color:var(--muted)}.empty b{display:block;color:var(--text);margin:14px 0 5px}.overlay{position:fixed;inset:0;background:#15172aa8;z-index:90;display:flex;align-items:flex-end;justify-content:center;animation:fade .18s}.sheet{background:var(--paper);color:var(--text);width:min(660px,100%);max-height:min(94dvh,960px);overflow:auto;border-radius:29px 29px 0 0;padding:22px 26px calc(28px + env(safe-area-inset-bottom));box-shadow:0 0 40px #11122620;animation:rise .25s}.sheet-handle{width:43px;height:5px;border-radius:5px;background:#dadbe6;margin:0 auto 18px}.sheet-head{display:flex;justify-content:space-between;align-items:start;gap:10px}.sheet h2{font-size:29px;line-height:1.25;margin:13px 0 8px;overflow-wrap:anywhere}.sheet-zh{font-size:18px;color:var(--violet);font-weight:800}.sheet-tabbar{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:23px 0 18px;overflow:auto}.sheet-tab{background:transparent;padding:13px 11px;color:var(--muted);font-size:13px;font-weight:800;white-space:nowrap;border-bottom:3px solid transparent}.sheet-tab.active{color:var(--violet);border-bottom-color:var(--violet)}.sheet-section{font-size:14px;line-height:1.8;min-height:150px}.sheet-section h3{font-size:14px;margin:14px 0 5px}.quote{background:var(--bg);border-left:3px solid var(--violet);border-radius:0 12px 12px 0;padding:13px 14px;margin:8px 0}.ext-list{display:grid;gap:10px}.ext-item{background:var(--bg);padding:14px;border-radius:14px}.sheet-footer{display:flex;gap:10px;border-top:1px solid var(--line);margin-top:19px;padding-top:17px}.sheet-footer button{flex:1}.toast{position:fixed;z-index:200;left:50%;bottom:calc(88px + env(safe-area-inset-bottom));transform:translateX(-50%);background:#272742;color:white;border-radius:99px;padding:12px 18px;font-size:13px;font-weight:700;box-shadow:0 12px 30px #0002;max-width:85vw;text-align:center;animation:fade .2s}.static-fallback{padding:20px}.static-fallback details{background:#fff;margin:8px 0;border-radius:12px;padding:12px}.static-fallback summary{cursor:pointer}.hide{display:none!important}body.dark{--bg:#131420;--paper:#212234;--text:#f3f2ff;--muted:#aaaac0;--line:#35364b;--soft:#363259;--shadow:0 12px 40px #0004}body.dark .spotlight{background:#282346;border-color:#343053}body.dark .sidebar-bottom{background:#343052}body.dark .flash-face.back{background:linear-gradient(145deg,#22253e,#302b53)}body.dark .dontknow{background:#3f3031;color:#ffb39b}body.dark .iknow{background:#21443b;color:#85e3c2}body.dark .tipbox{background:#463827;color:#f0c590}body.dark .scene-hero{background:linear-gradient(135deg,#343056,#282342)}body.dark .bubble{background:#34364b}body.dark .bubble-wrap.right .bubble{background:#373358}body.dark .quiz-option.selected{background:#3c335e}body.dark .quiz-option.correct{background:#244d3d}body.dark .quiz-option.wrong{background:#523832}body.dark .quiz-explain{background:#302b50;color:#d5cfff}body.dark .tag.lav{background:#41376a;color:#d8d0ff}body.dark .tag.green{background:#244a42;color:#abf2d7}body.dark .tag.peach{background:#573a30;color:#ffcba8}body.dark .secondary{background:var(--soft)}body.dark .word-main{color:var(--text)}body.dark .progress-hero{background:#373164}
+@keyframes fade{from{opacity:0}to{opacity:1}}@keyframes rise{from{transform:translateY(25px);opacity:.5}to{transform:translateY(0);opacity:1}}
+@media(max-width:1100px){.sidebar{flex-basis:212px}.main{padding:0 25px 70px}.module-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.hero-art{right:18px;opacity:.8}.hero h1{max-width:490px}.study-layout{grid-template-columns:minmax(0,1fr)}.study-side{display:none}}
+@media(max-width:760px){:root{--navH:73px}.sidebar{display:none}.main{padding:0 17px calc(95px + env(safe-area-inset-bottom));max-width:620px}.topbar{height:73px}.top-title{font-size:17px}.top-kicker{font-size:10px}.top-actions .pill{padding:8px 10px}.avatar{height:37px;width:37px}.bottom-nav{position:fixed;z-index:35;bottom:0;left:0;right:0;background:color-mix(in srgb,var(--paper),transparent 3%);border-top:1px solid var(--line);padding:9px 8px calc(9px + env(safe-area-inset-bottom));display:grid;grid-template-columns:repeat(5,1fr);box-shadow:0 -8px 25px #1718240b;backdrop-filter:blur(16px)}.bottom-link{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;background:transparent;color:#9596ab;font-size:10px;font-weight:800;min-height:48px}.bottom-link.active{color:var(--violet)}.bottom-link .i{width:23px;height:23px}.hero{padding:27px 24px;min-height:290px;border-radius:25px}.hero h1{font-size:30px;max-width:340px;position:relative;z-index:1;margin-top:12px}.hero p{max-width:265px;font-size:13px}.hero-art{display:none}.hero-buttons{position:relative;z-index:1}.stats-grid{gap:8px;margin-top:11px}.stat{padding:14px 10px;border-radius:18px;display:block}.stat small{font-size:10px}.stat strong{font-size:23px}.stat .iconbox{display:none}.section-top{margin:27px 0 15px}.section-title{font-size:19px}.module-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.module-card{min-height:141px;border-radius:18px}.two-column{grid-template-columns:1fr;gap:12px;margin-top:22px}.surface{padding:20px}.page-head h1{font-size:25px}.page-head{margin:15px 0 22px}.tapcard,.flashcard{min-height:345px}.flash-term{font-size:32px}.flash-zh{font-size:28px}.word-list{grid-template-columns:1fr}.scene-grid{grid-template-columns:1fr}.word-tools .searchbox{min-width:unset;width:100%}.word-tools{gap:8px}.sheet{padding:17px 18px calc(22px + env(safe-area-inset-bottom))}.sheet h2{font-size:26px}.sheet-tab{font-size:12px;padding:12px 8px}.quiz-box{padding:24px 18px}.quiz-term{font-size:27px}.me-grid{grid-template-columns:1fr}.top-actions .avatar{display:none}}
+@media(max-width:370px){.hero{padding:24px 18px}.hero h1{font-size:28px}.stat strong{font-size:21px}.module-card{padding:14px 12px}.flash-term{font-size:27px}.flashcard,.tapcard{min-height:330px}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
+
+/* V6: Marketing context and semantic distinctions */
+.focus-row{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-bottom:8px}
+.focus-card{background:var(--paper);border:1px solid var(--line);text-align:left;border-radius:19px;padding:18px;display:flex;align-items:flex-start;flex-direction:column;gap:8px;min-height:170px;box-shadow:var(--shadow)}
+.focus-card:hover{border-color:var(--violet2)}.focus-card>b{font-size:17px;line-height:1.35}.focus-card>small{color:var(--muted);line-height:1.6}.focus-more{font-size:12px;color:var(--violet);font-weight:800;margin-top:auto}.word-added-tag{margin-left:9px;padding:3px 7px;font-size:9px;vertical-align:middle}
+@media(max-width:680px){.focus-row{grid-template-columns:1fr;gap:8px}.focus-card{min-height:auto;padding:15px 17px}.focus-more{margin-top:3px}.focus-card>b{font-size:15px}}
+.word-explain{display:block;max-width:620px;color:var(--muted);font-size:12px;line-height:1.7;margin:5px 0 7px;white-space:normal}
+.usage-note,.distinguish-note{margin:16px 0;padding:14px 16px;border-radius:15px;background:#eef8f4;border:1px solid #d4ece0;color:#24765a;font-size:13px;line-height:1.75}
+.usage-note b,.distinguish-note b{display:block;margin-bottom:6px;color:#185d48;font-size:13px}
+.distinguish-note{background:#fffaed;border-color:#f6e7b9;color:#836026}
+.distinguish-note b{color:#79561a}
+.dialogue-zh{font-size:13px;color:var(--muted);margin-top:2px !important}
+.aliases{padding:13px 15px;background:var(--bg);border-radius:12px;color:var(--muted);line-height:1.8;word-break:break-word}
+.dark .usage-note{background:#11382b;border-color:#22563f;color:#b2e9cf}.dark .usage-note b{color:#c9f4df}
+.dark .distinguish-note{background:#3e3016;border-color:#6d5725;color:#f4dfab}.dark .distinguish-note b{color:#ffe6a1}
+@media(max-width:680px){.word-explain{font-size:12px}.sheet-section .usage-note,.sheet-section .distinguish-note{padding:12px 13px;font-size:13px}}
+
+
+/* V7: IPA, bilingual collocations and local progress portability */
+.ipa-panel{width:min(100%,440px);display:flex;flex-direction:column;gap:5px;margin:6px auto 14px;padding:11px 13px;background:rgba(245,244,255,.88);border-radius:18px;border:1px solid #eeebff;text-align:left}
+.ipa-row{display:flex;align-items:center;gap:8px;min-height:30px}.accent-label{flex:0 0 28px;font-weight:900;color:var(--violet);font-size:12px}.ipa-text{flex:1;word-break:break-word;font-family:ui-sans-serif,Arial,sans-serif;font-size:13px;color:#52536a;letter-spacing:.03em}.ipa-sound{width:30px;height:30px;border:0;border-radius:11px;display:grid;place-items:center;background:#e7e2ff;color:var(--violet);flex:none}.ipa-sound:hover{background:#d8ceff}.ipa-footnote{font-size:9px;color:#9994ba;text-align:center}.ipa-panel.mini{width:min(100%,420px);margin:12px 0;padding:10px}.ipa-panel.mini .ipa-text{font-size:13px}
+.flash-term{margin:12px 0 7px;font-size:clamp(27px,4vw,37px)}.flashcard{min-height:440px}.flash-face{padding:33px 22px}.flash-footer{bottom:19px}
+.phrase-translation{background:#f7f5ff;color:var(--text);border-radius:15px;padding:10px 14px;text-align:left;margin:9px auto;max-width:100%;width:100%}.phrase-kicker{display:block;color:#77749e;font-weight:800;font-size:11px;margin-bottom:5px}.phrase-translation b{display:block;font-size:13px;overflow-wrap:anywhere}.phrase-translation small,.phrase-zh{display:block;margin:4px 0 0;color:var(--violet);font-size:12px;line-height:1.5;font-weight:750}.flash-face.back .phrase-translation{width:min(100%,380px)}.flash-face.back .flash-zh{font-size:26px;margin:10px 0 7px}.flash-face.back .flash-meaning{font-size:13px;line-height:1.55;margin:5px 0}.flash-face.back .phrase-translation{margin:11px 0 26px}.study-side .phrase-translation{margin-bottom:8px}
+.save-hint{font-size:11px;color:#669c85;margin-bottom:9px;text-align:right;font-weight:700}.sync-notice{padding:15px;background:#eef9f5;border:1px solid #d6f0e4;border-radius:16px;display:flex;flex-direction:column;gap:3px;margin:16px 0 8px;color:#24795d;font-size:12px}.sync-notice b{font-size:14px}.setting-buttons,.sync-buttons{display:flex;gap:7px;flex-wrap:wrap;justify-content:flex-end}.setting-buttons button{padding:10px 12px}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}.sync-sheet{max-height:88dvh;overflow:auto}.sync-sheet h2{font-size:24px}.sync-block{margin-top:20px;border-radius:18px;padding:17px;border:1px solid var(--line);background:var(--bg)}.sync-block>b{display:block;margin-bottom:12px}.sync-block textarea,.sync-block input{width:100%;margin:12px 0 5px;border:1px solid var(--line);background:var(--paper);color:var(--text);border-radius:13px;padding:13px;font-size:12px;line-height:1.6;resize:vertical;outline:none}.sync-block textarea:focus{border-color:var(--violet)}.sync-block>.secondary{margin-top:7px}.bookmark-tip p{line-height:1.8}.warning-note{background:#fff2e5;color:#a76a35;padding:12px;border-radius:12px;line-height:1.65}.good-note{color:#238065}.dark .ipa-panel{background:#302e49;border-color:#484364}.dark .ipa-text{color:#e7e5f1}.dark .ipa-sound{background:#474069}.dark .phrase-translation{background:#302e49}.dark .sync-notice{background:#183b34;color:#b6ebd7;border-color:#345c52}
+@media(max-width:700px){.flashcard{min-height:435px}.flash-term{font-size:clamp(27px,6vw,38px)}.ipa-panel{max-width:315px}.ipa-text{font-size:12px}.flash-face{padding:28px 15px}.flash-face.back .flash-meaning{max-height:130px;overflow:auto}.sync-sheet{max-height:87dvh}.setting-row{align-items:flex-start;gap:10px}.setting-buttons{flex-direction:column}.setting-buttons button{width:100%}}
+
+.access-banner{display:flex;align-items:center;gap:14px;border:1px solid #e8e3ff;background:linear-gradient(105deg,#fcfbff,#f5f2ff);border-radius:20px;padding:17px 18px;margin-top:16px;box-shadow:var(--shadow)}
+.access-icon{width:39px;height:39px;display:grid;place-items:center;background:#e9e3ff;color:var(--violet);border-radius:13px;font-size:23px;flex:none}
+.access-copy{min-width:0;flex:1}.access-copy b{display:block;font-size:14px}.access-copy small{display:block;font-size:12px;color:var(--muted);margin-top:3px;line-height:1.55}
+.access-actions{display:flex;gap:8px;flex-wrap:wrap}.access-actions .secondary{padding:10px 12px;font-size:12px;box-shadow:none}
+.phrase-note{display:block;font-size:10px;line-height:1.4;color:#9a97ad;font-style:normal;padding-top:3px}
+.dark .access-banner{background:#24223d;border-color:#443c68}
+@media(max-width:800px){.access-banner{flex-wrap:wrap;gap:10px}.access-actions{width:100%}.access-actions .secondary{flex:1;white-space:nowrap}}
+@media(max-width:360px){.access-actions{flex-wrap:wrap}.access-actions .secondary{min-width:100%}}
+
+/* V9 · Settings action sizes: consistent one-line controls on small screens */
+.setting-row{align-items:center;gap:14px;padding:14px 0;min-width:0}
+.setting-row>span{flex:1 1 auto;min-width:0;line-height:1.4}
+.setting-row>span b{font-size:13px;line-height:1.4}
+.setting-row>span small{display:inline-block;font-size:11px;line-height:1.5;margin-top:3px;overflow-wrap:anywhere}
+.setting-row>.secondary,.setting-row>.btn-danger,.setting-row>.control,.setting-buttons>.secondary{height:38px;min-height:38px;padding:0 12px;border-radius:12px;display:inline-flex;align-items:center;justify-content:center;gap:6px;font-size:12px;line-height:1.15;font-weight:750;white-space:nowrap;flex:0 0 auto;max-width:100%;box-shadow:none}
+.setting-row .secondary svg.i,.setting-row .btn-danger svg.i{width:15px;height:15px}
+.setting-row>.secondary{min-width:95px}
+.setting-row>.btn-danger{min-width:74px}
+.setting-buttons{display:flex;flex-direction:row;gap:7px;align-items:center;flex-wrap:nowrap;justify-content:flex-end;flex:0 0 auto}
+.setting-buttons>.secondary{width:auto;min-width:59px}
+.deck-position{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:10px 0 0;color:var(--muted);font-weight:650;font-size:11px;line-height:1.5}
+.deck-position span:last-child{text-align:right}
+.study-topline small strong{font-size:14px;font-weight:850;color:var(--violet);letter-spacing:.15px}
+.quiz-return{display:inline-flex;align-items:center;gap:6px;color:var(--violet);background:var(--soft);border-radius:11px;font-size:12px;font-weight:750;padding:9px 12px;margin-bottom:16px}
+.quiz-return svg.i{width:15px;height:15px}
+.pill-back{background:var(--soft);color:var(--violet);border-color:#ded8fe}
+@media(max-width:700px){
+ .me-grid .surface{padding:18px 16px}
+ .setting-row{align-items:center;gap:9px;padding:13px 0}
+ .setting-row>span b{font-size:12.5px}
+ .setting-row>span small{font-size:10.5px}
+ .setting-buttons{flex-direction:row;gap:6px}
+ .setting-buttons>.secondary{width:auto;min-width:56px;padding:0 9px}
+ .setting-row>.secondary,.setting-row>.btn-danger,.setting-row>.control{padding:0 10px}
+ .setting-row>.secondary{min-width:91px}
+ .setting-row>.btn-danger{min-width:65px}
+ .deck-position{flex-wrap:wrap;gap:3px 9px;font-size:11px}
+ .study-topline{gap:10px}
+ .study-topline small{font-size:12px}
+ .quiz-return{margin-bottom:12px}
+}
+@media(max-width:360px){
+ .setting-row>span b{font-size:12px}
+ .setting-row>span small{font-size:10px}
+ .setting-row>.secondary{min-width:80px}
+ .setting-buttons>.secondary{min-width:50px}
+}
+
+/* V10: aligned study goals, real role-play, audio transport and universal top actions */
+.fav-action{transition:background .15s,color .15s,border-color .15s;display:inline-flex;align-items:center;gap:6px}
+.fav-action.active,.fav-action[aria-pressed="true"]{color:#c64b75!important;background:#fff0f5!important;border:1px solid #f3bbd0!important;font-weight:850}
+.fav-action.active svg,.iconbtn.faved svg{fill:currentColor;stroke:currentColor}
+.iconbtn.faved{color:#c64b75;background:#fff0f5}
+.spotlight-actions{flex-wrap:wrap}
+.study-legend{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0 13px}
+.learn-tag{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:800;border-radius:10px;padding:5px 9px;white-space:nowrap;line-height:1.3;vertical-align:middle}
+.learn-tag .i{width:13px;height:13px;flex-shrink:0}
+.learn-tag b{margin-left:2px}
+.learn-tag.not-yet{background:#f0f1f5;color:#8b8e9e}
+.learn-tag.in-progress{background:#fff2e4;color:#aa764c}
+.learn-tag.mastered{background:#e4f8ee;color:#25896d}
+.word-main .learn-tag{margin:1px 7px 3px 0}
+.word-module-name{display:inline-block!important;font-weight:600;color:var(--muted)!important;line-height:1.5}
+.scene-controls{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin-top:16px}
+.scene-controls button{display:inline-flex;gap:7px;align-items:center;justify-content:center;min-height:42px;border-radius:13px;padding:10px 14px;font-size:13px}
+.scene-controls .scene-play-main{min-width:150px;box-shadow:0 7px 20px #6859e22a}
+.scene-controls .scene-play-main.is-playing{background:#3e327b}
+.scene-controls .scene-stop:disabled{opacity:.45;cursor:not-allowed}
+.scene-controls .role-active{background:#e9e2ff;color:var(--violet)}
+.scene-play-status{display:block;font-size:12px;color:#66607e;margin:11px 0 0!important;min-height:18px}
+.bubble-wrap.current-line .bubble{outline:2px solid #8c70f3;box-shadow:0 5px 18px #7c65f52c}
+.roleplay-box{margin-top:12px;padding:23px}
+.role-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}
+.role-head h3{margin:12px 0 0;font-size:19px}
+.role-head>.tiny{max-width:160px;line-height:1.6;text-align:right}
+.role-tabs{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0}
+.role-choice{border:1px solid var(--line);border-radius:13px;padding:9px 14px;color:var(--text);background:var(--bg);font-weight:750;font-size:13px}
+.role-choice.active{color:var(--violet);background:var(--soft);border-color:#a79af7}
+.role-progress{margin:12px 0 19px;font-size:12px;font-weight:750;color:var(--muted)}
+.role-progress .bar{height:7px;margin-top:10px}
+.role-history{background:var(--bg);padding:10px 13px;border-radius:13px;margin-bottom:16px;font-size:12px;color:var(--muted)}
+.role-history summary{font-weight:800;cursor:pointer}
+.role-history-line{display:grid;gap:3px;border-top:1px solid var(--line);padding:9px 0;color:var(--text)}
+.role-history-line:first-of-type{margin-top:7px}.role-history-line.mine b{color:var(--violet)}
+.role-your-turn,.role-other-turn{padding:18px;border:1px solid var(--line);background:var(--bg);border-radius:19px;min-width:0}
+.turn-flag{display:inline-block;background:#e8e0ff;color:#5c4abe;font-size:12px;font-weight:850;padding:7px 10px;border-radius:10px}
+.turn-flag.partner{background:#e0f5ef;color:#237d68}
+.role-your-turn h3{font-size:19px;margin:13px 0}.role-hint{padding:12px;background:var(--paper);border-radius:12px;font-size:13px;line-height:1.7;color:var(--muted);margin-bottom:15px}
+.role-label{display:block;color:var(--text);font-weight:750;font-size:12px;margin-bottom:8px}
+.role-answer{width:100%;resize:vertical;min-height:96px;border-radius:14px;border:1px solid var(--line);padding:13px;background:var(--paper);color:var(--text);line-height:1.65;font:inherit;outline:none;font-size:14px}
+.role-answer:focus{border-color:var(--violet);box-shadow:0 0 0 3px #8468ef1a}
+.role-buttons{display:flex;gap:9px;flex-wrap:wrap;margin:12px 0}.role-buttons button{min-height:43px;font-size:12px;display:inline-flex;align-items:center;gap:6px}
+.role-link{display:inline-block;background:transparent;color:var(--violet);font-size:13px;padding:10px 0;font-weight:850}
+.role-reference{margin:9px 0 16px;padding:16px;background:var(--paper);border-left:3px solid var(--violet);border-radius:10px;font-size:13px}
+.role-reference>b{color:var(--violet)}.role-reference p{margin:9px 0;line-height:1.75;font-size:15px}
+.role-feedback{margin-top:10px;padding:10px 12px;border-radius:11px;background:#eff8f3;color:#23715d;font-weight:700}
+.role-feedback small{display:block;margin-top:4px;line-height:1.5;font-weight:500}
+.role-next{width:100%;margin-top:9px}.role-other-english{font-size:20px;line-height:1.65;font-weight:750;color:var(--text);margin:19px 0 6px}
+.role-other-turn .translation{font-size:13px;color:var(--muted);line-height:1.8}
+.role-other-turn button{margin:10px 8px 0 0;font-size:12px}
+.role-done{text-align:center;padding:30px 10px}.role-done h2{font-size:23px}.role-done p{color:var(--muted)}.role-done-icon{display:grid;place-items:center;margin:0 auto;background:#e6f8ed;border-radius:50%;width:58px;height:58px;font-size:27px;color:#16976a}
+.scroll-top{position:fixed;right:24px;bottom:25px;z-index:36;border-radius:999px;display:inline-flex;align-items:center;gap:6px;padding:11px 15px;background:var(--paper);border:1px solid var(--line);color:var(--violet);box-shadow:0 9px 24px #302c6a35;font-size:12px;font-weight:850;opacity:0;transform:translateY(13px);pointer-events:none;transition:opacity .15s,transform .15s}
+.scroll-top.visible{opacity:1;transform:translateY(0);pointer-events:auto}
+.scroll-top .i,.sheet-scroll-top .i{width:16px;height:16px}
+.sheet-scroll-top{position:sticky;bottom:7px;float:right;margin:15px 0 0;padding:9px 13px;background:var(--violet);color:#fff;border-radius:15px;box-shadow:0 8px 18px #302c6a30;font-size:12px;font-weight:850;display:inline-flex;align-items:center;gap:6px;opacity:0;pointer-events:none;transition:opacity .15s}
+.sheet-scroll-top.visible{opacity:1;pointer-events:auto}
+.dark .learn-tag.not-yet{background:#35364a;color:#b7b8cc}.dark .learn-tag.in-progress{background:#4b3928;color:#f5c796}.dark .learn-tag.mastered{background:#204738;color:#b6efce}
+.dark .fav-action.active,.dark .iconbtn.faved{background:#4a2839!important;color:#ffaccd!important;border-color:#694054!important}
+.dark .role-choice.active{background:#3b3359;border-color:#7864a8}.dark .turn-flag{background:#43345e;color:#d5c8ff}.dark .turn-flag.partner{background:#26483c;color:#a7edce}
+.dark .role-feedback{background:#214439;color:#b5e8ce}.dark .scene-play-status{color:#bdb5db}
+@media(max-width:760px){.scroll-top{right:16px;bottom:calc(84px + env(safe-area-inset-bottom));padding:10px 12px}.scene-controls{gap:8px}.scene-controls button{padding:10px 11px;min-height:40px;font-size:12px}.scene-controls .scene-play-main{min-width:148px}.roleplay-box{padding:16px}.role-head>.tiny{max-width:100%;text-align:left}.role-buttons button{flex:1;justify-content:center}.role-your-turn,.role-other-turn{padding:15px}.role-other-english{font-size:18px}}
+
+
+/* V11 · bilingual Marketing workplace examples */
+.example-card{padding:15px 16px!important;line-height:1.75}
+.example-en{font-size:15px;font-weight:600;color:var(--ink);line-height:1.8;overflow-wrap:anywhere}
+.example-zh{margin:12px 0 2px;border-top:1px solid var(--line);padding-top:10px;display:flex;align-items:flex-start;gap:10px;font-size:14px;line-height:1.8;color:#5f647d}
+.example-label{display:inline-block;border-radius:8px;padding:2px 7px;background:#edeaff;color:#6247d5;white-space:nowrap;font-size:11px;font-weight:700;line-height:1.7}
+.example-side-zh{font-size:13px!important;line-height:1.75;color:var(--muted);margin:7px 0 0}
+@media(max-width:480px){.example-en{font-size:14px}.example-zh{font-size:13px;gap:7px}.example-label{font-size:10px}}
+
+/* V14 — module badge parity and functional learning-footprint filters */
+.scene-card .module-icon,.module-card .module-icon{font-weight:700;line-height:1;user-select:none}
+.study-legend{align-items:center;gap:8px;margin:12px 0 15px}
+.study-legend .legend-filter{appearance:none;border:1px solid transparent;border-radius:13px;
+  min-height:38px;padding:7px 11px;display:inline-flex;align-items:center;justify-content:center;
+  gap:6px;cursor:pointer;touch-action:manipulation;transition:border-color .15s,box-shadow .15s,transform .15s,background .15s}
+.study-legend .legend-filter:active{transform:scale(.97)}
+.study-legend .legend-filter:focus-visible{outline:3px solid #a99cf9;outline-offset:3px}
+.study-legend .legend-filter.all-status{background:#f2f0ff;color:#6854d1}
+.study-legend .legend-filter.is-active{border-color:currentColor;box-shadow:0 0 0 2px rgba(103,82,242,.13),0 5px 13px rgba(40,35,90,.075)}
+.study-legend .legend-filter.is-active::after{content:'✓';font-size:10px;font-weight:900;margin-left:1px}
+.study-legend .legend-filter b{font-variant-numeric:tabular-nums}
+.status-filter-help{font-size:11px;color:var(--muted);font-weight:500;margin-left:4px;line-height:1.45}
+body.dark .study-legend .legend-filter.all-status{background:#373251;color:#ded6ff}
+body.dark .study-legend .legend-filter.is-active{box-shadow:0 0 0 2px rgba(145,132,255,.18)}
+/* V1.0.1: swipeable learning-status tabs, like the module selector below. */
+.study-legend{width:100%;max-width:100%;min-width:0}
+.status-filter-help{display:block;margin:0 0 15px 2px;font-size:11px;line-height:1.5}
+@media(max-width:760px){
+ .study-legend{
+  display:flex;flex-wrap:nowrap;align-items:center;gap:8px;
+  width:100%;max-width:100%;min-width:0;
+  overflow-x:auto;overflow-y:hidden;
+  padding:4px 3px 9px;margin:8px 0 1px;
+  -webkit-overflow-scrolling:touch;overscroll-behavior-x:contain;
+  scroll-snap-type:x proximity;scrollbar-width:none;
+ }
+ .study-legend::-webkit-scrollbar{display:none}
+ .study-legend .legend-filter{
+  flex:0 0 auto;min-width:103px;width:auto;max-width:none;
+  padding:9px 12px;min-height:41px;border-radius:12px;
+  display:inline-flex;justify-content:center;align-items:center;
+  gap:6px;white-space:nowrap;line-height:1.3;font-size:12px;
+  scroll-snap-align:start;
+ }
+ .study-legend .legend-filter .i{width:13px;height:13px;flex-shrink:0}
+ .study-legend .legend-filter b{margin-left:2px}
+ .status-filter-help{margin:2px 0 13px 2px;font-size:10px}
+}
+@media(max-width:360px){.study-legend .legend-filter{min-width:95px;padding:9px 10px}}
+.scene-quiz-zh{font-size:14px;color:var(--muted);margin-top:0}.ipa-footnote{line-height:1.5}.example-side-zh{font-size:13px;line-height:1.65;color:var(--muted);margin-top:6px}
+/* V15 · compact touch-friendly role-play actions, responsive at 320–430px */
+.role-buttons{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;width:100%;margin:13px 0 6px}
+.role-buttons button{box-sizing:border-box;width:100%;min-width:0;min-height:44px;max-width:100%;padding:10px 8px;justify-content:center;align-items:center;gap:5px;font-size:clamp(11px,2.8vw,13px);font-weight:800;line-height:1.35;white-space:normal;overflow-wrap:anywhere;text-align:center;border-radius:13px}
+.role-buttons button .i{width:15px;height:15px;flex:0 0 15px}
+.role-buttons .role-mic-label,.role-buttons .role-check-btn span{min-width:0;display:block;white-space:normal}
+.role-voice-note{margin:4px 0 12px;font-size:11px;line-height:1.5;color:var(--muted);overflow-wrap:anywhere}
+.role-your-turn,.role-other-turn,.roleplay-box{min-width:0;max-width:100%}
+.role-tabs{max-width:100%;min-width:0;flex-wrap:wrap}
+.role-tabs button,.scene-controls button{min-width:0;max-width:100%;overflow-wrap:anywhere;white-space:normal;text-align:center}
+.scene-controls button .i{flex:0 0 auto}
+.role-other-turn button{max-width:100%;white-space:normal}
+.quiz-source-picker{border:1px solid var(--line);border-radius:18px;background:var(--paper);padding:16px 17px;margin:2px 0 15px;box-shadow:0 5px 22px rgba(24,22,59,.035)}
+.quiz-source-title{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.quiz-source-title b{font-size:14px;font-weight:850}
+.quiz-source-title small{font-size:11px;color:var(--muted)}
+.quiz-source-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
+.quiz-source-option{display:flex;align-items:center;justify-content:center;gap:5px;flex-wrap:wrap;min-width:0;min-height:45px;padding:10px 8px;border:1px solid var(--line);border-radius:13px;color:var(--text);background:var(--bg);font-size:12px;font-weight:800;line-height:1.3;text-align:center;cursor:pointer}
+.quiz-source-option .i{width:15px;height:15px;flex:0 0 15px}
+.quiz-source-option small{color:var(--muted);font-size:10px;white-space:nowrap}
+.quiz-source-option.active{background:var(--soft);color:var(--violet);border-color:var(--violet2);box-shadow:0 0 0 1px rgba(101,76,243,.07)}
+.quiz-source-option.active small{color:var(--violet)}
+.quiz-source-hint{font-size:11px;color:var(--muted);margin:11px 0 0;line-height:1.6;overflow-wrap:anywhere}
+.quiz-empty{margin-top:15px;padding:36px 22px;border:1px solid var(--line);border-radius:23px;background:var(--paper);text-align:center}
+.quiz-empty h2{margin:16px 0 8px;font-size:21px}
+.quiz-empty p{color:var(--muted);font-size:13px;line-height:1.8;max-width:420px;margin:0 auto}
+.quiz-empty-actions{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-top:21px}
+.quiz-empty-actions button{min-height:44px;font-size:13px}
+@media(max-width:390px){.roleplay-box{padding:14px!important}.role-your-turn,.role-other-turn{padding:12px!important}.role-buttons{gap:7px}.role-buttons button{padding:9px 6px}.scene-controls button{flex:1 1 auto;font-size:12px}.quiz-source-picker{padding:14px 12px}.quiz-source-option{font-size:11px;padding:8px 5px;gap:4px}}
+@media(max-width:340px){.role-buttons button{font-size:11px}.role-buttons .i{width:13px;height:13px;flex-basis:13px}.quiz-source-option small{font-size:9px}}
+
+/* V16: unobtrusive update prompt, shown only if learner is mid-exercise */
+.hr-update-toast{position:fixed;z-index:99999;left:max(12px,env(safe-area-inset-left));right:max(12px,env(safe-area-inset-right));bottom:calc(88px + env(safe-area-inset-bottom));margin:auto;max-width:440px;display:flex;align-items:center;gap:10px;padding:11px 12px;border:1px solid #ded8fa;border-radius:16px;background:#fff;color:#232139;box-shadow:0 8px 35px rgba(31,23,79,.17);font-size:12px;font-weight:700;box-sizing:border-box}
+.hr-update-toast span{flex:1;min-width:0}.hr-update-toast button{border:0;border-radius:10px;padding:8px 11px;cursor:pointer;font-size:12px;font-weight:800;white-space:nowrap}.hr-update-now{background:#6750ec;color:white}.hr-update-later{background:#f1f0f7;color:#625d75}
+@media(max-width:340px){.hr-update-toast{gap:6px;padding:8px;font-size:11px}.hr-update-toast button{padding:7px 8px}}
+
+/* V16.1: first-class quiz scope selector; stable small-screen tap targets */
+.quiz-source-picker{margin:12px 0 20px!important;padding:16px!important;border:1.5px solid #e0dafc!important;border-radius:19px!important;background:linear-gradient(145deg,#fff,#f7f5ff)!important;box-shadow:0 8px 30px rgba(91,70,180,.065)!important}
+.quiz-source-title{align-items:center!important;gap:9px!important;margin:0 0 13px!important}
+.quiz-source-title h2{font-size:17px;line-height:1.35;margin:5px 0 0;font-weight:850;color:var(--text)}
+.quiz-release-tag{font-size:10px;font-weight:750;letter-spacing:.025em;color:var(--violet);background:#eee9ff;border-radius:999px;padding:4px 8px;display:inline-flex}
+.quiz-source-title>small{font-size:11px;line-height:1.5;max-width:128px;text-align:right;white-space:normal}
+.quiz-source-options{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px!important}
+.quiz-source-option{display:flex!important;flex-flow:row nowrap!important;justify-content:initial!important;gap:9px!important;align-items:center!important;min-height:66px!important;padding:10px!important;border-radius:13px!important;background:#fff!important;border:1.5px solid #dedce7!important;font-size:13px!important;text-align:left!important;color:var(--text)!important;box-shadow:0 3px 12px rgba(25,23,70,.025)}
+.quiz-source-option.active{background:#eee9ff!important;border-color:#7656e9!important;box-shadow:0 0 0 1px rgba(101,76,243,.08)!important}
+.quiz-choice-symbol{display:grid;place-items:center;background:#f0eafa;border-radius:10px;width:34px;height:34px;flex:0 0 34px;color:var(--violet)}
+.quiz-source-option.active .quiz-choice-symbol{background:#ded6ff}
+.quiz-choice-main{flex:1 1 auto;min-width:0;display:flex;flex-direction:column;gap:5px;line-height:1.15}
+.quiz-choice-main b{font-size:13px;white-space:nowrap;font-weight:800}
+.quiz-choice-main small{font-size:11px!important;font-weight:550;color:#88849b!important;white-space:nowrap}
+.quiz-choice-check{width:15px;flex:0 0 15px;font-weight:900;color:var(--violet);font-size:16px;text-align:center}
+.quiz-source-hint{margin-top:11px!important;font-size:12px!important;line-height:1.5!important;color:#6d6984!important}
+@media(max-width:370px){.quiz-source-picker{padding:12px!important}.quiz-source-options{gap:7px!important}.quiz-source-option{gap:5px!important;padding:8px 5px!important;min-height:58px!important}.quiz-choice-symbol{width:26px;height:26px;flex-basis:26px}.quiz-choice-symbol svg{width:13px;height:13px}.quiz-choice-check{font-size:14px;width:11px;flex-basis:11px}.quiz-choice-main b{font-size:11px}.quiz-choice-main small{font-size:9px!important}.quiz-source-title>small{font-size:10px;max-width:100px}}
+body.dark .quiz-source-picker{background:linear-gradient(145deg,#262437,#2d284b)!important;border-color:#51438b!important}
+body.dark .quiz-source-option{background:#2e2b42!important;border-color:#615d77!important;color:#fff!important}
+body.dark .quiz-source-option.active{background:#443568!important;border-color:#9b7dff!important}
+body.dark .quiz-release-tag{background:#443568!important;color:#c9b8ff!important}
+body.dark .quiz-source-title h2{color:#fff}
+body.dark .quiz-source-hint{color:#d3cce8!important}
+
+.version-quiet{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:12px!important}
+.version-badge{font-size:11px;color:#5c47c8;background:#eee9ff;border-radius:99px;padding:3px 9px;font-weight:800;white-space:nowrap}
+@media (max-width:400px){.setting-row [data-action="checkVersion"]{font-size:12px!important;min-width:84px!important;padding:9px 10px!important}}
+body.dark .version-badge{color:#d4c8ff;background:#493a72}
+
+/* V1.0.1: clean page endings and clearly separated update controls */
+.home-info-footer{margin-top:30px;margin-bottom:5px}
+.home-info-footer .access-banner{margin:0;padding:16px 18px;gap:10px;border-radius:18px;box-shadow:none}
+.home-info-footer .access-copy small{font-size:11px;line-height:1.55}
+.home-info-footer .access-icon{width:37px;height:37px;flex:none}
+.me-bottom-info{margin-top:28px;padding:18px 19px 20px;border-radius:20px;border:1px solid var(--line);background:var(--paper);color:var(--text)}
+.me-bottom-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.me-bottom-head h3{font-size:14px;letter-spacing:0;margin:0}
+.me-bottom-info .saved-note{font-size:12px;color:var(--green);font-weight:700;margin:13px 0 5px;line-height:1.6;overflow-wrap:anywhere}
+.me-bottom-info .me-bottom-explain{font-size:12px;line-height:1.7;color:var(--muted);margin:3px 0 11px}
+.version-update-line{font-size:12px;margin:0 0 12px;color:var(--muted)}
+.update-buttons{display:flex;gap:10px;flex-wrap:wrap}
+.update-buttons button{flex:1 1 150px;min-height:42px;font-size:13px;white-space:normal;line-height:1.35}
+.update-buttons .update-strong{color:#fff;background:var(--violet)}
+.version-details{font-size:12px;color:var(--muted);margin-top:15px}
+.version-details summary{cursor:pointer;font-weight:750;color:var(--muted)}
+.version-details p{line-height:1.7;margin:8px 0 0}
+.hr-update-toast{z-index:220}
+@media(max-width:760px){.home-info-footer{margin-top:24px}.me-bottom-info{padding:16px;margin-bottom:18px}.home-info-footer .access-banner{flex-wrap:wrap}.home-info-footer .access-copy{flex:1 1 220px}.home-info-footer .access-actions{width:100%;display:flex;gap:8px}.home-info-footer .access-actions button{flex:1;min-width:0;white-space:normal;font-size:12px}}
+@media(max-width:350px){.me-bottom-head{display:block}.me-bottom-head h3{margin-top:9px}.update-buttons button{flex-basis:100%}}
+</style><link href="./manifest.webmanifest" rel="manifest"/><link rel="icon" href="./marketing-fluent-icon.svg"/><link rel="apple-touch-icon" href="./apple-touch-icon.png"/></head><body><div id="root"><div class="static-fallback"><h1>Marketing Fluent｜Marketing英语知识库</h1><p>知识库正在加载。如果按钮无法点击，请使用 Safari/Chrome 打开网站地址，而不是聊天软件的 HTML 文件预览。</p></div></div><noscript><div class="static-fallback"><h1>Marketing Fluent</h1><p>请启用 JavaScript 使用学习功能。</p></div></noscript><script>const DB={"version": "1.0.1", "date": "2026-11-24", "modules": [{"id": "m1", "title": "市场战略", "english": "Marketing Strategy", "desc": "市场选择与竞争策略", "color": "#3B82F6"}, {"id": "m2", "title": "品牌管理", "english": "Brand Management", "desc": "品牌定位与品牌资产", "color": "#8B5CF6"}, {"id": "m3", "title": "数字营销", "english": "Digital Marketing", "desc": "投放与转化优化", "color": "#F59E0B"}, {"id": "m4", "title": "营销分析", "english": "Marketing Analytics", "desc": "指标与效果评估", "color": "#10B981"}], "words": [{"id": "MKT001", "moduleId": "m1", "module": "市场战略", "term": "Target market", "zh": "目标市场", "definition": "企业决定重点服务的客户群体。", "example": "We need to define the target market before launch.", "exampleZh": "上市前我们需要明确目标市场。", "collocation": "define the target market", "collocationZh": "明确目标市场", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing target market?", "zh": "讨论目标市场时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "We need to define the target market before launch.", "zh": "上市前我们需要明确目标市场。"}], "usage": "", "new": true, "order": 1, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Target market", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT002", "moduleId": "m1", "module": "市场战略", "term": "Market segmentation", "zh": "市场细分", "definition": "按共同特征将市场划分为不同群体。", "example": "Market segmentation helps us tailor our messaging.", "exampleZh": "市场细分帮助我们定制传播信息。", "collocation": "conduct market segmentation", "collocationZh": "开展市场细分", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing market segmentation?", "zh": "讨论市场细分时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "Market segmentation helps us tailor our messaging.", "zh": "市场细分帮助我们定制传播信息。"}], "usage": "", "new": true, "order": 2, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Market segmentation", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT003", "moduleId": "m1", "module": "市场战略", "term": "Value proposition", "zh": "价值主张", "definition": "产品为目标客户提供的核心价值及选择理由。", "example": "Let's refine the value proposition for small businesses.", "exampleZh": "我们来优化面向小企业的价值主张。", "collocation": "refine the value proposition", "collocationZh": "优化价值主张", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing value proposition?", "zh": "讨论价值主张时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "Let's refine the value proposition for small businesses.", "zh": "我们来优化面向小企业的价值主张。"}], "usage": "", "new": true, "order": 3, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Value proposition", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT004", "moduleId": "m1", "module": "市场战略", "term": "Competitive advantage", "zh": "竞争优势", "definition": "相较竞争对手能够创造更高客户价值的优势。", "example": "Fast delivery gives us a competitive advantage.", "exampleZh": "快速交付为我们带来竞争优势。", "collocation": "build a competitive advantage", "collocationZh": "建立竞争优势", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing competitive advantage?", "zh": "讨论竞争优势时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "Fast delivery gives us a competitive advantage.", "zh": "快速交付为我们带来竞争优势。"}], "usage": "", "new": true, "order": 4, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Competitive advantage", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT005", "moduleId": "m2", "module": "品牌管理", "term": "Brand positioning", "zh": "品牌定位", "definition": "品牌希望在目标消费者心智中占据的独特位置。", "example": "We need to refine our brand positioning.", "exampleZh": "我们需要优化品牌定位。", "collocation": "refine brand positioning", "collocationZh": "优化品牌定位", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing brand positioning?", "zh": "讨论品牌定位时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "We need to refine our brand positioning.", "zh": "我们需要优化品牌定位。"}], "usage": "", "new": true, "order": 5, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Brand positioning", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT006", "moduleId": "m2", "module": "品牌管理", "term": "Brand awareness", "zh": "品牌知名度", "definition": "目标受众识别或回忆品牌的程度。", "example": "The campaign aims to increase brand awareness.", "exampleZh": "本次活动旨在提高品牌知名度。", "collocation": "increase brand awareness", "collocationZh": "提高品牌知名度", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing brand awareness?", "zh": "讨论品牌知名度时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "The campaign aims to increase brand awareness.", "zh": "本次活动旨在提高品牌知名度。"}], "usage": "", "new": true, "order": 6, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Brand awareness", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT007", "moduleId": "m2", "module": "品牌管理", "term": "Brand equity", "zh": "品牌资产", "definition": "品牌名称及认知为产品带来的附加价值。", "example": "Consistent messaging helps build brand equity.", "exampleZh": "一致的传播信息有助于积累品牌资产。", "collocation": "build brand equity", "collocationZh": "积累品牌资产", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing brand equity?", "zh": "讨论品牌资产时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "Consistent messaging helps build brand equity.", "zh": "一致的传播信息有助于积累品牌资产。"}], "usage": "", "new": true, "order": 7, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Brand equity", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT008", "moduleId": "m2", "module": "品牌管理", "term": "Brand identity", "zh": "品牌识别体系", "definition": "品牌通过名称、视觉和语言等传达的身份特征。", "example": "The design team will develop a new brand identity.", "exampleZh": "设计团队将建立新的品牌识别体系。", "collocation": "develop a brand identity", "collocationZh": "建立品牌识别体系", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing brand identity?", "zh": "讨论品牌识别体系时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "The design team will develop a new brand identity.", "zh": "设计团队将建立新的品牌识别体系。"}], "usage": "", "new": true, "order": 8, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Brand identity", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT009", "moduleId": "m3", "module": "数字营销", "term": "Conversion rate", "zh": "转化率", "definition": "完成指定目标的用户或访问次数占相应基数的比例。", "example": "A clearer landing page may improve the conversion rate.", "exampleZh": "更清晰的落地页可能提高转化率。", "collocation": "improve the conversion rate", "collocationZh": "提高转化率", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing conversion rate?", "zh": "讨论转化率时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "A clearer landing page may improve the conversion rate.", "zh": "更清晰的落地页可能提高转化率。"}], "usage": "", "new": true, "order": 9, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Conversion rate", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT010", "moduleId": "m3", "module": "数字营销", "term": "Landing page", "zh": "落地页", "definition": "用户点击营销链接后进入的目标页面。", "example": "We should optimize the landing page for mobile users.", "exampleZh": "我们应针对移动端用户优化落地页。", "collocation": "optimize the landing page", "collocationZh": "优化落地页", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing landing page?", "zh": "讨论落地页时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "We should optimize the landing page for mobile users.", "zh": "我们应针对移动端用户优化落地页。"}], "usage": "", "new": true, "order": 10, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Landing page", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT011", "moduleId": "m3", "module": "数字营销", "term": "Paid search", "zh": "付费搜索广告", "definition": "通过付费方式在搜索结果中展示广告。", "example": "We plan to invest in paid search next quarter.", "exampleZh": "我们计划下季度投入付费搜索广告。", "collocation": "invest in paid search", "collocationZh": "投入付费搜索广告", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing paid search?", "zh": "讨论付费搜索广告时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "We plan to invest in paid search next quarter.", "zh": "我们计划下季度投入付费搜索广告。"}], "usage": "", "new": true, "order": 11, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Paid search", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT012", "moduleId": "m3", "module": "数字营销", "term": "Retargeting", "zh": "再营销定向", "definition": "向曾与品牌或网站互动的受众再次投放广告。", "example": "We will launch a retargeting campaign for previous visitors.", "exampleZh": "我们将针对曾访问网站的用户启动再营销活动。", "collocation": "launch a retargeting campaign", "collocationZh": "启动再营销活动", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing retargeting?", "zh": "讨论再营销定向时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "We will launch a retargeting campaign for previous visitors.", "zh": "我们将针对曾访问网站的用户启动再营销活动。"}], "usage": "", "new": true, "order": 12, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Retargeting", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT013", "moduleId": "m4", "module": "营销分析", "term": "Customer acquisition cost", "zh": "客户获取成本", "definition": "在指定期间内获取新客户的相关成本除以新客户数。", "example": "We need to reduce customer acquisition cost without sacrificing quality.", "exampleZh": "我们需要在不牺牲质量的前提下降低获客成本。", "collocation": "reduce customer acquisition cost", "collocationZh": "降低客户获取成本", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing customer acquisition cost?", "zh": "讨论客户获取成本时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "We need to reduce customer acquisition cost without sacrificing quality.", "zh": "我们需要在不牺牲质量的前提下降低获客成本。"}], "usage": "", "new": true, "order": 13, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Customer acquisition cost", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT014", "moduleId": "m4", "module": "营销分析", "term": "Return on ad spend", "zh": "广告支出回报率", "definition": "归因于广告的收入与广告支出的比率。", "example": "We track return on ad spend by channel.", "exampleZh": "我们按渠道追踪广告支出回报率。", "collocation": "track return on ad spend", "collocationZh": "追踪广告支出回报率", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing return on ad spend?", "zh": "讨论广告支出回报率时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "We track return on ad spend by channel.", "zh": "我们按渠道追踪广告支出回报率。"}], "usage": "", "new": true, "order": 14, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Return on ad spend", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT015", "moduleId": "m4", "module": "营销分析", "term": "Attribution", "zh": "归因", "definition": "将转化贡献分配给营销接触点的过程。", "example": "Let's review the attribution model before reallocating the budget.", "exampleZh": "重新分配预算前，我们先审查归因模型。", "collocation": "review the attribution model", "collocationZh": "审查归因模型", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing attribution?", "zh": "讨论归因时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "Let's review the attribution model before reallocating the budget.", "zh": "重新分配预算前，我们先审查归因模型。"}], "usage": "", "new": true, "order": 15, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Attribution", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}, {"id": "MKT016", "moduleId": "m4", "module": "营销分析", "term": "Incrementality", "zh": "增量效果", "definition": "相对于未实施营销活动的反事实基准所产生的额外效果。", "example": "A holdout group can help us measure incrementality.", "exampleZh": "留出对照组有助于衡量增量效果。", "collocation": "measure incrementality", "collocationZh": "衡量增量效果", "dialogue": [{"role": "Marketing Manager", "en": "What should we focus on when discussing incrementality?", "zh": "讨论增量效果时，我们应该关注什么？"}, {"role": "Marketing Specialist", "en": "A holdout group can help us measure incrementality.", "zh": "留出对照组有助于衡量增量效果。"}], "usage": "", "new": true, "order": 16, "aliases": [], "distinction": "", "collocationReview": "初稿", "ipaUK": "", "ipaUS": "", "ipaSource": "待核验", "speakTerm": "Incrementality", "ipaReview": "待核验", "ipaNote": "使用设备语音包"}], "scenarios": [{"id": "S01", "moduleId": "m2", "title": "品牌定位讨论", "titleEn": "Brand positioning review", "lines": [{"role": "Brand Manager", "en": "Our brand awareness is growing, but customers still confuse us with competitors.", "zh": "我们的品牌知名度正在提升，但客户仍会将我们与竞争对手混淆。"}, {"role": "Marketing Director", "en": "What makes our value proposition different?", "zh": "我们的价值主张有什么不同？"}, {"role": "Brand Manager", "en": "We offer faster delivery and more flexible plans.", "zh": "我们提供更快的交付和更灵活的方案。"}, {"role": "Marketing Director", "en": "Let’s test that positioning with our target market.", "zh": "我们在目标市场中测试这一定位吧。"}], "quiz": "What should the team test?", "answer": "brand positioning", "quizZh": "团队应该测试什么？", "answerZh": "品牌定位"}, {"id": "S02", "moduleId": "m3", "title": "广告投放复盘", "titleEn": "Campaign performance review", "lines": [{"role": "Marketing Manager", "en": "How did paid search perform last month?", "zh": "上个月付费搜索广告表现如何？"}, {"role": "Analyst", "en": "The conversion rate improved, but acquisition costs also rose.", "zh": "转化率提高了，但获客成本也上升了。"}, {"role": "Marketing Manager", "en": "Can we test a different landing page?", "zh": "我们能测试不同的落地页吗？"}, {"role": "Analyst", "en": "Yes. We should split traffic randomly and compare results.", "zh": "可以。我们应随机分配流量并比较结果。"}], "quiz": "What page will the team test?", "answer": "landing page", "quizZh": "团队将测试什么页面？", "answerZh": "落地页"}], "references": [], "editorial_note": "Alpha 1 示例词库，音标待核验，非正式600词版本。"};
+const OFFLINE_AUDIO=false;
+const ICONS={home:'<path d="M3 10.5 12 3l9 7.5V21h-6v-6H9v6H3z"/>',study:'<rect x="4" y="3" width="16" height="18" rx="3"/><path d="M8 8h8M8 12h5M8 16h8"/>',book:'<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5V4.5A2.5 2.5 0 0 1 6.5 2z"/>',chat:'<path d="M20 11.5a7.5 7.5 0 0 1-7.5 7.5H6l-3 3v-7A7.5 7.5 0 1 1 20 11.5z"/><path d="M8 10h8M8 14h5"/>',user:'<circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 8 0 0 1 16 0v2"/>',sound:'<path d="M11 5 6 9H3v6h3l5 4zM15 9a5 5 0 0 1 0 6M18 6a9 9 0 0 1 0 12"/>',heart:'<path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8z"/>',right:'<path d="m9 18 6-6-6-6"/>',left:'<path d="m15 18-6-6 6-6"/>',check:'<path d="m4 12 5 5L20 6"/>',close:'<path d="M18 6 6 18M6 6l12 12"/>',spark:'<path d="m12 2 2.3 7.7L22 12l-7.7 2.3L12 22l-2.3-7.7L2 12l7.7-2.3z"/>',flame:'<path d="M12 22c4.5 0 7-3.2 7-7 0-3-2-5.5-3-6.5-.1 2-1.1 3.2-2.1 3.5C13.7 7.8 11.5 4.7 9 3c.2 4.2-4 6.8-4 12.1 0 4.1 2.6 6.9 7 6.9z"/>',trophy:'<path d="M7 4h10v8a5 5 0 0 1-10 0zM7 6H4v4a3 3 0 0 0 3 3M17 6h3v4a3 3 0 0 1-3 3M12 17v4M8 21h8"/>',repeat:'<path d="M3 12a9 9 0 0 1 15-6l3 3M21 12a9 9 0 0 1-15 6l-3-3M21 3v6h-6M3 21v-6h6"/>',search:'<circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/>',settings:'<circle cx="12" cy="12" r="3"/><path d="M19 12a7 7 0 0 0-.2-1.8l2-1.5-2-3.4-2.3 1a8 8 0 0 0-3-1.7L13 2h-4l-.5 2.6a8 8 0 0 0-3 1.7l-2.3-1-2 3.4 2 1.5a8 8 0 0 0 0 3.6l-2 1.5 2 3.4 2.3-1a8 8 0 0 0 3 1.7L9 22h4l.5-2.6a8 8 0 0 0 3-1.7l2.3 1 2-3.4-2-1.5A7 7 0 0 0 19 12z"/>',chev:'<path d="m6 9 6 6 6-6"/>',moon:'<path d="M21 13a9 9 0 0 1-10-10 9 9 0 1 0 10 10z"/>',download:'<path d="M12 3v12m-4-4 4 4 4-4M5 17v3h14v-3"/>',play:'<path d="m8 5 11 7-11 7z"/>',rotate:'<path d="M20 11a8 8 0 1 1-2.5-5.5M20 4v6h-6"/>',layers:'<path d="m12 2 9 5-9 5-9-5zM3 12l9 5 9-5M3 17l9 5 9-5"/>',star:'<path d="m12 2 3 6.5 7 1-5 5 1.2 7-6.2-3.4-6.2 3.4 1.2-7-5-5 7-1z"/>',pause:'<rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/>',stop:'<rect x="6" y="6" width="12" height="12" rx="2"/>',mic:'<rect x="9" y="2" width="6" height="13" rx="3"/><path d="M5 10a7 7 0 0 0 14 0M12 17v5M8 22h8"/>',up:'<path d="m6 14 6-6 6 6M12 8v13"/>',foot:'<path d="M7 5c-2-2-5 0-4 3l2 3c2 2 4 1 4-1L7 5ZM16 11c-3 1-3 6-1 8 2 3 6 1 6-2s-2-6-5-6ZM10 4v2M13 3v3M16 5v2"/>',info:'<circle cx="12" cy="12" r="10"/><path d="M12 11v6M12 7h.01"/>'};
+function icon(k,cls=''){return '<svg class="i '+cls+'" viewBox="0 0 24 24" aria-hidden="true">'+(ICONS[k]||ICONS.spark)+'</svg>'}
+function h(t){return String(t??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+
+function ipaView(w,mini=false){
+ const note=w.ipaSource==='词典重点校订'?'已针对易误读术语参考词典修订。':'音标待核验；朗读使用设备语音包。';
+ return `<div class="ipa-panel ${mini?'mini':''}" aria-label="英式美式音标" title="${h(note)}">
+  ${[['UK','英',w.ipaUK],['US','美',w.ipaUS]].map(([accent,title,ipa])=>`<div class="ipa-row"><span class="accent-label">${title}</span><span class="ipa-text">${ipa?'/'+h(ipa)+'/':'待核验'}</span><button class="ipa-sound" data-play-accent="${accent}" data-word-id="${h(w.id)}" aria-label="播放${title}式发音">${icon('sound','sm')}</button></div>`).join('')}
+ <span class="ipa-footnote">${h(w.ipaSource)} · 音频使用本机英／美语音包；复杂术语建议听音核对</span>
+ </div>`;
+}
+function phraseView(w){return `<div class="phrase-translation"><span class="phrase-kicker">常用短语 · 中英对照</span><b>${h(w.collocation||w.term)}</b><small>中文：${h(w.collocationZh||w.zh)}</small>${w.collocationReview==='语义匹配'?'<em class="phrase-note">语义匹配译法，建议结合公司用语核对</em>':''}</div>`}
+function speakAccent(id,accent){let w=byId(id);if(!w)return;speechStop();tts(w.speakTerm||w.term,accent==='UK'?'en-GB':'en-US')}
+
+function hashText(str){let hash=2166136261;for(const ch of String(str)){hash=Math.imul(hash^ch.charCodeAt(0),16777619)}return hash>>>0}
+function byId(id){return DB.words.find(x=>x.id===id)};
+function modById(id){return DB.modules.find(m=>m.id===id)};
+const KEY='marketing-fluent-v5';
+const STORAGE_READY=(()=>{try{let k='mktf-storage-probe';localStorage.setItem(k,'1');let ok=localStorage.getItem(k)==='1';localStorage.removeItem(k);return ok}catch(e){return false}})();
+function load(){try{let s=JSON.parse(localStorage.getItem(KEY)||'{}');return {words:{},days:{},xp:0,dark:false,goal:8,rate:1,...s}}catch(e){return{words:{},days:{},xp:0,dark:false,goal:8,rate:1}}}
+let STORE=load();
+// V15 one-time migration: the previous app default was 0.9x. Keep all progress,
+// and let learners set 0.9x again explicitly after upgrading if preferred.
+if(STORE.v15SpeedMigration!==true){
+ if(Number(STORE.rate)===0.9) STORE.rate=1;
+ STORE.v15SpeedMigration=true;
+ try{localStorage.setItem(KEY,JSON.stringify(STORE))}catch(e){}
+}
+STORE.quizSource=STORE.quizSource==='learned'?'learned':'all';
+let state={quizSource:STORE.quizSource,tab:'home',module:'all',query:'',filter:'all',visible:24,deck:[],deckIndex:0,flipped:false,detailId:null,detailTab:'meaning',detailChoice:null,syncOpen:false,bookmarkOpen:false,sceneId:null,roleplay:false,sceneReveal:1,roleplayRole:null,roleplayStep:0,roleInput:'',roleFeedback:null,roleReference:false,roleListening:false,roleplayAnswers:{},sceneZh:true,quiz:null,quizReturn:null,toast:null};
+function save(){STORE.savedAt=new Date().toISOString();try{const value=JSON.stringify(STORE);localStorage.setItem(KEY,value);if(localStorage.getItem(KEY)!==value)throw Error('写入后校验失败');return true}catch(e){toast('本地保存失败。请通过“我的 → 导出备份”保留进度。');return false}}
+function today(){const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`}
+function prevDay(iso){let [y,m,d]=iso.split('-').map(Number),dt=new Date(y,m-1,d);dt.setDate(dt.getDate()-1);return `${dt.getFullYear()}-${String(dt.getMonth()+1).padStart(2,'0')}-${String(dt.getDate()).padStart(2,'0')}`}
+function streak(){let day=today();if(!(STORE.days[day]>0))day=prevDay(day);let s=0;while(STORE.days[day]>0){s++;day=prevDay(day)}return s}
+function learnedCount(){return Object.values(STORE.words).filter(x=>x.level>=3).length}
+function dueCount(){return Object.values(STORE.words).filter(x=>x.seen&&x.due<=Date.now()).length}
+function seenCount(){return learnedQuizWords().length}
+function favCount(){return Object.values(STORE.words).filter(x=>x.favorite).length}
+function todayCount(){const day=today();const fromWords=Object.values(STORE.words).filter(x=>x&&x.lastDay===day).length;return Math.max(fromWords,Number(STORE.days[day])||0)}
+function learningSummary(){const goal=Math.max(1,Number(STORE.goal)||8),done=todayCount();return {goal,done,seen:seenCount(),pct:Math.min(100,Math.round(done/goal*100))}}
+function entry(id){STORE.words[id]??={level:0,seen:false,favorite:false,due:null};return STORE.words[id]}
+function nav(tab){
+ speechStop();stopRoleRecognition();
+ // Top-right practice button is a reversible page switch. Keep the exact previous page,
+ // deck position, card side and scroll offset without resetting the learning state.
+ if(tab==='quiz'&&state.tab==='quiz'){
+  const origin=state.quizReturn||{tab:'home',scrollY:0,detailId:null};
+  state.quizReturn=null;state.tab=origin.tab;state.detailId=origin.detailId||null;
+  render();requestAnimationFrame(()=>window.scrollTo({top:origin.scrollY||0,behavior:'auto'}));return;
+ }
+ if(tab==='quiz'){state.quizReturn={tab:state.tab,scrollY:window.scrollY,detailId:state.detailId};}
+ else if(state.tab==='quiz'){state.quizReturn=null;}
+ if(tab==='scene'&&state.tab!=='scene')state.sceneId=null;
+ state.tab=tab;state.detailId=null;
+ if(tab!=='scene')state.sceneId=null;
+ if(tab==='study'&&!state.deck.length)startDeck();
+ if(tab==='quiz'){const expected=Math.min(10,state.quizSource==='learned'?DB.words.filter(w=>STORE.words[w.id]?.seen||Number(STORE.words[w.id]?.level)>=1).length:DB.words.length);if(!state.quiz||state.quiz.items.length!==expected)startQuiz();}
+ render();window.scrollTo(0,0);
+}
+/** Generate the next flashcard group. `fresh` is used exclusively for "换一组":
+ * it prefers new vocabulary and excludes cards from the previous group, even
+ * after the daily learning goal has been reached. The daily goal is a target,
+ * never a hard limit on studying additional words. */
+function startDeck(ids,options={}){
+ const limit=Math.max(1,Math.min(20,Number(STORE.goal)||8));
+ const fresh=!!options.fresh;
+ const date=today();
+ if(!STORE.deckRotation||STORE.deckRotation.day!==date||!Array.isArray(STORE.deckRotation.ids)){
+  STORE.deckRotation={day:date,ids:[]};
+ }
+ const history=new Set(STORE.deckRotation.ids);
+ const previous=new Set(state.deck);
+ let chosen=[];
+ if(ids&&ids.length){chosen=ids.slice(0,limit)}
+ else if(fresh){
+  const unseen=DB.words.filter(w=>!STORE.words[w.id]?.seen&&!(Number(STORE.words[w.id]?.level)>=1));
+  const learned=DB.words.filter(w=>!!STORE.words[w.id]?.seen||Number(STORE.words[w.id]?.level)>=1);
+  // A new batch must not repeat the current batch when other cards exist.
+  // Rotate unstudied words first; use already-studied words only when necessary.
+  const buckets=[
+   unseen.filter(w=>!previous.has(w.id)&&!history.has(w.id)),
+   unseen.filter(w=>!previous.has(w.id)),
+   learned.filter(w=>!previous.has(w.id)&&!history.has(w.id)),
+   learned.filter(w=>!previous.has(w.id)),
+   DB.words.filter(w=>!previous.has(w.id)),
+   DB.words
+  ];
+  const collected=new Set();
+  for(const pool of buckets){
+   for(const w of pool){
+    if(collected.has(w.id))continue;
+    collected.add(w.id);chosen.push(w.id);
+    if(chosen.length>=limit)break;
+   }
+   if(chosen.length>=limit)break;
+  }
+ } else {
+  const due=DB.words.filter(w=>{let p=STORE.words[w.id];return p?.seen&&p.due<=Date.now()});
+  const unseen=DB.words.filter(w=>!STORE.words[w.id]?.seen);
+  const studying=DB.words.filter(w=>STORE.words[w.id]?.seen&&STORE.words[w.id]?.level<3&&!due.includes(w));
+  chosen=[...due,...unseen,...studying].slice(0,limit).map(w=>w.id);
+  if(!chosen.length)chosen=DB.words.slice(0,limit).map(w=>w.id);
+ }
+ state.deck=[...new Set(chosen)].slice(0,limit);
+ state.deckIndex=0;state.flipped=false;
+ // Remember which groups were displayed today so repeated "换一组"
+ // keeps advancing, even if the app is closed and reopened.
+ STORE.deckRotation.ids=[...new Set([...STORE.deckRotation.ids,...state.deck])].slice(-DB.words.length);
+ save();
+}
+function rateWord(known){const w=byId(state.deck[state.deckIndex]);if(!w)return;let e=entry(w.id);e.seen=true;if(e.lastDay!==today()){STORE.days[today()]=(STORE.days[today()]||0)+1;e.lastDay=today()}e.level=known?Math.min(5,(e.level||0)+1):0;e.last=Date.now();e.due=Date.now()+(known?[0,1,3,7,14,30][e.level]:.01)*86400000;STORE.xp+=known?10:3;save();toast(known?'太棒了！+10 XP':'已加入复习计划 · +3 XP');if(state.deckIndex<state.deck.length-1){state.deckIndex++;state.flipped=false;render()}else{state.deck=[];state.tab='home';render();toast('本轮完成 ✨ 今日目标达成后也可以继续学习新词')}}
+let currentAudio=null;
+let scenePlayer={id:null,status:'idle',index:0,nonce:0};
+let roleRecognizer=null;function speechStop(){
+ scenePlayer.nonce++;scenePlayer.id=null;scenePlayer.index=0;scenePlayer.status='idle';
+ if(currentAudio){currentAudio.pause();currentAudio=null}
+ if(window.speechSynthesis)window.speechSynthesis.cancel();
+}
+
+function tts(text,locale='en-US'){if(!window.speechSynthesis){toast('当前环境不支持朗读，请通过 Safari 或 Chrome 打开');return}const utter=new SpeechSynthesisUtterance(text);utter.lang=locale;utter.rate=Number(STORE.rate)||1;utter.pitch=1;let vs=window.speechSynthesis.getVoices();let lang=locale.toLowerCase();let voice=vs.find(v=>v.lang.toLowerCase()===lang&&/premium|enhanced|samantha|ava|aria|jenny|daniel|serena/i.test(v.name))||vs.find(v=>v.lang.toLowerCase()===lang)||null;if(vs.length&&!voice){toast(locale==='en-GB'?'设备未提供英式语音，请安装英语（英国）语音包':'设备未提供美式语音，请安装英语（美国）语音包');return}if(voice)utter.voice=voice;utter.onerror=()=>{toast('当前设备暂无可用的'+(locale==='en-GB'?'英式':'美式')+'语音包')};window.speechSynthesis.speak(utter)}
+function playWord(id){let w=byId(id);if(!w)return;speechStop();if(!OFFLINE_AUDIO){tts(w.speakTerm||w.term);return}const audio=new Audio('audio/words/'+encodeURIComponent(id)+'.mp3');currentAudio=audio;audio.playbackRate=Number(STORE.rate)||1;audio.onerror=()=>{if(currentAudio===audio){currentAudio=null;tts(w.speakTerm||w.term)}};let p=audio.play();if(p&&p.catch)p.catch(()=>{if(currentAudio===audio){currentAudio=null;tts(w.speakTerm||w.term)}})}
+function playScene(id){
+ const s=DB.scenarios.find(x=>x.id===id);if(!s)return;
+ if(!window.speechSynthesis){toast('当前环境不支持语音播放，请通过 Safari 或 Chrome 访问');return}
+ if(scenePlayer.id===id&&scenePlayer.status==='playing'){
+  // iOS Safari's speechSynthesis.pause is inconsistent. Cancelling + retaining the
+  // current sentence index makes pause and resume dependable across browsers.
+  scenePlayer.status='paused';scenePlayer.nonce++;
+  window.speechSynthesis.cancel();updateScenePlayerUI();return;
+ }
+ if(scenePlayer.id!==id||!['paused','playing'].includes(scenePlayer.status)){
+  speechStop();scenePlayer.id=id;scenePlayer.index=0;
+ }
+ scenePlayer.status='playing';scenePlayer.nonce++;
+ playSceneLine(scenePlayer.nonce);updateScenePlayerUI();
+}
+function playSceneLine(nonce){
+ if(scenePlayer.nonce!==nonce||scenePlayer.status!=='playing')return;
+ const s=DB.scenarios.find(x=>x.id===scenePlayer.id);
+ if(!s)return;
+ if(scenePlayer.index>=s.lines.length){scenePlayer.status='finished';updateScenePlayerUI();return}
+ const utter=new SpeechSynthesisUtterance(s.lines[scenePlayer.index].en);
+ utter.lang='en-US';utter.rate=Number(STORE.rate)||1;utter.pitch=1;
+ const vs=window.speechSynthesis.getVoices();
+ utter.voice=vs.find(v=>v.lang.toLowerCase()==='en-us')||vs.find(v=>v.lang.toLowerCase().startsWith('en'))||null;
+ utter.onend=()=>{
+  if(scenePlayer.nonce!==nonce||scenePlayer.status!=='playing')return;
+  scenePlayer.index++;updateScenePlayerUI();
+  if(scenePlayer.index>=s.lines.length){scenePlayer.status='finished';updateScenePlayerUI();return}
+  // Brief sentence boundary to make each Marketing turn legible.
+  setTimeout(()=>playSceneLine(nonce),160);
+ };
+ utter.onerror=(ev)=>{
+  if(scenePlayer.nonce!==nonce||scenePlayer.status!=='playing')return;
+  scenePlayer.status='paused';updateScenePlayerUI();toast('语音播放中断，点击继续可从当前句重新播放');
+ };
+ try{window.speechSynthesis.speak(utter)}catch(e){scenePlayer.status='paused';toast('语音不可用：'+e.message)}
+ updateScenePlayerUI();
+}
+function stopScenePlayback(){speechStop();updateScenePlayerUI()}
+function updateScenePlayerUI(){
+ const s=DB.scenarios.find(x=>x.id===scenePlayer.id), playing=scenePlayer.status==='playing', paused=scenePlayer.status==='paused',finished=scenePlayer.status==='finished';
+ const btn=document.querySelector('[data-play-scene]');
+ if(btn){const label=btn.querySelector('[data-play-label]');if(label)label.textContent=playing?'暂停对话':paused?'继续播放':finished?'重新播放':'播放完整对话';
+  btn.setAttribute('aria-pressed',String(playing));btn.classList.toggle('is-playing',playing);
+  const symbol=btn.querySelector('svg');if(symbol)symbol.outerHTML=icon(playing?'pause':'play','sm');
+ }
+ const status=document.querySelector('[data-scene-progress]');
+ if(status){status.textContent=playing?`正在播放 · 第 ${scenePlayer.index+1}/${s?.lines.length||0} 句`:paused?`已暂停 · 点击继续，将从第 ${scenePlayer.index+1} 句重新播放`:finished?'✓ 对话播放完成':'可随时播放、暂停和继续';}
+ const stop=document.querySelector('[data-action="stopScene"]');
+ if(stop)stop.disabled=!playing&&!paused;
+ document.querySelectorAll('[data-scene-line]').forEach(el=>el.classList.toggle('current-line',Boolean(s&&playing&&el.dataset.sceneLine===String(scenePlayer.index))));
+}
+
+function toast(msg){let el=document.querySelector('.toast');if(el)el.remove();el=document.createElement('div');el.className='toast';el.setAttribute('role','status');el.textContent=msg;document.body.append(el);setTimeout(()=>{if(el.parentNode)el.remove()},2300)}
+const NAV=[['home','首页','home'],['study','闪卡','study'],['words','词库','book'],['scene','情景','chat'],['me','我的','user']];
+function shell(content){let title=({home:'欢迎回来',study:'卡片学习',words:'专业词库',scene:'职场情景',me:'学习中心',quiz:'练一练'})[state.tab]||'Marketing 英语';let head=`<div class="topbar"><div><div class="top-kicker">MARKETING FLUENT · LEARN DAILY</div><div class="top-title">${title}</div></div><div class="top-actions"><button class="pill" data-action="streak" aria-label="连续学习${streak()}天">${icon('flame','sm')} <span class="flame">${streak()}</span> 天</button><button class="pill ${state.tab==='quiz'?'pill-back':''}" data-nav="quiz" aria-label="${state.tab==='quiz'?'返回进入练习前的页面':'进入每日练习'}">${state.tab==='quiz'?icon('left','sm'):icon('spark','sm')}<span class="tiny">${state.tab==='quiz'?'返回':'练习'}</span></button><button class="avatar" data-nav="me" aria-label="打开我的学习记录">M</button></div></div>`;return `<div class="app"><aside class="sidebar"><div class="brand"><div class="brandmark">M<span style="font-size:12px">✦</span></div><div><div class="brandname">Marketing Fluent</div><div class="brandtag">YOUR CAREER ENGLISH</div></div></div><div class="side-label">EXPLORE</div>${NAV.map(([id,label,ic])=>`<button data-nav="${id}" class="side-link ${state.tab===id?'active':''}">${icon(ic)} ${label}</button>`).join('')}<div class="side-label" style="margin-top:20px">QUICK ACTION</div><button data-nav="quiz" class="side-link ${state.tab==='quiz'?'active':''}">${icon('spark')} 每日练一练</button><div class="sidebar-bottom"><b>今日学习目标 · ${todayCount()}/${STORE.goal}</b><div class="mini-progress"><span style="width:${Math.min(100,Math.round(todayCount()/STORE.goal*100))}%"></span></div><span class="tiny muted">${todayCount()>=STORE.goal?'学习目标已达成！':'每天一点点，进步看得见。'}</span></div></aside><main class="main">${head}${content}</main><nav class="bottom-nav" aria-label="主导航">${NAV.map(([id,label,ic])=>`<button class="bottom-link ${state.tab===id?'active':''}" data-nav="${id}" aria-label="${label}" ${state.tab===id?'aria-current="page"':''}>${icon(ic)}<span>${label}</span></button>`).join('')}</nav><button class="scroll-top" id="globalScrollTop" data-action="goTop" aria-label="回到页面顶部" title="回到顶部">${icon('up','sm')} <span>顶部</span></button></div>`}
+const PALETTE=[['#ede9ff','#6f5ce6','✦'],['#fff1df','#d58b49','◎'],['#e2f8f2','#2ea688','↗'],['#ffe9ee','#da6f88','♧'],['#e7f1ff','#5389d7','◇'],['#f7eaff','#9c6ac7','✳'],['#eef7e5','#669844','☘'],['#fff0e7','#d27b62','◌'],['#e9f2ff','#4e77ce','✈'],['#faedfd','#aa61b3','✎']];
+function moduleBadge(moduleId){
+ const index=DB.modules.findIndex(m=>m.id===moduleId);
+ const theme=PALETTE[index]||PALETTE[0];
+ return `<span class="module-icon" style="background:${theme[0]};color:${theme[1]}" aria-hidden="true">${theme[2]}</span>`;
+}
+function homeView(){let feature=DB.words.find(x=>x.term.toLowerCase()==='brand positioning')||DB.words[8],featureFav=!!STORE.words[feature.id]?.favorite;return `<section class="hero"><div><div class="eyebrow">YOUR 5-MINUTE Marketing ENGLISH BOOST</div><h1>Every word builds<br>confidence.</h1><p>${DB.words.length} 个 Marketing 术语 · ${DB.scenarios.length} 组真实职场情景 · 随学随练</p><div class="hero-buttons"><button class="primary white" data-action="continue">继续学习 ${icon('right','sm')}</button><button class="ghost-on-dark" data-nav="quiz">${icon('spark','sm')} 选择范围测一测</button></div></div><div class="hero-art" aria-hidden="true"><div class="art-circle"></div><div class="art-card one"><span class="dots"><i></i><i></i><i></i></span><b>Brand positioning</b><small>品牌定位</small></div><div class="art-card two"><span class="dots"><i></i><i></i><i></i></span><b>Great job! ✨</b><small>You're making progress.</small></div><div class="art-bubble">A+</div></div></section><div class="stats-grid"><div class="stat"><div><small>连续学习</small><strong>${streak()} <span class="tiny">天</span></strong></div><div class="iconbox">${icon('flame','lg')}</div></div><div class="stat"><div><small title="已学习：标记为学习中或已掌握；与已学习词汇测验来源一致">已学习词汇</small><strong>${seenCount()} <span class="tiny">个</span></strong></div><div class="iconbox">${icon('check','lg')}</div></div><div class="stat"><div><small>待复习</small><strong>${dueCount()} <span class="tiny">个</span></strong></div><div class="iconbox">${icon('repeat','lg')}</div></div></div><div class="section-top"><div><h2 class="section-title">本次新增 · Marketing 高频重点</h2><p class="section-desc">专业中文译法，区分容易混淆的 Marketing 术语</p></div><button class="link-btn" data-action="showAdded">查看新增全部词汇 ${icon('right','sm')}</button></div><div class="focus-row">${['MKT001','MKT005','MKT009'].map(id=>{let w=byId(id);return `<button class="focus-card" data-detail="${h(id)}"><span class="tag lav">专业译法</span><b>${h(w.term)}</b><small>${h(w.zh)}</small><span class="focus-more">解释与辨析 ${icon('right','sm')}</span></button>`}).join('')}</div><div class="section-top"><div><h2 class="section-title">探索专业领域</h2><p class="section-desc">按照真实 Marketing 业务场景，系统提升表达能力</p></div><button class="link-btn" data-nav="words">全部词库 ${icon('right','sm')}</button></div><div class="module-grid">${DB.modules.map((m,i)=>`<button class="module-card" data-module="${m.id}">${moduleBadge(m.id)}<b>${h(m.title)}</b><small>${DB.words.filter(w=>w.moduleId===m.id).length} 个专业词汇 · ${i<8?'专业':'进阶'}专题</small></button>`).join('')}</div><div class="two-column"><div class="surface spotlight"><div><span class="tag lav">${icon('star','sm')} 今日精选词汇</span><div class="spotlight-title">${h(feature.term)}</div><p class="spotlight-desc">${h(feature.zh)} · ${h(feature.definition)}</p></div><div class="spotlight-actions"><button class="primary" data-detail="${h(feature.id)}">了解用法 ${icon('right','sm')}</button><button class="secondary" data-play-word="${h(feature.id)}" aria-label="播放${h(feature.term)}">${icon('sound','sm')} 听发音</button><button class="secondary fav-action ${featureFav?'active':''}" data-fav="${h(feature.id)}" aria-pressed="${featureFav}">${icon('heart','sm')} ${featureFav?'已收藏':'收藏'}</button></div></div><div class="surface"><h3 style="margin:0 0 9px;font-size:17px">今天练点什么？</h3><div class="task-list"><button class="task-item" data-action="continue"><span class="task-dot" style="background:#f0edff;color:var(--violet)">${icon('layers')}</span><span><b>翻转记忆卡</b><small>新词学习 · 3–5 分钟</small></span>${icon('right','sm arrow')}</button><button class="task-item" data-nav="scene"><span class="task-dot" style="background:#e2f8ef;color:#22a27c">${icon('chat')}</span><span><b>职场情景模拟</b><small>练习会议 / 品牌 / 沟通</small></span>${icon('right','sm arrow')}</button><button class="task-item" data-nav="quiz"><span class="task-dot" style="background:#fff1e5;color:#c37a4c">${icon('spark')}</span><span><b>自选词库测一测</b><small>检测记忆 · 即时反馈</small></span>${icon('right','sm arrow')}</button></div></div></div><section class="home-info-footer" aria-label="本机进度保存说明"><div class="access-banner"><div class="access-icon">☁</div><div class="access-copy"><b>${STORAGE_READY?'本机自动保存已开启':'当前环境的保存能力受限'}</b><small>学习足迹自动保存在本机；网站新版发布后，下次打开会检查更新。跨设备请用备份或迁移码，暂无云登录。</small></div><div class="access-actions"><button class="secondary" data-nav="me">备份 / 迁移</button><button class="secondary" data-action="bookmarkGuide">保存网页入口</button></div></div></section>`}
+function studyView(){if(!state.deck.length)startDeck();let id=state.deck[state.deckIndex],w=byId(id);if(!w)return `<div class="empty">没有可学习的词汇</div>`;let info=entry(id),level=info.level||0,daily=learningSummary(),groupDone=state.deck.filter(wid=>STORE.words[wid]?.lastDay===today()).length;return `<div class="page-head"><div><span class="tag lav">${icon('layers','sm')} 每日学习</span><h1>翻一张，记住一个。</h1><p>点击卡片翻面 · 左右滑动切换 · 认识与否即时记录</p></div><button class="link-btn" data-action="reshuffle">换一组 ${icon('repeat','sm')}</button></div><div class="study-layout"><div class="study-card-container"><div class="save-hint">${STORAGE_READY?'✓ 学习进度自动保存于当前浏览器':'⚠ 当前环境不支持可靠保存，请使用 Safari / Chrome 正式网页'}</div><div class="study-topline"><small>今日已学 <strong>${daily.done} / ${daily.goal}</strong></small><small>累计已学 <strong>${daily.seen}</strong> 个${daily.done>=daily.goal?' · 达标后可继续学习':''}</small></div><div class="bar" role="progressbar" aria-label="今日学习进度" aria-valuenow="${Math.min(daily.done,daily.goal)}" aria-valuemin="0" aria-valuemax="${daily.goal}"><span style="width:${daily.pct}%"></span></div><div class="deck-position"><span>本轮第 ${state.deckIndex+1} 张 · 本轮今日完成 ${groupDone} 个词</span><span>${h(modById(w.moduleId)?.title)}</span></div><div class="tapcard ${state.flipped?'is-flipped':''}" data-action="flip" tabindex="0" role="button" aria-label="翻转记忆卡 ${h(w.term)}"><div class="flashcard"><div class="flash-face front"><span class="flash-label">ENGLISH · 今日已学 ${daily.done} / ${daily.goal}</span><div class="flash-term">${h(w.term)}</div>${ipaView(w)}<button class="listen" data-play-word="${h(w.id)}">${icon('sound','sm')} 听发音 · ${Number(STORE.rate)===1?'1.0':STORE.rate}×</button><div class="flash-footer">${icon('rotate','sm')} 点击任意空白处翻转卡片</div></div><div class="flash-face back"><span class="flash-label">CHINESE · 核心释义</span><div class="flash-zh">${h(w.zh)}</div><p class="flash-meaning">${h(w.definition)}</p>${phraseView(w)}<div class="flash-footer">${icon('rotate','sm')} 再次点击返回英文</div></div></div></div><div class="flash-actions"><button class="dontknow" data-rate="0">${icon('repeat')} 还不熟悉</button><button class="iknow" data-rate="1">${icon('check')} 我记住了</button></div><div class="flash-tools"><button class="textbtn" data-action="prev" ${state.deckIndex===0?'disabled':''}>${icon('left','sm')} 上一张</button><button class="textbtn" data-detail="${h(id)}">完整释义 · 对话 · 练习 ${icon('right','sm')}</button><button class="textbtn" data-action="next" ${state.deckIndex===state.deck.length-1?'disabled':''}>下一张 ${icon('right','sm')}</button></div></div><div class="study-side"><div class="surface"><span class="tag lav">${icon('spark','sm')} 学习建议</span><h3>记住用法，比死记翻译更重要。</h3><div class="side-detail"><div><small>职场例句 · 中英对照</small><b>${h(w.example)}</b><p class="example-side-zh">${h(w.exampleZh||'')}</p></div>${phraseView(w)}<button class="listen" data-say="${h(w.example)}">${icon('sound','sm')} 朗读例句</button></div></div><div class="tipbox">✨ 每次点击“我记住了”，系统会安排更晚的复习时间；不熟悉的单词会更早再次出现。</div></div></div>`}
+function wordScore(w,q){let t=w.term.toLowerCase(),z=w.zh.toLowerCase(),a=(w.aliases||[]).join(" ").toLowerCase();return t===q?0:t.startsWith(q)?1:z===q?2:t.includes(q)?3:a.includes(q)?4:z.includes(q)?5:6}
+function wordsInScope(){
+ const q=state.query.trim().toLowerCase();
+ return DB.words.filter(w=>(state.module==='all'||state.module===w.moduleId)&&
+  (!q||[w.term,w.zh,w.definition,w.example,w.collocation,w.module,(w.aliases||[]).join(' '),w.usage||'',w.distinction||''].some(x=>String(x||'').toLowerCase().includes(q))));
+}
+function hasWordStatus(w,status){
+ const item=STORE.words[w.id]||{};
+ switch(status){
+  case 'new':return !item.seen&&(item.level||0)<3;
+  case 'learning':return !!item.seen&&(item.level||0)<3;
+  case 'mastered':return (item.level||0)>=3;
+  case 'favorites':return !!item.favorite;
+  case 'due':return !!item.seen&&item.due<=Date.now();
+  case 'added':return w.new;
+  default:return true;
+ }
+}
+function filteredWords(){
+ const q=state.query.trim().toLowerCase();
+ return wordsInScope().filter(w=>hasWordStatus(w,state.filter))
+  .sort((a,b)=>q?wordScore(a,q)-wordScore(b,q):0);
+}
+function wordsView(){
+ let list=filteredWords(),visible=list.slice(0,state.visible),scope=wordsInScope();
+ let buckets=[
+  {key:'all',label:'全部',style:'all-status',icon:'layers'},
+  {key:'new',label:'待学习',style:'not-yet',icon:'foot'},
+  {key:'learning',label:'学习中',style:'in-progress',icon:'foot'},
+  {key:'mastered',label:'已掌握',style:'mastered',icon:'check'}
+ ];
+ return `<div class="page-head"><div><span class="tag lav">${icon('book','sm')} VOCABULARY LIBRARY</span><h1>你的 Marketing 专业词库</h1><p>${DB.modules.length} 大主题 · ${DB.words.length} 个 Marketing 专业词汇 · 搜索、收藏、朗读随手可用</p></div><button class="link-btn" data-action="listToDeck">用这些词学习 ${icon('right','sm')}</button></div><div class="word-tools"><label class="searchbox">${icon('search')}<input id="wordSearch" type="search" inputmode="search" placeholder="搜索英文 / 中文 / 业务场景" value="${h(state.query)}" autocomplete="off" aria-label="搜索词库"></label><select id="wordFilter" class="control" aria-label="筛选词汇"><option value="all" ${state.filter==='all'?'selected':''}>全部词汇</option><option value="added" ${state.filter==='added'?'selected':''}>V6 新增词汇</option><option value="new" ${state.filter==='new'?'selected':''}>未学词汇</option><option value="learning" ${state.filter==='learning'?'selected':''}>学习中</option><option value="due" ${state.filter==='due'?'selected':''}>待复习</option><option value="mastered" ${state.filter==='mastered'?'selected':''}>已掌握</option><option value="favorites" ${state.filter==='favorites'?'selected':''}>我的收藏</option></select></div><div class="study-legend" id="wordStatusFilters" role="group" aria-label="按学习足迹筛选词汇">
+${buckets.map(item=>`<button type="button" class="learn-tag legend-filter ${item.style} ${state.filter===item.key?'is-active':''}" data-status-filter="${item.key}" aria-pressed="${state.filter===item.key}" aria-label="${item.label}，${scope.filter(w=>hasWordStatus(w,item.key)).length} 个词汇，点击筛选">${icon(item.icon,'sm')}<span>${item.label}</span><b>${scope.filter(w=>hasWordStatus(w,item.key)).length}</b></button>`).join('')}
+</div><div class="status-filter-help">← 左右滑动选择学习状态 · 可与专业模块组合 →</div><div class="chips">${[['all','全部专业模块'],...DB.modules.map(m=>[m.id,m.title])].map(([id,title])=>`<button data-module-filter="${id}" class="chip ${state.module===id?'active':''}">${h(title)}</button>`).join('')}</div><div id="wordResults"><div class="filter-row"><small>共 <b>${list.length}</b> 个匹配词汇</small><small>点击词条查看完整知识点</small></div>${list.length?`<div class="word-list">${visible.map(w=>{let e=STORE.words[w.id]||{};return `<article class="word-row"><button class="word-main" data-detail="${h(w.id)}"><b>${h(w.term)}</b>${w.new?`<span class="tag green word-added-tag">NEW</span>`:""}<p>${h(w.zh)}</p><small class="word-explain">${h(w.definition)}</small><span class="learn-tag ${e.level>=3?'mastered':e.seen?'in-progress':'not-yet'}">${icon(e.level>=3?'check':'foot','sm')} ${e.level>=3?'已掌握':e.seen?'学习中':'待学习'}</span><small class="word-module-name">${h(modById(w.moduleId)?.title)}</small></button><div class="word-side"><button class="iconbtn" data-play-word="${h(w.id)}" aria-label="播放${h(w.term)}">${icon('sound','sm')}</button><button class="iconbtn ${e.favorite?'faved':''}" aria-pressed="${!!e.favorite}" data-fav="${h(w.id)}" aria-label="${e.favorite?'取消收藏':'收藏'}${h(w.term)}">${icon('heart','sm')}</button></div></article>`}).join('')}</div>${state.visible<list.length?`<button class="load-more" data-action="more">加载更多 · 已显示 ${visible.length} / ${list.length}</button>`:''}`:`<div class="empty">${icon('search','lg')}<b>暂时没有匹配的词汇</b><p>换个关键词或筛选条件再试试</p><button class="secondary" data-action="clearFilters">清除筛选</button></div>`}</div>`}
+function sceneView(){if(state.sceneId){let sc=DB.scenarios.find(x=>x.id===state.sceneId);if(sc)return sceneDetailView(sc)}return `<div class="page-head"><div><span class="tag green">${icon('chat','sm')} REAL-WORLD DIALOGUES</span><h1>把英语用在真实职场里。</h1><p>${DB.scenarios.length} 组高频 Marketing 场景 · 双语对照 · 情景角色扮演</p></div></div><div class="scene-grid">${DB.scenarios.map((s,i)=>{let m=modById(s.moduleId);return `<button class="scene-card" data-scene="${h(s.id)}">${moduleBadge(s.moduleId)}<span class="tag neutral">${h(m?.title)}</span><h3>${h(s.title)}</h3><p>${h(s.titleEn)}</p><div class="scene-foot"><span>${s.lines.length} 句对话 · 中英对照</span><span style="color:var(--violet)">开始演练 ${icon('right','sm')}</span></div></button>`}).join('')}</div>`}
+
+function sceneRoles(s){return [...new Set(s.lines.map(l=>l.role))]}
+function startRoleplay(s){
+ speechStop();stopRoleRecognition();
+ state.roleplay=true;state.roleplayRole=sceneRoles(s)[1]||sceneRoles(s)[0];
+ state.roleplayStep=0;state.roleInput='';state.roleFeedback=null;state.roleReference=false;state.roleplayAnswers={};
+}
+function stopRoleRecognition(){if(roleRecognizer){try{roleRecognizer.abort()}catch(e){}roleRecognizer=null}state.roleListening=false}
+function roleSimilarity(input,ref){
+ const key=t=>new Set(String(t).toLowerCase().replace(/[^a-z\s'-]/g,' ').split(/\s+/).filter(x=>x.length>2&&!['the','and','for','you','our','that','with','this','are','have','can','will','would','could','should','please','into','from'].includes(x)));
+ const expected=key(ref),actual=key(input),matches=[...expected].filter(w=>actual.has(w));
+ return {matches,expected:[...expected],pct:expected.size?Math.round(100*matches.length/expected.size):0};
+}
+function checkRoleAnswer(){
+ const s=DB.scenarios.find(x=>x.id===state.sceneId),line=s?.lines[state.roleplayStep];
+ if(!line)return;
+ const field=document.getElementById('roleAnswer');state.roleInput=(field?.value||state.roleInput||'').trim();
+ if(!state.roleInput){toast('请先尝试说出或输入一句英文，也可以查看参考表达');field?.focus();return}
+ state.roleFeedback=roleSimilarity(state.roleInput,line.en);state.roleReference=true;
+ state.roleplayAnswers[state.roleplayStep]=state.roleInput;render();
+}
+function advanceRoleplay(){
+ const s=DB.scenarios.find(x=>x.id===state.sceneId);if(!s)return;
+ const line=s.lines[state.roleplayStep];if(!line)return;
+ if(line.role===state.roleplayRole&&!state.roleFeedback&&!state.roleReference){toast('先练习表达，或点“查看参考”后继续');return}
+ stopRoleRecognition();state.roleplayStep++;state.roleInput='';state.roleFeedback=null;state.roleReference=false;
+ if(state.roleplayStep===s.lines.length){
+  STORE.roleplays??={};const key=s.id+'-'+today();
+  if(!STORE.roleplays[key]){STORE.roleplays[key]={role:state.roleplayRole,doneAt:new Date().toISOString()};STORE.xp+=5;save();toast('完成角色扮演！+5 XP')}
+ }
+ render();document.getElementById('roleplayStage')?.scrollIntoView({behavior:'smooth',block:'start'});
+}
+function roleplayView(s){
+ const roles=sceneRoles(s),i=state.roleplayStep,line=s.lines[i];
+ const history=s.lines.slice(0,i).map((l,j)=>`<div class="role-history-line ${l.role===state.roleplayRole?'mine':''}"><b>${h(l.role)}</b><span>${h(state.roleplayAnswers[j]||l.en)}</span></div>`).join('');
+ const ended=i>=s.lines.length;
+ return `<div class="surface roleplay-box" id="roleplayStage"><div class="role-head"><div><span class="tag lav">${icon('mic','sm')} 互动角色扮演</span><h3>选择你要扮演的角色</h3></div><span class="tiny muted">真实职场表达 · 可用语音或文字练习</span></div><div class="role-tabs">${roles.map(r=>`<button class="role-choice ${r===state.roleplayRole?'active':''}" data-role-select="${h(r)}" aria-pressed="${r===state.roleplayRole}">${h(r)}</button>`).join('')}</div><div class="role-progress"><span>${ended?'已完成全部对话':`对话第 ${i+1} / ${s.lines.length} 句`}</span><div class="bar"><span style="width:${Math.round(100*i/s.lines.length)}%"></span></div></div>${history?`<details class="role-history"><summary>回顾已完成的 ${i} 句对话</summary>${history}</details>`:''}
+ ${ended?`<div class="role-done"><div class="role-done-icon">✓</div><h2>本轮角色扮演完成！</h2><p>你完成了 ${s.lines.length} 句双向交流，练习记录已保存到本机。</p><button class="primary" data-action="roleRestart">再练一轮 ${icon('repeat','sm')}</button></div>`:line.role===state.roleplayRole?`
+ <div class="role-your-turn"><span class="turn-flag">🎙 轮到你 · ${h(line.role)}</span><h3>试着用英语接话</h3><div class="role-hint">中文提示：${h(line.zh||'结合上下文，用专业英语回答')}</div><label class="role-label" for="roleAnswer">你的英文回答（可输入或尝试语音识别）</label><textarea id="roleAnswer" class="role-answer" rows="3" spellcheck="true" placeholder="Type your response in English…">${h(state.roleInput)}</textarea><div class="role-buttons" role="group" aria-label="回答操作"><button type="button" class="secondary role-mic-btn" data-action="roleMic" aria-label="语音输入，浏览器支持时可使用">${icon('mic','sm')} <span class="role-mic-label">${state.roleListening?'正在聆听…':'语音输入'}</span></button><button type="button" class="primary role-check-btn" data-action="roleCheck"><span>对照我的表达</span> ${icon('check','sm')}</button></div><p class="role-voice-note">语音识别因浏览器而异，也可以直接输入英文。</p><button class="role-link" data-action="roleReference">${state.roleReference?'收起':'查看'}参考表达</button>${state.roleReference?`<div class="role-reference"><b>参考表达（不是唯一正确答案）</b><p>${h(line.en)}</p><button class="bubble-action" data-say="${h(line.en)}">${icon('sound','sm')} 听参考发音</button>${state.roleFeedback?`<div class="role-feedback">${state.roleFeedback.pct>=60?'你的回答与参考句有较多相同关键词。':'你的表达已记录，试着比较两种说法。'} <small>参考词汇重合度 ${state.roleFeedback.pct}%（仅文字关键词对比，不代表语法或口语评分）</small></div>`:''}</div>`:''}${state.roleReference?`<button class="secondary role-next" data-action="roleNext">继续下一句 ${icon('right','sm')}</button>`:''}</div>`:
+ `<div class="role-other-turn"><span class="turn-flag partner">💬 ${h(line.role)} · 对方发言</span><p class="role-other-english">${h(line.en)}</p>${state.sceneZh?`<p class="translation">${h(line.zh)}</p>`:''}<button class="secondary" data-say="${h(line.en)}">${icon('sound','sm')} 听这一句</button><button class="primary" data-action="roleNext">继续对话 ${icon('right','sm')}</button></div>`}</div>`;
+}
+function startRoleMic(){
+ const Rec=window.SpeechRecognition||window.webkitSpeechRecognition;
+ if(!Rec){toast('当前浏览器不提供语音转写；可直接输入英文，角色扮演仍可完整进行');document.getElementById('roleAnswer')?.focus();return}
+ if(!window.isSecureContext){toast('语音识别需要 HTTPS 安全页面；可直接输入英文');return}
+ stopRoleRecognition();
+ try{
+  roleRecognizer=new Rec();const rec=roleRecognizer;
+  rec.lang='en-US';rec.interimResults=false;rec.continuous=false;
+  const atStep=state.roleplayStep,atScene=state.sceneId;
+  rec.onresult=e=>{if(state.sceneId!==atScene||state.roleplayStep!==atStep)return;const heard=[...e.results].map(r=>r[0]?.transcript||'').join(' ').trim();const field=document.getElementById('roleAnswer');state.roleInput=(field?.value?field.value+' ':'')+heard;if(field)field.value=state.roleInput;toast('已转写，可修改后点击“对照我的表达”')};
+  rec.onerror=e=>{if(e.error!=='aborted')toast(e.error==='not-allowed'?'麦克风权限未开启，可改用键盘输入':'语音转写失败，可改用键盘输入');state.roleListening=false;roleRecognizer=null;updateRoleMicButton()};
+  rec.onend=()=>{state.roleListening=false;roleRecognizer=null;updateRoleMicButton()};
+  state.roleListening=true;rec.start();updateRoleMicButton();
+ }catch(e){state.roleListening=false;roleRecognizer=null;toast('无法启用语音转写，请输入英文回答')}
+}
+function updateRoleMicButton(){const b=document.querySelector('[data-action="roleMic"]');if(!b)return;const label=b.querySelector('.role-mic-label');if(label)label.textContent=state.roleListening?'正在聆听…':'语音输入';b.setAttribute('aria-pressed',String(state.roleListening))}
+
+function sceneDetailView(s){
+ const sceneActive=scenePlayer.id===s.id,playing=sceneActive&&scenePlayer.status==='playing',paused=sceneActive&&scenePlayer.status==='paused',finished=sceneActive&&scenePlayer.status==='finished';
+ const playLabel=playing?'暂停对话':paused?'继续播放':finished?'重新播放':'播放完整对话';
+ return `<div class="page-head"><div><button class="textbtn" style="padding-left:0" data-action="backScenes">${icon('left','sm')} 返回场景列表</button><h1 style="margin-top:7px">${h(s.title)}</h1><p>${h(s.titleEn)} · ${h(modById(s.moduleId)?.title)}</p></div></div>
+ <div class="scene-hero"><span class="tag lav">${icon('chat','sm')} 双语职场对话</span><h2>${h(s.title)}</h2><p>先听一遍，再尝试用专业英语完成角色对话</p>
+ <div class="scene-controls"><button class="primary scene-play-main ${playing?'is-playing':''}" data-play-scene="${h(s.id)}" aria-pressed="${playing}">${icon(playing?'pause':'play','sm')} <span data-play-label>${playLabel}</span></button><button class="secondary scene-stop" data-action="stopScene" ${playing||paused?'':'disabled'}>${icon('stop','sm')} 停止</button><button class="secondary ${state.roleplay?'role-active':''}" data-action="toggleRoleplay">${icon('mic','sm')} ${state.roleplay?'退出角色扮演':'开始角色扮演'}</button><button class="secondary" data-action="toggleSceneZh">${state.sceneZh?'隐藏':'显示'}中文</button></div>
+ <p class="scene-play-status" data-scene-progress aria-live="polite">${playing?`正在播放 · 第 ${scenePlayer.index+1}/${s.lines.length} 句`:paused?`已暂停 · 点击继续，将从第 ${scenePlayer.index+1} 句重新播放`:finished?'✓ 对话播放完成':'可随时播放、暂停和继续'}</p></div>
+ ${state.roleplay?roleplayView(s):`<div class="surface"><div class="conversation">${s.lines.map((l,i)=>`<div data-scene-line="${i}" class="bubble-wrap ${i%2?'right':''} ${playing&&scenePlayer.index===i?'current-line':''}"><div class="bubble-role">${h(l.role)} · ${i+1}/${s.lines.length}</div><div class="bubble"><p>${h(l.en)}</p>${state.sceneZh?`<p class="translation">${h(l.zh)}</p>`:''}</div><button class="bubble-action" data-say="${h(l.en)}">${icon('sound','sm')} 播放这一句</button></div>`).join('')}</div></div>`}
+ <div class="surface" style="margin-top:16px"><span class="tag peach">${icon('spark','sm')} 场景练一练</span><h3>${h(s.quiz)}</h3><p class="scene-quiz-zh">${h(s.quizZh||'')}</p><p style="color:var(--muted);font-size:13px">尝试用英语回答，再核对参考答案。</p><button class="secondary" data-action="sceneAnswer">${state.sceneAnswer?'隐藏参考答案':'查看参考答案'}</button>${state.sceneAnswer?`<div class="quote"><strong>${h(s.answer)}</strong><div class="example-side-zh">中文：${h(s.answerZh||'')}</div></div>`:''}</div>`;
+}
+
+function shuffleQuizWords(words){const copy=[...words];for(let i=copy.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[copy[i],copy[j]]=[copy[j],copy[i]]}return copy}
+function learnedQuizWords(){return DB.words.filter(w=>{const e=STORE.words[w.id];return e&&(e.seen===true||Number(e.level)>=1)})}
+function quizSourcePicker(){
+ const learned=learnedQuizWords().length,source=state.quizSource;
+ const currentN=Math.min(10,source==='all'?DB.words.length:learned);
+ return `<section class="quiz-source-picker" aria-label="测验词汇范围选择" data-release="1.0.1">
+  <div class="quiz-source-title"><div><span class="quiz-release-tag">V1.0.1 · 测验范围选择</span><h2>选择出题范围</h2></div><small>选择后立即生成一套新题</small></div>
+  <div class="quiz-source-options" role="group" aria-label="测验词汇来源">
+   <button type="button" class="quiz-source-option ${source==='all'?'active':''}" aria-pressed="${source==='all'}" data-quiz-source="all"><span class="quiz-choice-symbol">${icon('layers','sm')}</span><span class="quiz-choice-main"><b>全部词汇</b><small>${DB.words.length} 个词汇</small></span><span class="quiz-choice-check">${source==='all'?'✓':''}</span></button>
+   <button type="button" class="quiz-source-option ${source==='learned'?'active':''}" aria-pressed="${source==='learned'}" data-quiz-source="learned"><span class="quiz-choice-symbol">${icon('check','sm')}</span><span class="quiz-choice-main"><b>已学习词汇</b><small>${learned} 个词汇</small></span><span class="quiz-choice-check">${source==='learned'?'✓':''}</span></button>
+  </div>
+  <p class="quiz-source-hint">${source==='learned'?`当前已学 ${learned} 个，本轮 ${currentN} 题；不足 10 个就按实际数量测试。`:`当前使用全词库随机出题，本轮 ${currentN} 题。`}</p>
+ </section>`;
+}
+function makeQuiz(items){
+ const source=Array.isArray(items)?items:(state.quizSource==='learned'?learnedQuizWords():DB.words);
+ const pool=shuffleQuizWords([...new Map(source.map(w=>[w.id,w])).values()]).slice(0,10);
+ const arr=pool.map(w=>{
+  // Distractors may be from the whole glossary, but only the selected source becomes questions.
+  const seenMeanings=new Set([w.zh]);
+  const choices=[];
+  for(const other of [...shuffleQuizWords(DB.words.filter(x=>x.moduleId===w.moduleId&&x.id!==w.id)),...shuffleQuizWords(DB.words.filter(x=>x.moduleId!==w.moduleId))]){
+   if(seenMeanings.has(other.zh))continue;
+   choices.push(other);seenMeanings.add(other.zh);
+   if(choices.length===3)break;
+  }
+  return {wordId:w.id,options:shuffleQuizWords([w,...choices]).map(x=>({id:x.id,zh:x.zh})),chosen:null}
+ });
+ return {items:arr,index:0,done:false,credited:false};
+}
+function startQuiz(words){state.quiz=makeQuiz(words)}
+function quizView(){if(!state.quiz)startQuiz();const q=state.quiz,idx=q.index,total=q.items.length;
+ if(total===0){return `<div class="quiz-shell"><button class="quiz-return" data-action="backFromQuiz">${icon('left','sm')} 返回原页面</button>${quizSourcePicker()}<div class="quiz-empty"><span class="tag lav">${icon('spark','sm')} 暂无已学习词汇</span><h2>先学一个词，再来测一测</h2><p>“已学习词汇”包括学习中和已掌握的词。请在闪卡上点击“我记住了”或“还不熟悉”，系统才会计入已学。</p><div class="quiz-empty-actions"><button class="primary" data-action="continue">去学习 ${icon('right','sm')}</button><button class="secondary" data-quiz-source="all">改用全部词汇</button></div></div></div>`}
+ if(q.done){let correct=q.items.filter(i=>i.chosen===i.wordId).length, pct=Math.round(100*correct/total),wrong=q.items.filter(i=>i.chosen!==i.wordId);return `<div class="quiz-shell"><button class="quiz-return" data-action="backFromQuiz">${icon('left','sm')} 返回原页面</button>${quizSourcePicker()}<div class="quiz-box quiz-score"><span class="tag lav">${icon('trophy','sm')} QUIZ COMPLETE</span><h1>完成一轮挑战！</h1><div class="score-ring" style="--pct:${pct}%"><div class="score-ring-inner">${pct}%</div></div><h2>${correct} / ${total} 题正确</h2><p class="muted">${correct===total?'全部答对，太厉害啦！':wrong.length+' 题还需要巩固，建议复习错题。'}</p><div style="display:flex;gap:10px;justify-content:center;margin-top:25px;flex-wrap:wrap"><button class="primary" data-action="newQuiz">再来一组 ${icon('repeat','sm')}</button>${wrong.length?`<button class="secondary" data-action="reviewWrong">复习 ${wrong.length} 个错题</button>`:''}</div>${wrong.length?`<div style="text-align:left;margin-top:29px"><h3>需要再看一眼</h3>${wrong.map(x=>{let w=byId(x.wordId);return `<button class="task-item" data-detail="${h(w.id)}"><span>${h(w.term)}<small style="display:block">${h(w.zh)}</small></span>${icon('right','sm arrow')}</button>`}).join('')}</div>`:''}</div></div>`};let item=q.items[idx],word=byId(item.wordId),chosen=item.chosen!==null,correct=chosen&&item.chosen===word.id;return `<div class="quiz-shell"><button class="quiz-return" data-action="backFromQuiz">${icon('left','sm')} 返回原页面</button>${quizSourcePicker()}<div class="page-head"><div><span class="tag lav">${icon('spark','sm')} DAILY CHALLENGE</span><h1>${total} 题快速自测</h1><p>即时反馈 · 加深记忆 · 练习更有方向</p></div><button class="link-btn" data-action="newQuiz">换一套 ${icon('repeat','sm')}</button></div><div class="quiz-head"><span class="tiny muted">第 ${idx+1} / ${total} 题</span><span class="tiny muted">答对 ${q.items.filter(i=>i.chosen===i.wordId).length} 题</span></div><div class="bar"><span style="width:${Math.round(100*idx/total)}%"></span></div><div class="quiz-box"><span class="quiz-number">CHOOSE THE CORRECT MEANING</span><h2 class="quiz-term">${h(word.term)}</h2><button class="listen" data-play-word="${h(word.id)}">${icon('sound','sm')} 听单词发音</button><div class="quiz-options">${item.options.map((op,i)=>`<button data-answer="${h(op.id)}" ${chosen?'disabled':''} class="quiz-option ${chosen?(op.id===word.id?'correct':op.id===item.chosen?'wrong':''):''}"><span class="letter">${'ABCD'[i]}</span><span>${h(op.zh)}</span>${chosen&&op.id===word.id?icon('check','sm'):''}</button>`).join('')}</div>${chosen?`<div class="quiz-explain"><b>${correct?'回答正确，继续保持！':'差一点！正确答案是 '+h(word.zh)}</b><br>${h(word.definition)}<br><span class="tiny">例句：${h(word.example)}</span><br><span class="tiny example-side-zh">中文：${h(word.exampleZh||'')}</span></div>`:''}<div class="quiz-bottom"><button class="textbtn" data-detail="${h(word.id)}">完整词条 ${icon('right','sm')}</button><button class="primary" data-action="nextQuestion" ${chosen?'':'disabled'}>${idx===total-1?'查看成绩':'下一题'} ${icon('right','sm')}</button></div></div></div>`}
+function meView(){let daily=learningSummary(),v=daily.pct;return `<div class="page-head"><div><span class="tag lav">${icon('user','sm')} MY LEARNING</span><h1>每一点积累，都值得看见。</h1></div></div><div class="me-grid"><div><div class="progress-hero"><span class="tag lav">${icon('trophy','sm')} 我的成长轨迹</span><h2>Keep growing. ✨</h2><p>把专业表达练成肌肉记忆。</p><div class="progress-numbers"><span><b>${STORE.xp}</b><small>累计 XP</small></span><span><b>${daily.seen}</b><small>累计已学词汇</small></span><span><b>${favCount()}</b><small>收藏词汇</small></span></div></div><div class="surface" style="margin-top:15px"><div class="section-top" style="margin:0 0 10px"><h3 style="margin:0">今日学习进度</h3><b>${daily.done} / ${daily.goal}</b></div><div class="bar"><span style="width:${v}%"></span></div><p class="muted tiny">${daily.done>=daily.goal?'今日目标达成，明天继续加油！':'今日目标还差 '+(daily.goal-daily.done)+' 个词汇。'}</p><button class="secondary" data-action="continue">继续学习</button></div></div><div class="surface"><h3 style="margin:0 0 7px">学习偏好</h3><div class="setting-row"><span><b>夜间模式</b><br><small>适合晚间学习</small></span><button class="secondary" data-action="dark">${icon('moon','sm')} ${STORE.dark?'已开启':'开启'}</button></div><div class="setting-row"><span><b>英语朗读速度</b><br><small>调整单词与句子播放速度</small></span><select id="voiceRate" class="control" aria-label="语速">${[.75,.9,1,1.15].map(v=>`<option ${Number(STORE.rate)===v?'selected':''} value="${v}">${v===1?'1.0':v}×</option>`).join('')}</select></div><div class="setting-row"><span><b>每日学习目标</b><br><small>掌握一点，进步一点</small></span><select id="dailyGoal" class="control" aria-label="每日目标">${[5,8,10,15,20].map(v=>`<option ${Number(STORE.goal)===v?'selected':''} value="${v}">${v} 个</option>`).join('')}</select></div>
+<div class="setting-row"><span><b>手动保存</b><br><small>立即把进度写入本设备浏览器</small></span><button class="secondary" data-action="saveNow">${icon('check','sm')} 立即保存</button></div>
+<div class="setting-row"><span><b>备份与恢复</b><br><small>下载 JSON 文件，也可以从旧版 V5/V6 导入</small></span><div class="setting-buttons"><button class="secondary" data-action="export">${icon('download','sm')} 备份</button><button class="secondary" data-action="importFile">导入</button></div></div>
+<div class="setting-row"><span><b>换手机 / 登录迁移码</b><br><small>生成可复制的迁移码，在另一台设备恢复全部进度</small></span><button class="secondary" data-action="syncModal">迁移码 →</button></div>
+
+<div class="setting-row"><span><b>保存知识库入口</b><br><small>复制网页地址、加入 Safari 书签或主屏幕</small></span><button class="secondary" data-action="bookmarkGuide">查看方法 →</button></div>
+<input type="file" accept="application/json,.json" id="progressUpload" class="sr-only" aria-label="选择学习记录 JSON 备份"><div class="setting-row"><span><b>重置学习进度</b><br><small>会清空收藏、进度和 XP</small></span><button class="btn-danger" data-action="reset">清空</button></div><p class="tiny muted">发音说明：Alpha 1 示例词汇的音标待核验。英美播放依赖本机语音包。手机号验证码登录及真正的自动跨设备同步需要 HTTPS 服务端，目前未接入。</p></div></div><section class="me-bottom-info" aria-label="数据保存与更新">
+ <div class="me-bottom-head"><span class="version-badge">Marketing Fluent V1.0.1</span><h3>数据保存与版本更新</h3></div>
+ <p class="saved-note" id="hrSaveStatus">${STORAGE_READY?'✓ 学习记录已启用本机自动保存':'⚠ 本机保存能力可能受限'}${STORE.savedAt?' · 最近保存：'+h(new Date(STORE.savedAt).toLocaleString('zh-CN')):''}</p>
+ <p class="me-bottom-explain">你的学习记录保存在当前设备与当前 App 中。更换设备请使用上方「备份与恢复」或迁移码；未启用云端登录与跨设备自动同步。</p>
+ <div class="version-update-line"><small id="hrVersionStatus" aria-live="polite">${typeof window.marketingFluentGetVersionStatus==='function'?h(window.marketingFluentGetVersionStatus()):'当前 V1.0.1 · 联网后可以检查更新'}</small></div>
+ <div class="update-buttons"><button type="button" class="secondary" data-action="checkVersion">检查新版本</button><button type="button" class="secondary update-strong" data-action="forceUpdate">↻ 手动刷新最新版</button></div>
+ <details class="version-details"><summary>为什么主屏幕 App 可能没有同步更新？</summary><p>主屏幕 App 与 Safari 的缓存及本地记录可能互相独立；联网更新通常在重新打开 App 后触发。如果仍看到旧版，先导出学习记录，再点击「手动刷新最新版」。请不要为更新而直接清除网站数据或删除主屏幕入口。</p></details>
+ </section>`}
+function detailView(){if(!state.detailId)return '';let w=byId(state.detailId);if(!w)return '';let e=STORE.words[w.id]||{};let tabs=[['meaning','核心释义'],['dialogue','职场对话'],['expand','拓展延伸'],['practice','练一练']];let alt=DB.words.filter(x=>x.moduleId===w.moduleId&&x.id!==w.id&&x.zh!==w.zh).slice(0,3),choices=[w,...alt].sort((a,b)=>hashText(a.id+w.id)%1000-hashText(b.id+w.id)%1000);let body={meaning:`<span class="tag green">专业解释</span><h3>在 Marketing 场景中是什么意思？</h3><p>${h(w.definition)}</p>${w.usage?`<div class="usage-note"><b>Marketing 实际用法</b><div>${h(w.usage)}</div></div>`:''}${w.distinction?`<div class="distinguish-note"><b>容易混淆 · 专业辨析</b><div>${h(w.distinction)}</div></div>`:''}<h3>常用短语 · 中英对照</h3>${phraseView(w)}<h3>职场英文例句 · 中英对照</h3><div class="quote example-card"><div class="example-en">${h(w.example)}</div><div class="example-zh"><span class="example-label">中文翻译</span><span>${h(w.exampleZh||'')}</span></div><button class="bubble-action" data-say="${h(w.example)}">${icon('sound','sm')} 朗读这句话</button></div>`,dialogue:`<p class="muted">真实 Marketing 语境中的两人对话，点击每一句可听发音。</p>${w.dialogue.map((l,i)=>`<div class="quote" style="border-color:${i?'#28ac8b':'var(--violet)'}"><b style="font-size:12px">${h(l.role)}</b><p>${h(l.en)}</p>${l.zh?`<p class="dialogue-zh">${h(l.zh)}</p>`:""}<button class="bubble-action" data-say="${h(l.en)}">${icon('sound','sm')} 播放这句</button></div>`).join('')}`,expand:`<h3>高频搭配</h3><div class="ext-list"><div class="ext-item"><b>${h(w.collocation||w.term)}</b><p class="phrase-zh">${h(w.collocationZh||w.zh)}</p><button class="bubble-action" data-say="${h(w.collocation||w.term)}">${icon('sound','sm')} 听搭配发音</button></div></div>${w.aliases&&w.aliases.length?`<h3>常见写法／搜索别称</h3><p class="aliases">${w.aliases.map(h).join(' · ')}</p>`:''}${w.distinction?`<div class="distinguish-note"><b>相近术语辨析</b><div>${h(w.distinction)}</div></div>`:''}<h3>同主题延伸词汇</h3>${alt.map(x=>`<button class="task-item" data-detail="${h(x.id)}"><span style="flex:1"><b>${h(x.term)}</b><small>${h(x.zh)}</small></span>${icon('right','sm')}</button>`).join('')}<p class="muted tiny">延伸推荐来自相同 Marketing 专业模块。</p>`,practice:`<h3>请选择最准确的中文释义</h3><div class="quiz-options">${choices.map(c=>`<button class="quiz-option ${state.detailChoice!==null?(c.id===w.id?'correct':state.detailChoice===c.id?'wrong':''):''}" data-detail-answer="${h(c.id)}"><span>${h(c.zh)}</span></button>`).join('')}</div>${state.detailChoice!==null?`<div class="quiz-explain">${state.detailChoice===w.id?'回答正确！':'正确答案：'+h(w.zh)}<br>${h(w.example)}<br><span class="example-side-zh">${h(w.exampleZh||'')}</span></div>`:''}`}[state.detailTab]||'';return `<div class="overlay" data-action="closeOverlay"><section class="sheet" role="dialog" aria-modal="true" aria-label="词条详情：${h(w.term)}"><div class="sheet-handle"></div><div class="sheet-head"><span class="tag lav">${h(modById(w.moduleId)?.title)}</span><button class="iconbtn" data-action="closeDetail" aria-label="关闭详情">${icon('close')}</button></div><h2>${h(w.term)}</h2><div class="sheet-zh">${h(w.zh)}</div>${ipaView(w,true)}<div style="display:flex;gap:10px;margin-top:15px"><button class="listen" data-play-word="${h(w.id)}">${icon('sound','sm')} 设备英语朗读 ${Number(STORE.rate)===1?'1.0':STORE.rate}×</button><button class="listen fav-action ${e.favorite?'active':''}" data-fav="${h(w.id)}" aria-pressed="${!!e.favorite}">${icon('heart','sm')} ${e.favorite?'已收藏':'收藏'}</button></div><nav class="sheet-tabbar" aria-label="词条内容切换">${tabs.map(([id,label])=>`<button class="sheet-tab ${state.detailTab===id?'active':''}" data-detail-tab="${id}">${label}</button>`).join('')}</nav><div class="sheet-section">${body}</div><div class="sheet-footer"><button class="secondary" data-action="detailNext">下一个词条 ${icon('right','sm')}</button><button class="primary" data-action="learnThis">用卡片练习 ${icon('layers','sm')}</button></div></section></div>`}
+
+function portableProgress(){return {app:'marketing-fluent',version:8,exported:new Date().toISOString(),progress:{...STORE}}}
+function validProgress(p){return p&&typeof p==='object'&&p.words&&typeof p.words==='object'&&!Array.isArray(p.words)&&p.days&&typeof p.days==='object'&&Number.isFinite(Number(p.xp||0))}
+function applyBackup(parsed){if(parsed?.app!=='marketing-fluent')throw Error('仅支持 Marketing Fluent 备份');let progress=parsed&&parsed.progress?parsed.progress:parsed;if(!validProgress(progress))throw Error('备份格式不正确');let safeWords={};for(const [id,item] of Object.entries(progress.words)){if(!byId(id)||!item||typeof item!=='object')continue;safeWords[id]={level:Math.max(0,Math.min(5,Number(item.level)||0)),seen:!!item.seen,favorite:!!item.favorite,due:Number.isFinite(+item.due)?+item.due:null,last:Number.isFinite(+item.last)?+item.last:null,lastDay:typeof item.lastDay==='string'?item.lastDay:null};}let safeDays={};for(const [date,n] of Object.entries(progress.days)){if(/^\d{4}-\d{2}-\d{2}$/.test(date))safeDays[date]=Math.max(0,Math.min(1000,Number(n)||0))}STORE={words:safeWords,days:safeDays,roleplays:Object.fromEntries(Object.entries(progress.roleplays||{}).filter(([key,val])=>/^S\d{2}-\d{4}-\d{2}-\d{2}$/.test(key)&&val&&typeof val==='object').slice(0,200)),xp:Math.max(0,Number(progress.xp)||0),dark:!!progress.dark,goal:[5,8,10,15,20].includes(+progress.goal)?+progress.goal:8,rate:[.75,.9,1,1.15].includes(+progress.rate)?+progress.rate:1};if(!save())throw Error('无法写入本地存储');state.deck=[];state.quiz=null;state.syncOpen=false;nav('me');toast('已恢复 '+Object.keys(safeWords).length+' 个词条的学习数据')}
+function bytesTo64(bytes){let binary='';for(let i=0;i<bytes.length;i+=8192){binary+=String.fromCharCode(...bytes.subarray(i,i+8192))}return btoa(binary).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,'')}
+function b64ToBytes(s){s=s.replace(/-/g,'+').replace(/_/g,'/');let b=atob(s);return Uint8Array.from(b,c=>c.charCodeAt(0))}
+async function generateTransferCode(){let raw=new TextEncoder().encode(JSON.stringify(portableProgress())),bytes=raw,prefix='MKF8-RAW-';if(typeof CompressionStream==='function'){let cs=new CompressionStream('gzip');let writer=cs.writable.getWriter();let result=new Response(cs.readable).arrayBuffer();await writer.write(raw);await writer.close();bytes=new Uint8Array(await result);prefix='MKF8-GZ-'}return prefix+bytesTo64(bytes)}
+async function readTransferCode(code){let c=code.replace(/\s+/g,'');let zipped=c.startsWith('MKF8-GZ-');let uncompressed=c.startsWith('MKF8-RAW-');if(!zipped&&!uncompressed)throw Error('不是支持的 Marketing Fluent 迁移码');let bytes=b64ToBytes(c.slice(zipped?8:9));if(bytes.length>400000)throw Error('迁移码过大');if(zipped){if(typeof DecompressionStream!=='function')throw Error('当前浏览器不支持解压迁移码，请改用 JSON 文件备份');let ds=new DecompressionStream('gzip');let writer=ds.writable.getWriter();let result=new Response(ds.readable).arrayBuffer();await writer.write(bytes);await writer.close();bytes=new Uint8Array(await result);}return JSON.parse(new TextDecoder().decode(bytes))}
+function syncView(){if(!state.syncOpen)return '';return `<div class="overlay sync-overlay"><section class="sheet sync-sheet" role="dialog" aria-modal="true" aria-label="学习进度迁移"><div class="sheet-handle"></div><div class="sheet-head"><span class="tag lav">${icon('repeat','sm')} 学习进度迁移</span><button class="iconbtn" data-action="closeSync" aria-label="关闭">${icon('close')}</button></div><h2>把学习记录带到新设备</h2><p class="muted">免手机号：把当前完整进度编码成一段可复制文字。新设备在同一知识库的「我的 → 迁移码」粘贴并恢复。该码不是六位数登录密码，也不是云账号；含有学习数据，勿公开。</p><div class="sync-block"><b>① 在旧设备生成迁移码</b><div class="sync-buttons"><button class="primary" data-action="generateCode">生成迁移码</button><button class="secondary" data-action="copyCode">复制</button></div><textarea id="generatedCode" rows="4" readonly placeholder="点击生成迁移码…" aria-label="生成的迁移码"></textarea><p class="tiny muted">一次性生成的是完整进度快照；后续继续学习后需重新生成新码。</p></div><div class="sync-block"><b>② 在新设备粘贴并恢复</b><textarea id="restoreCode" rows="4" placeholder="将旧设备复制的 MKF8-… 迁移码粘贴到这里" aria-label="粘贴迁移码"></textarea><button class="secondary" data-action="restoreCode">恢复学习记录</button><p class="tiny muted">恢复将覆盖此设备现有进度。短信验证码/短登录码自动同步必须接入服务端、数据存储和短信/身份验证服务；本离线版不具备这些能力。</p></div></section></div>`}
+function bookmarkView(){if(!state.bookmarkOpen)return '';let host=location.protocol==='https:'&&!/chatgpt|openai|sandbox|127\.0\.0\.1|localhost/i.test(location.hostname);return `<div class="overlay bookmark-overlay"><section class="sheet sync-sheet" role="dialog" aria-modal="true" aria-label="保存知识库入口"><div class="sheet-head"><span class="tag lav">${icon('star','sm')} 便捷访问</span><button class="iconbtn" data-action="closeBookmark" aria-label="关闭">${icon('close')}</button></div><h2>随时打开 Marketing Fluent</h2><div class="bookmark-tip"><b>iPhone Safari</b><p>打开已部署的 HTTPS 网页 → 点击 Safari 底部「分享」 → 选择「添加书签」或「添加到主屏幕」。</p><b>电脑浏览器</b><p>Chrome / Safari 按 Ctrl+D 或 ⌘D 添加书签。</p></div><div class="sync-block"><b>当前页面地址</b><input id="bookmarkURL" readonly value="${h(location.href)}" aria-label="当前地址"><button class="secondary" data-action="copyURL">复制当前地址</button>${host?'<p class="good-note">✓ 当前是 HTTPS 网页，可将此链接保存为书签。</p>':'<p class="warning-note">当前是文件预览 / 临时链接，可能无法长期访问。请先把本 ZIP 的 index.html 等文件部署到固定 HTTPS 站点，之后再收藏正式网址。</p>'}</div></section></div>`}
+async function copyText(s,field){try{await navigator.clipboard.writeText(s);toast('已复制到剪贴板')}catch(e){field?.focus();field?.select();toast('请长按文本选择「复制」')}}
+
+function render(){
+ document.body.classList.toggle('dark',!!STORE.dark);
+ let view={home:homeView,study:studyView,words:wordsView,scene:sceneView,quiz:quizView,me:meView}[state.tab]||homeView;
+ document.getElementById('root').innerHTML=shell(view())+detailView()+syncView()+bookmarkView();
+ if(state.detailId||state.syncOpen||state.bookmarkOpen)document.body.style.overflow='hidden';else document.body.style.overflow='';
+ document.querySelectorAll('.sheet').forEach(sheet=>{let b=document.createElement('button');b.className='sheet-scroll-top';b.dataset.action='goTop';b.type='button';b.innerHTML=icon('up','sm')+' 顶部';b.setAttribute('aria-label','返回弹窗顶部');sheet.append(b);sheet.addEventListener('scroll',()=>b.classList.toggle('visible',sheet.scrollTop>180),{passive:true})});
+ updateScrollTop();updateScenePlayerUI();
+ const statusTabs=document.getElementById('wordStatusFilters');
+ if(statusTabs && statusTabs.scrollWidth>statusTabs.clientWidth+3){
+  const current=statusTabs.querySelector('.legend-filter.is-active');
+  if(current){statusTabs.scrollLeft=Math.max(0,current.offsetLeft-statusTabs.offsetLeft-8)}
+ }
+}
+function updateScrollTop(){const b=document.getElementById('globalScrollTop');if(b)b.classList.toggle('visible',window.scrollY>260)}
+
+function setModule(id){state.module=id;state.query='';state.filter='all';state.visible=24;state.tab='words';render();window.scrollTo(0,0)}
+function openDetail(id){state.detailId=id;state.detailTab='meaning';state.detailChoice=null;render()}
+window.addEventListener('scroll',updateScrollTop,{passive:true});
+let lastSwipe=0;function handleAction(action,btn,ev){switch(action){case'saveNow':save();render();toast('学习记录已保存到本机');break;
+case'importFile':document.getElementById('progressUpload')?.click();break;
+case'syncModal':state.syncOpen=true;state.bookmarkOpen=false;render();break;
+case'closeSync':state.syncOpen=false;render();break;
+case'bookmarkGuide':state.bookmarkOpen=true;state.syncOpen=false;render();break;case'checkVersion':if(typeof window.marketingFluentCheckVersion==='function')window.marketingFluentCheckVersion(true);else toast('当前无法检查新版本');break;case'forceUpdate':if(typeof window.marketingFluentForceRefresh==='function')window.marketingFluentForceRefresh();else toast('请通过 HTTPS 网站尝试刷新');break;case'goTop':{const sheet=btn.closest('.sheet');if(sheet)sheet.scrollTo({top:0,behavior:'smooth'});else window.scrollTo({top:0,behavior:'smooth'});break;}
+case'closeBookmark':state.bookmarkOpen=false;render();break;
+case'copyURL':copyText(location.href,document.getElementById('bookmarkURL'));break;
+case'generateCode':generateTransferCode().then(code=>{let el=document.getElementById('generatedCode');if(el){el.value=code;toast('迁移码已生成，请复制保存')}}).catch(e=>toast('生成失败：'+e.message));break;
+case'copyCode':{let el=document.getElementById('generatedCode');if(!el?.value){toast('请先生成迁移码');break}copyText(el.value,el);break}
+case'restoreCode':{let value=document.getElementById('restoreCode')?.value||'';if(!value.trim()){toast('请先粘贴迁移码');break}if(!confirm('恢复迁移码将覆盖此设备现有的学习记录，确定继续吗？'))break;readTransferCode(value).then(applyBackup).catch(e=>toast('恢复失败：'+e.message));break}
+case'backFromQuiz':nav('quiz');break;case'continue':startDeck();nav('study');break;case'showAdded':state.query='';state.module='all';state.filter='added';state.visible=24;nav('words');break;case'flip':if(Date.now()-lastSwipe<350)break;state.flipped=!state.flipped;render();break;case'prev':if(state.deckIndex>0){state.deckIndex--;state.flipped=false;render()}break;case'next':if(state.deckIndex<state.deck.length-1){state.deckIndex++;state.flipped=false;render()}break;case'reshuffle':{const previous=state.deck.join('|');startDeck(null,{fresh:true});render();toast(state.deck.join('|')===previous?'当前词库已全部轮换，可继续复习':'已切换新词组 · 今日达标也能继续学习');break;}case'more':state.visible+=24;render();break;case'clearFilters':state.query='';state.module='all';state.filter='all';state.visible=24;render();break;case'listToDeck':{let a=filteredWords().slice(0,Math.max(1,Number(STORE.goal)||8)).map(w=>w.id);if(a.length===0){toast('当前没有可学习的词汇');break}startDeck(a);nav('study');break}case'backScenes':speechStop();stopRoleRecognition();state.sceneId=null;state.roleplay=false;state.sceneAnswer=false;render();break;
+case'stopScene':stopScenePlayback();break;
+case'toggleRoleplay':{const sc=DB.scenarios.find(x=>x.id===state.sceneId);if(!sc)break;if(!state.roleplay)startRoleplay(sc);else{stopRoleRecognition();state.roleplay=false}render();break}
+case'roleRestart':{const sc=DB.scenarios.find(x=>x.id===state.sceneId);if(sc)startRoleplay(sc);render();break}
+case'roleMic':startRoleMic();break;
+case'roleCheck':checkRoleAnswer();break;
+case'roleReference':state.roleReference=!state.roleReference;render();break;
+case'roleNext':advanceRoleplay();break;
+case'toggleSceneZh':state.sceneZh=!state.sceneZh;render();break;case'sceneAnswer':state.sceneAnswer=!state.sceneAnswer;render();break;case'newQuiz':startQuiz();render();break;case'nextQuestion':{let q=state.quiz,item=q.items[q.index];if(!item||item.chosen===null)return;if(q.index<q.items.length-1){q.index++}else{q.done=true;if(!q.credited){let n=q.items.filter(i=>i.chosen===i.wordId).length;STORE.xp+=n*5;q.credited=true;save()}}render();break}case'reviewWrong':{let ids=state.quiz.items.filter(i=>i.chosen!==i.wordId).map(i=>i.wordId);startDeck(ids);nav('study');break}case'closeDetail':state.detailId=null;render();break;case'closeOverlay':if(ev.target===btn&&btn.classList.contains('overlay')){state.detailId=null;render()}break;case'detailNext':{let n=DB.words.findIndex(w=>w.id===state.detailId),w=DB.words[(n+1)%DB.words.length];openDetail(w.id);break}case'learnThis':{let w=byId(state.detailId),others=DB.words.filter(x=>x.moduleId===w.moduleId&&x.id!==w.id).slice(0,19);startDeck([w.id,...others.map(x=>x.id)]);nav('study');break}case'dark':STORE.dark=!STORE.dark;save();render();break;case'export':{let blob=new Blob([JSON.stringify({version:8,exported:new Date().toISOString(),progress:STORE},null,2)],{type:'application/json'});let url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='marketing-fluent-progress.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);toast('学习记录已导出');break}case'reset':if(confirm('确定清空当前设备的学习进度、收藏和积分吗？此操作不可撤销。')){STORE={words:{},days:{},xp:0,dark:STORE.dark,goal:STORE.goal,rate:STORE.rate,quizSource:STORE.quizSource,v15SpeedMigration:true};save();state.deck=[];render();toast('学习记录已清空')}break;case'streak':toast(`已连续学习 ${streak()} 天，今日完成 ${todayCount()} 个单词`);break;}}
+document.addEventListener('click',ev=>{let b=ev.target.closest('button,[data-action="flip"],.overlay');if(!b)return;if(b.dataset.playAccent){ev.stopPropagation();speakAccent(b.dataset.wordId,b.dataset.playAccent);return}if(b.dataset.playWord){ev.stopPropagation();playWord(b.dataset.playWord);return}if(b.dataset.playScene){ev.stopPropagation();playScene(b.dataset.playScene);return}if(b.dataset.say){ev.stopPropagation();speechStop();tts(b.dataset.say);return}if(b.dataset.nav){nav(b.dataset.nav);return}if(b.dataset.quizSource){const source=b.dataset.quizSource;if(source==='all'||source==='learned'){if(source!==state.quizSource){state.quizSource=source;STORE.quizSource=source;save();startQuiz();render();window.scrollTo({top:0,behavior:'auto'})}}return}if(b.dataset.module){setModule(b.dataset.module);return}
+if(b.dataset.statusFilter){
+ const selected=b.dataset.statusFilter;
+ const previousHorizontalScroll=b.closest('#wordStatusFilters')?.scrollLeft||0;
+ state.filter=state.filter===selected?'all':selected;
+ state.visible=24;
+ render();
+ // The list is re-rendered on filter changes; keep the tapped tab in view.
+ const filters=document.getElementById('wordStatusFilters');
+ if(filters){
+  filters.scrollLeft=previousHorizontalScroll;
+  const selectedButton=filters.querySelector('[data-status-filter="'+state.filter+'"]');
+  if(selectedButton){
+   const start=selectedButton.offsetLeft-filters.offsetLeft;
+   const end=start+selectedButton.offsetWidth;
+   if(start<filters.scrollLeft)filters.scrollLeft=start-4;
+   else if(end>filters.scrollLeft+filters.clientWidth)filters.scrollLeft=end-filters.clientWidth+4;
+  }
+  const box=filters.getBoundingClientRect();
+  if(box.top<0||box.bottom>window.innerHeight-95)filters.scrollIntoView({block:'start',behavior:'instant'});
+ }
+ return;
+}
+if(b.dataset.moduleFilter){state.module=b.dataset.moduleFilter;state.visible=24;render();return}if(b.dataset.rate){rateWord(b.dataset.rate==='1');return}if(b.dataset.scene){speechStop();stopRoleRecognition();state.sceneId=b.dataset.scene;state.roleplay=false;state.sceneAnswer=false;state.sceneReveal=1;state.sceneZh=true;render();window.scrollTo(0,0);return}if(b.dataset.roleSelect){const sc=DB.scenarios.find(x=>x.id===state.sceneId);if(sc&&state.roleplay&&state.roleplayRole!==b.dataset.roleSelect){stopRoleRecognition();state.roleplayRole=b.dataset.roleSelect;state.roleplayStep=0;state.roleInput='';state.roleFeedback=null;state.roleReference=false;state.roleplayAnswers={};render()}return}if(b.dataset.detail){openDetail(b.dataset.detail);return}if(b.dataset.fav){ev.stopPropagation();let e=entry(b.dataset.fav);e.favorite=!e.favorite;save();render();toast(e.favorite?'已加入收藏':'已取消收藏');return}if(b.dataset.detailTab){state.detailTab=b.dataset.detailTab;state.detailChoice=null;render();return}if(b.dataset.detailAnswer){state.detailChoice=b.dataset.detailAnswer;render();return}if(b.dataset.answer){const q=state.quiz,i=q.items[q.index];if(i.chosen!==null)return;i.chosen=b.dataset.answer;render();return}if(b.dataset.action){ev.stopPropagation();handleAction(b.dataset.action,b,ev)}});
+document.addEventListener('input',ev=>{if(ev.target.id==='roleAnswer'){state.roleInput=ev.target.value;return}if(ev.target.id==='wordSearch'){state.query=ev.target.value;state.visible=24;let temp=document.createElement('div');temp.innerHTML=wordsView();let res=temp.querySelector('#wordResults');let old=document.querySelector('#wordResults');if(old&&res)old.innerHTML=res.innerHTML;}});
+document.addEventListener('change',ev=>{if(ev.target.id==='wordFilter'){state.filter=ev.target.value;state.visible=24;render()}if(ev.target.id==='voiceRate'){STORE.rate=Number(ev.target.value);STORE.v15SpeedMigration=true;save();render();toast('朗读速度：'+STORE.rate+'×')}if(ev.target.id==='dailyGoal'){STORE.goal=Number(ev.target.value);state.deck=[];save();render();toast('每日目标已更新；下一组卡片将按新目标生成')}});
+document.addEventListener('change',ev=>{if(ev.target?.id!=='progressUpload')return;let f=ev.target.files?.[0];if(!f)return;if(f.size>800000){toast('备份文件过大，无法导入');return}f.text().then(s=>{let parsed=JSON.parse(s);if(confirm('即将用备份覆盖当前学习记录，确定恢复吗？'))applyBackup(parsed)}).catch(e=>toast('导入失败：'+e.message));ev.target.value='';});
+document.addEventListener('keydown',ev=>{if(ev.key==='Escape'&&state.syncOpen){state.syncOpen=false;render();return}if(ev.key==='Escape'&&state.bookmarkOpen){state.bookmarkOpen=false;render();return}if(ev.key==='Escape'&&state.detailId){state.detailId=null;render();return}if(ev.target.matches('input,select'))return;if(state.tab==='study'&&!state.detailId){if(ev.code==='Space'){ev.preventDefault();state.flipped=!state.flipped;render()}else if(ev.key==='ArrowLeft'&&state.deckIndex>0){state.deckIndex--;state.flipped=false;render()}else if(ev.key==='ArrowRight'&&state.deckIndex<state.deck.length-1){state.deckIndex++;state.flipped=false;render()}}});
+let swipeX=null;document.addEventListener('touchstart',ev=>{if(ev.target.closest('.tapcard'))swipeX=ev.touches[0].clientX},{passive:true});document.addEventListener('touchend',ev=>{if(swipeX===null)return;let dx=ev.changedTouches[0].clientX-swipeX;swipeX=null;if(Math.abs(dx)<75)return;lastSwipe=Date.now();if(dx<0&&state.deckIndex<state.deck.length-1)state.deckIndex++;if(dx>0&&state.deckIndex>0)state.deckIndex--;state.flipped=false;render();},{passive:true});
+render();
+</script><script>
+/* Marketing Fluent V1.0.1: network preflight + cache-safe installed app update flow.
+   Important: never delete localStorage, IndexedDB, or user progress. */
+(function(){
+ 'use strict';
+ const CURRENT='1.0.1', BUILD='marketing-fluent-v1-0-1-20261124';
+ const SECURE=location.protocol==='https:'||location.hostname==='localhost';
+ const MARKER='marketing-fluent-build';
+ const LAST_ATTEMPT='marketing-fluent-v1-0-1-last-update-attempt';
+ let registration=null,checking=false,checkAt=0,pending=null,refreshing=false,hiddenMsg='';
+ const compare=(a,b)=>{const aa=String(a||'').split('.'),bb=String(b||'').split('.');for(let i=0;i<3;i++){const n=(Number(aa[i])||0)-(Number(bb[i])||0);if(n)return n}return 0};
+ function flush(){try{if(typeof STORE==='object'&&typeof KEY==='string'){STORE.savedAt=new Date().toISOString();localStorage.setItem(KEY,JSON.stringify(STORE))}}catch(e){}}
+ function tip(t){if(typeof toast==='function')toast(t);else console.info('[Marketing Fluent]',t)}
+ function info(t){hiddenMsg=t;const el=document.getElementById('hrVersionStatus');if(el)el.textContent=t}
+ function eligible(){return !((document.activeElement?.matches?.('textarea,input,[contenteditable="true"]'))||
+ (typeof state!=='undefined'&&(state.detailId||state.syncOpen||state.bookmarkOpen||['study','quiz','scene'].includes(state.tab))))}
+ function closePrompt(){document.getElementById('marketingFluentUpdate')?.remove()}
+ function promptUpdate(v){
+  if(!v)return;pending=v;
+  const old=document.getElementById('marketingFluentUpdate');if(old){old.querySelector('span').textContent='✨ V'+v.version+' 已可更新';return}
+  const bar=document.createElement('div');bar.id='marketingFluentUpdate';bar.className='hr-update-toast';bar.setAttribute('role','status');
+  const label=document.createElement('span');label.textContent='✨ V'+v.version+' 已可更新';
+  const apply=document.createElement('button');apply.type='button';apply.className='hr-update-now';apply.textContent='保存并更新';
+  apply.addEventListener('click',()=>refresh(true,v.version));
+  const later=document.createElement('button');later.type='button';later.className='hr-update-later';later.textContent='×';later.setAttribute('aria-label','稍后更新');later.addEventListener('click',closePrompt);
+  bar.append(label,apply,later);document.body.appendChild(bar);
+ }
+ async function registerWorker(){
+  if(!SECURE||!('serviceWorker' in navigator))return null;
+  if(registration)return registration;
+  try{registration=await navigator.serviceWorker.register('./sw.js',{updateViaCache:'none'});return registration}catch(e){return null}
+ }
+ async function refreshWorker(){
+  const reg=await registerWorker();
+  try{await reg?.update();if(reg?.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'})}catch(e){}
+ }
+ // Require the actual HTML to be published before navigating; a manifest arriving first is not enough.
+ async function peekLiveBuild(){
+  const resp=await fetch('./index.html?check_build='+Date.now(),{cache:'no-store',credentials:'same-origin'});
+  if(!resp.ok)throw Error('无法获取主页：'+resp.status);
+  const html=await resp.text();
+  const build=html.match(/<meta\s+name=["']marketing-fluent-build["']\s+content=["'](\d+(?:\.\d+){0,2})["']/i)||
+              html.match(/<title>Marketing Fluent V(\d+(?:\.\d+){0,2})/i);
+  if(!build)throw Error('线上页面缺少版本信息');
+  return build[1];
+ }
+ async function check(manual=false){
+  if(!SECURE){if(manual)tip('请从 HTTPS 网站访问以检查新版本');return}
+  if(!navigator.onLine){if(manual)tip('当前离线，联网后重试');return}
+  if(checking)return;
+  if(!manual&&Date.now()-checkAt<60000)return;
+  checking=true;checkAt=Date.now();
+  if(manual)info('正在检查线上版本…');
+  try{
+   const response=await fetch('./version.json?check='+Date.now(),{cache:'no-store',credentials:'same-origin'});
+   if(!response.ok)throw Error('版本文件 '+response.status);
+   const remote=await response.json();
+   if(!/^\d+(\.\d+){0,2}$/.test(String(remote.version||'')))throw Error('版本文件格式异常');
+   if(compare(remote.version,CURRENT)>0){
+    const htmlVer=await peekLiveBuild();
+    if(compare(htmlVer,remote.version)<0){info('检测到 V'+remote.version+'，但主页仍在发布中；请稍后检查');return}
+    info('发现 V'+remote.version+'，更新可用');
+    pending={version:remote.version,build:remote.build||remote.version};
+    await refreshWorker();
+    if(eligible())refresh(false,remote.version);else promptUpdate(pending);
+    return;
+   }
+   pending=null;closePrompt();
+   info('当前 V'+CURRENT+' · 已是最新版本（'+new Date().toLocaleTimeString('zh-CN')+'）');
+   if(manual)tip('已经是最新版 V'+CURRENT);
+  }catch(e){
+   info('当前 V'+CURRENT+' · 检查失败，可尝试手动刷新');
+   if(manual)tip('检查失败：'+(e.message||'请确认网络及 version.json'));
+  }finally{checking=false}
+ }
+ function refresh(force=false,v=CURRENT){
+  if(refreshing)return;
+  if(!force&&!eligible()){promptUpdate({version:v});return}
+  let attempt=null;try{attempt=JSON.parse(sessionStorage.getItem(LAST_ATTEMPT)||'null')}catch(e){}
+  if(!force&&attempt&&attempt.version===v&&Date.now()-attempt.at<120000){promptUpdate({version:v});return}
+  flush();
+  try{sessionStorage.setItem(LAST_ATTEMPT,JSON.stringify({version:v,at:Date.now()}))}catch(e){}
+  refreshing=true;
+  // Same origin and path: preserves localStorage. Query busts the older PWA's navigation cache.
+  const next=new URL('./index.html',location.href);
+  next.searchParams.set('hr_refresh',v+'-'+Date.now());
+  if(location.hash)next.hash=location.hash;
+  location.replace(next.href);
+ }
+ async function forceRefresh(){
+  if(!SECURE){tip('请通过 HTTPS 网址访问最新版');return}
+  if(!navigator.onLine){tip('当前没有网络，无法获取最新版');return}
+  const editing=document.activeElement?.matches?.('textarea,input,[contenteditable="true"]');
+  if(editing&&!confirm('未提交的输入可能丢失。保存本机进度并刷新最新版本吗？'))return;
+  info('正在从网站重新获取最新内容…');
+  flush();
+  try{
+   const published=await peekLiveBuild();
+   if(compare(published,CURRENT)<0){info('线上仍为 V'+published+'，请检查 GitHub Pages 部署是否完成');tip('服务器版本低于本机版本，未触发刷新');return}
+   // Remove stale application caches but retain the current offline cache and ALL learning records.
+   if('caches' in window){const keys=await caches.keys();await Promise.all(keys.filter(k=>k.startsWith('marketing-fluent-')&&!k.startsWith('marketing-fluent-v1-0-1-')).map(k=>caches.delete(k)))}
+   await refreshWorker();
+   info('网页已发布 V'+published+'，正在重新载入…');
+   refresh(true,published);
+  }catch(e){info('刷新失败：'+(e.message||'网络异常'));tip('无法读取最新网页；学习记录未删除')}
+ }
+ window.marketingFluentCheckVersion=check;
+ window.marketingFluentForceRefresh=forceRefresh;
+ document.addEventListener('visibilitychange',()=>{if(document.hidden)flush();else check()});
+ window.addEventListener('pagehide',flush);
+ window.addEventListener('focus',()=>check());
+ window.addEventListener('pageshow',()=>check());
+ window.addEventListener('load',()=>{registerWorker().then(()=>refreshWorker()).finally(()=>check())});
+ // Poll only while active. Safari/iOS may suspend timers in background.
+ setInterval(()=>{if(!document.hidden)check()},3*60*1000);
+ // Render replaces the My page DOM; restore the most recent version-check status when revisiting.
+ const original=window.marketingFluentGetVersionStatus;
+ window.marketingFluentGetVersionStatus=()=>hiddenMsg||('当前 V'+CURRENT+' · 可联网检查更新');
+})();
+</script></body></html>
