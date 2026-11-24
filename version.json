@@ -1,1 +1,6 @@
-{"version": "1.0.1", "build": "marketing-fluent-v1-0-1-20261124", "notes": "Alpha 1 基础版，非正式 V1.0"}
+{
+  "version": "1.0.25",
+  "build": "marketing-fluent-v1-0-25-20261125",
+  "notes": "Compact header: remove Learn Daily and prevent practice button wrapping",
+  "release": "1.0"
+}

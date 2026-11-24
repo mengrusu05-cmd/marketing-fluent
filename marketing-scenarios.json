@@ -1,0 +1,1840 @@
+[
+  {
+    "id": "S01",
+    "moduleId": "m2",
+    "title": "品牌定位讨论",
+    "titleEn": "Brand positioning review",
+    "lines": [
+      {
+        "role": "Brand Manager",
+        "en": "Our brand awareness is growing, but customers still confuse us with competitors.",
+        "zh": "我们的品牌知名度正在提升，但客户仍会将我们与竞争对手混淆。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "What makes our value proposition different?",
+        "zh": "我们的价值主张有什么不同？"
+      },
+      {
+        "role": "Brand Manager",
+        "en": "We offer faster delivery and more flexible plans.",
+        "zh": "我们提供更快的交付和更灵活的方案。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Let’s test that positioning with our target market.",
+        "zh": "我们在目标市场中测试这一定位吧。"
+      }
+    ],
+    "quiz": "What should the team test?",
+    "answer": "brand positioning",
+    "quizZh": "团队应该测试什么？",
+    "answerZh": "品牌定位",
+    "wordIds": [
+      "MKT005",
+      "MKT006",
+      "MKT003",
+      "MKT001"
+    ]
+  },
+  {
+    "id": "S02",
+    "moduleId": "m3",
+    "title": "广告投放复盘",
+    "titleEn": "Campaign performance review",
+    "lines": [
+      {
+        "role": "Marketing Manager",
+        "en": "How did paid search perform last month?",
+        "zh": "上个月付费搜索广告表现如何？"
+      },
+      {
+        "role": "Analyst",
+        "en": "The conversion rate improved, but acquisition costs also rose.",
+        "zh": "转化率提高了，但获客成本也上升了。"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "Can we test a different landing page?",
+        "zh": "我们能测试不同的落地页吗？"
+      },
+      {
+        "role": "Analyst",
+        "en": "Yes. We should split traffic randomly and compare results.",
+        "zh": "可以。我们应随机分配流量并比较结果。"
+      }
+    ],
+    "quiz": "What page will the team test?",
+    "answer": "landing page",
+    "quizZh": "团队将测试什么页面？",
+    "answerZh": "落地页",
+    "wordIds": [
+      "MKT009",
+      "MKT010",
+      "MKT011"
+    ]
+  },
+  {
+    "id": "S03",
+    "moduleId": "m1",
+    "title": "年度营销规划",
+    "titleEn": "Annual marketing planning",
+    "lines": [
+      {
+        "role": "Marketing Director",
+        "en": "What are our priorities for next year?",
+        "zh": "我们明年的优先事项是什么？"
+      },
+      {
+        "role": "Strategy Manager",
+        "en": "Revenue growth is the main objective, but acquisition costs are rising.",
+        "zh": "收入增长是主要目标，但获客成本正在上升。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Should we shift more budget toward retention?",
+        "zh": "我们是否应该将更多预算转向留存？"
+      },
+      {
+        "role": "Strategy Manager",
+        "en": "In mature markets, yes. Emerging segments still offer room for acquisition.",
+        "zh": "成熟市场可以这样做，新兴细分市场仍有获客空间。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Let's set separate targets for each segment and review them quarterly.",
+        "zh": "我们为各细分市场设定独立目标，并按季度复盘。"
+      },
+      {
+        "role": "Strategy Manager",
+        "en": "I'll build a plan with a pilot budget and clear success criteria.",
+        "zh": "我会制定包含试点预算和明确成功标准的计划。"
+      }
+    ],
+    "quiz": "What should the team prioritize and why?",
+    "quizZh": "团队应优先考虑什么，为什么？",
+    "answer": "Prioritize retention in mature markets and test acquisition in emerging segments before scaling.",
+    "answerZh": "成熟市场优先留存，新兴细分市场先测试获客再扩大投入。",
+    "wordIds": [
+      "MKT013",
+      "MKT099",
+      "MKT030",
+      "MKT576"
+    ]
+  },
+  {
+    "id": "S04",
+    "moduleId": "m1",
+    "title": "竞争格局分析",
+    "titleEn": "Competitive landscape review",
+    "lines": [
+      {
+        "role": "Marketing Manager",
+        "en": "Our biggest competitor has cut prices by ten percent.",
+        "zh": "我们最大的竞争对手降价了百分之十。"
+      },
+      {
+        "role": "Strategy Analyst",
+        "en": "Their offer is cheaper, but it excludes after-sales support.",
+        "zh": "他们的方案更便宜，但不包含售后支持。"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "Do we know whether customers value that difference?",
+        "zh": "我们知道客户是否重视这一差异吗？"
+      },
+      {
+        "role": "Strategy Analyst",
+        "en": "Recent interviews suggest that reliability matters more to business buyers.",
+        "zh": "近期访谈表明，企业买家更重视可靠性。"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "Let's quantify willingness to pay before matching their price.",
+        "zh": "我们先量化支付意愿，再决定是否跟进降价。"
+      },
+      {
+        "role": "Strategy Analyst",
+        "en": "I'll compare purchase intent across two service packages.",
+        "zh": "我会比较两种服务套餐的购买意愿。"
+      }
+    ],
+    "quiz": "How should the team respond to the competitor's price cut?",
+    "quizZh": "团队应如何应对竞争对手降价？",
+    "answer": "Test whether customers value service enough to justify the price premium before changing prices.",
+    "answerZh": "调整价格前，先测试客户是否足够重视服务，从而愿意支付溢价。",
+    "wordIds": [
+      "MKT025",
+      "MKT053",
+      "MKT052"
+    ]
+  },
+  {
+    "id": "S05",
+    "moduleId": "m1",
+    "title": "目标市场选择",
+    "titleEn": "Target market selection",
+    "lines": [
+      {
+        "role": "Strategy Director",
+        "en": "Which segment should we target with the new offer?",
+        "zh": "新方案应该面向哪个细分市场？"
+      },
+      {
+        "role": "Market Analyst",
+        "en": "Small businesses are a larger segment, but enterprise buyers have higher retention.",
+        "zh": "小企业市场规模更大，但企业级买家的留存率更高。"
+      },
+      {
+        "role": "Strategy Director",
+        "en": "How do the acquisition costs compare?",
+        "zh": "获客成本相比如何？"
+      },
+      {
+        "role": "Market Analyst",
+        "en": "Small businesses require more paid media, and our product is a better fit for enterprise teams.",
+        "zh": "小企业需要更多付费媒体投入，而我们的产品更适合企业团队。"
+      },
+      {
+        "role": "Strategy Director",
+        "en": "Let's prioritize the segment with stronger unit economics.",
+        "zh": "我们优先选择单位经济效益更好的细分市场。"
+      },
+      {
+        "role": "Market Analyst",
+        "en": "I'll validate the assumptions with a limited sales pilot.",
+        "zh": "我会通过小规模销售试点验证这些假设。"
+      }
+    ],
+    "quiz": "Why is the larger segment not necessarily the best choice?",
+    "quizZh": "为什么更大的细分市场不一定是最佳选择？",
+    "answer": "Its higher acquisition costs and weaker fit may outweigh its size advantage.",
+    "answerZh": "更高的获客成本和较弱的匹配度可能抵消规模优势。",
+    "wordIds": [
+      "MKT001",
+      "MKT211"
+    ]
+  },
+  {
+    "id": "S06",
+    "moduleId": "m2",
+    "title": "品牌资产评估",
+    "titleEn": "Brand equity assessment",
+    "lines": [
+      {
+        "role": "Brand Director",
+        "en": "Awareness is up, but our market share is flat.",
+        "zh": "知名度提高了，但市场份额没有增长。"
+      },
+      {
+        "role": "Insights Manager",
+        "en": "Our tracking study shows that consideration has barely changed.",
+        "zh": "品牌追踪研究显示考虑度几乎没有变化。"
+      },
+      {
+        "role": "Brand Director",
+        "en": "Are consumers remembering us without seeing a reason to buy?",
+        "zh": "消费者是否记住了我们，却没有找到购买理由？"
+      },
+      {
+        "role": "Insights Manager",
+        "en": "That is possible. Preference is also weaker than our main competitor's.",
+        "zh": "有可能。我们的品牌偏好也弱于主要竞争对手。"
+      },
+      {
+        "role": "Brand Director",
+        "en": "Let's track those measures alongside awareness in the next wave.",
+        "zh": "下一轮调研同时追踪这些指标和知名度吧。"
+      },
+      {
+        "role": "Insights Manager",
+        "en": "I'll keep the survey wording consistent so we can compare results.",
+        "zh": "我会保持调查措辞一致，以便比较结果。"
+      }
+    ],
+    "quiz": "What evidence would help distinguish awareness from brand preference?",
+    "quizZh": "哪些证据有助于区分品牌知名度和品牌偏好？",
+    "answer": "Track consideration and preference alongside awareness, using consistent survey questions.",
+    "answerZh": "采用一致的调查问题，同时追踪知名度、考虑度和偏好。",
+    "wordIds": [
+      "MKT007",
+      "MKT017"
+    ]
+  },
+  {
+    "id": "S07",
+    "moduleId": "m2",
+    "title": "品牌焕新与一致性",
+    "titleEn": "Brand refresh and consistency",
+    "lines": [
+      {
+        "role": "Brand Manager",
+        "en": "The visual identity feels dated, but customers recognize our packaging.",
+        "zh": "视觉识别显得过时，但客户能认出我们的包装。"
+      },
+      {
+        "role": "Creative Lead",
+        "en": "We can modernize the typography without changing the signature color.",
+        "zh": "我们可以更新字体，同时保留标志性色彩。"
+      },
+      {
+        "role": "Brand Manager",
+        "en": "Will the new design still be recognizable on a crowded shelf?",
+        "zh": "新版设计在拥挤的货架上仍然容易识别吗？"
+      },
+      {
+        "role": "Creative Lead",
+        "en": "We'll test recognition using mock shelves before final approval.",
+        "zh": "最终批准前，我们会用模拟货架测试识别度。"
+      },
+      {
+        "role": "Brand Manager",
+        "en": "Please update the brand guidelines for digital and retail teams.",
+        "zh": "请为数字营销和零售团队更新品牌指南。"
+      },
+      {
+        "role": "Creative Lead",
+        "en": "I'll include examples of acceptable adaptations and common mistakes.",
+        "zh": "我会加入允许的适配方式和常见错误示例。"
+      }
+    ],
+    "quiz": "How can the team refresh the brand without losing recognition?",
+    "quizZh": "团队如何在不损失识别度的情况下焕新品牌？",
+    "answer": "Retain distinctive brand assets and test the refreshed design before rollout.",
+    "answerZh": "保留独特品牌资产，并在推广前测试新版设计。",
+    "wordIds": [
+      "MKT063"
+    ]
+  },
+  {
+    "id": "S08",
+    "moduleId": "m5",
+    "title": "市场调研方案评审",
+    "titleEn": "Market research proposal review",
+    "lines": [
+      {
+        "role": "Research Lead",
+        "en": "We plan to survey two hundred customers about the new concept.",
+        "zh": "我们计划调查两百名客户对新概念的看法。"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "Does the sample include people who have never bought from us?",
+        "zh": "样本包含从未购买过我们产品的人吗？"
+      },
+      {
+        "role": "Research Lead",
+        "en": "Not yet. Most respondents come from our loyalty database.",
+        "zh": "暂时没有。多数受访者来自会员数据库。"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "That could overstate purchase intent among the wider audience.",
+        "zh": "这可能高估更广泛受众的购买意愿。"
+      },
+      {
+        "role": "Research Lead",
+        "en": "I'll recruit noncustomers and set quotas by age and purchase frequency.",
+        "zh": "我会招募非客户，并按年龄和购买频次设定配额。"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "Good. Let's review the screening questions before fieldwork starts.",
+        "zh": "好的，正式调研开始前我们审核一下筛选题。"
+      }
+    ],
+    "quiz": "Why should the team revise the sample design?",
+    "quizZh": "团队为什么应该调整样本设计？",
+    "answer": "The existing sample overrepresents loyal customers and may bias the findings.",
+    "answerZh": "现有样本过度代表忠诚客户，可能导致研究结果偏差。",
+    "wordIds": [
+      "MKT488",
+      "MKT052"
+    ]
+  },
+  {
+    "id": "S09",
+    "moduleId": "m6",
+    "title": "消费者访谈与需求洞察",
+    "titleEn": "Consumer interviews and unmet needs",
+    "lines": [
+      {
+        "role": "Insights Researcher",
+        "en": "Several participants said they abandoned their purchase halfway through.",
+        "zh": "几位受访者表示他们在购买过程中放弃了。"
+      },
+      {
+        "role": "Product Marketer",
+        "en": "Was price the main barrier?",
+        "zh": "价格是主要障碍吗？"
+      },
+      {
+        "role": "Insights Researcher",
+        "en": "Not really. They struggled to compare the different plans.",
+        "zh": "并不是。他们难以比较不同方案。"
+      },
+      {
+        "role": "Product Marketer",
+        "en": "So the unmet need is clarity rather than a lower price.",
+        "zh": "所以未满足的需求是清晰的信息，而非更低价格。"
+      },
+      {
+        "role": "Insights Researcher",
+        "en": "Exactly. They want to make a confident decision more quickly.",
+        "zh": "没错，他们希望更快地做出有信心的决定。"
+      },
+      {
+        "role": "Product Marketer",
+        "en": "Let's test a simplified comparison table with the next interview group.",
+        "zh": "我们用下一组访谈对象测试简化后的对比表吧。"
+      }
+    ],
+    "quiz": "What unmet need emerged from the interviews?",
+    "quizZh": "访谈发现了什么未满足需求？",
+    "answer": "Customers need a faster way to compare options without sacrificing confidence in their choice.",
+    "answerZh": "客户需要更快地比较选项，同时保持对选择的信心。",
+    "wordIds": [
+      "MKT051"
+    ]
+  },
+  {
+    "id": "S10",
+    "moduleId": "m6",
+    "title": "消费者趋势汇报",
+    "titleEn": "Consumer trend briefing",
+    "lines": [
+      {
+        "role": "Insights Manager",
+        "en": "We're seeing more interest in refillable packaging among younger shoppers.",
+        "zh": "我们发现年轻购物者对可补充式包装的兴趣增加了。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Is this a lasting shift or a short-term social media trend?",
+        "zh": "这是长期变化还是短期社媒趋势？"
+      },
+      {
+        "role": "Insights Manager",
+        "en": "Search volume has risen, but actual sales data is still limited.",
+        "zh": "搜索量已经上升，但实际销售数据仍然有限。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Can we compare the trend across regions and over time?",
+        "zh": "我们能跨地区、跨时间比较这一趋势吗？"
+      },
+      {
+        "role": "Insights Manager",
+        "en": "Yes, and we can test a refill offer in selected stores.",
+        "zh": "可以，我们还可以在部分门店测试补充装方案。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Let's use the pilot results to decide whether to expand the range.",
+        "zh": "我们根据试点结果决定是否扩大产品系列。"
+      }
+    ],
+    "quiz": "How should the team validate the emerging trend?",
+    "quizZh": "团队应如何验证新兴趋势？",
+    "answer": "Compare search and sales data across periods and test a limited offer before scaling.",
+    "answerZh": "比较不同时期的搜索与销售数据，并在扩大规模前测试小范围方案。",
+    "wordIds": [
+      "MKT182",
+      "MKT314"
+    ]
+  },
+  {
+    "id": "S11",
+    "moduleId": "m7",
+    "title": "新品上市准备",
+    "titleEn": "Product launch readiness",
+    "lines": [
+      {
+        "role": "Product Marketing Manager",
+        "en": "Are we ready to launch next Tuesday?",
+        "zh": "我们准备好下周二上市了吗？"
+      },
+      {
+        "role": "Sales Director",
+        "en": "The product is ready, but the sales team has not received the demo materials.",
+        "zh": "产品已准备就绪，但销售团队尚未收到演示资料。"
+      },
+      {
+        "role": "Product Marketing Manager",
+        "en": "Can we finish the sales enablement kit by Friday?",
+        "zh": "我们能在周五前完成销售赋能资料包吗？"
+      },
+      {
+        "role": "Sales Director",
+        "en": "Yes, provided we get the final pricing approval tomorrow.",
+        "zh": "可以，前提是明天获得最终定价审批。"
+      },
+      {
+        "role": "Product Marketing Manager",
+        "en": "Let's make pricing approval a launch gate rather than a post-launch task.",
+        "zh": "我们把定价审批设为上市前置条件，而不是上市后的任务。"
+      },
+      {
+        "role": "Sales Director",
+        "en": "Agreed. I'll confirm the owners and deadlines this afternoon.",
+        "zh": "同意。我今天下午确认负责人和截止日期。"
+      }
+    ],
+    "quiz": "What must happen before launch?",
+    "quizZh": "上市前必须完成什么？",
+    "answer": "Approve pricing and complete the sales enablement kit.",
+    "answerZh": "批准定价并完成销售赋能资料包。",
+    "wordIds": [
+      "MKT075",
+      "MKT178",
+      "MKT071"
+    ]
+  },
+  {
+    "id": "S12",
+    "moduleId": "m7",
+    "title": "GTM策略会议",
+    "titleEn": "Go-to-market strategy meeting",
+    "lines": [
+      {
+        "role": "Product Marketing Lead",
+        "en": "Which segment should we target first?",
+        "zh": "我们应该优先面向哪个细分市场？"
+      },
+      {
+        "role": "Commercial Director",
+        "en": "Mid-sized retailers have the shortest sales cycle in our pilot.",
+        "zh": "试点中，中型零售商的销售周期最短。"
+      },
+      {
+        "role": "Product Marketing Lead",
+        "en": "Do we have a compelling value proposition for them?",
+        "zh": "我们对他们有足够吸引力的价值主张吗？"
+      },
+      {
+        "role": "Commercial Director",
+        "en": "Yes. We can demonstrate lower inventory costs with customer case studies.",
+        "zh": "有。我们可以用客户案例证明库存成本降低。"
+      },
+      {
+        "role": "Product Marketing Lead",
+        "en": "Let's focus on that segment before expanding to enterprise accounts.",
+        "zh": "我们先聚焦该细分市场，再拓展大型企业客户。"
+      },
+      {
+        "role": "Commercial Director",
+        "en": "I'll align the messaging and channel plan with sales.",
+        "zh": "我会与销售团队统一传播信息和渠道计划。"
+      }
+    ],
+    "quiz": "Why prioritize mid-sized retailers?",
+    "quizZh": "为何优先选择中型零售商？",
+    "answer": "They have a shorter sales cycle and a demonstrable value proposition.",
+    "answerZh": "他们的销售周期较短，且价值主张有证据支持。",
+    "wordIds": [
+      "MKT070",
+      "MKT003"
+    ]
+  },
+  {
+    "id": "S13",
+    "moduleId": "m8",
+    "title": "营销活动启动会",
+    "titleEn": "Campaign kickoff",
+    "lines": [
+      {
+        "role": "Campaign Manager",
+        "en": "Our objective is to generate qualified leads, not just impressions.",
+        "zh": "我们的目标是获取合格线索，而不仅是曝光。"
+      },
+      {
+        "role": "Channel Lead",
+        "en": "Which channels will carry the campaign?",
+        "zh": "哪些渠道将承接此次活动？"
+      },
+      {
+        "role": "Campaign Manager",
+        "en": "Paid search will capture demand, while webinars will educate prospects.",
+        "zh": "付费搜索承接需求，线上研讨会负责教育潜客。"
+      },
+      {
+        "role": "Channel Lead",
+        "en": "How will we keep the messaging consistent?",
+        "zh": "我们如何保持传播信息一致？"
+      },
+      {
+        "role": "Campaign Manager",
+        "en": "We'll use a shared creative brief and a weekly review.",
+        "zh": "我们将使用统一创意简报并每周复盘。"
+      },
+      {
+        "role": "Channel Lead",
+        "en": "I'll assign channel owners and confirm the reporting schedule.",
+        "zh": "我会指定渠道负责人并确认汇报时间表。"
+      }
+    ],
+    "quiz": "How will the team maintain consistency?",
+    "quizZh": "团队如何保持一致性？",
+    "answer": "Use a shared creative brief and weekly reviews.",
+    "answerZh": "使用统一创意简报并每周复盘。",
+    "wordIds": [
+      "MKT204",
+      "MKT011"
+    ]
+  },
+  {
+    "id": "S14",
+    "moduleId": "m8",
+    "title": "创意方案评审",
+    "titleEn": "Creative concept review",
+    "lines": [
+      {
+        "role": "Brand Manager",
+        "en": "The concept is memorable, but the product benefit is not clear.",
+        "zh": "创意令人印象深刻，但产品利益点不够清晰。"
+      },
+      {
+        "role": "Creative Director",
+        "en": "We wanted to lead with an emotional story.",
+        "zh": "我们希望以情感故事切入。"
+      },
+      {
+        "role": "Brand Manager",
+        "en": "Could we retain the story and introduce the benefit earlier?",
+        "zh": "能否保留故事，同时更早呈现利益点？"
+      },
+      {
+        "role": "Creative Director",
+        "en": "Yes, we can show the product in the opening scene.",
+        "zh": "可以，我们可以在开场展示产品。"
+      },
+      {
+        "role": "Brand Manager",
+        "en": "Let's test both versions with our target audience.",
+        "zh": "我们让目标受众测试两个版本吧。"
+      },
+      {
+        "role": "Creative Director",
+        "en": "I'll prepare the revised storyboard for Thursday.",
+        "zh": "我会在周四准备好修改后的分镜脚本。"
+      }
+    ],
+    "quiz": "What change is proposed?",
+    "quizZh": "提出了什么修改？",
+    "answer": "Introduce the product benefit earlier while retaining the story.",
+    "answerZh": "保留故事，同时更早呈现产品利益点。",
+    "wordIds": [
+      "MKT222"
+    ]
+  },
+  {
+    "id": "S15",
+    "moduleId": "m3",
+    "title": "搜索广告优化",
+    "titleEn": "Paid search optimization",
+    "lines": [
+      {
+        "role": "Performance Marketer",
+        "en": "Our cost per acquisition rose sharply last week.",
+        "zh": "上周我们的获客成本大幅上升。"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "Is the increase coming from higher bids or lower conversion rates?",
+        "zh": "上涨源于更高出价还是更低转化率？"
+      },
+      {
+        "role": "Performance Marketer",
+        "en": "Broad search terms are driving traffic that rarely converts.",
+        "zh": "宽泛搜索词带来的流量很少转化。"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "Can we add negative keywords and tighten targeting?",
+        "zh": "能否添加否定关键词并收紧定向？"
+      },
+      {
+        "role": "Performance Marketer",
+        "en": "Yes, I'll also review the landing page by search intent.",
+        "zh": "可以，我也会按搜索意图检查落地页。"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "Monitor qualified conversions before increasing the budget again.",
+        "zh": "再次增加预算前，先监测有效转化。"
+      }
+    ],
+    "quiz": "What should be optimized first?",
+    "quizZh": "应优先优化什么？",
+    "answer": "Exclude irrelevant searches and review landing page relevance.",
+    "answerZh": "排除无关搜索并检查落地页相关性。",
+    "wordIds": [
+      "MKT230",
+      "MKT010",
+      "MKT011",
+      "MKT096"
+    ]
+  },
+  {
+    "id": "S16",
+    "moduleId": "m9",
+    "title": "媒介投放计划评审",
+    "titleEn": "Media plan review",
+    "lines": [
+      {
+        "role": "Media Planner",
+        "en": "The proposed plan reaches most of our target audience.",
+        "zh": "拟定方案能触达大部分目标受众。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "How much overlap is there between video and social placements?",
+        "zh": "视频与社交广告版位之间有多少受众重叠？"
+      },
+      {
+        "role": "Media Planner",
+        "en": "The overlap is high, so additional spend may mainly increase frequency.",
+        "zh": "重叠度很高，因此额外投入可能主要增加曝光频次。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Can we shift some budget to channels with incremental reach?",
+        "zh": "能否将部分预算转向能带来增量触达的渠道？"
+      },
+      {
+        "role": "Media Planner",
+        "en": "I'll model an alternative mix and compare the projected reach.",
+        "zh": "我会模拟另一种组合并比较预计触达。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Include the assumptions so we can assess the trade-offs.",
+        "zh": "请列出假设，以便我们评估取舍。"
+      }
+    ],
+    "quiz": "Why consider a different channel mix?",
+    "quizZh": "为何考虑不同渠道组合？",
+    "answer": "To increase incremental reach rather than duplicate exposure.",
+    "answerZh": "为了增加增量触达，而不是重复曝光。",
+    "wordIds": [
+      "MKT268",
+      "MKT258",
+      "MKT261"
+    ]
+  },
+  {
+    "id": "S17",
+    "moduleId": "m10",
+    "title": "社交媒体运营会议",
+    "titleEn": "Social media planning",
+    "lines": [
+      {
+        "role": "Social Media Manager",
+        "en": "Our educational posts receive more saves than promotional posts.",
+        "zh": "教育类帖子比促销帖子获得更多收藏。"
+      },
+      {
+        "role": "Community Manager",
+        "en": "The comments also contain recurring questions about product usage.",
+        "zh": "评论中也反复出现产品使用方面的问题。"
+      },
+      {
+        "role": "Social Media Manager",
+        "en": "Let's turn those questions into a weekly tutorial series.",
+        "zh": "我们把这些问题做成每周教程系列吧。"
+      },
+      {
+        "role": "Community Manager",
+        "en": "Should we respond to comments with links to the tutorials?",
+        "zh": "我们是否应在回复评论时附上教程链接？"
+      },
+      {
+        "role": "Social Media Manager",
+        "en": "Yes, but keep the replies personal and relevant.",
+        "zh": "可以，但回复要个性化且切题。"
+      },
+      {
+        "role": "Community Manager",
+        "en": "I'll track saves and useful conversations, not just follower growth.",
+        "zh": "我会追踪收藏和有价值的互动，而不仅是粉丝增长。"
+      }
+    ],
+    "quiz": "What content should the team create?",
+    "quizZh": "团队应该制作什么内容？",
+    "answer": "Tutorials addressing recurring product questions.",
+    "answerZh": "解答常见产品问题的教程。",
+    "wordIds": [
+      "MKT302",
+      "MKT256"
+    ]
+  },
+  {
+    "id": "S18",
+    "moduleId": "m12",
+    "title": "达人合作谈判",
+    "titleEn": "Creator partnership negotiation",
+    "lines": [
+      {
+        "role": "Influencer Manager",
+        "en": "We'd like two short videos and one follow-up story.",
+        "zh": "我们希望合作包含两条短视频和一条后续限时动态。"
+      },
+      {
+        "role": "Creator Representative",
+        "en": "Does the fee include paid advertising usage rights?",
+        "zh": "费用包含付费广告使用权吗？"
+      },
+      {
+        "role": "Influencer Manager",
+        "en": "We need thirty days of paid usage in the domestic market.",
+        "zh": "我们需要国内市场三十天的付费使用权。"
+      },
+      {
+        "role": "Creator Representative",
+        "en": "We can quote that separately, with no automatic renewal.",
+        "zh": "我们可以单独报价，且不自动续期。"
+      },
+      {
+        "role": "Influencer Manager",
+        "en": "Please include the disclosure requirements and revision limits.",
+        "zh": "请列明广告披露要求和修改次数限制。"
+      },
+      {
+        "role": "Creator Representative",
+        "en": "I'll send a revised proposal covering all those terms.",
+        "zh": "我会发送包含所有这些条款的修订方案。"
+      }
+    ],
+    "quiz": "Which rights must be negotiated separately?",
+    "quizZh": "哪些权利需要单独协商？",
+    "answer": "Thirty days of paid advertising usage rights in the domestic market.",
+    "answerZh": "国内市场三十天的付费广告使用权。",
+    "wordIds": [
+      "MKT363"
+    ]
+  },
+  {
+    "id": "S19",
+    "moduleId": "m11",
+    "title": "内容策略讨论",
+    "titleEn": "Content strategy discussion",
+    "lines": [
+      {
+        "role": "Content Lead",
+        "en": "Our blog attracts traffic, but few readers request a demo.",
+        "zh": "博客吸引了流量，但很少有读者申请演示。"
+      },
+      {
+        "role": "Demand Generation Manager",
+        "en": "Are we producing enough content for buyers comparing solutions?",
+        "zh": "我们是否为正在比较解决方案的买家制作了足够内容？"
+      },
+      {
+        "role": "Content Lead",
+        "en": "Not yet. Most articles address early-stage questions.",
+        "zh": "还没有。大部分文章解答早期阶段的问题。"
+      },
+      {
+        "role": "Demand Generation Manager",
+        "en": "Let's develop comparison guides and customer case studies.",
+        "zh": "我们制作对比指南和客户案例吧。"
+      },
+      {
+        "role": "Content Lead",
+        "en": "I'll map each asset to a buying stage and add relevant calls to action.",
+        "zh": "我会将每份内容对应到购买阶段，并添加相关行动号召。"
+      },
+      {
+        "role": "Demand Generation Manager",
+        "en": "We'll measure assisted conversions as well as direct leads.",
+        "zh": "我们既衡量辅助转化，也衡量直接线索。"
+      }
+    ],
+    "quiz": "How can content better support demand generation?",
+    "quizZh": "内容如何更好地支持需求开发？",
+    "answer": "Create comparison guides and case studies for later buying stages.",
+    "answerZh": "为较后购买阶段制作对比指南和客户案例。",
+    "wordIds": [
+      "MKT326"
+    ]
+  },
+  {
+    "id": "S20",
+    "moduleId": "m3",
+    "title": "落地页A/B测试",
+    "titleEn": "Landing page A/B test",
+    "lines": [
+      {
+        "role": "Growth Marketer",
+        "en": "The new landing page has a higher conversion rate after two days.",
+        "zh": "新落地页上线两天后转化率更高。"
+      },
+      {
+        "role": "Digital Analyst",
+        "en": "We haven't reached the planned sample size yet.",
+        "zh": "我们还没有达到计划样本量。"
+      },
+      {
+        "role": "Growth Marketer",
+        "en": "Should we keep the test running until next week?",
+        "zh": "我们是否应继续测试到下周？"
+      },
+      {
+        "role": "Digital Analyst",
+        "en": "Yes, and we should check that traffic is allocated correctly.",
+        "zh": "是的，还应检查流量分配是否正确。"
+      },
+      {
+        "role": "Growth Marketer",
+        "en": "Let's avoid changing the offer during the experiment.",
+        "zh": "实验期间不要改变优惠方案。"
+      },
+      {
+        "role": "Digital Analyst",
+        "en": "Agreed. I'll report the confidence interval and lead quality when the test ends.",
+        "zh": "同意。测试结束后我会汇报置信区间和线索质量。"
+      }
+    ],
+    "quiz": "Why not declare a winner now?",
+    "quizZh": "为什么现在不宣布胜出版本？",
+    "answer": "The planned sample size has not been reached.",
+    "answerZh": "尚未达到计划样本量。",
+    "wordIds": [
+      "MKT009",
+      "MKT010",
+      "MKT199",
+      "MKT039"
+    ]
+  },
+  {
+    "id": "S21",
+    "moduleId": "m8",
+    "title": "代理商合作简报",
+    "titleEn": "Agency briefing",
+    "lines": [
+      {
+        "role": "Marketing Manager",
+        "en": "We need a proposal that covers both creative development and media execution.",
+        "zh": "我们需要一份涵盖创意开发和媒介执行的方案。"
+      },
+      {
+        "role": "Agency Account Director",
+        "en": "Could you clarify the scope of work and the approval process?",
+        "zh": "能否明确工作范围和审批流程？"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "Include three creative concepts, but budget for production separately.",
+        "zh": "请提供三个创意概念，但制作费用单独列预算。"
+      },
+      {
+        "role": "Agency Account Director",
+        "en": "We'll itemize the deliverables and specify two rounds of revisions.",
+        "zh": "我们会逐项列出交付物，并明确两轮修改。"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "Please also include a timeline with milestones and dependencies.",
+        "zh": "请同时提供包含里程碑和依赖关系的时间表。"
+      },
+      {
+        "role": "Agency Account Director",
+        "en": "I'll send the revised proposal by Friday for your review.",
+        "zh": "我会在周五前发送修订方案供你审核。"
+      }
+    ],
+    "quiz": "What should be budgeted separately?",
+    "quizZh": "什么费用应单独列预算？",
+    "answer": "Production costs.",
+    "answerZh": "制作费用。",
+    "wordIds": [
+      "MKT203",
+      "MKT204",
+      "MKT260"
+    ]
+  },
+  {
+    "id": "S22",
+    "moduleId": "m23",
+    "title": "供应商报价谈判",
+    "titleEn": "Vendor quotation negotiation",
+    "lines": [
+      {
+        "role": "Procurement Manager",
+        "en": "Your quotation exceeds our approved budget by fifteen percent.",
+        "zh": "你们的报价超出我们批准的预算百分之十五。"
+      },
+      {
+        "role": "Marketing Supplier",
+        "en": "The estimate includes installation and on-site technical support.",
+        "zh": "估价包含安装和现场技术支持。"
+      },
+      {
+        "role": "Procurement Manager",
+        "en": "Can you offer a volume discount if we consolidate the orders?",
+        "zh": "如果我们合并订单，能否提供批量折扣？"
+      },
+      {
+        "role": "Marketing Supplier",
+        "en": "We can reduce the unit price by eight percent for a confirmed annual volume.",
+        "zh": "如果确认年度采购量，我们可以将单价降低百分之八。"
+      },
+      {
+        "role": "Procurement Manager",
+        "en": "Please specify the payment terms and cancellation fees in writing.",
+        "zh": "请以书面形式明确付款条件和取消费用。"
+      },
+      {
+        "role": "Marketing Supplier",
+        "en": "I'll issue an updated quotation with those conditions.",
+        "zh": "我会出具包含这些条件的新版报价单。"
+      }
+    ],
+    "quiz": "What condition is attached to the discount?",
+    "quizZh": "折扣附带什么条件？",
+    "answer": "A confirmed annual order volume.",
+    "answerZh": "确认年度采购量。",
+    "wordIds": [
+      "MKT576",
+      "MKT577"
+    ]
+  },
+  {
+    "id": "S23",
+    "moduleId": "m15",
+    "title": "渠道联合商业计划",
+    "titleEn": "Joint business planning",
+    "lines": [
+      {
+        "role": "Trade Marketing Manager",
+        "en": "Our sell-in is strong, but sell-through is below forecast.",
+        "zh": "我们的渠道进货表现不错，但终端售出低于预测。"
+      },
+      {
+        "role": "Distributor",
+        "en": "Several stores are carrying more inventory than they can sell.",
+        "zh": "几家门店的库存超过了实际销售能力。"
+      },
+      {
+        "role": "Trade Marketing Manager",
+        "en": "Let's adjust replenishment and focus trade promotions on slow-moving stock.",
+        "zh": "我们调整补货，并针对滞销库存开展渠道促销。"
+      },
+      {
+        "role": "Distributor",
+        "en": "We can share weekly inventory and point-of-sale data.",
+        "zh": "我们可以共享每周库存和销售点数据。"
+      },
+      {
+        "role": "Trade Marketing Manager",
+        "en": "We'll link the next incentive payment to verified sell-through.",
+        "zh": "我们将把下一笔激励款与经核实的终端售出表现挂钩。"
+      },
+      {
+        "role": "Distributor",
+        "en": "Agreed. I'll update our joint business plan accordingly.",
+        "zh": "同意，我会据此更新联合商业计划。"
+      }
+    ],
+    "quiz": "What will determine the next incentive payment?",
+    "quizZh": "下一笔激励款取决于什么？",
+    "answer": "Verified sell-through.",
+    "answerZh": "经核实的终端售出表现。",
+    "wordIds": [
+      "MKT412",
+      "MKT405",
+      "MKT404"
+    ]
+  },
+  {
+    "id": "S24",
+    "moduleId": "m16",
+    "title": "门店陈列与促销评审",
+    "titleEn": "Retail merchandising review",
+    "lines": [
+      {
+        "role": "Retail Marketing Manager",
+        "en": "The endcap display attracted traffic, but basket size stayed flat.",
+        "zh": "端架陈列吸引了客流，但购物篮规模没有增长。"
+      },
+      {
+        "role": "Store Manager",
+        "en": "Customers often pick up the featured item without buying complementary products.",
+        "zh": "顾客经常只购买主推商品，而不购买搭配商品。"
+      },
+      {
+        "role": "Retail Marketing Manager",
+        "en": "Could we place complementary items next to the display?",
+        "zh": "能否将搭配商品放在陈列旁边？"
+      },
+      {
+        "role": "Store Manager",
+        "en": "Yes, provided we update the planogram and keep the aisle clear.",
+        "zh": "可以，前提是更新货架陈列图并保持通道畅通。"
+      },
+      {
+        "role": "Retail Marketing Manager",
+        "en": "Let's test the layout in five stores and track units per transaction.",
+        "zh": "我们在五家门店测试布局，并追踪每笔交易的商品件数。"
+      },
+      {
+        "role": "Store Manager",
+        "en": "I'll brief the store teams and collect the results next week.",
+        "zh": "我会向门店团队说明要求，并在下周收集结果。"
+      }
+    ],
+    "quiz": "Which metric will assess the new layout?",
+    "quizZh": "用什么指标评估新布局？",
+    "answer": "Units per transaction.",
+    "answerZh": "每笔交易的商品件数。",
+    "wordIds": [
+      "MKT424",
+      "MKT428",
+      "MKT421"
+    ]
+  },
+  {
+    "id": "S25",
+    "moduleId": "m19",
+    "title": "会员权益优化",
+    "titleEn": "Loyalty program optimization",
+    "lines": [
+      {
+        "role": "Loyalty Manager",
+        "en": "Our redemption rate is low despite growing membership.",
+        "zh": "尽管会员数量增长，积分兑换率仍然较低。"
+      },
+      {
+        "role": "Finance Partner",
+        "en": "We also have a growing points liability on the balance sheet.",
+        "zh": "资产负债表上的积分负债也在增加。"
+      },
+      {
+        "role": "Loyalty Manager",
+        "en": "I'd like to test smaller rewards with a lower redemption threshold.",
+        "zh": "我想测试兑换门槛更低的小额奖励。"
+      },
+      {
+        "role": "Finance Partner",
+        "en": "We should model the cost before changing the entire program.",
+        "zh": "在调整整个计划前，我们应该测算成本。"
+      },
+      {
+        "role": "Loyalty Manager",
+        "en": "Let's run a pilot and monitor incremental purchases as well as redemption.",
+        "zh": "我们开展试点，同时监测增量购买和兑换情况。"
+      },
+      {
+        "role": "Finance Partner",
+        "en": "I'll agree on a spending cap with you before the pilot starts.",
+        "zh": "试点开始前，我会与你确定支出上限。"
+      }
+    ],
+    "quiz": "What should be monitored besides redemption?",
+    "quizZh": "除兑换外还应监测什么？",
+    "answer": "Incremental purchases.",
+    "answerZh": "增量购买。",
+    "wordIds": [
+      "MKT484",
+      "MKT481"
+    ]
+  },
+  {
+    "id": "S26",
+    "moduleId": "m18",
+    "title": "客户分群与自动化运营",
+    "titleEn": "CRM segmentation and automation",
+    "lines": [
+      {
+        "role": "CRM Manager",
+        "en": "We want to send a win-back offer to inactive customers.",
+        "zh": "我们希望向不活跃客户发送挽回优惠。"
+      },
+      {
+        "role": "Data Analyst",
+        "en": "How are you defining inactivity for customers with different purchase cycles?",
+        "zh": "对于购买周期不同的客户，你如何定义不活跃？"
+      },
+      {
+        "role": "CRM Manager",
+        "en": "Let's use category-specific thresholds instead of a single cutoff.",
+        "zh": "我们采用按品类划分的阈值，而不是统一截止标准。"
+      },
+      {
+        "role": "Data Analyst",
+        "en": "I'll exclude customers who have opted out of marketing emails.",
+        "zh": "我会排除已退订营销邮件的客户。"
+      },
+      {
+        "role": "CRM Manager",
+        "en": "Keep a randomized holdout group so we can measure incremental response.",
+        "zh": "保留随机留出对照组，以便衡量增量响应。"
+      },
+      {
+        "role": "Data Analyst",
+        "en": "I'll configure the triggered campaign and document the eligibility rules.",
+        "zh": "我会配置触发式活动，并记录参与资格规则。"
+      }
+    ],
+    "quiz": "Why keep a holdout group?",
+    "quizZh": "为什么保留留出对照组？",
+    "answer": "To measure incremental response.",
+    "answerZh": "为了衡量增量响应。",
+    "wordIds": [
+      "MKT504"
+    ]
+  },
+  {
+    "id": "S27",
+    "moduleId": "m17",
+    "title": "增长实验优先级评审",
+    "titleEn": "Growth experiment prioritization",
+    "lines": [
+      {
+        "role": "Growth Lead",
+        "en": "Activation is our biggest funnel bottleneck this quarter.",
+        "zh": "激活是本季度漏斗中最大的瓶颈。"
+      },
+      {
+        "role": "Product Manager",
+        "en": "We have two ideas: simplify onboarding or offer a referral reward.",
+        "zh": "我们有两个想法：简化新手引导或提供推荐奖励。"
+      },
+      {
+        "role": "Growth Lead",
+        "en": "The onboarding change addresses the bottleneck more directly.",
+        "zh": "新手引导调整能更直接地解决瓶颈。"
+      },
+      {
+        "role": "Product Manager",
+        "en": "It also requires less engineering effort than the referral program.",
+        "zh": "它所需的研发投入也比推荐计划少。"
+      },
+      {
+        "role": "Growth Lead",
+        "en": "Let's define activation as completing the first order within seven days.",
+        "zh": "我们将激活定义为七天内完成首笔订单。"
+      },
+      {
+        "role": "Product Manager",
+        "en": "I'll estimate the sample size and agree on guardrail metrics before launch.",
+        "zh": "上线前我会估算样本量并确定护栏指标。"
+      }
+    ],
+    "quiz": "How is activation defined in this experiment?",
+    "quizZh": "本次实验如何定义激活？",
+    "answer": "Completing the first order within seven days.",
+    "answerZh": "七天内完成首笔订单。",
+    "wordIds": [
+      "MKT445",
+      "MKT443",
+      "MKT039"
+    ]
+  },
+  {
+    "id": "S28",
+    "moduleId": "m4",
+    "title": "营销投资回报分析",
+    "titleEn": "Marketing ROI analysis",
+    "lines": [
+      {
+        "role": "Marketing Director",
+        "en": "The campaign generated attributed revenue of two million dollars.",
+        "zh": "该活动产生了两百万美元的归因收入。"
+      },
+      {
+        "role": "Marketing Analyst",
+        "en": "How much of that revenue was actually incremental?",
+        "zh": "其中有多少收入是真正的增量？"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Our holdout test suggests incremental revenue of eight hundred thousand dollars.",
+        "zh": "留出对照实验表明增量收入为八十万美元。"
+      },
+      {
+        "role": "Marketing Analyst",
+        "en": "We should apply the contribution margin before comparing it with campaign costs.",
+        "zh": "与活动成本比较前，我们应该先计算贡献毛利。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "At a fifty percent contribution margin, that gives us four hundred thousand dollars before campaign costs.",
+        "zh": "按百分之五十的贡献毛利率计算，扣除活动成本前为四十万美元。"
+      },
+      {
+        "role": "Marketing Analyst",
+        "en": "I'll present both attributed ROAS and incremental profit after campaign costs.",
+        "zh": "我会同时汇报归因广告支出回报率和扣除活动成本后的增量利润。"
+      }
+    ],
+    "quiz": "What is the incremental contribution before campaign costs?",
+    "quizZh": "扣除活动成本前的增量贡献毛利是多少？",
+    "answer": "Four hundred thousand dollars.",
+    "answerZh": "四十万美元。",
+    "wordIds": [
+      "MKT506",
+      "MKT591"
+    ]
+  },
+  {
+    "id": "S29",
+    "moduleId": "m4",
+    "title": "营销归因与增量评估",
+    "titleEn": "Attribution and incrementality review",
+    "lines": [
+      {
+        "role": "Performance Marketer",
+        "en": "Last-click attribution gives paid search most of the credit.",
+        "zh": "末次点击归因将大部分功劳归给付费搜索。"
+      },
+      {
+        "role": "Measurement Lead",
+        "en": "That doesn't necessarily mean search caused all those conversions.",
+        "zh": "这并不意味着搜索广告促成了所有这些转化。"
+      },
+      {
+        "role": "Performance Marketer",
+        "en": "Could we run a geo experiment to estimate incremental lift?",
+        "zh": "我们能否开展地理区域实验来估算增量提升？"
+      },
+      {
+        "role": "Measurement Lead",
+        "en": "Yes, if we can select comparable regions and minimize spillover.",
+        "zh": "可以，前提是选择可比区域并尽量减少外溢影响。"
+      },
+      {
+        "role": "Performance Marketer",
+        "en": "Let's agree on the primary outcome and test duration in advance.",
+        "zh": "我们提前确定主要结果指标和测试时长。"
+      },
+      {
+        "role": "Measurement Lead",
+        "en": "I'll document the design and report uncertainty alongside the estimate.",
+        "zh": "我会记录实验设计，并在汇报估计值时同时说明不确定性。"
+      }
+    ],
+    "quiz": "Why is last-click attribution insufficient to establish causality?",
+    "quizZh": "为什么末次点击归因不足以确定因果关系？",
+    "answer": "It assigns credit but does not establish which conversions were caused by advertising.",
+    "answerZh": "它分配归因功劳，但不能确定哪些转化由广告促成。",
+    "wordIds": [
+      "MKT503",
+      "MKT016",
+      "MKT505",
+      "MKT015",
+      "MKT011"
+    ]
+  },
+  {
+    "id": "S30",
+    "moduleId": "m24",
+    "title": "月度经营数据汇报",
+    "titleEn": "Monthly business performance review",
+    "lines": [
+      {
+        "role": "Marketing Director",
+        "en": "Revenue is up twelve percent year over year, but gross margin has declined.",
+        "zh": "收入同比增长百分之十二，但毛利率下降了。"
+      },
+      {
+        "role": "Business Analyst",
+        "en": "The sales mix shifted toward heavily discounted products.",
+        "zh": "销售结构转向了折扣力度较大的产品。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Can you separate the impact of pricing from the impact of volume?",
+        "zh": "你能否区分价格和销量的影响？"
+      },
+      {
+        "role": "Business Analyst",
+        "en": "I'll prepare a variance analysis and reconcile it with Finance.",
+        "zh": "我会准备差异分析，并与财务部门核对。"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "We need a clear action plan, not just a list of metrics.",
+        "zh": "我们需要明确的行动计划，而不仅是指标列表。"
+      },
+      {
+        "role": "Business Analyst",
+        "en": "I'll recommend reducing blanket discounts and testing targeted offers.",
+        "zh": "我会建议减少普遍折扣，并测试定向优惠。"
+      }
+    ],
+    "quiz": "What action will the analyst recommend?",
+    "quizZh": "分析师将建议什么行动？",
+    "answer": "Reduce blanket discounts and test targeted offers.",
+    "answerZh": "减少普遍折扣并测试定向优惠。",
+    "wordIds": [
+      "MKT597",
+      "MKT592",
+      "MKT600"
+    ]
+  },
+  {
+    "id": "S31",
+    "moduleId": "m21",
+    "title": "海外市场进入评审",
+    "titleEn": "International market entry review",
+    "lines": [
+      {
+        "role": "Expansion Director",
+        "en": "Which market should we enter first?",
+        "zh": "我们应该先进入哪个市场？"
+      },
+      {
+        "role": "Market Analyst",
+        "en": "Malaysia has lower entry costs, while Japan offers higher revenue potential.",
+        "zh": "马来西亚的进入成本较低，而日本的收入潜力更高。"
+      },
+      {
+        "role": "Expansion Director",
+        "en": "Have we assessed the regulatory landscape and landed costs?",
+        "zh": "我们评估过监管环境和到岸总成本了吗？"
+      },
+      {
+        "role": "Market Analyst",
+        "en": "Yes, but our demand forecast still needs validation through a pilot.",
+        "zh": "评估过了，但需求预测仍需通过试点验证。"
+      },
+      {
+        "role": "Expansion Director",
+        "en": "Let's run a limited launch in Malaysia before committing to a full rollout.",
+        "zh": "我们先在马来西亚小规模上市，再决定是否全面推广。"
+      },
+      {
+        "role": "Market Analyst",
+        "en": "I'll define the success criteria and prepare an exit plan.",
+        "zh": "我会明确成功标准并准备退出方案。"
+      }
+    ],
+    "quiz": "Why is the team proposing a limited launch?",
+    "answer": "To validate demand before committing to a full rollout.",
+    "quizZh": "团队为何建议小规模上市？",
+    "answerZh": "在全面推广前验证需求。",
+    "wordIds": [
+      "MKT550"
+    ]
+  },
+  {
+    "id": "S32",
+    "moduleId": "m20",
+    "title": "全球品牌战略协同",
+    "titleEn": "Global brand strategy alignment",
+    "lines": [
+      {
+        "role": "Global Brand Director",
+        "en": "Which elements of the global campaign must remain consistent?",
+        "zh": "全球营销活动中哪些元素必须保持一致？"
+      },
+      {
+        "role": "Regional Marketing Lead",
+        "en": "The brand promise and visual identity should remain unchanged.",
+        "zh": "品牌承诺和视觉识别应保持不变。"
+      },
+      {
+        "role": "Global Brand Director",
+        "en": "Our local team wants to replace the hero image with a regional customer story.",
+        "zh": "当地团队希望用区域客户故事替换主视觉图片。"
+      },
+      {
+        "role": "Regional Marketing Lead",
+        "en": "That is acceptable if the story supports the same brand promise.",
+        "zh": "如果故事支持相同的品牌承诺，就可以接受。"
+      },
+      {
+        "role": "Global Brand Director",
+        "en": "Can we document the acceptable adaptations in the global playbook?",
+        "zh": "我们能否在全球营销手册中记录允许的适配方式？"
+      },
+      {
+        "role": "Regional Marketing Lead",
+        "en": "Yes, I'll circulate the updated guidelines for regional approval.",
+        "zh": "可以，我会分发更新后的指南供区域团队审批。"
+      }
+    ],
+    "quiz": "What must remain consistent across markets?",
+    "answer": "The brand promise and visual identity.",
+    "quizZh": "哪些元素必须在各市场保持一致？",
+    "answerZh": "品牌承诺和视觉识别。",
+    "wordIds": [
+      "MKT526",
+      "MKT527",
+      "MKT060"
+    ]
+  },
+  {
+    "id": "S33",
+    "moduleId": "m22",
+    "title": "本地化创译评审",
+    "titleEn": "Localization and transcreation review",
+    "lines": [
+      {
+        "role": "Localization Manager",
+        "en": "The literal translation sounds unnatural in this market.",
+        "zh": "直译在这个市场听起来不自然。"
+      },
+      {
+        "role": "Local Copywriter",
+        "en": "I suggest transcreation to preserve the emotional appeal rather than the exact wording.",
+        "zh": "我建议采用创译，保留情感诉求而不是原文字面表达。"
+      },
+      {
+        "role": "Localization Manager",
+        "en": "Can you keep the product claims within the approved terminology?",
+        "zh": "你能确保产品宣称符合已批准的术语吗？"
+      },
+      {
+        "role": "Local Copywriter",
+        "en": "Yes, I'll check the glossary and flag any claims that need legal review.",
+        "zh": "可以，我会核对术语表并标记需要法务审核的宣称。"
+      },
+      {
+        "role": "Localization Manager",
+        "en": "Please arrange an in-market review before we publish the assets.",
+        "zh": "请在素材发布前安排当地市场审核。"
+      },
+      {
+        "role": "Local Copywriter",
+        "en": "I'll send two alternatives with explanations of the cultural nuances.",
+        "zh": "我会提交两个备选方案，并解释文化细微差异。"
+      }
+    ],
+    "quiz": "Why does the copywriter recommend transcreation?",
+    "answer": "To preserve emotional appeal while making the wording natural locally.",
+    "quizZh": "文案人员为何建议创译？",
+    "answerZh": "在使表达符合当地语言习惯的同时保留情感诉求。",
+    "wordIds": [
+      "MKT570",
+      "MKT561"
+    ]
+  },
+  {
+    "id": "S34",
+    "moduleId": "m20",
+    "title": "跨文化沟通与区域协作",
+    "titleEn": "Cross-cultural communication",
+    "lines": [
+      {
+        "role": "Regional Lead",
+        "en": "I noticed the team raised concerns only after the meeting.",
+        "zh": "我注意到团队在会议结束后才提出顾虑。"
+      },
+      {
+        "role": "Country Marketing Manager",
+        "en": "Some colleagues prefer to share critical feedback in writing.",
+        "zh": "有些同事更倾向于书面提出批评性反馈。"
+      },
+      {
+        "role": "Regional Lead",
+        "en": "Would an asynchronous review help everyone contribute?",
+        "zh": "异步评审是否有助于每个人参与？"
+      },
+      {
+        "role": "Country Marketing Manager",
+        "en": "Yes, especially if we circulate the proposal two days in advance.",
+        "zh": "是的，尤其是提前两天分发方案的话。"
+      },
+      {
+        "role": "Regional Lead",
+        "en": "Let's record decisions and explicitly invite objections before sign-off.",
+        "zh": "我们记录决策，并在签字确认前明确邀请大家提出异议。"
+      },
+      {
+        "role": "Country Marketing Manager",
+        "en": "I'll set up a shared document with a deadline for comments.",
+        "zh": "我会建立共享文档并设定反馈截止时间。"
+      }
+    ],
+    "quiz": "How will the team encourage feedback?",
+    "answer": "By sharing proposals in advance and inviting written comments before sign-off.",
+    "quizZh": "团队将如何鼓励反馈？",
+    "answerZh": "提前分享方案，并在确认前邀请书面反馈。",
+    "wordIds": [
+      "MKT532",
+      "MKT573"
+    ]
+  },
+  {
+    "id": "S35",
+    "moduleId": "m8",
+    "title": "跨部门上市协作",
+    "titleEn": "Cross-functional launch coordination",
+    "lines": [
+      {
+        "role": "Campaign Lead",
+        "en": "Sales has requested a launch date that engineering cannot support.",
+        "zh": "销售提出的上市日期是工程团队无法支持的。"
+      },
+      {
+        "role": "Product Manager",
+        "en": "The product is ready, but the integration documentation is not.",
+        "zh": "产品已准备就绪，但集成文档尚未完成。"
+      },
+      {
+        "role": "Campaign Lead",
+        "en": "Could we separate the announcement from general availability?",
+        "zh": "我们能否将发布公告与正式可用时间分开？"
+      },
+      {
+        "role": "Product Manager",
+        "en": "Yes, provided the messaging clearly states the availability date.",
+        "zh": "可以，前提是传播信息明确说明可用日期。"
+      },
+      {
+        "role": "Campaign Lead",
+        "en": "I'll update the campaign timeline and assign owners for each dependency.",
+        "zh": "我会更新活动时间表，并为每项依赖指定负责人。"
+      },
+      {
+        "role": "Product Manager",
+        "en": "Let's review launch readiness together before approving the announcement.",
+        "zh": "我们在批准公告前共同评审上市准备情况吧。"
+      }
+    ],
+    "quiz": "What condition applies to an early announcement?",
+    "answer": "The messaging must clearly state the availability date.",
+    "quizZh": "提前发布公告需要满足什么条件？",
+    "answerZh": "传播信息必须明确说明可用日期。",
+    "wordIds": [
+      "MKT178"
+    ]
+  },
+  {
+    "id": "S36",
+    "moduleId": "m23",
+    "title": "年度营销预算申请",
+    "titleEn": "Annual marketing budget proposal",
+    "lines": [
+      {
+        "role": "Marketing Director",
+        "en": "We're requesting a ten percent increase in next year's marketing budget.",
+        "zh": "我们申请将明年的营销预算增加10%。"
+      },
+      {
+        "role": "Finance Director",
+        "en": "What incremental contribution do you expect from the additional spend?",
+        "zh": "你预计额外支出能带来多少增量贡献？"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Our pilot suggests positive returns, but the forecast includes a downside scenario.",
+        "zh": "试点显示回报为正，但预测也包含下行情景。"
+      },
+      {
+        "role": "Finance Director",
+        "en": "Can we release the additional budget in stages?",
+        "zh": "我们能否分阶段释放额外预算？"
+      },
+      {
+        "role": "Marketing Director",
+        "en": "Yes, we can tie each tranche to agreed performance milestones.",
+        "zh": "可以，我们可以将每笔资金与约定的绩效里程碑挂钩。"
+      },
+      {
+        "role": "Finance Director",
+        "en": "Please submit the assumptions and a contingency plan for approval.",
+        "zh": "请提交假设条件及应急方案供审批。"
+      }
+    ],
+    "quiz": "How will the additional budget be released?",
+    "answer": "In stages tied to agreed performance milestones.",
+    "quizZh": "额外预算将如何释放？",
+    "answerZh": "按约定的绩效里程碑分阶段释放。",
+    "wordIds": [
+      "MKT576",
+      "MKT579",
+      "MKT582",
+      "MKT596"
+    ]
+  },
+  {
+    "id": "S37",
+    "moduleId": "m24",
+    "title": "季度经营复盘",
+    "titleEn": "Quarterly business review",
+    "lines": [
+      {
+        "role": "Chief Marketing Officer",
+        "en": "Revenue exceeded our quarterly target, but contribution margin fell.",
+        "zh": "收入超过季度目标，但贡献毛利下降了。"
+      },
+      {
+        "role": "Business Analyst",
+        "en": "The promotion increased volume while reducing the average selling price.",
+        "zh": "促销提高了销量，但降低了平均售价。"
+      },
+      {
+        "role": "Chief Marketing Officer",
+        "en": "How much of the margin decline came from the discount?",
+        "zh": "毛利下降有多少来自折扣？"
+      },
+      {
+        "role": "Business Analyst",
+        "en": "We're separating the price, volume and product mix effects.",
+        "zh": "我们正在拆分价格、销量和产品组合的影响。"
+      },
+      {
+        "role": "Chief Marketing Officer",
+        "en": "Please include a recommendation for the next promotional cycle.",
+        "zh": "请加入对下一轮促销的建议。"
+      },
+      {
+        "role": "Business Analyst",
+        "en": "I'll compare targeted offers with broad discounts and estimate their profit impact.",
+        "zh": "我会比较定向优惠与普遍折扣，并估算利润影响。"
+      }
+    ],
+    "quiz": "Which effects is the analyst separating?",
+    "answer": "Price, volume and product mix effects.",
+    "quizZh": "分析师正在拆分哪些影响？",
+    "answerZh": "价格、销量和产品组合的影响。",
+    "wordIds": [
+      "MKT591",
+      "MKT587"
+    ]
+  },
+  {
+    "id": "S38",
+    "moduleId": "m24",
+    "title": "管理层战略汇报",
+    "titleEn": "Executive strategy presentation",
+    "lines": [
+      {
+        "role": "Chief Marketing Officer",
+        "en": "Our recommendation is to prioritize retention over broad acquisition next quarter.",
+        "zh": "我们建议下季度优先留存，而非大范围获客。"
+      },
+      {
+        "role": "Chief Executive Officer",
+        "en": "What evidence supports that strategic trade-off?",
+        "zh": "有什么证据支持这一战略取舍？"
+      },
+      {
+        "role": "Chief Marketing Officer",
+        "en": "Recent cohorts show higher repeat purchase rates and shorter payback periods.",
+        "zh": "近期同期群显示更高的复购率和更短的回收期。"
+      },
+      {
+        "role": "Chief Executive Officer",
+        "en": "What would make you reverse the decision?",
+        "zh": "什么情况会让你改变这一决策？"
+      },
+      {
+        "role": "Chief Marketing Officer",
+        "en": "If incremental profit falls below our agreed threshold, we'll reassess the allocation.",
+        "zh": "如果增量利润低于约定门槛，我们将重新评估分配方案。"
+      },
+      {
+        "role": "Chief Executive Officer",
+        "en": "Good. Include that trigger in the executive summary and confirm the review date.",
+        "zh": "很好，请在执行摘要中写明该触发条件并确认复盘日期。"
+      }
+    ],
+    "quiz": "When will the team reassess the allocation?",
+    "answer": "When incremental profit falls below the agreed threshold.",
+    "quizZh": "团队何时重新评估分配方案？",
+    "answerZh": "当增量利润低于约定门槛时。",
+    "wordIds": [
+      "MKT599",
+      "MKT586"
+    ]
+  },
+  {
+    "id": "S39",
+    "moduleId": "m13",
+    "title": "跨市场危机沟通",
+    "titleEn": "Cross-market crisis communication",
+    "lines": [
+      {
+        "role": "Communications Director",
+        "en": "A customer complaint is gaining attention in two markets.",
+        "zh": "一条客户投诉正在两个市场引起关注。"
+      },
+      {
+        "role": "Country PR Manager",
+        "en": "We have confirmed the complaint but not the underlying cause.",
+        "zh": "我们已确认投诉存在，但尚未确认根本原因。"
+      },
+      {
+        "role": "Communications Director",
+        "en": "Prepare a holding statement that acknowledges the concern without speculating.",
+        "zh": "准备一份承认相关顾虑但不作推测的初步声明。"
+      },
+      {
+        "role": "Country PR Manager",
+        "en": "Should we translate it immediately or wait for local legal review?",
+        "zh": "我们应该立即翻译还是等待当地法务审核？"
+      },
+      {
+        "role": "Communications Director",
+        "en": "Translate it now, but obtain local approval before publication.",
+        "zh": "现在翻译，但发布前取得当地批准。"
+      },
+      {
+        "role": "Country PR Manager",
+        "en": "I'll coordinate the spokesperson briefing and schedule the next update.",
+        "zh": "我会协调发言人简报并安排下一次更新。"
+      }
+    ],
+    "quiz": "What must happen before publication?",
+    "answer": "Local approval of the translated statement.",
+    "quizZh": "发布前必须完成什么？",
+    "answerZh": "取得当地对翻译声明的批准。",
+    "wordIds": [
+      "MKT376",
+      "MKT377",
+      "MKT374"
+    ]
+  },
+  {
+    "id": "S40",
+    "moduleId": "m23",
+    "title": "预算调整与滚动预测",
+    "titleEn": "Budget reallocation and rolling forecast",
+    "lines": [
+      {
+        "role": "Regional Marketing Director",
+        "en": "Our media spend is below forecast, but event costs are higher than planned.",
+        "zh": "媒介支出低于预测，但活动成本高于计划。"
+      },
+      {
+        "role": "Finance Partner",
+        "en": "How much of the remaining media budget is already committed?",
+        "zh": "剩余媒介预算中有多少已经承诺支出？"
+      },
+      {
+        "role": "Regional Marketing Director",
+        "en": "Half is committed under existing contracts; the rest is discretionary.",
+        "zh": "一半已通过现有合同承诺，其余可酌情支配。"
+      },
+      {
+        "role": "Finance Partner",
+        "en": "We should protect the committed spend and review the marginal returns of each channel.",
+        "zh": "我们应保留已承诺支出，并评估各渠道的边际回报。"
+      },
+      {
+        "role": "Regional Marketing Director",
+        "en": "I'll prepare a revised forecast with two reallocation options.",
+        "zh": "我会准备包含两种重新分配方案的修订预测。"
+      },
+      {
+        "role": "Finance Partner",
+        "en": "Let's agree on the preferred option before updating the cost centers.",
+        "zh": "我们先确定首选方案，再更新成本中心记录。"
+      }
+    ],
+    "quiz": "Which part of the media budget can be considered for reallocation?",
+    "answer": "The discretionary portion that is not already committed.",
+    "quizZh": "哪部分媒介预算可以考虑重新分配？",
+    "answerZh": "尚未承诺支出的可酌情支配部分。",
+    "wordIds": [
+      "MKT583",
+      "MKT579",
+      "MKT580",
+      "MKT259"
+    ]
+  }
+]

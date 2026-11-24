@@ -4,10 +4,10 @@
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f6f7fb",
-  "theme_color": "#674cf4",
+  "background_color": "#f5f3ed",
+  "theme_color": "#23634f",
   "lang": "zh-CN",
-  "description": "Alpha 1：16 个示例词汇与 2 组双语情景",
+  "description": "V1.0：600 个专业词汇与 40 组双语情景",
   "icons": [
     {
       "src": "./icon-192.png",

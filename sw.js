@@ -1,5 +1,5 @@
-// Marketing Fluent V1.0.1 - navigation network-first and recoverable manual update.
-const CACHE='marketing-fluent-v1-0-1-production-20261124';
+// Marketing Fluent V1.0.25 - navigation network-first and recoverable manual update.
+const CACHE='marketing-fluent-v1-0-25-production-20261125';
 const APP_FILES=['./','./index.html','./manifest.webmanifest','./marketing-fluent-icon.svg','./apple-touch-icon.png','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>event.waitUntil(
  caches.open(CACHE).then(c=>c.addAll(APP_FILES)).then(()=>self.skipWaiting())
@@ -12,16 +12,19 @@ self.addEventListener('message',event=>{if(event.data?.type==='SKIP_WAITING')sel
 self.addEventListener('fetch',event=>{
  const req=event.request,u=new URL(req.url);
  if(req.method!=='GET'||u.origin!==self.location.origin)return;
- if(u.pathname.endsWith('/version.json')||u.pathname.endsWith('/sw.js'))return;
+ if(u.pathname.endsWith('/version.json')||u.pathname.endsWith('/sw.js')||u.searchParams.has('check_build'))return;
  if(req.mode==='navigate'){
+  const home=new URL('./index.html',self.registration.scope), base=new URL('./',self.registration.scope);
+  if(u.pathname!==home.pathname&&u.pathname!==base.pathname)return;
   event.respondWith(fetch(req,{cache:'no-store'}).then(res=>{
    if(!res.ok)throw Error('Bad navigation');
    const copy=res.clone();event.waitUntil(caches.open(CACHE).then(c=>c.put('./index.html',copy)));
    return res;
-  }).catch(async()=>await caches.match('./index.html')||Response.error()));
+  }).catch(async()=>await (await caches.open(CACHE)).match('./index.html')||Response.error()));
   return;
  }
- event.respondWith(caches.match(req).then(cached=>cached||fetch(req).then(res=>{
+ if(!APP_FILES.some(file=>new URL(file,self.registration.scope).href===u.href))return;
+ event.respondWith(caches.open(CACHE).then(c=>c.match(req)).then(cached=>cached||fetch(req).then(res=>{
   if(res.ok){const copy=res.clone();event.waitUntil(caches.open(CACHE).then(c=>c.put(req,copy)))}
   return res;
  })));

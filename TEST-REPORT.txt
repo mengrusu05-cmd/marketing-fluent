@@ -1,3 +1,3 @@
-Alpha 1 测试报告
-通过：两段内联 JS 与 sw.js 的 Node 语法检查；16个唯一词条、2组情景；所有 SW 预缓存文件存在；Chromium set_content 390px 下首页、闪卡、词库、情景、我的、测验渲染，无页面 JS 异常，文档宽度390px；默认8词换组无重复；独立存储键 marketing-fluent-v5。
-限制：环境禁止 localhost 和 file URL 导航（ERR_BLOCKED_BY_ADMINISTRATOR），因此未验证真实站点的本地存储持久化、SW 安装、离线、版本更新、设备语音及原生安装。音标待核验，词库为示例。
+V1.0.25
+PASS: header label removed; responsive CSS added; inline JS and service worker syntax; vocabulary and scenario files unchanged.
+NOT TESTED: browser visual rendering, live deployment, device update.
