@@ -1,3 +1,6 @@
+## V1.0.73
+- Automatic local saving and module learning records.
+
 ## 1.0.70 — release candidate
 - Align runtime, cache, vocabulary metadata and deployment documentation.
 - Reject oversized transfer exports before producing unusable codes.

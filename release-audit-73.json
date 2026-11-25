@@ -1,0 +1,11 @@
+{
+  "base": "1.0.72",
+  "version": "1.0.73",
+  "changes": [
+    "Deduplicated local save with retry and forced save",
+    "15-second foreground save check; existing pagehide and visibilitychange retained",
+    "My Learning save status and 24 module summaries derived from existing records",
+    "Version and cache update"
+  ],
+  "physical_device_test": "not run"
+}

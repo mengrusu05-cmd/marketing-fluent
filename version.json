@@ -1,6 +1,6 @@
 {
-  "version": "1.0.72",
-  "build": "marketing-fluent-v1-0-72-20261125",
-  "notes": "Cache-first normal launch, bounded explicit refresh, startup progress and forest-green icons",
+  "version": "1.0.73",
+  "build": "marketing-fluent-v1-0-73-20261125",
+  "notes": "Automatic local saving and per-module learning records",
   "release": "1.0"
 }
