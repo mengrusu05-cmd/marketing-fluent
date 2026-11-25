@@ -1,0 +1,1767 @@
+[
+  {
+    "id": "MKT461",
+    "before": {
+      "id": "MKT461",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Customer database",
+      "zh": "客户数据库",
+      "definition": "存储客户资料及互动记录的数据集合",
+      "example": "We maintain a customer database with consent records.",
+      "exampleZh": "我们维护包含同意记录的客户数据库。",
+      "collocation": "maintain a customer database",
+      "collocationZh": "维护客户数据库",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We maintain a ____ with consent records.",
+          "zh": "补全职场表达：我们维护包含同意记录的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintain a customer database with consent records.",
+          "zh": "我们维护包含同意记录的客户数据库。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 461,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmə ˈdeɪtəˌbeɪs",
+      "ipaUS": "ˈkʌstəmɚ ˈdeɪtəˌbeɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer database",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT461",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Customer database",
+      "zh": "客户数据库",
+      "definition": "存储客户资料、交易或互动记录的结构化数据集合",
+      "example": "We maintain a customer database with consent records.",
+      "exampleZh": "我们维护一个包含客户同意记录的数据库。",
+      "collocation": "maintain a customer database",
+      "collocationZh": "维护客户数据库",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where do we keep customers’ consent records?",
+          "zh": "我们在哪里保存客户的同意记录？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintain a customer database with consent records.",
+          "zh": "我们维护一个包含客户同意记录的数据库。"
+        }
+      ],
+      "usage": "应按用途限制访问权限，并维护记录的准确性。",
+      "new": true,
+      "order": 461,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmə ˈdeɪtəbeɪs",
+      "ipaUS": "ˈkʌstəmər ˈdeɪtəbeɪs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Customer database",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT462",
+    "before": {
+      "id": "MKT462",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Customer segmentation",
+      "zh": "客户分群",
+      "definition": "根据客户属性或行为划分客户群体",
+      "example": "Purchase history helped refine customer segmentation.",
+      "exampleZh": "购买历史帮助优化客户分群。",
+      "collocation": "refine customer segmentation",
+      "collocationZh": "优化客户分群",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Purchase history helped refine ____.",
+          "zh": "补全职场表达：购买历史帮助优化____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Purchase history helped refine customer segmentation.",
+          "zh": "购买历史帮助优化客户分群。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 462,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmə ˌseɡmənˈteɪʃən",
+      "ipaUS": "ˈkʌstəmɚ ˌseɡmənˈteɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer segmentation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT462",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Customer segmentation",
+      "zh": "客户分群",
+      "definition": "依据客户属性、需求或行为将客户划分为不同群体",
+      "example": "Purchase history helped refine customer segmentation.",
+      "exampleZh": "历史购买记录帮助我们优化了客户分群。",
+      "collocation": "refine customer segmentation",
+      "collocationZh": "优化客户分群",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What helped us improve our customer groups?",
+          "zh": "什么帮助我们优化了客户分群？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Purchase history helped refine customer segmentation.",
+          "zh": "历史购买记录帮助我们优化了客户分群。"
+        }
+      ],
+      "usage": "分群规则应随业务目标和客户行为变化更新。",
+      "new": true,
+      "order": 462,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmə ˌseɡmenˈteɪʃən",
+      "ipaUS": "ˈkʌstəmər ˌseɡmenˈteɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Customer segmentation",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT463",
+    "before": {
+      "id": "MKT463",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "RFM analysis",
+      "zh": "RFM分析",
+      "definition": "按最近购买时间、购买频次和金额分析客户",
+      "example": "We conducted RFM analysis to identify valuable customers.",
+      "exampleZh": "我们开展RFM分析以识别高价值客户。",
+      "collocation": "conduct RFM analysis",
+      "collocationZh": "开展RFM分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We conducted ____ to identify valuable customers.",
+          "zh": "补全职场表达：我们开展____以识别高价值客户。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We conducted RFM analysis to identify valuable customers.",
+          "zh": "我们开展RFM分析以识别高价值客户。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 463,
+      "aliases": [
+        "RFM"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌɑːˌreˈfem əˈnæləˌsɪs",
+      "ipaUS": "ˌɑːrˌreˈfem əˈnæləˌsɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "RFM analysis",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT463",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "RFM analysis",
+      "zh": "RFM分析",
+      "definition": "依据距最近购买的时间、指定期间购买频次及消费金额分析客户",
+      "example": "We conducted RFM analysis to identify customers with high historical transaction value.",
+      "exampleZh": "我们开展RFM分析，以识别历史交易价值较高的客户。",
+      "collocation": "conduct RFM analysis",
+      "collocationZh": "开展RFM分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we identify customers with strong purchase histories?",
+          "zh": "我们如何识别历史购买表现较好的客户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We conducted RFM analysis to identify customers with high historical transaction value.",
+          "zh": "我们开展RFM分析，以识别历史交易价值较高的客户。"
+        }
+      ],
+      "usage": "R=Recency，F=Frequency，M=Monetary value；历史表现不等于未来价值。",
+      "new": true,
+      "order": 463,
+      "aliases": [
+        "RFM"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌɑː ef ˈem əˈnæləsɪs",
+      "ipaUS": "ˌɑːr ef ˈem əˈnæləsɪs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "R F M analysis",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "speakTerm",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT464",
+    "before": {
+      "id": "MKT464",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Customer data platform",
+      "zh": "客户数据平台",
+      "definition": "整合客户数据并支持统一画像和激活的平台",
+      "example": "We implemented a customer data platform to unify profiles.",
+      "exampleZh": "我们实施客户数据平台以统一客户画像。",
+      "collocation": "implement a customer data platform",
+      "collocationZh": "实施客户数据平台",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We implemented a ____ to unify profiles.",
+          "zh": "补全职场表达：我们实施____以统一客户画像。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We implemented a customer data platform to unify profiles.",
+          "zh": "我们实施客户数据平台以统一客户画像。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 464,
+      "aliases": [
+        "CDP"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmə ˈdeɪtə ˈplætfɔːm",
+      "ipaUS": "ˈkʌstəmɚ ˈdeɪtə ˈplætfɔːrm",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer data platform",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT464",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Customer data platform",
+      "zh": "客户数据平台",
+      "definition": "整合多来源客户数据、建立统一客户档案并供其他系统使用的平台",
+      "example": "We implemented a customer data platform to unify profiles.",
+      "exampleZh": "我们引入客户数据平台来统一客户档案。",
+      "collocation": "implement a customer data platform",
+      "collocationZh": "实施客户数据平台",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we bring customer profiles together?",
+          "zh": "我们如何整合客户档案？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We implemented a customer data platform to unify profiles.",
+          "zh": "我们引入客户数据平台来统一客户档案。"
+        }
+      ],
+      "usage": "CDP侧重数据整合与激活；CRM侧重客户关系及互动管理，两者功能可能重叠。",
+      "new": true,
+      "order": 464,
+      "aliases": [
+        "CDP"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmə ˈdeɪtə ˈplætfɔːm",
+      "ipaUS": "ˈkʌstəmər ˈdeɪtə ˈplætfɔːrm",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Customer data platform",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT465",
+    "before": {
+      "id": "MKT465",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Identity resolution",
+      "zh": "身份识别整合",
+      "definition": "将不同标识关联到同一客户的过程",
+      "example": "Better identity resolution reduced duplicate profiles.",
+      "exampleZh": "更好的身份识别整合减少了重复画像。",
+      "collocation": "improve identity resolution",
+      "collocationZh": "改善身份识别整合",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Better ____ reduced duplicate profiles.",
+          "zh": "补全职场表达：更好的____减少了重复画像。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Better identity resolution reduced duplicate profiles.",
+          "zh": "更好的身份识别整合减少了重复画像。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 465,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "aɪˈdentɪti ˌrezəˈluːʃən",
+      "ipaUS": "aɪˈdentɪti ˌrezəˈluːʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Identity resolution",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT465",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Identity resolution",
+      "zh": "客户身份解析",
+      "definition": "通过确定性或概率性匹配将不同标识关联至同一客户的过程",
+      "example": "Better identity resolution reduced duplicate profiles.",
+      "exampleZh": "改进客户身份解析后，重复档案减少了。",
+      "collocation": "improve identity resolution",
+      "collocationZh": "改进客户身份解析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What helped reduce duplicate customer records?",
+          "zh": "什么帮助减少了重复客户记录？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Better identity resolution reduced duplicate profiles.",
+          "zh": "改进客户身份解析后，重复档案减少了。"
+        }
+      ],
+      "usage": "匹配可能发生误合并或漏合并，应评估准确性。",
+      "new": true,
+      "order": 465,
+      "aliases": [
+        "身份识别整合"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "aɪˈdentəti ˌrezəˈluːʃən",
+      "ipaUS": "aɪˈdentəti ˌrezəˈluːʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Identity resolution",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "zh",
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT466",
+    "before": {
+      "id": "MKT466",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Lead scoring",
+      "zh": "线索评分",
+      "definition": "按潜在客户特征和行为评估其价值或意向",
+      "example": "We automated lead scoring using engagement signals.",
+      "exampleZh": "我们利用互动信号实现线索评分自动化。",
+      "collocation": "automate lead scoring",
+      "collocationZh": "自动化线索评分",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We automated ____ using engagement signals.",
+          "zh": "补全职场表达：我们利用互动信号实现____自动化。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We automated lead scoring using engagement signals.",
+          "zh": "我们利用互动信号实现线索评分自动化。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 466,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈliːd ˈskɔːrɪŋ",
+      "ipaUS": "ˈliːd ˈskoːrɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Lead scoring",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT466",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Lead scoring",
+      "zh": "线索评分",
+      "definition": "依据潜在客户特征和行为赋予分数，以辅助判断匹配度或跟进优先级",
+      "example": "We automated lead scoring using engagement signals.",
+      "exampleZh": "我们利用互动信号实现了线索评分自动化。",
+      "collocation": "automate lead scoring",
+      "collocationZh": "实现线索评分自动化",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we prioritize leads automatically?",
+          "zh": "我们如何自动确定线索优先级？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We automated lead scoring using engagement signals.",
+          "zh": "我们利用互动信号实现了线索评分自动化。"
+        }
+      ],
+      "usage": "评分不等于购买概率，除非模型经过相应校准。",
+      "new": true,
+      "order": 466,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "liːd ˈskɔːrɪŋ",
+      "ipaUS": "liːd ˈskɔːrɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Lead scoring",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT467",
+    "before": {
+      "id": "MKT467",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Lead nurturing",
+      "zh": "线索培育",
+      "definition": "通过持续沟通推动潜在客户走向购买",
+      "example": "We designed a lead nurturing sequence for trial users.",
+      "exampleZh": "我们为试用用户设计了线索培育序列。",
+      "collocation": "design a lead nurturing sequence",
+      "collocationZh": "设计线索培育序列",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We designed a ____ sequence for trial users.",
+          "zh": "补全职场表达：我们为试用用户设计了____序列。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We designed a lead nurturing sequence for trial users.",
+          "zh": "我们为试用用户设计了线索培育序列。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 467,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈliːd ˈnɜːtʃərɪŋ",
+      "ipaUS": "ˈliːd ˈnɜːtʃɚrɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Lead nurturing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT467",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Lead nurturing",
+      "zh": "线索培育",
+      "definition": "通过持续提供相关信息和沟通，帮助潜在客户逐步形成购买决策",
+      "example": "We designed a lead nurturing sequence for trial users.",
+      "exampleZh": "我们为试用用户设计了一套分阶段的线索培育流程。",
+      "collocation": "design a lead nurturing sequence",
+      "collocationZh": "设计分阶段线索培育流程",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we supporting users during their trial?",
+          "zh": "我们如何为试用期用户提供支持？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We designed a lead nurturing sequence for trial users.",
+          "zh": "我们为试用用户设计了一套分阶段的线索培育流程。"
+        }
+      ],
+      "usage": "培育应尊重沟通偏好，不保证最终购买。",
+      "new": true,
+      "order": 467,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "liːd ˈnɜːtʃərɪŋ",
+      "ipaUS": "liːd ˈnɝːtʃərɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Lead nurturing",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT468",
+    "before": {
+      "id": "MKT468",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Marketing automation",
+      "zh": "营销自动化",
+      "definition": "利用软件自动执行营销任务和流程",
+      "example": "Marketing automation reduced manual follow-up work.",
+      "exampleZh": "营销自动化减少了人工跟进工作。",
+      "collocation": "implement marketing automation",
+      "collocationZh": "实施营销自动化",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ reduced manual follow-up work.",
+          "zh": "补全职场表达：____减少了人工跟进工作。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Marketing automation reduced manual follow-up work.",
+          "zh": "营销自动化减少了人工跟进工作。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 468,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmɑːkɪtɪŋ ˌɔːtəˈmeɪʃən",
+      "ipaUS": "ˈmɑːrkɪtɪŋ ˌɔːtəˈmeɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Marketing automation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT468",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Marketing automation",
+      "zh": "营销自动化",
+      "definition": "利用软件按规则或事件自动执行营销任务和工作流程",
+      "example": "Marketing automation reduced manual follow-up work.",
+      "exampleZh": "营销自动化减少了人工跟进工作。",
+      "collocation": "implement marketing automation",
+      "collocationZh": "实施营销自动化",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What reduced the team's manual workload?",
+          "zh": "什么减少了团队的人工工作量？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Marketing automation reduced manual follow-up work.",
+          "zh": "营销自动化减少了人工跟进工作。"
+        }
+      ],
+      "usage": "自动化流程仍需监测、维护及异常处理。",
+      "new": true,
+      "order": 468,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmɑːkɪtɪŋ ˌɔːtəˈmeɪʃən",
+      "ipaUS": "ˈmɑːrkɪtɪŋ ˌɔːtəˈmeɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Marketing automation",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT469",
+    "before": {
+      "id": "MKT469",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Triggered email",
+      "zh": "触发式邮件",
+      "definition": "由指定事件或行为自动触发的邮件",
+      "example": "A triggered email is sent after the first purchase.",
+      "exampleZh": "首次购买后会发送触发式邮件。",
+      "collocation": "send a triggered email",
+      "collocationZh": "发送触发式邮件",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: A ____ is sent after the first purchase.",
+          "zh": "补全职场表达：首次购买后会发送____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A triggered email is sent after the first purchase.",
+          "zh": "首次购买后会发送触发式邮件。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 469,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtrɪɡəd ˈiːmeɪl",
+      "ipaUS": "ˈtrɪɡɚd ˈiːmeɪl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Triggered email",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT469",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Triggered email",
+      "zh": "触发式邮件",
+      "definition": "由预设事件、行为或条件自动触发发送的邮件",
+      "example": "A triggered email is sent after the first purchase.",
+      "exampleZh": "客户首次购买后，系统会自动发送一封触发式邮件。",
+      "collocation": "send a triggered email",
+      "collocationZh": "发送触发式邮件",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What happens after a customer's first purchase?",
+          "zh": "客户首次购买后会发生什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A triggered email is sent after the first purchase.",
+          "zh": "客户首次购买后，系统会自动发送一封触发式邮件。"
+        }
+      ],
+      "usage": "触发式邮件可以是交易通知，也可以是营销邮件。",
+      "new": true,
+      "order": 469,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtrɪɡəd ˈiːmeɪl",
+      "ipaUS": "ˈtrɪɡərd ˈiːmeɪl",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Triggered email",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT470",
+    "before": {
+      "id": "MKT470",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Drip campaign",
+      "zh": "自动化培育营销活动",
+      "definition": "按时间或规则连续发送的一系列营销信息",
+      "example": "We launched a drip campaign for webinar attendees.",
+      "exampleZh": "我们为网络研讨会参与者启动了自动化培育营销活动。",
+      "collocation": "launch a drip campaign",
+      "collocationZh": "启动自动化培育营销活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We launched a ____ for webinar attendees.",
+          "zh": "补全职场表达：我们为网络研讨会参与者启动了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We launched a drip campaign for webinar attendees.",
+          "zh": "我们为网络研讨会参与者启动了自动化培育营销活动。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 470,
+      "aliases": [
+        "滴灌营销活动"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈdrɪp kæmˈpeɪn",
+      "ipaUS": "ˈdrɪp kæmˈpeɪn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Drip campaign",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT470",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Drip campaign",
+      "zh": "自动化培育营销活动",
+      "definition": "按预设时间间隔或规则自动发送的一系列营销信息",
+      "example": "We launched a drip email campaign for webinar attendees.",
+      "exampleZh": "我们为网络研讨会参与者启动了一系列自动化培育邮件。",
+      "collocation": "launch a drip campaign",
+      "collocationZh": "启动自动化培育营销活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we following up with webinar attendees?",
+          "zh": "我们如何跟进网络研讨会参与者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We launched a drip email campaign for webinar attendees.",
+          "zh": "我们为网络研讨会参与者启动了一系列自动化培育邮件。"
+        }
+      ],
+      "usage": "与单封触发式邮件不同，通常包含多次连续沟通。",
+      "new": true,
+      "order": 470,
+      "aliases": [
+        "滴灌营销活动"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "drɪp kæmˈpeɪn",
+      "ipaUS": "drɪp kæmˈpeɪn",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Drip campaign",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT471",
+    "before": {
+      "id": "MKT471",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Email deliverability",
+      "zh": "邮件送达能力",
+      "definition": "邮件成功进入目标收件箱的能力",
+      "example": "List hygiene helped improve email deliverability.",
+      "exampleZh": "名单清理帮助改善邮件送达能力。",
+      "collocation": "improve email deliverability",
+      "collocationZh": "改善邮件送达能力",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: List hygiene helped improve ____.",
+          "zh": "补全职场表达：名单清理帮助改善____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "List hygiene helped improve email deliverability.",
+          "zh": "名单清理帮助改善邮件送达能力。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 471,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈiːmeɪl dɪˌlɪvərəˈbɪlɪti",
+      "ipaUS": "ˈiːmeɪl dɪˌlɪvɚrəˈbɪlɪti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Email deliverability",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT471",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Email deliverability",
+      "zh": "邮件送达能力",
+      "definition": "邮件成功进入目标收件箱而非垃圾邮件文件夹的能力",
+      "example": "List hygiene helped improve email deliverability.",
+      "exampleZh": "维护联系人名单质量有助于提高邮件送达能力。",
+      "collocation": "improve email deliverability",
+      "collocationZh": "改善邮件送达能力",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What helped more emails reach the inbox?",
+          "zh": "什么帮助更多邮件进入收件箱？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "List hygiene helped improve email deliverability.",
+          "zh": "维护联系人名单质量有助于提高邮件送达能力。"
+        }
+      ],
+      "usage": "Delivery指接收服务器接受邮件；deliverability侧重收件箱投递能力。",
+      "new": true,
+      "order": 471,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈiːmeɪl dɪˌlɪvərəˈbɪləti",
+      "ipaUS": "ˈiːmeɪl dɪˌlɪvərəˈbɪləti",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Email deliverability",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT472",
+    "before": {
+      "id": "MKT472",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "List hygiene",
+      "zh": "名单清理",
+      "definition": "维护联系人名单准确性并清除无效地址",
+      "example": "We maintain list hygiene by removing invalid addresses.",
+      "exampleZh": "我们通过移除无效地址维护名单质量。",
+      "collocation": "maintain list hygiene",
+      "collocationZh": "维护名单质量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We maintain ____ by removing invalid addresses.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintain list hygiene by removing invalid addresses.",
+          "zh": "我们通过移除无效地址维护名单质量。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 472,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlɪst ˈhaɪdʒiːn",
+      "ipaUS": "ˈlɪst ˈhaɪdʒiːn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "List hygiene",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT472",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "List hygiene",
+      "zh": "联系人名单维护",
+      "definition": "持续维护联系人名单质量，包括处理无效地址、重复记录及退订状态",
+      "example": "We maintain list hygiene by removing invalid addresses.",
+      "exampleZh": "我们通过移除无效地址维护联系人名单质量。",
+      "collocation": "maintain list hygiene",
+      "collocationZh": "维护名单质量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we keep our mailing list accurate?",
+          "zh": "我们如何保持邮件名单准确？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintain list hygiene by removing invalid addresses.",
+          "zh": "我们通过移除无效地址维护联系人名单质量。"
+        }
+      ],
+      "usage": "应保留必要的退订排除记录，避免误将退订者重新加入发送名单。",
+      "new": true,
+      "order": 472,
+      "aliases": [
+        "名单清理"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "lɪst ˈhaɪdʒiːn",
+      "ipaUS": "lɪst ˈhaɪdʒiːn",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "List hygiene",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "zh",
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT473",
+    "before": {
+      "id": "MKT473",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Unsubscribe rate",
+      "zh": "退订率",
+      "definition": "按明确发送口径计算的退订比例",
+      "example": "We monitor unsubscribe rates after each newsletter.",
+      "exampleZh": "每次发送通讯后我们监控退订率。",
+      "collocation": "monitor unsubscribe rates",
+      "collocationZh": "监控退订率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We monitor ____ after each newsletter.",
+          "zh": "补全职场表达：每次发送通讯后我们监控____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We monitor unsubscribe rates after each newsletter.",
+          "zh": "每次发送通讯后我们监控退订率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 473,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ʌnsəbˈskraɪb ˈreɪt",
+      "ipaUS": "ʌnsəbˈskraɪb ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Unsubscribe rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT473",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Unsubscribe rate",
+      "zh": "退订率",
+      "definition": "指定期间或活动中退订人数或次数相对于指定发送基数的比例",
+      "example": "We monitor unsubscribe rates after each newsletter.",
+      "exampleZh": "每次发送电子简报后，我们都会监测退订率。",
+      "collocation": "monitor unsubscribe rates",
+      "collocationZh": "监控退订率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which metric do we check after sending a newsletter?",
+          "zh": "发送电子简报后我们检查哪项指标？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We monitor unsubscribe rates after each newsletter.",
+          "zh": "每次发送电子简报后，我们都会监测退订率。"
+        }
+      ],
+      "usage": "常用口径为退订人数除以成功投递邮件数；比较时须统一分母。",
+      "new": true,
+      "order": 473,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌʌnsəbˈskraɪb reɪt",
+      "ipaUS": "ˌʌnsəbˈskraɪb reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Unsubscribe rate",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT474",
+    "before": {
+      "id": "MKT474",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Preference center",
+      "zh": "偏好设置中心",
+      "definition": "允许客户管理沟通主题、渠道和频率的界面",
+      "example": "We updated the preference center to offer weekly emails.",
+      "exampleZh": "我们更新偏好设置中心以提供每周邮件选项。",
+      "collocation": "update the preference center",
+      "collocationZh": "更新偏好设置中心",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We updated the ____ to offer weekly emails.",
+          "zh": "补全职场表达：我们更新____以提供每周邮件选项。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We updated the preference center to offer weekly emails.",
+          "zh": "我们更新偏好设置中心以提供每周邮件选项。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 474,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprefrəns ˈsentə",
+      "ipaUS": "ˈprefrəns ˈsentɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Preference center",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT474",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Preference center",
+      "zh": "偏好设置中心",
+      "definition": "允许客户管理沟通主题、渠道、频率等偏好的界面",
+      "example": "We updated the preference center to offer weekly emails.",
+      "exampleZh": "我们更新了偏好设置中心，提供每周接收邮件的选项。",
+      "collocation": "update the preference center",
+      "collocationZh": "更新偏好设置中心",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can subscribers choose fewer emails?",
+          "zh": "订阅者如何选择减少邮件接收频率？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We updated the preference center to offer weekly emails.",
+          "zh": "我们更新了偏好设置中心，提供每周接收邮件的选项。"
+        }
+      ],
+      "usage": "英式拼写 preference centre；偏好设置不应妨碍退订。",
+      "new": true,
+      "order": 474,
+      "aliases": [
+        "preference centre"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprefərəns ˈsentə",
+      "ipaUS": "ˈprefərəns ˈsentər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Preference center",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT475",
+    "before": {
+      "id": "MKT475",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Consent management",
+      "zh": "同意管理",
+      "definition": "记录并执行客户对数据处理和营销联系的授权选择",
+      "example": "We strengthened consent management across all channels.",
+      "exampleZh": "我们加强了所有渠道的同意管理。",
+      "collocation": "strengthen consent management",
+      "collocationZh": "加强同意管理",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We strengthened ____ across all channels.",
+          "zh": "补全职场表达：我们加强了所有渠道的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We strengthened consent management across all channels.",
+          "zh": "我们加强了所有渠道的同意管理。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 475,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kənˈsent ˈmænɪdʒmənt",
+      "ipaUS": "kənˈsent ˈmænɪdʒmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Consent management",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT475",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Consent management",
+      "zh": "同意管理",
+      "definition": "收集、记录、更新并执行客户对特定数据处理或营销联系的同意选择",
+      "example": "We strengthened consent management across all channels.",
+      "exampleZh": "我们加强了各渠道的同意管理。",
+      "collocation": "strengthen consent management",
+      "collocationZh": "加强同意管理",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we improve the handling of customer permissions?",
+          "zh": "我们如何改进客户授权管理？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We strengthened consent management across all channels.",
+          "zh": "我们加强了各渠道的同意管理。"
+        }
+      ],
+      "usage": "应支持撤回同意；具体义务取决于适用法律及处理依据。",
+      "new": true,
+      "order": 475,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kənˈsent ˈmænɪdʒmənt",
+      "ipaUS": "kənˈsent ˈmænɪdʒmənt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Consent management",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT476",
+    "before": {
+      "id": "MKT476",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Suppression list",
+      "zh": "禁止发送名单",
+      "definition": "需要从营销发送对象中排除的联系人名单",
+      "example": "Opted-out contacts are added to the suppression list.",
+      "exampleZh": "退订联系人会被加入禁止发送名单。",
+      "collocation": "maintain a suppression list",
+      "collocationZh": "维护禁止发送名单",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Opted-out contacts are added to the ____.",
+          "zh": "补全职场表达：退订联系人会被加入____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Opted-out contacts are added to the suppression list.",
+          "zh": "退订联系人会被加入禁止发送名单。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 476,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "səˈpreʃən ˈlɪst",
+      "ipaUS": "səˈpreʃən ˈlɪst",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Suppression list",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT476",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Suppression list",
+      "zh": "禁止发送名单",
+      "definition": "在指定营销发送范围内必须排除的地址或联系人记录集合",
+      "example": "Opted-out contacts are added to the suppression list.",
+      "exampleZh": "已退订的联系人会被加入禁止发送名单。",
+      "collocation": "maintain a suppression list",
+      "collocationZh": "维护禁止发送名单",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we avoid emailing people who have opted out?",
+          "zh": "我们如何避免向已退订的人发送营销邮件？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Opted-out contacts are added to the suppression list.",
+          "zh": "已退订的联系人会被加入禁止发送名单。"
+        }
+      ],
+      "usage": "排除范围应与退订选择一致，并区分营销邮件与必要服务通知。",
+      "new": true,
+      "order": 476,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "səˈpreʃən lɪst",
+      "ipaUS": "səˈpreʃən lɪst",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Suppression list",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT477",
+    "before": {
+      "id": "MKT477",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Contact frequency",
+      "zh": "联系频率",
+      "definition": "一定期间内向客户发送沟通信息的次数",
+      "example": "We limit contact frequency during promotional weeks.",
+      "exampleZh": "我们在促销周限制联系频率。",
+      "collocation": "limit contact frequency",
+      "collocationZh": "限制联系频率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We limit ____ during promotional weeks.",
+          "zh": "补全职场表达：我们在促销周限制____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We limit contact frequency during promotional weeks.",
+          "zh": "我们在促销周限制联系频率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 477,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntækt ˈfriːkwənsi",
+      "ipaUS": "ˈkɑːntækt ˈfriːkwənsi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Contact frequency",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT477",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Contact frequency",
+      "zh": "联系频率",
+      "definition": "指定期间内向客户发起沟通的次数或频率",
+      "example": "We limit contact frequency during promotional weeks.",
+      "exampleZh": "我们在促销周限制联系频率。",
+      "collocation": "limit contact frequency",
+      "collocationZh": "限制联系频率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we avoid overwhelming customers during promotions?",
+          "zh": "促销期间如何避免过度打扰客户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We limit contact frequency during promotional weeks.",
+          "zh": "我们在促销周限制联系频率。"
+        }
+      ],
+      "usage": "应明确时间窗口及是否跨渠道合并计数。",
+      "new": true,
+      "order": 477,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntækt ˈfriːkwənsi",
+      "ipaUS": "ˈkɑːntækt ˈfriːkwənsi",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Contact frequency",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT478",
+    "before": {
+      "id": "MKT478",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Personalization engine",
+      "zh": "个性化引擎",
+      "definition": "根据客户数据选择个性化内容或推荐的系统",
+      "example": "We deployed a personalization engine for product recommendations.",
+      "exampleZh": "我们部署个性化引擎用于商品推荐。",
+      "collocation": "deploy a personalization engine",
+      "collocationZh": "部署个性化引擎",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We deployed a ____ for product recommendations.",
+          "zh": "补全职场表达：我们部署____用于商品推荐。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We deployed a personalization engine for product recommendations.",
+          "zh": "我们部署个性化引擎用于商品推荐。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 478,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌpɜːsənəlaɪˈzeɪʃən ˈendʒɪn",
+      "ipaUS": "ˌpɜːsənəlɪˈzeɪʃən ˈendʒɪn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Personalization engine",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT478",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Personalization engine",
+      "zh": "个性化引擎",
+      "definition": "依据客户数据、情境和规则或模型选择个性化内容或推荐的系统",
+      "example": "We deployed a personalization engine for product recommendations.",
+      "exampleZh": "我们部署了个性化引擎，用于商品推荐。",
+      "collocation": "deploy a personalization engine",
+      "collocationZh": "部署个性化引擎",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What powers our product recommendations?",
+          "zh": "什么系统支持我们的商品推荐？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We deployed a personalization engine for product recommendations.",
+          "zh": "我们部署了个性化引擎，用于商品推荐。"
+        }
+      ],
+      "usage": "英式拼写 personalisation engine；应考虑隐私和推荐质量。",
+      "new": true,
+      "order": 478,
+      "aliases": [
+        "personalisation engine"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌpɜːsənəlaɪˈzeɪʃən ˈendʒɪn",
+      "ipaUS": "ˌpɝːsənələˈzeɪʃən ˈendʒɪn",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Personalization engine",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT479",
+    "before": {
+      "id": "MKT479",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Next best action",
+      "zh": "下一最佳行动",
+      "definition": "根据客户状态选择的最合适后续行动",
+      "example": "The model recommends the next best action for each customer.",
+      "exampleZh": "模型为每位客户推荐下一最佳行动。",
+      "collocation": "recommend the next best action",
+      "collocationZh": "推荐下一最佳行动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The model recommends the ____ for each customer.",
+          "zh": "补全职场表达：模型为每位客户推荐____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The model recommends the next best action for each customer.",
+          "zh": "模型为每位客户推荐下一最佳行动。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 479,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈnekst ˈbest ˈækʃən",
+      "ipaUS": "ˈnekst ˈbest ˈækʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Next best action",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT479",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Next best action",
+      "zh": "下一最佳行动",
+      "definition": "依据客户状态、业务目标及约束推荐的最适合采取的下一步行动",
+      "example": "The model recommends the next best action for each customer.",
+      "exampleZh": "模型为每位客户推荐最合适的下一步行动。",
+      "collocation": "recommend the next best action",
+      "collocationZh": "推荐最合适的下一步行动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How does the model help us decide what to do next?",
+          "zh": "模型如何帮助我们决定下一步行动？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The model recommends the next best action for each customer.",
+          "zh": "模型为每位客户推荐最合适的下一步行动。"
+        }
+      ],
+      "usage": "下一步也可能是提供服务、延迟联系或不联系。",
+      "new": true,
+      "order": 479,
+      "aliases": [
+        "NBA",
+        "下一步最佳行动"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "nekst best ˈækʃən",
+      "ipaUS": "nekst best ˈækʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Next best action",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT480",
+    "before": {
+      "id": "MKT480",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Customer touchpoint",
+      "zh": "客户接触点",
+      "definition": "客户与品牌发生互动的具体接触环节",
+      "example": "We mapped customer touchpoints across the purchase journey.",
+      "exampleZh": "我们梳理了购买旅程中的客户接触点。",
+      "collocation": "map customer touchpoints",
+      "collocationZh": "梳理客户接触点",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We mapped ____ across the purchase journey.",
+          "zh": "补全职场表达：我们梳理了购买旅程中的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We mapped customer touchpoints across the purchase journey.",
+          "zh": "我们梳理了购买旅程中的客户接触点。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 480,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmə ˈtʌtʃpɔɪnt",
+      "ipaUS": "ˈkʌstəmɚ ˈtʌtʃpɔɪnt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer touchpoint",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT480",
+      "moduleId": "m18",
+      "module": "客户关系管理",
+      "term": "Customer touchpoint",
+      "zh": "客户接触点",
+      "definition": "客户在购买前、中、后与品牌发生接触或互动的具体环节",
+      "example": "We mapped customer touchpoints across the purchase journey.",
+      "exampleZh": "我们梳理了购买旅程中的各个客户接触点。",
+      "collocation": "map customer touchpoints",
+      "collocationZh": "梳理客户接触点",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we identify gaps in the buying journey?",
+          "zh": "我们如何发现购买旅程中的不足？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We mapped customer touchpoints across the purchase journey.",
+          "zh": "我们梳理了购买旅程中的各个客户接触点。"
+        }
+      ],
+      "usage": "渠道是接触媒介，触点是具体接触机会或互动环节。",
+      "new": true,
+      "order": 480,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmə ˈtʌtʃpɔɪnt",
+      "ipaUS": "ˈkʌstəmər ˈtʌtʃpɔɪnt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Customer touchpoint",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "编辑校订；未独立核验词典"
+  }
+]

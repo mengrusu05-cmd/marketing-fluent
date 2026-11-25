@@ -1,0 +1,14 @@
+{
+  "version": "1.0.68",
+  "changed_files": [
+    "index.html",
+    "sw.js",
+    "version.json"
+  ],
+  "changes": [
+    "Precache requests use cache reload to avoid stale HTTP cache",
+    "Use browser secure-context detection for update eligibility",
+    "Version and cache bump"
+  ],
+  "test_scope": "Node service worker simulation; not actual browser or deployed site"
+}

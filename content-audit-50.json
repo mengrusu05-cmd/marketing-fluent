@@ -1,0 +1,1748 @@
+[
+  {
+    "id": "MKT421",
+    "before": {
+      "id": "MKT421",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Planogram",
+      "zh": "货架陈列图",
+      "definition": "规定商品在货架上摆放位置的示意图",
+      "example": "The store team updated the planogram for the new range.",
+      "exampleZh": "门店团队为新品系列更新了陈列图。",
+      "collocation": "update the planogram",
+      "collocationZh": "更新货架陈列图",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The store team updated the ____ for the new range.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The store team updated the planogram for the new range.",
+          "zh": "门店团队为新品系列更新了陈列图。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 421,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈplænəˌɡræm",
+      "ipaUS": "ˈplænəˌɡræm",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Planogram",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT421",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Planogram",
+      "zh": "货架陈列图",
+      "definition": "规定商品陈列位置、陈列面数及布局的示意图。",
+      "example": "The store team updated the planogram for the new range.",
+      "exampleZh": "门店团队为新品系列更新了陈列图。",
+      "collocation": "update the planogram",
+      "collocationZh": "更新货架陈列图",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did the team update for the new range?",
+          "zh": "团队为新品系列更新了什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The planogram now shows where each new product goes.",
+          "zh": "货架陈列图现在标明了每款新品的位置。"
+        }
+      ],
+      "usage": "陈列面数（facings）指面向顾客的商品展示面数量。",
+      "new": true,
+      "order": 421,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈplænəɡræm",
+      "ipaUS": "ˈplænəɡræm",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Planogram",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT422",
+    "before": {
+      "id": "MKT422",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Shelf space",
+      "zh": "货架空间",
+      "definition": "零售货架上分配给商品的展示空间",
+      "example": "We secured additional shelf space for the launch.",
+      "exampleZh": "我们为新品上市争取了额外货架空间。",
+      "collocation": "secure shelf space",
+      "collocationZh": "争取货架空间",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We secured additional ____ for the launch.",
+          "zh": "补全职场表达：我们为新品上市争取了额外____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We secured additional shelf space for the launch.",
+          "zh": "我们为新品上市争取了额外货架空间。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 422,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈʃelf ˈspeɪs",
+      "ipaUS": "ˈʃelf ˈspeɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Shelf space",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT422",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Shelf space",
+      "zh": "货架空间",
+      "definition": "零售货架上分配给商品的展示空间。",
+      "example": "We secured additional shelf space for the launch.",
+      "exampleZh": "我们为新品上市争取了额外货架空间。",
+      "collocation": "secure shelf space",
+      "collocationZh": "争取货架空间",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Do we have enough room for the launch?",
+          "zh": "新品上市的陈列空间够吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We secured additional shelf space for the launch.",
+          "zh": "我们为新品上市争取了额外货架空间。"
+        }
+      ],
+      "usage": "可按货架长度或陈列面数衡量。",
+      "new": true,
+      "order": 422,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ʃelf speɪs",
+      "ipaUS": "ʃelf speɪs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Shelf space",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT423",
+    "before": {
+      "id": "MKT423",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Share of shelf",
+      "zh": "货架份额",
+      "definition": "品牌占据的货架空间占相关货架总空间的比例",
+      "example": "The audit showed a decline in our share of shelf.",
+      "exampleZh": "审计显示我们的货架份额下降。",
+      "collocation": "measure share of shelf",
+      "collocationZh": "衡量货架份额",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The audit showed a decline in our ____.",
+          "zh": "补全职场表达：审计显示我们的____下降。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The audit showed a decline in our share of shelf.",
+          "zh": "审计显示我们的货架份额下降。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 423,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈʃeər ɒv ˈʃelf",
+      "ipaUS": "ˈʃer ʌv ˈʃelf",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Share of shelf",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT423",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Share of shelf",
+      "zh": "货架份额",
+      "definition": "品牌占相关品类货架展示空间的比例。",
+      "example": "The audit showed a decline in our share of shelf.",
+      "exampleZh": "门店巡检显示我们的货架份额下降。",
+      "collocation": "measure share of shelf",
+      "collocationZh": "衡量货架份额",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did the store audit reveal?",
+          "zh": "门店巡检发现了什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our share of shelf fell from 25% to 20%.",
+          "zh": "我们的货架份额从25%降至20%。"
+        }
+      ],
+      "usage": "比较时须统一陈列面数或长度等衡量口径。",
+      "new": true,
+      "order": 423,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ʃeər əv ʃelf",
+      "ipaUS": "ʃer əv ʃelf",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Share of shelf",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT424",
+    "before": {
+      "id": "MKT424",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Endcap display",
+      "zh": "端架陈列",
+      "definition": "位于货架通道端部的商品展示",
+      "example": "We booked an endcap display for the holiday promotion.",
+      "exampleZh": "我们为节日促销预订了端架陈列。",
+      "collocation": "book an endcap display",
+      "collocationZh": "预订端架陈列",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We booked an ____ for the holiday promotion.",
+          "zh": "补全职场表达：我们为节日促销预订了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We booked an endcap display for the holiday promotion.",
+          "zh": "我们为节日促销预订了端架陈列。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 424,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈendkæp dɪˈspleɪ",
+      "ipaUS": "ˈendkæp dɪˈspleɪ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Endcap display",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT424",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Endcap display",
+      "zh": "端架陈列",
+      "definition": "位于货架通道端部的商品展示。",
+      "example": "We booked an endcap display for the holiday promotion.",
+      "exampleZh": "我们为节日促销预订了端架陈列。",
+      "collocation": "book an endcap display",
+      "collocationZh": "预订端架陈列位",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where will the holiday promotion be displayed?",
+          "zh": "节日促销将在哪里展示？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We booked an endcap display near the entrance.",
+          "zh": "我们预订了入口附近的端架陈列位。"
+        }
+      ],
+      "usage": "也写作 end-cap display。",
+      "new": true,
+      "order": 424,
+      "aliases": [
+        "end-cap display"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈendkæp dɪˈspleɪ",
+      "ipaUS": "ˈendkæp dɪˈspleɪ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Endcap display",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT425",
+    "before": {
+      "id": "MKT425",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Point-of-sale material",
+      "zh": "销售点宣传物料",
+      "definition": "在销售现场用于展示和推广商品的物料",
+      "example": "The agency will distribute point-of-sale materials next week.",
+      "exampleZh": "代理商下周将分发销售点宣传物料。",
+      "collocation": "distribute point-of-sale materials",
+      "collocationZh": "分发销售点宣传物料",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The agency will distribute ____ next week.",
+          "zh": "补全职场表达：代理商下周将分发____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency will distribute point-of-sale materials next week.",
+          "zh": "代理商下周将分发销售点宣传物料。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 425,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpɔɪntɒvˈseɪl məˈtiərɪəl",
+      "ipaUS": "ˈpɔɪntʌvˈseɪl məˈtiərɪəl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Point-of-sale material",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT425",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Point-of-sale material",
+      "zh": "销售点宣传物料",
+      "definition": "在销售现场用于展示、介绍或推广商品的宣传物料。",
+      "example": "The agency will distribute point-of-sale materials next week.",
+      "exampleZh": "代理商下周将分发销售点宣传物料。",
+      "collocation": "distribute point-of-sale materials",
+      "collocationZh": "分发销售点宣传物料",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When will the stores receive the promotional signs?",
+          "zh": "门店什么时候收到宣传标牌？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency will distribute the point-of-sale materials next week.",
+          "zh": "代理商下周将分发销售点宣传物料。"
+        }
+      ],
+      "usage": "常用复数 materials；POSM 为行业简称。",
+      "new": true,
+      "order": 425,
+      "aliases": [
+        "POSM",
+        "point-of-sale materials"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌpɔɪnt əv ˈseɪl məˈtɪəriəl",
+      "ipaUS": "ˌpɔɪnt əv ˈseɪl məˈtɪriəl",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Point-of-sale material",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT426",
+    "before": {
+      "id": "MKT426",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Visual merchandising",
+      "zh": "视觉陈列",
+      "definition": "通过商品和空间展示促进购买的实践",
+      "example": "We refreshed visual merchandising across flagship stores.",
+      "exampleZh": "我们更新了旗舰店的视觉陈列。",
+      "collocation": "refresh visual merchandising",
+      "collocationZh": "更新视觉陈列",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We refreshed ____ across flagship stores.",
+          "zh": "补全职场表达：我们更新了旗舰店的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We refreshed visual merchandising across flagship stores.",
+          "zh": "我们更新了旗舰店的视觉陈列。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 426,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈvɪʒuːəl ˈmɜːtʃənˌdaɪzɪŋ",
+      "ipaUS": "ˈvɪʒuːəl ˈmɜːtʃənˌdaɪzɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Visual merchandising",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT426",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Visual merchandising",
+      "zh": "视觉陈列",
+      "definition": "通过商品陈列、灯光和空间布局改善购物体验并支持销售的实践。",
+      "example": "We refreshed visual merchandising across flagship stores.",
+      "exampleZh": "我们更新了旗舰店的视觉陈列。",
+      "collocation": "refresh visual merchandising",
+      "collocationZh": "更新视觉陈列",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we refreshing the flagship stores?",
+          "zh": "我们如何更新旗舰店？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We are updating the visual merchandising, starting with window displays.",
+          "zh": "我们正在更新视觉陈列，从橱窗展示开始。"
+        }
+      ],
+      "usage": "不局限于货架陈列。",
+      "new": true,
+      "order": 426,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈvɪʒuəl ˈmɜːtʃəndaɪzɪŋ",
+      "ipaUS": "ˈvɪʒuəl ˈmɝːtʃəndaɪzɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Visual merchandising",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT427",
+    "before": {
+      "id": "MKT427",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Store traffic",
+      "zh": "门店客流",
+      "definition": "进入或到访门店的人流量",
+      "example": "The weekend event helped drive store traffic.",
+      "exampleZh": "周末活动带动了门店客流。",
+      "collocation": "drive store traffic",
+      "collocationZh": "提升门店客流",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The weekend event helped drive ____.",
+          "zh": "补全职场表达：周末活动带动了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The weekend event helped drive store traffic.",
+          "zh": "周末活动带动了门店客流。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 427,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈstɔː ˈtræfɪk",
+      "ipaUS": "ˈstoːr ˈtræfɪk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Store traffic",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT427",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Store traffic",
+      "zh": "门店客流",
+      "definition": "指定期间进入门店的客流量。",
+      "example": "The weekend event helped drive store traffic.",
+      "exampleZh": "周末活动带动了门店客流。",
+      "collocation": "drive store traffic",
+      "collocationZh": "提升门店客流",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did the weekend event attract more visitors?",
+          "zh": "周末活动吸引了更多访客吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Store traffic was up 15% compared with the previous weekend.",
+          "zh": "门店客流较上个周末增加了15%。"
+        }
+      ],
+      "usage": "明确计数的是到访人次还是去重访客。",
+      "new": true,
+      "order": 427,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "stɔː ˈtræfɪk",
+      "ipaUS": "stɔːr ˈtræfɪk",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Store traffic",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT428",
+    "before": {
+      "id": "MKT428",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Basket size",
+      "zh": "购物篮规模",
+      "definition": "每笔交易购买的商品数量或金额，需明确口径",
+      "example": "Bundled offers increased basket size in units.",
+      "exampleZh": "组合优惠提高了每单商品件数。",
+      "collocation": "increase basket size",
+      "collocationZh": "提高购物篮规模",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Bundled offers increased ____ in units.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Bundled offers increased basket size in units.",
+          "zh": "组合优惠提高了每单商品件数。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 428,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbæskɪt ˈsaɪz",
+      "ipaUS": "ˈbæskɪt ˈsaɪz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Basket size",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT428",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Basket size",
+      "zh": "购物篮规模",
+      "definition": "每笔交易的商品件数；部分业务也用该词表示购物金额。",
+      "example": "Bundled offers increased basket size in units.",
+      "exampleZh": "组合优惠提高了每单商品件数。",
+      "collocation": "increase basket size",
+      "collocationZh": "提高每单商品件数（件数口径）",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did the bundle offer change buying behaviour?",
+          "zh": "组合优惠改变了购买行为吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Average basket size rose from two to three items.",
+          "zh": "平均每单商品件数从两件增至三件。"
+        }
+      ],
+      "usage": "件数口径为销售件数除以交易笔数；金额口径应明确注明。",
+      "new": true,
+      "order": 428,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈbɑːskɪt saɪz",
+      "ipaUS": "ˈbæskɪt saɪz",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Basket size",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT429",
+    "before": {
+      "id": "MKT429",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Average transaction value",
+      "zh": "平均交易金额",
+      "definition": "销售金额除以交易笔数",
+      "example": "Premium bundles raised average transaction value.",
+      "exampleZh": "高端组合装提高了平均交易金额。",
+      "collocation": "raise average transaction value",
+      "collocationZh": "提高平均交易金额",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Premium bundles raised ____.",
+          "zh": "补全职场表达：高端组合装提高了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Premium bundles raised average transaction value.",
+          "zh": "高端组合装提高了平均交易金额。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 429,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈævrɪdʒ trænˈsækʃən ˈvæljuː",
+      "ipaUS": "ˈævrɪdʒ trænˈsækʃən ˈvæljuː",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Average transaction value",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT429",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Average transaction value",
+      "zh": "平均交易金额",
+      "definition": "指定期间销售金额除以交易笔数所得的平均金额。",
+      "example": "Premium bundles raised average transaction value.",
+      "exampleZh": "高端组合装提高了平均交易金额。",
+      "collocation": "raise average transaction value",
+      "collocationZh": "提高平均交易金额",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did customers spend more per transaction?",
+          "zh": "顾客每笔交易的消费金额增加了吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Average transaction value rose after we introduced premium bundles.",
+          "zh": "推出高端组合装后，平均交易金额有所上升。"
+        }
+      ],
+      "usage": "ATV；明确退款、税费及交易范围。",
+      "new": true,
+      "order": 429,
+      "aliases": [
+        "ATV"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈævərɪdʒ trænˈzækʃən ˈvæljuː",
+      "ipaUS": "ˈævərɪdʒ trænˈzækʃən ˈvæljuː",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Average transaction value",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT430",
+    "before": {
+      "id": "MKT430",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Same-store sales",
+      "zh": "同店销售额",
+      "definition": "可比门店在不同期间的销售额",
+      "example": "Same-store sales grew despite fewer promotions.",
+      "exampleZh": "尽管促销减少，同店销售额仍增长。",
+      "collocation": "compare same-store sales",
+      "collocationZh": "比较同店销售额",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ grew despite fewer promotions.",
+          "zh": "补全职场表达：尽管促销减少，____仍增长。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Same-store sales grew despite fewer promotions.",
+          "zh": "尽管促销减少，同店销售额仍增长。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 430,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈseɪmˈstɔː ˈseɪlz",
+      "ipaUS": "ˈseɪmˈstoːr ˈseɪlz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Same-store sales",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT430",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Same-store sales",
+      "zh": "同店销售额",
+      "definition": "按一致的可比门店范围统计的销售额，用于跨期比较。",
+      "example": "Same-store sales grew despite fewer promotions.",
+      "exampleZh": "尽管促销减少，同店销售额仍增长。",
+      "collocation": "compare same-store sales",
+      "collocationZh": "比较同店销售额",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did growth come only from new stores?",
+          "zh": "增长是否仅来自新开门店？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "No, same-store sales also grew this quarter.",
+          "zh": "不是，本季度同店销售额也有所增长。"
+        }
+      ],
+      "usage": "可比门店的营业期限等纳入标准因企业而异。",
+      "new": true,
+      "order": 430,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌseɪm stɔː seɪlz",
+      "ipaUS": "ˌseɪm stɔːr seɪlz",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Same-store sales",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT431",
+    "before": {
+      "id": "MKT431",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Retail conversion rate",
+      "zh": "门店转化率",
+      "definition": "门店访客中完成购买的比例",
+      "example": "Staff training improved the retail conversion rate.",
+      "exampleZh": "员工培训提高了门店转化率。",
+      "collocation": "improve retail conversion rate",
+      "collocationZh": "提高门店转化率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Staff training improved the ____.",
+          "zh": "补全职场表达：员工培训提高了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Staff training improved the retail conversion rate.",
+          "zh": "员工培训提高了门店转化率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 431,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈriːteɪl kənˈvɜːʃən ˈreɪt",
+      "ipaUS": "ˈriːteɪl kənˈvɜːʒən ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Retail conversion rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT431",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Retail conversion rate",
+      "zh": "门店转化率",
+      "definition": "门店访客完成购买的比例；实务中常用交易笔数除以到访人次估算。",
+      "example": "Staff training improved the retail conversion rate.",
+      "exampleZh": "员工培训提高了门店转化率。",
+      "collocation": "improve retail conversion rate",
+      "collocationZh": "提高门店转化率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Are more visitors making purchases?",
+          "zh": "是否有更多访客完成购买？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our retail conversion rate rose from 18% to 20%.",
+          "zh": "门店转化率从18%升至20%。"
+        }
+      ],
+      "usage": "明确分子分母；交易笔数不一定等于购买人数。",
+      "new": true,
+      "order": 431,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈriːteɪl kənˈvɜːʃən reɪt",
+      "ipaUS": "ˈriːteɪl kənˈvɝːʒən reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Retail conversion rate",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT432",
+    "before": {
+      "id": "MKT432",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Stockout",
+      "zh": "缺货",
+      "definition": "商品库存无法满足当前需求的情况",
+      "example": "We increased safety stock to prevent stockouts.",
+      "exampleZh": "我们增加安全库存以预防缺货。",
+      "collocation": "prevent stockouts",
+      "collocationZh": "预防缺货",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We increased safety stock to prevent ____.",
+          "zh": "补全职场表达：我们增加安全库存以预防____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We increased safety stock to prevent stockouts.",
+          "zh": "我们增加安全库存以预防缺货。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 432,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈstɒkaʊt",
+      "ipaUS": "ˈstɑːkaʊt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Stockout",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT432",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Stockout",
+      "zh": "缺货",
+      "definition": "指定商品在需要购买或供应时无可用库存的情况。",
+      "example": "We increased safety stock to prevent stockouts.",
+      "exampleZh": "我们增加安全库存以预防缺货。",
+      "collocation": "prevent stockouts",
+      "collocationZh": "预防缺货",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did we increase safety stock?",
+          "zh": "为什么增加安全库存？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We want to reduce stockouts during the promotion.",
+          "zh": "我们希望减少促销期间的缺货。"
+        }
+      ],
+      "usage": "也写作 stock-out；安全库存不能保证完全避免缺货。",
+      "new": true,
+      "order": 432,
+      "aliases": [
+        "stock-out"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈstɒkaʊt",
+      "ipaUS": "ˈstɑːkaʊt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Stockout",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT433",
+    "before": {
+      "id": "MKT433",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Assortment planning",
+      "zh": "商品组合规划",
+      "definition": "决定门店或渠道销售哪些商品的过程",
+      "example": "Local demand informs our assortment planning.",
+      "exampleZh": "本地需求为商品组合规划提供依据。",
+      "collocation": "refine assortment planning",
+      "collocationZh": "优化商品组合规划",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Local demand informs our ____.",
+          "zh": "补全职场表达：本地需求为____提供依据。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Local demand informs our assortment planning.",
+          "zh": "本地需求为商品组合规划提供依据。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 433,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "əˈsɔːtmənt ˈplænɪŋ",
+      "ipaUS": "əˈsɔːrtmənt ˈplænɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Assortment planning",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT433",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Assortment planning",
+      "zh": "商品组合规划",
+      "definition": "决定渠道销售哪些商品及商品组合宽度和深度的过程。",
+      "example": "Local demand informs our assortment planning.",
+      "exampleZh": "本地需求为商品组合规划提供依据。",
+      "collocation": "refine assortment planning",
+      "collocationZh": "优化商品组合规划",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we choose products for smaller stores?",
+          "zh": "如何为小型门店选择商品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Local demand will guide our assortment planning.",
+          "zh": "当地需求将指导我们的商品组合规划。"
+        }
+      ],
+      "usage": "宽度指商品类别范围，深度指类别内的选择丰富程度。",
+      "new": true,
+      "order": 433,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "əˈsɔːtmənt ˈplænɪŋ",
+      "ipaUS": "əˈsɔːrtmənt ˈplænɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Assortment planning",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT434",
+    "before": {
+      "id": "MKT434",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Category management",
+      "zh": "品类管理",
+      "definition": "将商品品类作为经营单元进行规划和管理",
+      "example": "The retailer strengthened category management with shopper data.",
+      "exampleZh": "零售商利用购物者数据加强品类管理。",
+      "collocation": "strengthen category management",
+      "collocationZh": "加强品类管理",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The retailer strengthened ____ with shopper data.",
+          "zh": "补全职场表达：零售商利用购物者数据加强____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The retailer strengthened category management with shopper data.",
+          "zh": "零售商利用购物者数据加强品类管理。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 434,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkætɪɡəri ˈmænɪdʒmənt",
+      "ipaUS": "ˈkætɪɡɚri ˈmænɪdʒmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Category management",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT434",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Category management",
+      "zh": "品类管理",
+      "definition": "将商品品类作为经营单元进行规划、执行和评估的管理实践。",
+      "example": "The retailer strengthened category management with shopper data.",
+      "exampleZh": "零售商利用购物者数据加强品类管理。",
+      "collocation": "strengthen category management",
+      "collocationZh": "加强品类管理",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we improve the beverage category?",
+          "zh": "如何改善饮料品类的经营表现？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will use shopper data to inform category management decisions.",
+          "zh": "我们将利用购物者数据支持品类管理决策。"
+        }
+      ],
+      "usage": "涵盖商品组合、定价、陈列及促销等。",
+      "new": true,
+      "order": 434,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkætəɡəri ˈmænɪdʒmənt",
+      "ipaUS": "ˈkætəɡɔːri ˈmænɪdʒmənt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Category management",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT435",
+    "before": {
+      "id": "MKT435",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Shopper marketing",
+      "zh": "购物者营销",
+      "definition": "针对购物决策过程开展的营销活动",
+      "example": "We developed a shopper marketing plan for convenience stores.",
+      "exampleZh": "我们为便利店制定了购物者营销计划。",
+      "collocation": "develop a shopper marketing plan",
+      "collocationZh": "制定购物者营销计划",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We developed a ____ plan for convenience stores.",
+          "zh": "补全职场表达：我们为便利店制定了____计划。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We developed a shopper marketing plan for convenience stores.",
+          "zh": "我们为便利店制定了购物者营销计划。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 435,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈʃɒpə ˈmɑːkɪtɪŋ",
+      "ipaUS": "ˈʃɑːpɚ ˈmɑːrkɪtɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Shopper marketing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT435",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Shopper marketing",
+      "zh": "购物者营销",
+      "definition": "基于购物者洞察，在购买决策过程中开展的营销活动。",
+      "example": "We developed a shopper marketing plan for convenience stores.",
+      "exampleZh": "我们为便利店制定了购物者营销计划。",
+      "collocation": "develop a shopper marketing plan",
+      "collocationZh": "制定购物者营销计划",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why are we testing signs in convenience stores?",
+          "zh": "为什么在便利店测试标牌？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "It is part of our shopper marketing plan.",
+          "zh": "这是购物者营销计划的一部分。"
+        }
+      ],
+      "usage": "购物者不一定是最终使用商品的消费者。",
+      "new": true,
+      "order": 435,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈʃɒpə ˈmɑːkɪtɪŋ",
+      "ipaUS": "ˈʃɑːpər ˈmɑːrkɪtɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Shopper marketing",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT436",
+    "before": {
+      "id": "MKT436",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Impulse purchase",
+      "zh": "冲动购买",
+      "definition": "未事先计划而临时产生的购买行为",
+      "example": "Checkout displays can encourage impulse purchases.",
+      "exampleZh": "收银台陈列可以促进冲动购买。",
+      "collocation": "encourage impulse purchases",
+      "collocationZh": "促进冲动购买",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Checkout displays can encourage ____.",
+          "zh": "补全职场表达：收银台陈列可以促进____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Checkout displays can encourage impulse purchases.",
+          "zh": "收银台陈列可以促进冲动购买。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 436,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɪmpʌls ˈpɜːtʃɪs",
+      "ipaUS": "ˈɪmpʌls ˈpɜːtʃɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Impulse purchase",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT436",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Impulse purchase",
+      "zh": "冲动购买",
+      "definition": "受到即时购买冲动驱动、通常缺乏充分事前计划或审慎考虑的购买行为。",
+      "example": "Checkout displays can encourage impulse purchases.",
+      "exampleZh": "收银台陈列可以促进冲动购买。",
+      "collocation": "encourage impulse purchases",
+      "collocationZh": "促进冲动购买",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why place small items near the checkout?",
+          "zh": "为什么把小商品放在收银台附近？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Checkout displays can encourage impulse purchases.",
+          "zh": "收银台陈列可能促进冲动购买。"
+        }
+      ],
+      "usage": "计划外购买不一定属于冲动购买。",
+      "new": true,
+      "order": 436,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɪmpʌls ˈpɜːtʃəs",
+      "ipaUS": "ˈɪmpʌls ˈpɝːtʃəs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Impulse purchase",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT437",
+    "before": {
+      "id": "MKT437",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Retail activation",
+      "zh": "零售营销激活",
+      "definition": "在零售场景中执行促进互动或销售的活动",
+      "example": "We executed retail activations in twenty stores.",
+      "exampleZh": "我们在二十家门店执行了零售营销活动。",
+      "collocation": "execute retail activations",
+      "collocationZh": "执行零售营销活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We executed ____ in twenty stores.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We executed retail activations in twenty stores.",
+          "zh": "我们在二十家门店执行了零售营销活动。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 437,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈriːteɪl ˌæktɪˈveɪʃən",
+      "ipaUS": "ˈriːteɪl ˌæktɪˈveɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Retail activation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT437",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Retail activation",
+      "zh": "零售营销活动",
+      "definition": "在零售场景中开展的促进品牌互动或销售的具体营销活动。",
+      "example": "We ran retail activations in twenty stores.",
+      "exampleZh": "我们在二十家门店开展了零售营销活动。",
+      "collocation": "run retail activations",
+      "collocationZh": "开展零售营销活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where did we run the sampling campaign?",
+          "zh": "我们在哪里开展了试用推广？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The retail activation covered twenty stores.",
+          "zh": "此次零售营销活动覆盖了二十家门店。"
+        }
+      ],
+      "usage": "可包括试用、现场演示及互动促销。",
+      "new": true,
+      "order": 437,
+      "aliases": [
+        "零售营销激活"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈriːteɪl ˌæktɪˈveɪʃən",
+      "ipaUS": "ˈriːteɪl ˌæktɪˈveɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Retail activation",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "zh",
+      "definition",
+      "example",
+      "exampleZh",
+      "collocation",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT438",
+    "before": {
+      "id": "MKT438",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Store audit",
+      "zh": "门店审计",
+      "definition": "检查门店陈列、价格和执行情况的过程",
+      "example": "The field team conducted a store audit last Friday.",
+      "exampleZh": "地推团队上周五开展了门店审计。",
+      "collocation": "conduct a store audit",
+      "collocationZh": "开展门店审计",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The field team conducted a ____ last Friday.",
+          "zh": "补全职场表达：地推团队上周五开展了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The field team conducted a store audit last Friday.",
+          "zh": "地推团队上周五开展了门店审计。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 438,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈstɔːr ˈɔːdɪt",
+      "ipaUS": "ˈstoːr ˈɔːdɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Store audit",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT438",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Store audit",
+      "zh": "门店巡检",
+      "definition": "按标准检查门店陈列、价格、库存或活动执行情况的过程。",
+      "example": "The field team conducted a store audit last Friday.",
+      "exampleZh": "区域执行团队上周五开展了门店巡检。",
+      "collocation": "conduct a store audit",
+      "collocationZh": "开展门店巡检",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we find the missing price tags?",
+          "zh": "我们如何发现缺失的价签？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The field team found them during a store audit.",
+          "zh": "区域执行团队在门店巡检中发现了这个问题。"
+        }
+      ],
+      "usage": "英式连续语流中 store 与 audit 之间可出现连接音 r。",
+      "new": true,
+      "order": 438,
+      "aliases": [
+        "门店审计"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "stɔːr ˈɔːdɪt",
+      "ipaUS": "stɔːr ˈɑːdɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Store audit",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "zh",
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT439",
+    "before": {
+      "id": "MKT439",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Markdown",
+      "zh": "降价",
+      "definition": "对商品原售价进行下调",
+      "example": "We planned markdowns to clear seasonal inventory.",
+      "exampleZh": "我们规划降价以清理季节性库存。",
+      "collocation": "plan markdowns",
+      "collocationZh": "规划降价",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We planned ____ to clear seasonal inventory.",
+          "zh": "补全职场表达：我们规划____以清理季节性库存。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We planned markdowns to clear seasonal inventory.",
+          "zh": "我们规划降价以清理季节性库存。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 439,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmɑːkdaʊn",
+      "ipaUS": "ˈmɑːrkdaʊn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Markdown",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT439",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Markdown",
+      "zh": "降价",
+      "definition": "零售商品售价的下调或下调金额。",
+      "example": "We planned markdowns to clear seasonal inventory.",
+      "exampleZh": "我们计划通过降价清理季节性库存。",
+      "collocation": "plan markdowns",
+      "collocationZh": "制定降价计划",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we clear seasonal inventory?",
+          "zh": "我们如何清理季节性库存？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We are planning markdowns for the remaining stock.",
+          "zh": "我们计划对剩余库存降价。"
+        }
+      ],
+      "usage": "markdown 是名词；mark down 是动词短语。",
+      "new": true,
+      "order": 439,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmɑːkdaʊn",
+      "ipaUS": "ˈmɑːrkdaʊn",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Markdown",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  },
+  {
+    "id": "MKT440",
+    "before": {
+      "id": "MKT440",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Retail media network",
+      "zh": "零售媒体网络",
+      "definition": "零售商利用自身广告资源及数据提供的广告体系",
+      "example": "We invested in retail media networks to reach active shoppers.",
+      "exampleZh": "我们投入零售媒体网络以触达活跃购物者。",
+      "collocation": "invest in retail media networks",
+      "collocationZh": "投入零售媒体网络",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We invested in ____ to reach active shoppers.",
+          "zh": "补全职场表达：我们投入____以触达活跃购物者。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We invested in retail media networks to reach active shoppers.",
+          "zh": "我们投入零售媒体网络以触达活跃购物者。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 440,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈriːteɪl ˈmiːdiːə ˈnetwɜːk",
+      "ipaUS": "ˈriːteɪl ˈmiːdiːə ˈnetwɜːk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Retail media network",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT440",
+      "moduleId": "m16",
+      "module": "零售营销",
+      "term": "Retail media network",
+      "zh": "零售媒体网络",
+      "definition": "零售商或其合作方利用零售广告资源及购物数据提供广告服务的体系。",
+      "example": "We invested in retail media networks to reach active shoppers.",
+      "exampleZh": "我们在零售媒体网络投放广告，以触达活跃购物者。",
+      "collocation": "invest in retail media networks",
+      "collocationZh": "在零售媒体网络投放广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we reach shoppers close to purchase?",
+          "zh": "如何触达接近购买决策的购物者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We could test a retail media network using sponsored product ads.",
+          "zh": "我们可以通过商品赞助广告测试零售媒体网络。"
+        }
+      ],
+      "usage": "RMN；可涵盖站内、站外及实体门店广告。",
+      "new": true,
+      "order": 440,
+      "aliases": [
+        "RMN"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈriːteɪl ˈmiːdiə ˈnetwɜːk",
+      "ipaUS": "ˈriːteɪl ˈmiːdiə ˈnetwɝːk",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Retail media network",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立核验词典"
+  }
+]

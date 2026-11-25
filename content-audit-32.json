@@ -1,0 +1,1536 @@
+[
+  {
+    "id": "MKT061",
+    "before": {
+      "id": "MKT061",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand personality",
+      "zh": "品牌个性",
+      "definition": "消费者赋予品牌的人格化特征",
+      "example": "The playful illustrations reflect our brand personality.",
+      "exampleZh": "活泼的插画体现了我们的品牌个性。",
+      "collocation": "define brand personality",
+      "collocationZh": "明确品牌个性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did the designer choose such playful illustrations?",
+          "zh": "设计师为什么选择如此活泼的插画？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The playful illustrations reflect our brand personality.",
+          "zh": "活泼的插画体现了我们的品牌个性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 61,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˌpɜːsəˈnælɪti",
+      "ipaUS": "ˈbrænd ˌpɜːsəˈnælɪti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand personality",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT061",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand personality",
+      "zh": "品牌个性",
+      "definition": "消费者感知到的与品牌相关的人格特征，如真诚、活力或专业。",
+      "example": "The playful illustrations reflect our brand personality.",
+      "exampleZh": "活泼的插画体现了我们的品牌个性。",
+      "collocation": "define a brand personality",
+      "collocationZh": "明确品牌个性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did we choose playful illustrations for the packaging?",
+          "zh": "为什么我们为包装选择了活泼的插画？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The playful illustrations reflect our brand personality.",
+          "zh": "活泼的插画体现了我们的品牌个性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 61,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˌpɜːsəˈnæləti",
+      "ipaUS": "brænd ˌpɝːsəˈnæləti",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand personality",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT062",
+    "before": {
+      "id": "MKT062",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand voice",
+      "zh": "品牌声音",
+      "definition": "品牌在文字与沟通中保持的表达风格",
+      "example": "Keep the brand voice consistent across emails and social posts.",
+      "exampleZh": "保持邮件与社交媒体帖子的品牌语调一致。",
+      "collocation": "establish a consistent brand voice",
+      "collocationZh": "建立一致的品牌表达风格",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should the email and social teams coordinate on?",
+          "zh": "邮件和社媒团队应该在哪方面保持一致？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Keep the brand voice consistent across emails and social posts.",
+          "zh": "保持邮件与社交媒体帖子的品牌语调一致。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 62,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈvɔɪs",
+      "ipaUS": "ˈbrænd ˈvɔɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand voice",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT062",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand voice",
+      "zh": "品牌语调",
+      "definition": "品牌在不同沟通渠道中相对稳定的语言风格与表达个性。",
+      "example": "We should keep our brand voice consistent across emails and social media posts.",
+      "exampleZh": "我们应在邮件和社交媒体帖子中保持一致的品牌语调。",
+      "collocation": "establish a consistent brand voice",
+      "collocationZh": "建立一致的品牌语调",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can the email and social media teams sound like one brand?",
+          "zh": "邮件和社媒团队如何保持统一的品牌表达？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should keep our brand voice consistent across emails and social media posts.",
+          "zh": "我们应在邮件和社交媒体帖子中保持一致的品牌语调。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 62,
+      "aliases": [
+        "品牌声音"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd vɔɪs",
+      "ipaUS": "brænd vɔɪs",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand voice",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT063",
+    "before": {
+      "id": "MKT063",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand guidelines",
+      "zh": "品牌规范",
+      "definition": "指导品牌视觉及语言使用的规则",
+      "example": "The agency must follow our updated brand guidelines.",
+      "exampleZh": "代理商必须遵守更新后的品牌指南。",
+      "collocation": "update brand guidelines",
+      "collocationZh": "更新品牌规范",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What rules should the agency follow when producing the assets?",
+          "zh": "代理商制作素材时应该遵守什么规则？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency must follow our updated brand guidelines.",
+          "zh": "代理商必须遵守更新后的品牌指南。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 63,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈɡaɪdlaɪnz",
+      "ipaUS": "ˈbrænd ˈɡaɪdlaɪnz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand guidelines",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT063",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand guidelines",
+      "zh": "品牌指南",
+      "definition": "规范品牌标识、色彩、字体及语言风格等使用方式的文件。",
+      "example": "The agency must follow our updated brand guidelines.",
+      "exampleZh": "代理商必须遵守更新后的品牌指南。",
+      "collocation": "update the brand guidelines",
+      "collocationZh": "更新品牌指南",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which rules apply to the new campaign assets?",
+          "zh": "新活动素材需要遵守哪些规范？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency must follow our updated brand guidelines.",
+          "zh": "代理商必须遵守更新后的品牌指南。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 63,
+      "aliases": [
+        "品牌规范"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈɡaɪdlaɪnz",
+      "ipaUS": "brænd ˈɡaɪdlaɪnz",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand guidelines",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT064",
+    "before": {
+      "id": "MKT064",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand recall",
+      "zh": "品牌回忆",
+      "definition": "消费者在提示或无提示条件下回想品牌的能力",
+      "example": "Unaided brand recall improved among younger shoppers.",
+      "exampleZh": "年轻购物者的无提示品牌回忆率有所提高。",
+      "collocation": "measure brand recall",
+      "collocationZh": "衡量品牌回忆",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What changed when younger shoppers were asked to name brands without prompts?",
+          "zh": "让年轻购物者在没有提示的情况下说出品牌时，结果有什么变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Unaided brand recall improved among younger shoppers.",
+          "zh": "年轻购物者的无提示品牌回忆率有所提高。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 64,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈriːkɔːl",
+      "ipaUS": "ˈbrænd ˈriːkɔːl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand recall",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT064",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand recall",
+      "zh": "品牌回忆",
+      "definition": "消费者在未展示品牌本身时，凭借品类等提示或无提示回想起品牌的能力。",
+      "example": "Unaided brand recall improved among younger shoppers.",
+      "exampleZh": "年轻购物者的无提示品牌回忆率有所提高。",
+      "collocation": "measure unaided brand recall",
+      "collocationZh": "衡量无提示品牌回忆率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did younger shoppers perform when asked to name brands without prompts?",
+          "zh": "让年轻购物者在没有提示的情况下说出品牌时，结果如何？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Unaided brand recall improved among younger shoppers.",
+          "zh": "年轻购物者的无提示品牌回忆率有所提高。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 64,
+      "aliases": [],
+      "distinction": "Recall 是回想；recognition 是辨认。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈriːkɔːl",
+      "ipaUS": "brænd ˈriːkɔːl",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand recall",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT065",
+    "before": {
+      "id": "MKT065",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand recognition",
+      "zh": "品牌识别",
+      "definition": "消费者看到品牌线索时辨认品牌的能力",
+      "example": "Brand recognition was higher when respondents saw the logo.",
+      "exampleZh": "受访者看到标志时，品牌识别率更高。",
+      "collocation": "measure brand recognition",
+      "collocationZh": "衡量品牌识别",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did showing the logo help respondents identify us?",
+          "zh": "展示标志是否帮助受访者识别我们的品牌？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Brand recognition was higher when respondents saw the logo.",
+          "zh": "受访者看到标志时，品牌识别率更高。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 65,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˌrekəɡˈnɪʃən",
+      "ipaUS": "ˈbrænd ˌrekəɡˈnɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand recognition",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT065",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand recognition",
+      "zh": "品牌识别",
+      "definition": "消费者在看到或听到品牌名称、标识等线索时辨认该品牌的能力。",
+      "example": "Brand recognition was higher when respondents saw the logo than when they saw the packaging alone.",
+      "exampleZh": "与仅看到包装相比，受访者看到标识时的品牌识别率更高。",
+      "collocation": "measure brand recognition",
+      "collocationZh": "衡量品牌识别率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which visual cue helped respondents identify our brand more easily?",
+          "zh": "哪种视觉线索更有助于受访者识别我们的品牌？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Brand recognition was higher when respondents saw the logo than when they saw the packaging alone.",
+          "zh": "与仅看到包装相比，受访者看到标识时的品牌识别率更高。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 65,
+      "aliases": [],
+      "distinction": "Recognition 依赖呈现的线索；recall 要求主动回想。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˌrekəɡˈnɪʃən",
+      "ipaUS": "brænd ˌrekəɡˈnɪʃən",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand recognition",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT066",
+    "before": {
+      "id": "MKT066",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand loyalty",
+      "zh": "品牌忠诚度",
+      "definition": "消费者持续偏好或重复选择某品牌的程度",
+      "example": "Reliable service can build brand loyalty without heavy discounts.",
+      "exampleZh": "可靠的服务无需大幅折扣也能建立品牌忠诚度。",
+      "collocation": "build brand loyalty",
+      "collocationZh": "建立品牌忠诚度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we encourage repeat purchases without relying on promotions?",
+          "zh": "如何不依赖促销来鼓励复购？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Reliable service can build brand loyalty without heavy discounts.",
+          "zh": "可靠的服务无需大幅折扣也能建立品牌忠诚度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 66,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈlɔɪəlti",
+      "ipaUS": "ˈbrænd ˈlɔɪəlti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand loyalty",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT066",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand loyalty",
+      "zh": "品牌忠诚度",
+      "definition": "消费者对某品牌持续偏好、承诺或重复选择的程度。",
+      "example": "Reliable service can build brand loyalty without heavy discounts.",
+      "exampleZh": "可靠的服务可以在不依赖大幅折扣的情况下培养品牌忠诚度。",
+      "collocation": "build brand loyalty",
+      "collocationZh": "培养品牌忠诚度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we encourage repeat purchases without relying on discounts?",
+          "zh": "如何在不依赖折扣的情况下促进复购？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Reliable service can build brand loyalty without heavy discounts.",
+          "zh": "可靠的服务可以在不依赖大幅折扣的情况下培养品牌忠诚度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 66,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈlɔɪəlti",
+      "ipaUS": "brænd ˈlɔɪəlti",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand loyalty",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT067",
+    "before": {
+      "id": "MKT067",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand association",
+      "zh": "品牌联想",
+      "definition": "消费者心中与品牌相关的概念和印象",
+      "example": "We want to strengthen the brand association with sustainability.",
+      "exampleZh": "我们希望强化品牌与可持续性的关联。",
+      "collocation": "strengthen brand associations",
+      "collocationZh": "强化品牌联想",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What idea do we want consumers to connect with our brand?",
+          "zh": "我们希望消费者将品牌与什么理念联系起来？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We want to strengthen the brand association with sustainability.",
+          "zh": "我们希望强化品牌与可持续性的关联。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 67,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd əˌsəʊsɪˈeɪʃən",
+      "ipaUS": "ˈbrænd əˌsoʊsɪˈeɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand association",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT067",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand association",
+      "zh": "品牌联想",
+      "definition": "消费者记忆中与品牌相联系的属性、利益、情感或其他概念。",
+      "example": "We want to strengthen consumers' association of our brand with sustainability.",
+      "exampleZh": "我们希望强化消费者对本品牌与可持续发展之间的联想。",
+      "collocation": "strengthen brand associations",
+      "collocationZh": "强化品牌联想",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What idea should consumers associate more strongly with our brand?",
+          "zh": "我们希望消费者更强烈地将品牌与什么理念联系起来？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We want to strengthen consumers' association of our brand with sustainability.",
+          "zh": "我们希望强化消费者对本品牌与可持续发展之间的联想。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 67,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd əˌsəʊsiˈeɪʃən",
+      "ipaUS": "brænd əˌsoʊsiˈeɪʃən",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand association",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT068",
+    "before": {
+      "id": "MKT068",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand extension",
+      "zh": "品牌延伸",
+      "definition": "利用已有品牌进入新的产品类别",
+      "example": "The proposed brand extension must fit our existing positioning.",
+      "exampleZh": "拟议的品牌延伸必须符合现有定位。",
+      "collocation": "evaluate a brand extension",
+      "collocationZh": "评估品牌延伸",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What is the key criterion for introducing a product under our existing brand?",
+          "zh": "以现有品牌推出新产品的关键标准是什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The proposed brand extension must fit our existing positioning.",
+          "zh": "拟议的品牌延伸必须符合现有定位。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 68,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ekˈstenʃən",
+      "ipaUS": "ˈbrænd ekˈstenʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand extension",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT068",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand extension",
+      "zh": "品牌延伸",
+      "definition": "利用现有品牌名称推出新产品，尤其是进入新的产品类别。",
+      "example": "The proposed brand extension must fit our existing positioning.",
+      "exampleZh": "拟议的品牌延伸方案必须符合现有品牌定位。",
+      "collocation": "evaluate a brand extension",
+      "collocationZh": "评估品牌延伸方案",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we check before entering a new product category under our existing brand?",
+          "zh": "使用现有品牌进入新产品类别前，我们应检查什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The proposed brand extension must fit our existing positioning.",
+          "zh": "拟议的品牌延伸方案必须符合现有品牌定位。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 68,
+      "aliases": [],
+      "distinction": "进入同一品类的新规格通常称 line extension。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ɪkˈstenʃən",
+      "ipaUS": "brænd ɪkˈstenʃən",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand extension",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT069",
+    "before": {
+      "id": "MKT069",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Rebranding",
+      "zh": "品牌重塑",
+      "definition": "调整品牌名称、形象或定位的过程",
+      "example": "Rebranding alone will not resolve the service quality issues.",
+      "exampleZh": "仅靠品牌重塑无法解决服务质量问题。",
+      "collocation": "plan a rebranding initiative",
+      "collocationZh": "规划品牌重塑项目",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Will a new visual identity fix the customer complaints?",
+          "zh": "新的视觉识别能解决客户投诉吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Rebranding alone will not resolve the service quality issues.",
+          "zh": "仅靠品牌重塑无法解决服务质量问题。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 69,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "rɪˈbrændɪŋ",
+      "ipaUS": "rɪˈbrændɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Rebranding",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT069",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Rebranding",
+      "zh": "品牌重塑",
+      "definition": "对品牌名称、视觉形象或定位进行有计划的调整。",
+      "example": "Rebranding alone will not resolve the service quality issues.",
+      "exampleZh": "仅靠品牌重塑无法解决服务质量问题。",
+      "collocation": "plan a rebranding initiative",
+      "collocationZh": "规划品牌重塑项目",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Will a new visual identity address the underlying service complaints?",
+          "zh": "新的视觉形象能解决客户投诉背后的服务问题吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Rebranding alone will not resolve the service quality issues.",
+          "zh": "仅靠品牌重塑无法解决服务质量问题。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 69,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌriːˈbrændɪŋ",
+      "ipaUS": "ˌriːˈbrændɪŋ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Rebranding",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT070",
+    "before": {
+      "id": "MKT070",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Go-to-market strategy",
+      "zh": "上市策略",
+      "definition": "将产品推向目标客户的市场进入与销售方案",
+      "example": "The go-to-market strategy specifies our target buyers, channels and launch sequence.",
+      "exampleZh": "上市策略明确了目标买家、渠道和上市顺序。",
+      "collocation": "develop a go-to-market strategy",
+      "collocationZh": "制定上市策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What does the launch plan need to specify?",
+          "zh": "上市计划需要明确哪些内容？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The go-to-market strategy specifies our target buyers, channels and launch sequence.",
+          "zh": "上市策略明确了目标买家、渠道和上市顺序。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 70,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌɡəʊtəˈmɑːkɪt ˈstrætədʒi",
+      "ipaUS": "ˌɡoʊtəˈmɑːrkɪt ˈstrætədʒi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Go-to-market strategy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT070",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Go-to-market strategy",
+      "zh": "上市策略",
+      "definition": "将产品推向目标市场的整体方案，通常包括目标客户、价值主张、定价、渠道和销售安排。",
+      "example": "Our go-to-market strategy specifies the target buyers, channels and launch sequence.",
+      "exampleZh": "我们的上市策略明确了目标客户、渠道和上市顺序。",
+      "collocation": "develop a go-to-market strategy",
+      "collocationZh": "制定上市策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What does our plan for reaching the first customers specify?",
+          "zh": "我们触达首批客户的计划明确了哪些内容？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our go-to-market strategy specifies the target buyers, channels and launch sequence.",
+          "zh": "我们的上市策略明确了目标客户、渠道和上市顺序。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 70,
+      "aliases": [
+        "GTM"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌɡəʊ tə ˈmɑːkɪt ˈstrætədʒi",
+      "ipaUS": "ˌɡoʊ tə ˈmɑːrkɪt ˈstrætədʒi",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Go-to-market strategy",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT071",
+    "before": {
+      "id": "MKT071",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product launch",
+      "zh": "产品上市",
+      "definition": "向市场正式推出新产品的活动",
+      "example": "We postponed the product launch until inventory was ready.",
+      "exampleZh": "我们将新品上市推迟到库存准备就绪之后。",
+      "collocation": "coordinate a product launch",
+      "collocationZh": "协调产品上市",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did we move the release date?",
+          "zh": "我们为什么推迟发布日期？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We postponed the product launch until inventory was ready.",
+          "zh": "我们将新品上市推迟到库存准备就绪之后。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 71,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌkt ˈlɔːntʃ",
+      "ipaUS": "ˈprɑːdʌkt ˈlɑːntʃ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product launch",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT071",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product launch",
+      "zh": "产品上市",
+      "definition": "将新产品正式推向市场的过程或活动。",
+      "example": "We postponed the product launch until sufficient stock was available.",
+      "exampleZh": "我们将产品上市推迟到备货充足之后。",
+      "collocation": "coordinate a product launch",
+      "collocationZh": "协调产品上市",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did we move the launch date?",
+          "zh": "我们为什么推迟上市日期？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We postponed the product launch until sufficient stock was available.",
+          "zh": "我们将产品上市推迟到备货充足之后。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 71,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt lɔːntʃ",
+      "ipaUS": "ˈprɑːdʌkt lɑːntʃ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Product launch",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT072",
+    "before": {
+      "id": "MKT072",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product positioning",
+      "zh": "产品定位",
+      "definition": "明确产品相对于替代方案的目标客户和价值",
+      "example": "Our product positioning emphasizes ease of use rather than advanced features.",
+      "exampleZh": "我们的产品定位强调易用性而非高级功能。",
+      "collocation": "refine product positioning",
+      "collocationZh": "优化产品定位",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we differentiating the product from feature-heavy alternatives?",
+          "zh": "我们如何与功能繁多的替代产品形成差异？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our product positioning emphasizes ease of use rather than advanced features.",
+          "zh": "我们的产品定位强调易用性而非高级功能。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 72,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌkt pəˈzɪʃənɪŋ",
+      "ipaUS": "ˈprɑːdʌkt pəˈzɪʃənɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product positioning",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT072",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product positioning",
+      "zh": "产品定位",
+      "definition": "明确产品面向的目标客户、核心价值及其相对于竞争方案的独特位置。",
+      "example": "Our product positioning emphasizes ease of use rather than advanced features.",
+      "exampleZh": "我们的产品定位强调易用性，而非高级功能。",
+      "collocation": "refine product positioning",
+      "collocationZh": "优化产品定位",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we differentiate ourselves from feature-heavy alternatives?",
+          "zh": "我们如何与功能繁多的替代产品形成差异？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our product positioning emphasizes ease of use rather than advanced features.",
+          "zh": "我们的产品定位强调易用性，而非高级功能。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 72,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt pəˈzɪʃənɪŋ",
+      "ipaUS": "ˈprɑːdʌkt pəˈzɪʃənɪŋ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Product positioning",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT073",
+    "before": {
+      "id": "MKT073",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Unique selling proposition",
+      "zh": "独特销售主张",
+      "definition": "突出产品区别于替代品的核心购买理由",
+      "example": "Same-day repairs are our unique selling proposition.",
+      "exampleZh": "当日维修是我们的独特卖点。",
+      "collocation": "define a unique selling proposition",
+      "collocationZh": "明确独特销售主张",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What can we offer that makes us stand out from other repair services?",
+          "zh": "我们能提供什么来区别于其他维修服务？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Same-day repairs are our unique selling proposition.",
+          "zh": "当日维修是我们的独特卖点。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 73,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "juːˈniːk ˈselɪŋ ˌprɒpəˈzɪʃən",
+      "ipaUS": "juːˈniːk ˈselɪŋ ˌprɑːpəˈzɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Unique selling proposition",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT073",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Unique selling proposition",
+      "zh": "独特销售主张",
+      "definition": "向目标客户传达区别于竞争产品的独特购买理由。",
+      "example": "Same-day repairs are our unique selling proposition.",
+      "exampleZh": "当日维修是我们的独特卖点。",
+      "collocation": "define a unique selling proposition",
+      "collocationZh": "明确独特销售主张",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What makes our repair service stand out from competitors?",
+          "zh": "我们的维修服务凭什么脱颖而出？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Same-day repairs are our unique selling proposition.",
+          "zh": "当日维修是我们的独特卖点。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 73,
+      "aliases": [
+        "USP",
+        "unique selling point"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "juːˈniːk ˈselɪŋ ˌprɒpəˈzɪʃən",
+      "ipaUS": "juːˈniːk ˈselɪŋ ˌprɑːpəˈzɪʃən",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Unique selling proposition",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT074",
+    "before": {
+      "id": "MKT074",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product-market fit",
+      "zh": "产品市场契合度",
+      "definition": "产品满足目标市场需求的程度",
+      "example": "Strong repeat usage is one signal of product-market fit.",
+      "exampleZh": "较高的重复使用率是产品市场契合度的一个信号。",
+      "collocation": "validate product-market fit",
+      "collocationZh": "验证产品市场契合度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What evidence suggests customers are getting lasting value from the product?",
+          "zh": "什么证据表明客户从产品中获得持续价值？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Strong repeat usage is one signal of product-market fit.",
+          "zh": "较高的重复使用率是产品市场契合度的一个信号。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 74,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌktˈmɑːkɪt ˈfɪt",
+      "ipaUS": "ˈprɑːdʌktˈmɑːrkɪt ˈfɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product-market fit",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT074",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product-market fit",
+      "zh": "产品市场契合度",
+      "definition": "产品能够满足明确市场的真实需求，并获得持续市场接受的程度。",
+      "example": "High repeat usage is one indicator of product-market fit.",
+      "exampleZh": "较高的重复使用率是产品市场契合度的一个指标。",
+      "collocation": "validate product-market fit",
+      "collocationZh": "验证产品市场契合度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What evidence suggests customers continue to find value in the product?",
+          "zh": "什么证据表明客户持续从产品中获得价值？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "High repeat usage is one indicator of product-market fit.",
+          "zh": "较高的重复使用率是产品市场契合度的一个指标。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 74,
+      "aliases": [
+        "PMF"
+      ],
+      "distinction": "重复使用是信号之一，并非单独证明。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt ˈmɑːkɪt fɪt",
+      "ipaUS": "ˈprɑːdʌkt ˈmɑːrkɪt fɪt",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Product-market fit",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT075",
+    "before": {
+      "id": "MKT075",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Sales enablement",
+      "zh": "销售赋能",
+      "definition": "为销售团队提供知识、工具和内容以促进销售",
+      "example": "Sales enablement includes training reps to handle pricing objections.",
+      "exampleZh": "销售赋能包括培训销售人员处理价格异议。",
+      "collocation": "support sales enablement",
+      "collocationZh": "支持销售赋能",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we preparing sales representatives for difficult pricing conversations?",
+          "zh": "我们如何帮助销售代表应对棘手的价格沟通？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Sales enablement includes training reps to handle pricing objections.",
+          "zh": "销售赋能包括培训销售人员处理价格异议。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 75,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈseɪlz eˈneɪbəlmənt",
+      "ipaUS": "ˈseɪlz eˈneɪbəlmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Sales enablement",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT075",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Sales enablement",
+      "zh": "销售赋能",
+      "definition": "通过培训、内容、工具和流程帮助销售团队更有效地开展销售工作。",
+      "example": "Our sales enablement program includes training reps to handle pricing objections.",
+      "exampleZh": "我们的销售赋能计划包括培训销售人员应对价格异议。",
+      "collocation": "support sales enablement",
+      "collocationZh": "支持销售赋能",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we preparing sales reps for pricing objections?",
+          "zh": "我们如何帮助销售人员应对价格异议？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our sales enablement program includes training reps to handle pricing objections.",
+          "zh": "我们的销售赋能计划包括培训销售人员应对价格异议。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 75,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "seɪlz ɪˈneɪbəlmənt",
+      "ipaUS": "seɪlz ɪˈneɪbəlmənt",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Sales enablement",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT076",
+    "before": {
+      "id": "MKT076",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Battlecard",
+      "zh": "竞争销售卡片",
+      "definition": "帮助销售应对竞争对手的简明资料",
+      "example": "Update the battlecard before the sales team meets the prospect.",
+      "exampleZh": "销售团队会见潜在客户前，更新竞争应对卡。",
+      "collocation": "create a competitive battlecard",
+      "collocationZh": "制作竞争销售卡片",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we update before the competitive sales meeting?",
+          "zh": "竞争性销售会议前应该更新什么资料？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Update the battlecard before the sales team meets the prospect.",
+          "zh": "销售团队会见潜在客户前，更新竞争应对卡。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 76,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbætəlˌkɑːd",
+      "ipaUS": "ˈbætəlˌkɑːrd",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Battlecard",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT076",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Battlecard",
+      "zh": "竞争应对卡",
+      "definition": "为销售人员提供竞争对手信息、差异化卖点和异议应对建议的简明资料。",
+      "example": "We should update the battlecard before the sales team meets the prospect.",
+      "exampleZh": "我们应在销售团队会见潜在客户前更新竞争应对卡。",
+      "collocation": "create a competitive battlecard",
+      "collocationZh": "制作竞争应对卡",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we prepare for a prospect who is evaluating a competitor?",
+          "zh": "面对正在评估竞争产品的潜在客户，我们应准备什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should update the battlecard before the sales team meets the prospect.",
+          "zh": "我们应在销售团队会见潜在客户前更新竞争应对卡。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 76,
+      "aliases": [
+        "竞争销售卡片",
+        "battle card"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈbætəl kɑːd",
+      "ipaUS": "ˈbætəl kɑːrd",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Battlecard",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT077",
+    "before": {
+      "id": "MKT077",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product demo",
+      "zh": "产品演示",
+      "definition": "展示产品功能和使用价值的过程",
+      "example": "The product demo should focus on the customer's workflow.",
+      "exampleZh": "产品演示应聚焦客户的工作流程。",
+      "collocation": "deliver a product demo",
+      "collocationZh": "进行产品演示",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we emphasize when showing the software to the prospect?",
+          "zh": "向潜在客户演示软件时应该强调什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The product demo should focus on the customer's workflow.",
+          "zh": "产品演示应聚焦客户的工作流程。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 77,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌkt ˈdeməʊ",
+      "ipaUS": "ˈprɑːdʌkt ˈdemoʊ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product demo",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT077",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product demo",
+      "zh": "产品演示",
+      "definition": "通过实际操作或示例展示产品功能、使用方式及客户价值。",
+      "example": "The product demo should focus on the customer's workflow.",
+      "exampleZh": "产品演示应聚焦客户的工作流程。",
+      "collocation": "deliver a product demo",
+      "collocationZh": "进行产品演示",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we emphasize when demonstrating the software to the prospect?",
+          "zh": "向潜在客户演示软件时，我们应强调什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The product demo should focus on the customer's workflow.",
+          "zh": "产品演示应聚焦客户的工作流程。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 77,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt ˈdeməʊ",
+      "ipaUS": "ˈprɑːdʌkt ˈdemoʊ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Product demo",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT078",
+    "before": {
+      "id": "MKT078",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Feature adoption",
+      "zh": "功能采用",
+      "definition": "用户开始并持续使用某项功能的情况",
+      "example": "Feature adoption increased after we simplified onboarding.",
+      "exampleZh": "简化新手引导后，功能采用率提高了。",
+      "collocation": "track feature adoption",
+      "collocationZh": "跟踪功能采用情况",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What happened to usage of the new feature after the onboarding changes?",
+          "zh": "调整新手引导后，新功能的使用情况如何？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Feature adoption increased after we simplified onboarding.",
+          "zh": "简化新手引导后，功能采用率提高了。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 78,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈfiːtʃər əˈdɒpʃən",
+      "ipaUS": "ˈfiːtʃɚr əˈdɑːpʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Feature adoption",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT078",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Feature adoption",
+      "zh": "功能采用",
+      "definition": "用户开始使用某项功能的情况；可按首次使用或约定的有效使用标准衡量。",
+      "example": "Feature adoption increased after we simplified onboarding.",
+      "exampleZh": "简化新手引导后，采用该功能的用户增多了。",
+      "collocation": "track feature adoption",
+      "collocationZh": "跟踪功能采用情况",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What happened to feature usage after the onboarding changes?",
+          "zh": "调整新手引导后，该功能的使用情况如何？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Feature adoption increased after we simplified onboarding.",
+          "zh": "简化新手引导后，采用该功能的用户增多了。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 78,
+      "aliases": [],
+      "distinction": "采用率须明确合格用户分母、时间窗口及使用标准。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈfiːtʃər əˈdɒpʃən",
+      "ipaUS": "ˈfiːtʃər əˈdɑːpʃən",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Feature adoption",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT079",
+    "before": {
+      "id": "MKT079",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Pricing strategy",
+      "zh": "定价策略",
+      "definition": "确定价格水平和收费方式的方案",
+      "example": "Our pricing strategy must reflect both costs and customer value.",
+      "exampleZh": "定价策略必须兼顾成本和客户价值。",
+      "collocation": "develop a pricing strategy",
+      "collocationZh": "制定定价策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What factors should guide our pricing decisions?",
+          "zh": "哪些因素应该指导定价决策？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our pricing strategy must reflect both costs and customer value.",
+          "zh": "定价策略必须兼顾成本和客户价值。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 79,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpraɪsɪŋ ˈstrætədʒi",
+      "ipaUS": "ˈpraɪsɪŋ ˈstrætədʒi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Pricing strategy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT079",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Pricing strategy",
+      "zh": "定价策略",
+      "definition": "根据业务目标、成本、竞争和客户价值确定价格水平、结构及调整方式的总体方案。",
+      "example": "Our pricing strategy must reflect both costs and customer value.",
+      "exampleZh": "我们的定价策略必须兼顾成本和客户价值。",
+      "collocation": "develop a pricing strategy",
+      "collocationZh": "制定定价策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What factors should guide our pricing decisions?",
+          "zh": "哪些因素应指导我们的定价决策？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our pricing strategy must reflect both costs and customer value.",
+          "zh": "我们的定价策略必须兼顾成本和客户价值。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 79,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈpraɪsɪŋ ˈstrætədʒi",
+      "ipaUS": "ˈpraɪsɪŋ ˈstrætədʒi",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Pricing strategy",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  },
+  {
+    "id": "MKT080",
+    "before": {
+      "id": "MKT080",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Value-based pricing",
+      "zh": "价值定价",
+      "definition": "依据客户感知价值制定价格的方法",
+      "example": "Value-based pricing requires evidence of the savings customers can achieve.",
+      "exampleZh": "价值定价需要证明客户能够实现的成本节省。",
+      "collocation": "adopt value-based pricing",
+      "collocationZh": "采用价值定价",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What evidence do we need to justify charging based on customer benefits?",
+          "zh": "按客户获得的价值定价需要什么证据？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Value-based pricing requires evidence of the savings customers can achieve.",
+          "zh": "价值定价需要证明客户能够实现的成本节省。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 80,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈvæljuːˈbeɪst ˈpraɪsɪŋ",
+      "ipaUS": "ˈvæljuːˈbeɪst ˈpraɪsɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Value-based pricing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT080",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Value-based pricing",
+      "zh": "价值定价",
+      "definition": "主要依据客户感知价值及支付意愿，而非仅依据成本制定价格的方法。",
+      "example": "To support value-based pricing, we can quantify the savings our software delivers.",
+      "exampleZh": "为支持价值定价，我们可以量化软件为客户带来的成本节约。",
+      "collocation": "adopt value-based pricing",
+      "collocationZh": "采用价值定价",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we demonstrate the value behind our proposed price?",
+          "zh": "我们如何证明拟定价格背后的客户价值？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "To support value-based pricing, we can quantify the savings our software delivers.",
+          "zh": "为支持价值定价，我们可以量化软件为客户带来的成本节约。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 80,
+      "aliases": [],
+      "distinction": "成本节约只是客户价值的一种来源。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈvæljuː beɪst ˈpraɪsɪŋ",
+      "ipaUS": "ˈvæljuː beɪst ˈpraɪsɪŋ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Value-based pricing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未外部词典核验"
+  }
+]

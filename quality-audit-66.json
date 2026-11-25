@@ -1,0 +1,939 @@
+{
+  "version": "1.0.66",
+  "baseline": "1.0.65",
+  "changes": [
+    {
+      "id": "MKT078",
+      "before": {
+        "id": "MKT078",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Feature adoption",
+        "zh": "功能采用",
+        "definition": "用户开始使用某项功能的情况；可按首次使用或约定的有效使用标准衡量。",
+        "example": "Feature adoption increased after we simplified onboarding.",
+        "exampleZh": "简化新手引导后，采用该功能的用户增多了。",
+        "collocation": "track feature adoption",
+        "collocationZh": "跟踪功能采用情况",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to feature usage after the onboarding changes?",
+            "zh": "调整新手引导后，该功能的使用情况如何？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Feature adoption increased after we simplified onboarding.",
+            "zh": "简化新手引导后，采用该功能的用户增多了。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 78,
+        "aliases": [],
+        "distinction": "采用率须明确合格用户分母、时间窗口及使用标准。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈfiːtʃər əˈdɒpʃən",
+        "ipaUS": "ˈfiːtʃər əˈdɑːpʃən",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Feature adoption",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT078",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Feature adoption",
+        "zh": "功能采用",
+        "definition": "用户开始使用某项功能的情况；可按首次使用或约定的有效使用标准衡量。",
+        "example": "Feature adoption increased after we simplified onboarding.",
+        "exampleZh": "简化新手引导后，采用该功能的用户增多了。",
+        "collocation": "track feature adoption",
+        "collocationZh": "跟踪功能采用情况",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to feature usage after the onboarding changes?",
+            "zh": "调整新手引导后，该功能的使用情况如何？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Feature adoption increased after we simplified onboarding.",
+            "zh": "简化新手引导后，采用该功能的用户增多了。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 78,
+        "aliases": [],
+        "distinction": "采用率须明确合格用户分母、时间窗口及使用标准。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈfiːtʃə(r) əˈdɒpʃən",
+        "ipaUS": "ˈfiːtʃər əˈdɑːpʃən",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Feature adoption",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 英式连接音采用 (r) 显示；未新增词典核验。"
+      }
+    },
+    {
+      "id": "MKT096",
+      "before": {
+        "id": "MKT096",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Cost per acquisition",
+        "zh": "单次获客或转化成本",
+        "definition": "营销费用除以指定获客或转化次数；若转化是注册而非付费客户，则不等同于完整获客成本。",
+        "example": "Cost per acquisition fell after we excluded low-intent keywords.",
+        "exampleZh": "排除低意向关键词后，单次转化成本下降了。",
+        "collocation": "track cost per acquisition",
+        "collocationZh": "跟踪单次获客或转化成本",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to our conversion costs after excluding low-intent keywords?",
+            "zh": "排除低意向关键词后，转化成本发生了什么变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cost per acquisition fell after we excluded low-intent keywords.",
+            "zh": "排除低意向关键词后，单次转化成本下降了。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 96,
+        "aliases": [
+          "CPA"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "kɒst pər ˌækwɪˈzɪʃən",
+        "ipaUS": "kɑːst pər ˌækwɪˈzɪʃən",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Cost per acquisition",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT096",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Cost per acquisition",
+        "zh": "单次获客或转化成本",
+        "definition": "营销费用除以指定获客或转化次数；若转化是注册而非付费客户，则不等同于完整获客成本。",
+        "example": "Cost per acquisition fell after we excluded low-intent keywords.",
+        "exampleZh": "排除低意向关键词后，单次转化成本下降了。",
+        "collocation": "track cost per acquisition",
+        "collocationZh": "跟踪单次获客或转化成本",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to our conversion costs after excluding low-intent keywords?",
+            "zh": "排除低意向关键词后，转化成本发生了什么变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cost per acquisition fell after we excluded low-intent keywords.",
+            "zh": "排除低意向关键词后，单次转化成本下降了。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 96,
+        "aliases": [
+          "CPA"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "kɒst pə(r) ˌækwɪˈzɪʃən",
+        "ipaUS": "kɑːst pər ˌækwɪˈzɪʃən",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Cost per acquisition",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 英式连接音采用 (r) 显示；未新增词典核验。"
+      }
+    },
+    {
+      "id": "MKT146",
+      "before": {
+        "id": "MKT146",
+        "moduleId": "m6",
+        "module": "消费者洞察",
+        "term": "Customer expectation",
+        "zh": "客户期望",
+        "definition": "客户对产品或服务表现预先形成的期望。",
+        "example": "Accurate delivery estimates help manage customer expectations.",
+        "exampleZh": "准确预估送达时间有助于管理客户预期。",
+        "collocation": "manage customer expectations",
+        "collocationZh": "管理客户期望",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we avoid disappointing shoppers waiting for their orders?",
+            "zh": "如何避免让等待订单的购物者失望？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Accurate delivery estimates help manage customer expectations.",
+            "zh": "准确预估送达时间有助于管理客户预期。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 146,
+        "aliases": [],
+        "distinction": "常用复数 customer expectations。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkʌstəmər ˌekspekˈteɪʃən",
+        "ipaUS": "ˈkʌstəmər ˌekspekˈteɪʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Customer expectation",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT146",
+        "moduleId": "m6",
+        "module": "消费者洞察",
+        "term": "Customer expectation",
+        "zh": "客户期望",
+        "definition": "客户对产品或服务表现预先形成的期望。",
+        "example": "Accurate delivery estimates help manage customer expectations.",
+        "exampleZh": "准确预估送达时间有助于管理客户预期。",
+        "collocation": "manage customer expectations",
+        "collocationZh": "管理客户期望",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we avoid disappointing shoppers waiting for their orders?",
+            "zh": "如何避免让等待订单的购物者失望？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Accurate delivery estimates help manage customer expectations.",
+            "zh": "准确预估送达时间有助于管理客户预期。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 146,
+        "aliases": [],
+        "distinction": "常用复数 customer expectations。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkʌstəmə(r) ˌekspekˈteɪʃən",
+        "ipaUS": "ˈkʌstəmər ˌekspekˈteɪʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Customer expectation",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 英式连接音采用 (r) 显示；未新增词典核验。"
+      }
+    },
+    {
+      "id": "MKT148",
+      "before": {
+        "id": "MKT148",
+        "moduleId": "m6",
+        "module": "消费者洞察",
+        "term": "Customer effort",
+        "zh": "客户付出",
+        "definition": "客户完成任务或解决问题所需投入的时间、精力或操作成本。",
+        "example": "A shorter checkout process can reduce customer effort.",
+        "exampleZh": "缩短结账流程可以让客户更省力。",
+        "collocation": "reduce customer effort",
+        "collocationZh": "降低客户费力度",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What could make purchasing less demanding for shoppers?",
+            "zh": "怎样让购物者购买时更省力？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "A shorter checkout process can reduce customer effort.",
+            "zh": "缩短结账流程可以让客户更省力。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 148,
+        "aliases": [],
+        "distinction": "Customer effort 是概念，CES 是调查指标。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkʌstəmər ˈefət",
+        "ipaUS": "ˈkʌstəmər ˈefərt",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Customer effort",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT148",
+        "moduleId": "m6",
+        "module": "消费者洞察",
+        "term": "Customer effort",
+        "zh": "客户付出",
+        "definition": "客户完成任务或解决问题所需投入的时间、精力或操作成本。",
+        "example": "A shorter checkout process can reduce customer effort.",
+        "exampleZh": "缩短结账流程可以让客户更省力。",
+        "collocation": "reduce customer effort",
+        "collocationZh": "降低客户费力度",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What could make purchasing less demanding for shoppers?",
+            "zh": "怎样让购物者购买时更省力？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "A shorter checkout process can reduce customer effort.",
+            "zh": "缩短结账流程可以让客户更省力。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 148,
+        "aliases": [],
+        "distinction": "Customer effort 是概念，CES 是调查指标。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkʌstəmə(r) ˈefət",
+        "ipaUS": "ˈkʌstəmər ˈefərt",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Customer effort",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 英式连接音采用 (r) 显示；未新增词典核验。"
+      }
+    },
+    {
+      "id": "MKT151",
+      "before": {
+        "id": "MKT151",
+        "moduleId": "m6",
+        "module": "消费者洞察",
+        "term": "Customer effort score",
+        "zh": "客户费力度评分",
+        "definition": "通过调查衡量客户完成任务或解决问题所感知的费力程度的指标。",
+        "example": "We monitor the customer effort score after support interactions.",
+        "exampleZh": "我们在客服互动结束后监测客户费力度评分。",
+        "collocation": "monitor the customer effort score",
+        "collocationZh": "监测客户费力度评分",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Which metric tells us how easy it was to resolve a support issue?",
+            "zh": "哪个指标能反映客户解决问题时的费力程度？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We monitor the customer effort score after support interactions.",
+            "zh": "我们在客服互动结束后监测客户费力度评分。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 151,
+        "aliases": [
+          "CES"
+        ],
+        "distinction": "CES 的高低方向取决于题目措辞和量表编码。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkʌstəmər ˈefət skɔː",
+        "ipaUS": "ˈkʌstəmər ˈefərt skɔːr",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Customer effort score",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT151",
+        "moduleId": "m6",
+        "module": "消费者洞察",
+        "term": "Customer effort score",
+        "zh": "客户费力度评分",
+        "definition": "通过调查衡量客户完成任务或解决问题所感知的费力程度的指标。",
+        "example": "We monitor the customer effort score after support interactions.",
+        "exampleZh": "我们在客服互动结束后监测客户费力度评分。",
+        "collocation": "monitor the customer effort score",
+        "collocationZh": "监测客户费力度评分",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Which metric tells us how easy it was to resolve a support issue?",
+            "zh": "哪个指标能反映客户解决问题时的费力程度？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We monitor the customer effort score after support interactions.",
+            "zh": "我们在客服互动结束后监测客户费力度评分。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 151,
+        "aliases": [
+          "CES"
+        ],
+        "distinction": "CES 的高低方向取决于题目措辞和量表编码。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkʌstəmə(r) ˈefət skɔː",
+        "ipaUS": "ˈkʌstəmər ˈefərt skɔːr",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Customer effort score",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 英式连接音采用 (r) 显示；未新增词典核验。"
+      }
+    },
+    {
+      "id": "MKT225",
+      "before": {
+        "id": "MKT225",
+        "moduleId": "m8",
+        "module": "整合营销传播",
+        "term": "Post-campaign review",
+        "zh": "活动复盘",
+        "definition": "活动结束后对目标达成情况、执行问题和经验进行评估的过程。",
+        "example": "The post-campaign review revealed delays in asset approval.",
+        "exampleZh": "活动复盘发现了素材审批延迟的问题。",
+        "collocation": "conduct a post-campaign review",
+        "collocationZh": "开展活动复盘",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify the approval bottleneck?",
+            "zh": "我们如何发现审批瓶颈？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The post-campaign review revealed delays in asset approval.",
+            "zh": "活动复盘发现了素材审批延迟的问题。"
+          }
+        ],
+        "usage": "复盘不仅是汇报结果，还应形成后续改进建议。",
+        "new": true,
+        "order": 225,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌpəʊst kæmˈpeɪn rɪˈvjuː",
+        "ipaUS": "ˌpoʊst kæmˈpeɪn rɪˈvjuː",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Post-campaign review",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      },
+      "after": {
+        "id": "MKT225",
+        "moduleId": "m8",
+        "module": "整合营销传播",
+        "term": "Post-campaign review",
+        "zh": "营销活动复盘",
+        "definition": "活动结束后对目标达成情况、执行问题和经验进行评估的过程。",
+        "example": "The post-campaign review revealed delays in asset approval.",
+        "exampleZh": "活动复盘发现了素材审批延迟的问题。",
+        "collocation": "conduct a post-campaign review",
+        "collocationZh": "开展活动复盘",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify the approval bottleneck?",
+            "zh": "我们如何发现审批瓶颈？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The post-campaign review revealed delays in asset approval.",
+            "zh": "活动复盘发现了素材审批延迟的问题。"
+          }
+        ],
+        "usage": "复盘不仅是汇报结果，还应形成后续改进建议。",
+        "new": true,
+        "order": 225,
+        "aliases": [
+          "活动复盘"
+        ],
+        "distinction": "Post-campaign review 侧重营销活动整体效果；event debrief 侧重具体活动结束后的总结与改进。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌpəʊst kæmˈpeɪn rɪˈvjuː",
+        "ipaUS": "ˌpoʊst kæmˈpeɪn rɪˈvjuː",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Post-campaign review",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT265",
+      "before": {
+        "id": "MKT265",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Share of voice",
+        "zh": "声量份额",
+        "definition": "品牌在指定竞争范围内占某种传播指标总量的比例，例如广告曝光或媒体提及量。",
+        "example": "Our share of voice fell when competitors increased their advertising spend.",
+        "exampleZh": "竞争对手增加广告支出后，我们的声量份额下降了。",
+        "collocation": "increase share of voice",
+        "collocationZh": "提高声量份额",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to our visibility relative to competitors?",
+            "zh": "相对于竞争对手，我们的传播可见度发生了什么变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our share of voice fell when competitors increased their advertising spend.",
+            "zh": "竞争对手增加广告支出后，我们的声量份额下降了。"
+          }
+        ],
+        "usage": "SOV 的分子分母必须采用相同指标；不一定按支出计算。",
+        "new": true,
+        "order": 265,
+        "aliases": [
+          "SOV"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ʃeər əv vɔɪs",
+        "ipaUS": "ʃer əv vɔɪs",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Share of voice",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT265",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Share of voice",
+        "zh": "声量份额",
+        "definition": "品牌在指定竞争范围内占某种传播指标总量的比例，例如广告曝光或媒体提及量。",
+        "example": "Our share of voice fell when competitors increased their advertising spend.",
+        "exampleZh": "竞争对手增加广告支出后，我们的声量份额下降了。",
+        "collocation": "increase share of voice",
+        "collocationZh": "提高声量份额",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to our visibility relative to competitors?",
+            "zh": "相对于竞争对手，我们的传播可见度发生了什么变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our share of voice fell when competitors increased their advertising spend.",
+            "zh": "竞争对手增加广告支出后，我们的声量份额下降了。"
+          }
+        ],
+        "usage": "SOV 的分子分母必须采用相同指标；不一定按支出计算。",
+        "new": true,
+        "order": 265,
+        "aliases": [
+          "SOV"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ʃeə(r) əv vɔɪs",
+        "ipaUS": "ʃer əv vɔɪs",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Share of voice",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 英式连接音采用 (r) 显示；未新增词典核验。"
+      }
+    },
+    {
+      "id": "MKT266",
+      "before": {
+        "id": "MKT266",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Share of spend",
+        "zh": "广告支出份额",
+        "definition": "品牌广告支出占同一时期、市场及竞争集合广告总支出的比例。",
+        "example": "Our share of spend rose faster than our market share this quarter.",
+        "exampleZh": "本季度我们的广告支出份额增幅高于市场份额增幅。",
+        "collocation": "track share of spend",
+        "collocationZh": "追踪广告支出份额",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did our advertising investment compare with our market performance?",
+            "zh": "我们的广告投入与市场表现相比如何？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our share of spend rose faster than our market share this quarter.",
+            "zh": "本季度我们的广告支出份额增幅高于市场份额增幅。"
+          }
+        ],
+        "usage": "支出份额不等于销售市场份额。",
+        "new": true,
+        "order": 266,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ʃeər əv spend",
+        "ipaUS": "ʃer əv spend",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Share of spend",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT266",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Share of spend",
+        "zh": "广告支出份额",
+        "definition": "品牌广告支出占同一时期、市场及竞争集合广告总支出的比例。",
+        "example": "Our share of spend rose faster than our market share this quarter.",
+        "exampleZh": "本季度我们的广告支出份额增幅高于市场份额增幅。",
+        "collocation": "track share of spend",
+        "collocationZh": "追踪广告支出份额",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did our advertising investment compare with our market performance?",
+            "zh": "我们的广告投入与市场表现相比如何？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our share of spend rose faster than our market share this quarter.",
+            "zh": "本季度我们的广告支出份额增幅高于市场份额增幅。"
+          }
+        ],
+        "usage": "支出份额不等于销售市场份额。",
+        "new": true,
+        "order": 266,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ʃeə(r) əv spend",
+        "ipaUS": "ʃer əv spend",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Share of spend",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 英式连接音采用 (r) 显示；未新增词典核验。"
+      }
+    },
+    {
+      "id": "MKT354",
+      "before": {
+        "id": "MKT354",
+        "moduleId": "m12",
+        "module": "达人营销",
+        "term": "Creator economy",
+        "zh": "创作者经济",
+        "definition": "围绕内容创作者、平台、受众及相关商业活动形成的经济体系。",
+        "example": "The creator economy has changed how brands commission content.",
+        "exampleZh": "创作者经济改变了品牌委托制作内容的方式。",
+        "collocation": "understand the creator economy",
+        "collocationZh": "了解创作者经济",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why has our approach to commissioning content changed?",
+            "zh": "为什么我们委托制作内容的方式发生了变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The creator economy has changed how brands commission content.",
+            "zh": "创作者经济改变了品牌委托制作内容的方式。"
+          }
+        ],
+        "usage": "包括订阅、广告、赞助及商品销售等收入模式。",
+        "new": true,
+        "order": 354,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "kriˈeɪtər ɪˈkɒnəmi",
+        "ipaUS": "kriˈeɪtər ɪˈkɑːnəmi",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Creator economy",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT354",
+        "moduleId": "m12",
+        "module": "达人营销",
+        "term": "Creator economy",
+        "zh": "创作者经济",
+        "definition": "围绕内容创作者、平台、受众及相关商业活动形成的经济体系。",
+        "example": "The creator economy has changed how brands commission content.",
+        "exampleZh": "创作者经济改变了品牌委托制作内容的方式。",
+        "collocation": "understand the creator economy",
+        "collocationZh": "了解创作者经济",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why has our approach to commissioning content changed?",
+            "zh": "为什么我们委托制作内容的方式发生了变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The creator economy has changed how brands commission content.",
+            "zh": "创作者经济改变了品牌委托制作内容的方式。"
+          }
+        ],
+        "usage": "包括订阅、广告、赞助及商品销售等收入模式。",
+        "new": true,
+        "order": 354,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "kriˈeɪtə(r) ɪˈkɒnəmi",
+        "ipaUS": "kriˈeɪtər ɪˈkɑːnəmi",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Creator economy",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 英式连接音采用 (r) 显示；未新增词典核验。"
+      }
+    },
+    {
+      "id": "MKT400",
+      "before": {
+        "id": "MKT400",
+        "moduleId": "m14",
+        "module": "活动营销",
+        "term": "Event debrief",
+        "zh": "活动复盘",
+        "definition": "活动结束后评估成果、总结问题并确定改进措施的会议或过程。",
+        "example": "The event debrief identified a bottleneck at check-in.",
+        "exampleZh": "活动复盘发现签到环节存在瓶颈。",
+        "collocation": "conduct an event debrief",
+        "collocationZh": "开展活动复盘",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify the check-in problem?",
+            "zh": "我们如何发现签到环节的问题？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The event debrief identified a bottleneck at check-in.",
+            "zh": "活动复盘发现签到环节存在瓶颈。"
+          }
+        ],
+        "usage": "debrief 作名词可采用首音节重音；复盘应形成行动项。",
+        "new": true,
+        "order": 400,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ɪˈvent ˈdiːbriːf",
+        "ipaUS": "ɪˈvent ˈdiːbriːf",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Event debrief",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT400",
+        "moduleId": "m14",
+        "module": "活动营销",
+        "term": "Event debrief",
+        "zh": "活动总结会",
+        "definition": "活动结束后评估成果、总结问题并确定改进措施的会议或过程。",
+        "example": "The event debrief identified a bottleneck at check-in.",
+        "exampleZh": "活动复盘发现签到环节存在瓶颈。",
+        "collocation": "conduct an event debrief",
+        "collocationZh": "开展活动复盘",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify the check-in problem?",
+            "zh": "我们如何发现签到环节的问题？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The event debrief identified a bottleneck at check-in.",
+            "zh": "活动复盘发现签到环节存在瓶颈。"
+          }
+        ],
+        "usage": "debrief 作名词可采用首音节重音；复盘应形成行动项。",
+        "new": true,
+        "order": 400,
+        "aliases": [
+          "活动复盘"
+        ],
+        "distinction": "Event debrief 侧重具体活动结束后的总结会议或过程；post-campaign review 侧重营销活动整体效果。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ɪˈvent ˈdiːbriːf",
+        "ipaUS": "ɪˈvent ˈdiːbriːf",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Event debrief",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      }
+    },
+    {
+      "id": "MKT423",
+      "before": {
+        "id": "MKT423",
+        "moduleId": "m16",
+        "module": "零售营销",
+        "term": "Share of shelf",
+        "zh": "货架份额",
+        "definition": "品牌占相关品类货架展示空间的比例。",
+        "example": "The audit showed a decline in our share of shelf.",
+        "exampleZh": "门店巡检显示我们的货架份额下降。",
+        "collocation": "measure share of shelf",
+        "collocationZh": "衡量货架份额",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What did the store audit reveal?",
+            "zh": "门店巡检发现了什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our share of shelf fell from 25% to 20%.",
+            "zh": "我们的货架份额从25%降至20%。"
+          }
+        ],
+        "usage": "比较时须统一陈列面数或长度等衡量口径。",
+        "new": true,
+        "order": 423,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ʃeər əv ʃelf",
+        "ipaUS": "ʃer əv ʃelf",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Share of shelf",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT423",
+        "moduleId": "m16",
+        "module": "零售营销",
+        "term": "Share of shelf",
+        "zh": "货架份额",
+        "definition": "品牌占相关品类货架展示空间的比例。",
+        "example": "The audit showed a decline in our share of shelf.",
+        "exampleZh": "门店巡检显示我们的货架份额下降。",
+        "collocation": "measure share of shelf",
+        "collocationZh": "衡量货架份额",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What did the store audit reveal?",
+            "zh": "门店巡检发现了什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our share of shelf fell from 25% to 20%.",
+            "zh": "我们的货架份额从25%降至20%。"
+          }
+        ],
+        "usage": "比较时须统一陈列面数或长度等衡量口径。",
+        "new": true,
+        "order": 423,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ʃeə(r) əv ʃelf",
+        "ipaUS": "ʃer əv ʃelf",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Share of shelf",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 英式连接音采用 (r) 显示；未新增词典核验。"
+      }
+    },
+    {
+      "id": "MKT531",
+      "before": {
+        "id": "MKT531",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Center of excellence",
+        "zh": "卓越中心",
+        "definition": "集中专业能力、制定实践标准并向其他团队提供支持的组织单元",
+        "example": "We established a center of excellence for media measurement.",
+        "exampleZh": "我们成立了专注于媒介效果衡量的卓越中心。",
+        "collocation": "establish a center of excellence",
+        "collocationZh": "建立卓越中心",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How are we building shared expertise in media measurement?",
+            "zh": "我们如何建立共享的媒介衡量专业能力？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We established a center of excellence for media measurement.",
+            "zh": "我们成立了专注于媒介效果衡量的卓越中心。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 531,
+        "aliases": [
+          "Centre of excellence",
+          "CoE"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈsentər əv ˈeksələns",
+        "ipaUS": "ˈsentər əv ˈeksələns",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Center of excellence",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT531",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Center of excellence",
+        "zh": "卓越中心",
+        "definition": "集中专业能力、制定实践标准并向其他团队提供支持的组织单元",
+        "example": "We established a center of excellence for media measurement.",
+        "exampleZh": "我们成立了专注于媒介效果衡量的卓越中心。",
+        "collocation": "establish a center of excellence",
+        "collocationZh": "建立卓越中心",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How are we building shared expertise in media measurement?",
+            "zh": "我们如何建立共享的媒介衡量专业能力？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We established a center of excellence for media measurement.",
+            "zh": "我们成立了专注于媒介效果衡量的卓越中心。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 531,
+        "aliases": [
+          "Centre of excellence",
+          "CoE"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈsentə(r) əv ˈeksələns",
+        "ipaUS": "ˈsentər əv ˈeksələns",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Center of excellence",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。 英式连接音采用 (r) 显示；未新增词典核验。"
+      }
+    }
+  ],
+  "ipaStatusCounts": {
+    "partial_component_evidence": 209,
+    "all_components_evidence": 7,
+    "editorial_only": 378,
+    "full_term_verified": 6
+  },
+  "limitations": [
+    "Structural checks are not semantic certification",
+    "No new dictionary lookup",
+    "No browser/device tests"
+  ]
+}

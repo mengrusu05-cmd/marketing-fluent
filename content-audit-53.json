@@ -1,0 +1,1531 @@
+[
+  {
+    "id": "MKT481",
+    "before": {
+      "id": "MKT481",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Loyalty program",
+      "zh": "会员忠诚计划",
+      "definition": "通过权益或奖励促进客户持续购买的计划",
+      "example": "We redesigned the loyalty program around repeat purchases.",
+      "exampleZh": "我们围绕复购重新设计会员忠诚计划。",
+      "collocation": "redesign the loyalty program",
+      "collocationZh": "重新设计会员忠诚计划",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We redesigned the ____ around repeat purchases.",
+          "zh": "补全职场表达：我们围绕复购重新设计____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We redesigned the loyalty program around repeat purchases.",
+          "zh": "我们围绕复购重新设计会员忠诚计划。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 481,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlɔɪəlti ˈprəʊɡræm",
+      "ipaUS": "ˈlɔɪəlti ˈproʊɡræm",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Loyalty program",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT481",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Loyalty program",
+      "zh": "会员忠诚计划",
+      "definition": "通过积分、权益或其他奖励鼓励客户持续购买或参与的计划。",
+      "example": "We redesigned the loyalty program around repeat purchases.",
+      "exampleZh": "我们以促进复购为目标重新设计了会员忠诚计划。",
+      "collocation": "redesign the loyalty program",
+      "collocationZh": "重新设计会员忠诚计划",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did we change the membership benefits?",
+          "zh": "为什么调整会员权益？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We redesigned the loyalty program around repeat purchases.",
+          "zh": "我们以促进复购为目标重新设计了会员忠诚计划。"
+        }
+      ],
+      "usage": "英式拼写 loyalty programme；不一定采用积分制。",
+      "new": true,
+      "order": 481,
+      "aliases": [
+        "loyalty programme"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈlɔɪəlti ˈprəʊɡræm",
+      "ipaUS": "ˈlɔɪəlti ˈproʊɡræm",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Loyalty program",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "英式拼写 loyalty programme；不一定采用积分制。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT482",
+    "before": {
+      "id": "MKT482",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Tiered membership",
+      "zh": "分级会员制",
+      "definition": "根据消费或参与程度提供不同等级权益的会员制度",
+      "example": "We introduced tiered membership to reward frequent shoppers.",
+      "exampleZh": "我们引入分级会员制以奖励高频购物者。",
+      "collocation": "introduce tiered membership",
+      "collocationZh": "引入分级会员制",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We introduced ____ to reward frequent shoppers.",
+          "zh": "补全职场表达：我们引入____以奖励高频购物者。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We introduced tiered membership to reward frequent shoppers.",
+          "zh": "我们引入分级会员制以奖励高频购物者。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 482,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtiəd ˈmembəˌʃɪp",
+      "ipaUS": "ˈtɪrd ˈmembɚˌʃɪp",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Tiered membership",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT482",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Tiered membership",
+      "zh": "分级会员制",
+      "definition": "按消费、参与程度或其他条件划分等级并提供不同权益的会员制度。",
+      "example": "We introduced tiered membership to reward frequent shoppers.",
+      "exampleZh": "我们引入分级会员制，以奖励经常购物的客户。",
+      "collocation": "introduce tiered membership",
+      "collocationZh": "引入分级会员制",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we rewarding our most frequent shoppers?",
+          "zh": "我们如何奖励经常购物的客户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We introduced tiered membership to reward frequent shoppers.",
+          "zh": "我们引入分级会员制，以奖励经常购物的客户。"
+        }
+      ],
+      "usage": "等级门槛和权益应明确。",
+      "new": true,
+      "order": 482,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "tɪəd ˈmembəʃɪp",
+      "ipaUS": "tɪrd ˈmembərʃɪp",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Tiered membership",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "等级门槛和权益应明确。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT483",
+    "before": {
+      "id": "MKT483",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Points redemption",
+      "zh": "积分兑换",
+      "definition": "使用会员积分换取商品或权益的行为",
+      "example": "Simpler points redemption improved member satisfaction.",
+      "exampleZh": "更简洁的积分兑换提高了会员满意度。",
+      "collocation": "simplify points redemption",
+      "collocationZh": "简化积分兑换",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Simpler ____ improved member satisfaction.",
+          "zh": "补全职场表达：更简洁的____提高了会员满意度。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Simpler points redemption improved member satisfaction.",
+          "zh": "更简洁的积分兑换提高了会员满意度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 483,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpɔɪnts rɪˈdempʃən",
+      "ipaUS": "ˈpɔɪnts rɪˈdempʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Points redemption",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT483",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Points redemption",
+      "zh": "积分兑换",
+      "definition": "使用会员积分兑换商品、折扣或其他权益的过程。",
+      "example": "Simpler points redemption improved member satisfaction.",
+      "exampleZh": "更便捷的积分兑换流程提高了会员满意度。",
+      "collocation": "simplify points redemption",
+      "collocationZh": "简化积分兑换",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What improved member satisfaction?",
+          "zh": "什么措施提高了会员满意度？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Simpler points redemption improved member satisfaction.",
+          "zh": "更便捷的积分兑换流程提高了会员满意度。"
+        }
+      ],
+      "usage": "redeem points 表示兑换积分。",
+      "new": true,
+      "order": 483,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "pɔɪnts rɪˈdempʃən",
+      "ipaUS": "pɔɪnts rɪˈdempʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Points redemption",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "redeem points 表示兑换积分。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT484",
+    "before": {
+      "id": "MKT484",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Points liability",
+      "zh": "积分负债",
+      "definition": "未兑换积分相关的会计负债或履约义务；具体确认与计量取决于计划条款及适用会计准则。",
+      "example": "Finance estimated points liability at quarter-end.",
+      "exampleZh": "财务在季度末估算积分负债。",
+      "collocation": "estimate points liability",
+      "collocationZh": "估算积分负债",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Finance estimated ____ at quarter-end.",
+          "zh": "补全职场表达：财务在季度末估算____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Finance estimated points liability at quarter-end.",
+          "zh": "财务在季度末估算积分负债。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 484,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpɔɪnts ˌlaɪəˈbɪlɪti",
+      "ipaUS": "ˈpɔɪnts ˌlaɪəˈbɪlɪti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Points liability",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT484",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Points liability",
+      "zh": "积分负债",
+      "definition": "与未兑换积分相关的会计负债或履约义务，确认和计量取决于计划条款及适用准则。",
+      "example": "Finance estimated points liability at quarter-end.",
+      "exampleZh": "财务部门在季度末估算了积分负债。",
+      "collocation": "estimate points liability",
+      "collocationZh": "估算积分负债",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did Finance estimate at quarter-end?",
+          "zh": "财务部门在季度末估算了什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Finance estimated points liability at quarter-end.",
+          "zh": "财务部门在季度末估算了积分负债。"
+        }
+      ],
+      "usage": "不等同于未兑换积分的面值总和。",
+      "new": true,
+      "order": 484,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "pɔɪnts ˌlaɪəˈbɪləti",
+      "ipaUS": "pɔɪnts ˌlaɪəˈbɪləti",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Points liability",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "不等同于未兑换积分的面值总和。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT485",
+    "before": {
+      "id": "MKT485",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Reward breakage",
+      "zh": "奖励失效率",
+      "definition": "已发放奖励中预计不会被兑换的部分",
+      "example": "We estimated reward breakage using historical redemption data.",
+      "exampleZh": "我们利用历史兑换数据估算奖励失效率。",
+      "collocation": "estimate reward breakage",
+      "collocationZh": "估算奖励失效率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We estimated ____ using historical redemption data.",
+          "zh": "补全职场表达：我们利用历史兑换数据估算____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We estimated reward breakage using historical redemption data.",
+          "zh": "我们利用历史兑换数据估算奖励失效率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 485,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "rɪˈwɔːd ˈbreɪkɪdʒ",
+      "ipaUS": "rɪˈwɔːrd ˈbreɪkɪdʒ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Reward breakage",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT485",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Reward breakage",
+      "zh": "未兑换奖励",
+      "definition": "已发放奖励中预计最终不会被兑换的部分。",
+      "example": "We estimated reward breakage using historical redemption data.",
+      "exampleZh": "我们利用历史兑换数据估算未兑换奖励。",
+      "collocation": "estimate reward breakage",
+      "collocationZh": "估算未兑换奖励",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we estimate the rewards that would go unredeemed?",
+          "zh": "我们如何估算最终不会被兑换的奖励？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We estimated reward breakage using historical redemption data.",
+          "zh": "我们利用历史兑换数据估算未兑换奖励。"
+        }
+      ],
+      "usage": "breakage rate 才表示未兑换比例。",
+      "new": true,
+      "order": 485,
+      "aliases": [
+        "奖励失效率",
+        "reward breakage rate"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "rɪˈwɔːd ˈbreɪkɪdʒ",
+      "ipaUS": "rɪˈwɔːrd ˈbreɪkɪdʒ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Reward breakage",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "breakage rate 才表示未兑换比例。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT486",
+    "before": {
+      "id": "MKT486",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Member-exclusive offer",
+      "zh": "会员专属优惠",
+      "definition": "仅向会员提供的促销优惠",
+      "example": "We created member-exclusive offers for the anniversary sale.",
+      "exampleZh": "我们为周年促销制定了会员专属优惠。",
+      "collocation": "create member-exclusive offers",
+      "collocationZh": "制定会员专属优惠",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We created ____ for the anniversary sale.",
+          "zh": "补全职场表达：我们为周年促销制定了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We created member-exclusive offers for the anniversary sale.",
+          "zh": "我们为周年促销制定了会员专属优惠。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 486,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmembəreksˈkluːsɪv ˈɒfə",
+      "ipaUS": "ˈmembɚreksˈkluːsɪv ˈɑːfɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Member-exclusive offer",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT486",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Member-exclusive offer",
+      "zh": "会员专属优惠",
+      "definition": "仅向符合条件的会员提供的优惠。",
+      "example": "We created member-exclusive offers for the anniversary sale.",
+      "exampleZh": "我们为周年促销设计了会员专属优惠。",
+      "collocation": "create member-exclusive offers",
+      "collocationZh": "设计会员专属优惠",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What special benefits did we prepare for the anniversary sale?",
+          "zh": "我们为周年促销准备了哪些特别权益？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We created member-exclusive offers for the anniversary sale.",
+          "zh": "我们为周年促销设计了会员专属优惠。"
+        }
+      ],
+      "usage": "member-exclusive 作前置修饰语时使用连字符。",
+      "new": true,
+      "order": 486,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmembər ɪkˈskluːsɪv ˈɒfə",
+      "ipaUS": "ˈmembər ɪkˈskluːsɪv ˈɑːfər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Member-exclusive offer",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "member-exclusive 作前置修饰语时使用连字符。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT487",
+    "before": {
+      "id": "MKT487",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Repeat purchase rate",
+      "zh": "复购率",
+      "definition": "指定客户群中发生重复购买的客户比例",
+      "example": "The replenishment reminder increased repeat purchase rate.",
+      "exampleZh": "补货提醒提高了复购率。",
+      "collocation": "increase repeat purchase rate",
+      "collocationZh": "提高复购率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The replenishment reminder increased ____.",
+          "zh": "补全职场表达：补货提醒提高了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The replenishment reminder increased repeat purchase rate.",
+          "zh": "补货提醒提高了复购率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 487,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "rɪˈpiːt ˈpɜːtʃɪs ˈreɪt",
+      "ipaUS": "rɪˈpiːt ˈpɜːtʃɪs ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Repeat purchase rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT487",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Repeat purchase rate",
+      "zh": "复购率",
+      "definition": "指定客户群中在规定观察期内再次购买的客户比例。",
+      "example": "The replenishment reminder increased repeat purchase rate.",
+      "exampleZh": "补购提醒提高了复购率。",
+      "collocation": "increase repeat purchase rate",
+      "collocationZh": "提高复购率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What changed after we introduced the reminder?",
+          "zh": "推出提醒后有什么变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The replenishment reminder increased repeat purchase rate.",
+          "zh": "补购提醒提高了复购率。"
+        }
+      ],
+      "usage": "注明首次购买群体、复购观察期及分母。",
+      "new": true,
+      "order": 487,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "rɪˈpiːt ˈpɜːtʃəs reɪt",
+      "ipaUS": "rɪˈpiːt ˈpɝːtʃəs reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Repeat purchase rate",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "注明首次购买群体、复购观察期及分母。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT488",
+    "before": {
+      "id": "MKT488",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Purchase frequency",
+      "zh": "购买频次",
+      "definition": "客户在指定期间内购买的次数",
+      "example": "Relevant offers helped increase purchase frequency.",
+      "exampleZh": "相关优惠帮助提高购买频次。",
+      "collocation": "increase purchase frequency",
+      "collocationZh": "提高购买频次",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Relevant offers helped increase ____.",
+          "zh": "补全职场表达：相关优惠帮助提高____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Relevant offers helped increase purchase frequency.",
+          "zh": "相关优惠帮助提高购买频次。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 488,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpɜːtʃɪs ˈfriːkwənsi",
+      "ipaUS": "ˈpɜːtʃɪs ˈfriːkwənsi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Purchase frequency",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT488",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Purchase frequency",
+      "zh": "购买频次",
+      "definition": "客户在指定期间内购买的次数。",
+      "example": "Relevant offers helped increase purchase frequency.",
+      "exampleZh": "符合客户需求的优惠有助于提高购买频次。",
+      "collocation": "increase purchase frequency",
+      "collocationZh": "提高购买频次",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What helped customers buy more often?",
+          "zh": "什么措施有助于客户更频繁地购买？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Relevant offers helped increase purchase frequency.",
+          "zh": "符合客户需求的优惠有助于提高购买频次。"
+        }
+      ],
+      "usage": "平均购买频次可按订单数除以指定客户数计算。",
+      "new": true,
+      "order": 488,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈpɜːtʃəs ˈfriːkwənsi",
+      "ipaUS": "ˈpɝːtʃəs ˈfriːkwənsi",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Purchase frequency",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "平均购买频次可按订单数除以指定客户数计算。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT489",
+    "before": {
+      "id": "MKT489",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Customer retention rate",
+      "zh": "客户留存率",
+      "definition": "期初客户群中期末仍保留的客户比例，不包含期间新增客户。",
+      "example": "We track customer retention rate by subscription cohort.",
+      "exampleZh": "我们按订阅同期群追踪客户留存率。",
+      "collocation": "track customer retention rate",
+      "collocationZh": "追踪客户留存率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We track ____ by subscription cohort.",
+          "zh": "补全职场表达：我们按订阅同期群追踪____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We track customer retention rate by subscription cohort.",
+          "zh": "我们按订阅同期群追踪客户留存率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 489,
+      "aliases": [],
+      "distinction": "与客户留存率/留存率词条为相关表达；保留不同学习 ID。",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmə rɪˈtenʃən ˈreɪt",
+      "ipaUS": "ˈkʌstəmɚ rɪˈtenʃən ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer retention rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT489",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Customer retention rate",
+      "zh": "客户留存率",
+      "definition": "期初客户群中期末仍符合留存标准的客户比例，不含期间新增客户。",
+      "example": "We track customer retention rate by subscription cohort.",
+      "exampleZh": "我们按订阅同期群追踪客户留存率。",
+      "collocation": "track customer retention rate",
+      "collocationZh": "追踪客户留存率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we compare retention across subscription cohorts?",
+          "zh": "我们如何比较不同订阅同期群的留存情况？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We track customer retention rate by subscription cohort.",
+          "zh": "我们按订阅同期群追踪客户留存率。"
+        }
+      ],
+      "usage": "明确留存行为和观察窗口。",
+      "new": true,
+      "order": 489,
+      "aliases": [],
+      "distinction": "与客户留存率/留存率词条为相关表达；保留不同学习 ID。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmə rɪˈtenʃən reɪt",
+      "ipaUS": "ˈkʌstəmər rɪˈtenʃən reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Customer retention rate",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "明确留存行为和观察窗口。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT490",
+    "before": {
+      "id": "MKT490",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Customer churn rate",
+      "zh": "客户流失率",
+      "definition": "期初客户群中在指定期间流失的客户比例；明确流失定义。",
+      "example": "Proactive support helped reduce customer churn rate.",
+      "exampleZh": "主动支持帮助降低客户流失率。",
+      "collocation": "reduce customer churn rate",
+      "collocationZh": "降低客户流失率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Proactive support helped reduce ____.",
+          "zh": "补全职场表达：主动支持帮助降低____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Proactive support helped reduce customer churn rate.",
+          "zh": "主动支持帮助降低客户流失率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 490,
+      "aliases": [],
+      "distinction": "与客户流失率/流失率词条为相关表达；保留不同学习 ID。",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmə ˈtʃɜːn ˈreɪt",
+      "ipaUS": "ˈkʌstəmɚ ˈtʃɜːn ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer churn rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT490",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Customer churn rate",
+      "zh": "客户流失率",
+      "definition": "期初客户群中在指定期间符合流失定义的客户比例。",
+      "example": "Proactive support helped reduce customer churn rate.",
+      "exampleZh": "主动提供客户支持有助于降低客户流失率。",
+      "collocation": "reduce customer churn rate",
+      "collocationZh": "降低客户流失率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What helped us retain more customers?",
+          "zh": "什么措施有助于留住更多客户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Proactive support helped reduce customer churn rate.",
+          "zh": "主动提供客户支持有助于降低客户流失率。"
+        }
+      ],
+      "usage": "与留存率互补须采用相同群体及互斥且完备的状态定义。",
+      "new": true,
+      "order": 490,
+      "aliases": [],
+      "distinction": "与客户流失率/流失率词条为相关表达；保留不同学习 ID。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmə tʃɜːn reɪt",
+      "ipaUS": "ˈkʌstəmər tʃɝːn reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Customer churn rate",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "与留存率互补须采用相同群体及互斥且完备的状态定义。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT491",
+    "before": {
+      "id": "MKT491",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Churn prediction",
+      "zh": "流失预测",
+      "definition": "利用数据估计客户未来流失风险",
+      "example": "We built a churn prediction model using usage patterns.",
+      "exampleZh": "我们利用使用行为构建流失预测模型。",
+      "collocation": "build a churn prediction model",
+      "collocationZh": "构建流失预测模型",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We built a ____ model using usage patterns.",
+          "zh": "补全职场表达：我们利用使用行为构建____模型。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We built a churn prediction model using usage patterns.",
+          "zh": "我们利用使用行为构建流失预测模型。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 491,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtʃɜːn prɪˈdɪkʃən",
+      "ipaUS": "ˈtʃɜːn prɪˈdɪkʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Churn prediction",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT491",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Churn prediction",
+      "zh": "流失预测",
+      "definition": "利用历史及当前数据估计客户在未来指定期间流失的风险。",
+      "example": "We built a churn prediction model using usage patterns.",
+      "exampleZh": "我们根据产品使用模式构建了流失预测模型。",
+      "collocation": "build a churn prediction model",
+      "collocationZh": "构建流失预测模型",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we identify subscribers at risk of leaving?",
+          "zh": "我们如何识别可能流失的订阅用户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We built a churn prediction model using usage patterns.",
+          "zh": "我们根据产品使用模式构建了流失预测模型。"
+        }
+      ],
+      "usage": "预测风险不等于确认流失，也不证明因果关系。",
+      "new": true,
+      "order": 491,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "tʃɜːn prɪˈdɪkʃən",
+      "ipaUS": "tʃɝːn prɪˈdɪkʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Churn prediction",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "预测风险不等于确认流失，也不证明因果关系。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT492",
+    "before": {
+      "id": "MKT492",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Win-back campaign",
+      "zh": "客户挽回活动",
+      "definition": "针对已流失客户开展的重新获取活动",
+      "example": "We launched a win-back campaign for former subscribers.",
+      "exampleZh": "我们针对原订阅用户推出客户挽回活动。",
+      "collocation": "launch a win-back campaign",
+      "collocationZh": "推出客户挽回活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We launched a ____ for former subscribers.",
+          "zh": "补全职场表达：我们针对原订阅用户推出____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We launched a win-back campaign for former subscribers.",
+          "zh": "我们针对原订阅用户推出客户挽回活动。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 492,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈwɪnˈbæk kæmˈpeɪn",
+      "ipaUS": "ˈwɪnˈbæk kæmˈpeɪn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Win-back campaign",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT492",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Win-back campaign",
+      "zh": "客户挽回活动",
+      "definition": "旨在吸引已流失或停止购买的客户重新购买或订阅的营销活动。",
+      "example": "We launched a win-back campaign for former subscribers.",
+      "exampleZh": "我们针对曾经订阅的用户推出了客户挽回活动。",
+      "collocation": "launch a win-back campaign",
+      "collocationZh": "推出客户挽回活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we trying to bring former subscribers back?",
+          "zh": "我们如何尝试挽回曾经订阅的用户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We launched a win-back campaign for former subscribers.",
+          "zh": "我们针对曾经订阅的用户推出了客户挽回活动。"
+        }
+      ],
+      "usage": "win back customers 为动词短语。",
+      "new": true,
+      "order": 492,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈwɪnbæk kæmˈpeɪn",
+      "ipaUS": "ˈwɪnbæk kæmˈpeɪn",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Win-back campaign",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "win back customers 为动词短语。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT493",
+    "before": {
+      "id": "MKT493",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Reactivation rate",
+      "zh": "重新激活率",
+      "definition": "沉默或流失用户中恢复指定活跃行为的比例",
+      "example": "We measure reactivation rate using completed purchases.",
+      "exampleZh": "我们以完成购买衡量重新激活率。",
+      "collocation": "measure reactivation rate",
+      "collocationZh": "衡量重新激活率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We measure ____ using completed purchases.",
+          "zh": "补全职场表达：我们以完成购买衡量____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We measure reactivation rate using completed purchases.",
+          "zh": "我们以完成购买衡量重新激活率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 493,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "rɪˌæktɪˈveɪʃən ˈreɪt",
+      "ipaUS": "rɪˌæktɪˈveɪʃən ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Reactivation rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT493",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Reactivation rate",
+      "zh": "重新激活率",
+      "definition": "指定沉默或流失用户群中在观察期内恢复预设活跃行为的比例。",
+      "example": "We measure reactivation rate using completed purchases.",
+      "exampleZh": "我们以完成购买作为重新激活率的衡量标准。",
+      "collocation": "measure reactivation rate",
+      "collocationZh": "衡量重新激活率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What counts as a successful reactivation in our report?",
+          "zh": "报告中什么行为算成功重新激活？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We measure reactivation rate using completed purchases.",
+          "zh": "我们以完成购买作为重新激活率的衡量标准。"
+        }
+      ],
+      "usage": "明确分母是目标用户还是实际触达用户。",
+      "new": true,
+      "order": 493,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌriːæktɪˈveɪʃən reɪt",
+      "ipaUS": "ˌriːæktɪˈveɪʃən reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Reactivation rate",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "明确分母是目标用户还是实际触达用户。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT494",
+    "before": {
+      "id": "MKT494",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Lifecycle stage",
+      "zh": "生命周期阶段",
+      "definition": "客户关系发展过程中的特定阶段",
+      "example": "We identified lifecycle stages using purchase behavior.",
+      "exampleZh": "我们利用购买行为识别生命周期阶段。",
+      "collocation": "identify lifecycle stages",
+      "collocationZh": "识别生命周期阶段",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We identified ____ using purchase behavior.",
+          "zh": "补全职场表达：我们利用购买行为识别____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We identified lifecycle stages using purchase behavior.",
+          "zh": "我们利用购买行为识别生命周期阶段。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 494,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlaɪfsaɪkəl ˈsteɪdʒ",
+      "ipaUS": "ˈlaɪfsaɪkəl ˈsteɪdʒ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Lifecycle stage",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT494",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Lifecycle stage",
+      "zh": "生命周期阶段",
+      "definition": "客户关系发展过程中的特定阶段，如新客、活跃、沉默等。",
+      "example": "We identified lifecycle stages using purchase behavior.",
+      "exampleZh": "我们根据购买行为识别客户所处的生命周期阶段。",
+      "collocation": "identify lifecycle stages",
+      "collocationZh": "识别生命周期阶段",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we classify customers for the campaign?",
+          "zh": "我们如何为活动划分客户群体？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We identified lifecycle stages using purchase behavior.",
+          "zh": "我们根据购买行为识别客户所处的生命周期阶段。"
+        }
+      ],
+      "usage": "life cycle 也是常见拼写；阶段划分依业务而定。",
+      "new": true,
+      "order": 494,
+      "aliases": [
+        "life cycle stage"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈlaɪfsaɪkəl steɪdʒ",
+      "ipaUS": "ˈlaɪfsaɪkəl steɪdʒ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Lifecycle stage",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "life cycle 也是常见拼写；阶段划分依业务而定。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT495",
+    "before": {
+      "id": "MKT495",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Lifecycle messaging",
+      "zh": "生命周期沟通",
+      "definition": "根据客户所处阶段发送相关信息的策略",
+      "example": "We tailor lifecycle messaging to new and returning customers.",
+      "exampleZh": "我们针对新客和回访客户定制生命周期沟通。",
+      "collocation": "tailor lifecycle messaging",
+      "collocationZh": "定制生命周期沟通",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We tailor ____ to new and returning customers.",
+          "zh": "补全职场表达：我们针对新客和回访客户定制____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We tailor lifecycle messaging to new and returning customers.",
+          "zh": "我们针对新客和回访客户定制生命周期沟通。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 495,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlaɪfsaɪkəl ˈmesɪdʒɪŋ",
+      "ipaUS": "ˈlaɪfsaɪkəl ˈmesɪdʒɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Lifecycle messaging",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT495",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Lifecycle messaging",
+      "zh": "生命周期沟通",
+      "definition": "根据客户所处生命周期阶段设计并发送相关信息的沟通策略。",
+      "example": "We tailor lifecycle messaging to new and returning customers.",
+      "exampleZh": "我们针对新客和再次购买的客户调整生命周期沟通内容。",
+      "collocation": "tailor lifecycle messaging",
+      "collocationZh": "调整生命周期沟通内容",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Do new and returning customers receive the same messages?",
+          "zh": "新客和回头客收到的信息一样吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We tailor lifecycle messaging to new and returning customers.",
+          "zh": "我们针对新客和再次购买的客户调整生命周期沟通内容。"
+        }
+      ],
+      "usage": "returning customers 在此指回头客，而非仅再次访问网站的人。",
+      "new": true,
+      "order": 495,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈlaɪfsaɪkəl ˈmesɪdʒɪŋ",
+      "ipaUS": "ˈlaɪfsaɪkəl ˈmesɪdʒɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Lifecycle messaging",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "returning customers 在此指回头客，而非仅再次访问网站的人。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT496",
+    "before": {
+      "id": "MKT496",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Replenishment reminder",
+      "zh": "补货提醒",
+      "definition": "在预计商品即将用完时发送的购买提醒",
+      "example": "We send replenishment reminders based on typical usage intervals.",
+      "exampleZh": "我们按典型使用周期发送补货提醒。",
+      "collocation": "send replenishment reminders",
+      "collocationZh": "发送补货提醒",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We send ____ based on typical usage intervals.",
+          "zh": "补全职场表达：我们按典型使用周期发送____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We send replenishment reminders based on typical usage intervals.",
+          "zh": "我们按典型使用周期发送补货提醒。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 496,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "rɪˈplenɪʃmənt rɪˈmaɪndə",
+      "ipaUS": "rɪˈplenɪʃmənt rɪˈmaɪndɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Replenishment reminder",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT496",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Replenishment reminder",
+      "zh": "补购提醒",
+      "definition": "在预计客户商品即将用完时发送的再次购买提醒。",
+      "example": "We send replenishment reminders based on typical usage intervals.",
+      "exampleZh": "我们根据商品的通常使用周期发送补购提醒。",
+      "collocation": "send replenishment reminders",
+      "collocationZh": "发送补购提醒",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When do we remind customers to reorder consumables?",
+          "zh": "我们何时提醒客户再次购买消耗品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We send replenishment reminders based on typical usage intervals.",
+          "zh": "我们根据商品的通常使用周期发送补购提醒。"
+        }
+      ],
+      "usage": "区别于面向门店的库存补货提醒。",
+      "new": true,
+      "order": 496,
+      "aliases": [
+        "补货提醒"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "rɪˈplenɪʃmənt rɪˈmaɪndə",
+      "ipaUS": "rɪˈplenɪʃmənt rɪˈmaɪndər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Replenishment reminder",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "区别于面向门店的库存补货提醒。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT497",
+    "before": {
+      "id": "MKT497",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Cross-selling",
+      "zh": "交叉销售",
+      "definition": "向现有客户推荐互补商品或服务",
+      "example": "Purchase history revealed cross-selling opportunities.",
+      "exampleZh": "购买历史揭示了交叉销售机会。",
+      "collocation": "identify cross-selling opportunities",
+      "collocationZh": "识别交叉销售机会",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Purchase history revealed ____ opportunities.",
+          "zh": "补全职场表达：购买历史揭示了____机会。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Purchase history revealed cross-selling opportunities.",
+          "zh": "购买历史揭示了交叉销售机会。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 497,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkrɒsˈselɪŋ",
+      "ipaUS": "ˈkrɔsˈselɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Cross-selling",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT497",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Cross-selling",
+      "zh": "交叉销售",
+      "definition": "向客户推荐与当前或既往购买相关的互补商品或服务。",
+      "example": "Purchase history revealed cross-selling opportunities.",
+      "exampleZh": "购买记录帮助我们发现交叉销售机会。",
+      "collocation": "identify cross-selling opportunities",
+      "collocationZh": "识别交叉销售机会",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we identify relevant add-on products?",
+          "zh": "我们如何找到合适的配套商品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Purchase history revealed cross-selling opportunities.",
+          "zh": "购买记录帮助我们发现交叉销售机会。"
+        }
+      ],
+      "usage": "区别于推荐更高档版本的 upselling。",
+      "new": true,
+      "order": 497,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkrɒsˌselɪŋ",
+      "ipaUS": "ˈkrɔːsˌselɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Cross-selling",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "区别于推荐更高档版本的 upselling。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT498",
+    "before": {
+      "id": "MKT498",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Upselling",
+      "zh": "升级销售",
+      "definition": "鼓励客户购买更高价值的版本或方案",
+      "example": "We tested upselling offers at subscription renewal.",
+      "exampleZh": "我们在订阅续期时测试升级销售优惠。",
+      "collocation": "test upselling offers",
+      "collocationZh": "测试升级销售优惠",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We tested ____ offers at subscription renewal.",
+          "zh": "补全职场表达：我们在订阅续期时测试____优惠。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We tested upselling offers at subscription renewal.",
+          "zh": "我们在订阅续期时测试升级销售优惠。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 498,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ʌpˈselɪŋ",
+      "ipaUS": "ʌpˈselɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Upselling",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT498",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Upselling",
+      "zh": "升级销售",
+      "definition": "鼓励客户选择更高价值的产品版本或服务方案。",
+      "example": "We tested upselling offers at subscription renewal.",
+      "exampleZh": "我们在订阅续费时测试了升级优惠。",
+      "collocation": "test upselling offers",
+      "collocationZh": "测试升级优惠",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When did we test offers for the premium plan?",
+          "zh": "我们何时测试高级套餐优惠？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We tested upselling offers at subscription renewal.",
+          "zh": "我们在订阅续费时测试了升级优惠。"
+        }
+      ],
+      "usage": "动词 upsell；不等于交叉销售。",
+      "new": true,
+      "order": 498,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈʌpˌselɪŋ",
+      "ipaUS": "ˈʌpˌselɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Upselling",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "动词 upsell；不等于交叉销售。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT499",
+    "before": {
+      "id": "MKT499",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Lapsed customer",
+      "zh": "沉睡客户",
+      "definition": "超过预设购买间隔且尚未再次购买的客户",
+      "example": "We identified lapsed customers using category-specific purchase intervals.",
+      "exampleZh": "我们按品类购买间隔识别沉睡客户。",
+      "collocation": "identify lapsed customers",
+      "collocationZh": "识别沉睡客户",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We identified ____ using category-specific purchase intervals.",
+          "zh": "补全职场表达：我们按品类购买间隔识别____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We identified lapsed customers using category-specific purchase intervals.",
+          "zh": "我们按品类购买间隔识别沉睡客户。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 499,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlæpsd ˈkʌstəmə",
+      "ipaUS": "ˈlæpsd ˈkʌstəmɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Lapsed customer",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT499",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Lapsed customer",
+      "zh": "沉睡客户",
+      "definition": "超过业务预设的购买间隔且尚未再次购买的客户。",
+      "example": "We identified lapsed customers using category-specific purchase intervals.",
+      "exampleZh": "我们根据不同品类的购买间隔识别沉睡客户。",
+      "collocation": "identify lapsed customers",
+      "collocationZh": "识别沉睡客户",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we decide which customers were inactive?",
+          "zh": "我们如何判断哪些客户已进入沉睡状态？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We identified lapsed customers using category-specific purchase intervals.",
+          "zh": "我们根据不同品类的购买间隔识别沉睡客户。"
+        }
+      ],
+      "usage": "lapsed 的词尾读 /t/；沉睡不一定等于永久流失。",
+      "new": true,
+      "order": 499,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "læpst ˈkʌstəmə",
+      "ipaUS": "læpst ˈkʌstəmər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Lapsed customer",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "lapsed 的词尾读 /t/；沉睡不一定等于永久流失。；复核释义、译文、搭配及音标，改写问答。"
+  },
+  {
+    "id": "MKT500",
+    "before": {
+      "id": "MKT500",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Loyalty engagement",
+      "zh": "会员忠诚计划参与度",
+      "definition": "会员参与忠诚计划相关活动的程度",
+      "example": "We measure loyalty engagement through redemptions and repeat visits.",
+      "exampleZh": "我们通过积分兑换和重复到访衡量会员参与度。",
+      "collocation": "measure loyalty engagement",
+      "collocationZh": "衡量会员参与度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We measure ____ through redemptions and repeat visits.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We measure loyalty engagement through redemptions and repeat visits.",
+          "zh": "我们通过积分兑换和重复到访衡量会员参与度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 500,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlɔɪəlti enˈɡeɪdʒmənt",
+      "ipaUS": "ˈlɔɪəlti enˈɡeɪdʒmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Loyalty engagement",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT500",
+      "moduleId": "m19",
+      "module": "会员与生命周期运营",
+      "term": "Loyalty engagement",
+      "zh": "会员忠诚计划参与度",
+      "definition": "会员参与忠诚计划相关活动的程度，可通过兑换、到访等行为衡量。",
+      "example": "We measure loyalty engagement through redemptions and repeat visits.",
+      "exampleZh": "我们通过奖励兑换和再次到访衡量会员计划参与度。",
+      "collocation": "measure loyalty engagement",
+      "collocationZh": "衡量会员计划参与度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which behaviors do we use to assess member participation?",
+          "zh": "我们用哪些行为评估会员参与度？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We measure loyalty engagement through redemptions and repeat visits.",
+          "zh": "我们通过奖励兑换和再次到访衡量会员计划参与度。"
+        }
+      ],
+      "usage": "不是统一标准指标，需注明行为、周期和分母。",
+      "new": true,
+      "order": 500,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈlɔɪəlti ɪnˈɡeɪdʒmənt",
+      "ipaUS": "ˈlɔɪəlti ɪnˈɡeɪdʒmənt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Loyalty engagement",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "不是统一标准指标，需注明行为、周期和分母。；复核释义、译文、搭配及音标，改写问答。"
+  }
+]

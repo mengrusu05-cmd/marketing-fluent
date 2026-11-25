@@ -1,0 +1,1765 @@
+[
+  {
+    "id": "MKT101",
+    "before": {
+      "id": "MKT101",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand salience",
+      "zh": "品牌显著性",
+      "definition": "品牌在购买情境中被想起的程度。",
+      "example": "We need to build brand salience among occasional buyers.",
+      "exampleZh": "我们需要在偶尔购买的消费者中提升品牌显著性。",
+      "collocation": "build brand salience",
+      "collocationZh": "提升品牌显著性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we become more readily remembered by people who buy only occasionally?",
+          "zh": "怎样让偶尔购买的消费者更容易想起我们？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to build brand salience among occasional buyers.",
+          "zh": "我们需要在偶尔购买的消费者中提升品牌显著性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 101,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈseɪliəns",
+      "ipaUS": "ˈbrænd ˈseɪliəns",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand salience",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT101",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand salience",
+      "zh": "品牌显著性",
+      "definition": "品牌在相关购买情境中容易进入消费者心智的程度，涉及被想起的概率及相关情境的广度。",
+      "example": "We need to build brand salience among occasional buyers.",
+      "exampleZh": "我们需要让偶尔购买的消费者在选购时更容易想起我们的品牌。",
+      "collocation": "build brand salience",
+      "collocationZh": "提升品牌显著性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we prioritize among occasional buyers?",
+          "zh": "对于偶尔购买的消费者，我们应优先提升什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to build brand salience among occasional buyers.",
+          "zh": "我们需要让偶尔购买的消费者在选购时更容易想起我们的品牌。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 101,
+      "aliases": [],
+      "distinction": "区别于单纯的品牌知名度，强调购买情境中的心智可得性。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈseɪliəns",
+      "ipaUS": "brænd ˈseɪliəns",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand salience",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT102",
+    "before": {
+      "id": "MKT102",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand distinctiveness",
+      "zh": "品牌独特识别性",
+      "definition": "品牌通过独有线索被识别的能力。",
+      "example": "The new packaging should strengthen brand distinctiveness on the shelf.",
+      "exampleZh": "新包装应强化货架上的品牌识别性。",
+      "collocation": "strengthen brand distinctiveness",
+      "collocationZh": "强化品牌识别性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should the packaging achieve in a crowded retail aisle?",
+          "zh": "在拥挤的零售货架上，包装应该实现什么目标？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The new packaging should strengthen brand distinctiveness on the shelf.",
+          "zh": "新包装应强化货架上的品牌识别性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 102,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd dɪˈstɪŋktɪvnəs",
+      "ipaUS": "ˈbrænd dɪˈstɪŋktɪvnəs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand distinctiveness",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT102",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand distinctiveness",
+      "zh": "品牌独特识别性",
+      "definition": "品牌凭借可辨认的独特线索与其他品牌区分开来的能力。",
+      "example": "The new packaging should strengthen brand distinctiveness on the shelf.",
+      "exampleZh": "新包装应增强品牌在货架上的独特辨识度。",
+      "collocation": "strengthen brand distinctiveness",
+      "collocationZh": "增强品牌独特辨识度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should the packaging achieve in a crowded retail aisle?",
+          "zh": "在拥挤的零售货架上，包装应该实现什么目标？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The new packaging should strengthen brand distinctiveness on the shelf.",
+          "zh": "新包装应增强品牌在货架上的独特辨识度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 102,
+      "aliases": [],
+      "distinction": "不等同于产品功能差异化。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd dɪˈstɪŋktɪvnəs",
+      "ipaUS": "brænd dɪˈstɪŋktɪvnəs",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand distinctiveness",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT103",
+    "before": {
+      "id": "MKT103",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Distinctive brand asset",
+      "zh": "独特品牌资产",
+      "definition": "能帮助消费者识别品牌的颜色、图形或声音等线索。",
+      "example": "We should protect distinctive brand assets across markets.",
+      "exampleZh": "我们应在各市场保护独特品牌资产。",
+      "collocation": "protect distinctive brand assets",
+      "collocationZh": "保护独特品牌资产",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Should regional teams be free to replace our recognizable visual cues?",
+          "zh": "区域团队可以自由替换具有辨识度的视觉元素吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should protect distinctive brand assets across markets.",
+          "zh": "我们应在各市场保护独特品牌资产。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 103,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "dɪˈstɪŋktɪv ˈbrænd ˈæset",
+      "ipaUS": "dɪˈstɪŋktɪv ˈbrænd ˈæset",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Distinctive brand asset",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT103",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Distinctive brand asset",
+      "zh": "独特品牌资产",
+      "definition": "能让消费者联想到特定品牌的非品牌名称线索，例如颜色、图形或声音。",
+      "example": "We should protect distinctive brand assets across markets.",
+      "exampleZh": "我们应在不同市场保护具有独特辨识度的品牌资产。",
+      "collocation": "protect distinctive brand assets",
+      "collocationZh": "保护独特品牌资产",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Should regional teams be free to replace our recognizable visual cues?",
+          "zh": "区域团队可以自由替换具有辨识度的视觉元素吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should protect distinctive brand assets across markets.",
+          "zh": "我们应在不同市场保护具有独特辨识度的品牌资产。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 103,
+      "aliases": [],
+      "distinction": "常用复数 distinctive brand assets。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "dɪˈstɪŋktɪv brænd ˈæset",
+      "ipaUS": "dɪˈstɪŋktɪv brænd ˈæset",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Distinctive brand asset",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT104",
+    "before": {
+      "id": "MKT104",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand consistency",
+      "zh": "品牌一致性",
+      "definition": "各触点品牌表达保持协调统一的程度。",
+      "example": "Local teams must maintain brand consistency while adapting copy.",
+      "exampleZh": "本地团队调整文案时必须保持品牌一致性。",
+      "collocation": "maintain brand consistency",
+      "collocationZh": "保持品牌一致性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How much freedom do local teams have to rewrite campaign copy?",
+          "zh": "当地团队在改写活动文案时有多大自由？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Local teams must maintain brand consistency while adapting copy.",
+          "zh": "本地团队调整文案时必须保持品牌一致性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 104,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd kənˈsɪstənsi",
+      "ipaUS": "ˈbrænd kənˈsɪstənsi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand consistency",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT104",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand consistency",
+      "zh": "品牌一致性",
+      "definition": "品牌在不同触点的视觉、语言和核心价值表达保持协调的程度。",
+      "example": "Local teams must maintain brand consistency while adapting copy.",
+      "exampleZh": "本地团队调整文案时必须保持品牌一致性。",
+      "collocation": "maintain brand consistency",
+      "collocationZh": "保持品牌一致性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What must local teams preserve when adapting campaign copy?",
+          "zh": "本地团队调整活动文案时必须保持什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Local teams must maintain brand consistency while adapting copy.",
+          "zh": "本地团队调整文案时必须保持品牌一致性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 104,
+      "aliases": [],
+      "distinction": "一致性不要求各市场文案完全相同。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd kənˈsɪstənsi",
+      "ipaUS": "brænd kənˈsɪstənsi",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand consistency",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT105",
+    "before": {
+      "id": "MKT105",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand perception",
+      "zh": "品牌感知",
+      "definition": "消费者对品牌形成的总体印象。",
+      "example": "The campaign aims to shift brand perception toward quality.",
+      "exampleZh": "活动旨在让消费者更认可品牌品质。",
+      "collocation": "shift brand perception",
+      "collocationZh": "改变品牌感知",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What change in customer perceptions is this campaign intended to achieve?",
+          "zh": "本次活动希望改变客户的哪方面认知？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The campaign aims to shift brand perception toward quality.",
+          "zh": "活动旨在让消费者更认可品牌品质。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 105,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd pəˈsepʃən",
+      "ipaUS": "ˈbrænd pɚˈsepʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand perception",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT105",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand perception",
+      "zh": "品牌感知",
+      "definition": "消费者对品牌属性、价值和表现形成的主观认知。",
+      "example": "The campaign aims to shift brand perception toward higher quality.",
+      "exampleZh": "本次活动旨在让消费者更多地将品牌与高品质联系起来。",
+      "collocation": "shift brand perception",
+      "collocationZh": "改变品牌感知",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What change in customer perceptions is this campaign intended to achieve?",
+          "zh": "本次活动希望改变客户的哪方面认知？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The campaign aims to shift brand perception toward higher quality.",
+          "zh": "本次活动旨在让消费者更多地将品牌与高品质联系起来。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 105,
+      "aliases": [],
+      "distinction": "可针对具体属性测量感知。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd pəˈsepʃən",
+      "ipaUS": "brænd pərˈsepʃən",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand perception",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT106",
+    "before": {
+      "id": "MKT106",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand image",
+      "zh": "品牌形象",
+      "definition": "公众对品牌的认知和联想集合。",
+      "example": "We plan to refresh the brand image without changing the logo.",
+      "exampleZh": "我们计划在不更改标志的情况下更新品牌形象。",
+      "collocation": "refresh the brand image",
+      "collocationZh": "更新品牌形象",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can we update how the brand looks without replacing its logo?",
+          "zh": "我们能否在不更换标志的情况下更新品牌形象？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We plan to refresh the brand image without changing the logo.",
+          "zh": "我们计划在不更改标志的情况下更新品牌形象。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 106,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈɪmɪdʒ",
+      "ipaUS": "ˈbrænd ˈɪmɪdʒ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand image",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT106",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand image",
+      "zh": "品牌形象",
+      "definition": "公众对品牌形成的整体印象与联想，而非仅指视觉标识。",
+      "example": "We plan to refresh the brand image without changing the logo.",
+      "exampleZh": "我们计划在不更换标志的情况下焕新品牌形象。",
+      "collocation": "refresh the brand image",
+      "collocationZh": "更新品牌形象",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What are we planning to change without replacing the logo?",
+          "zh": "我们计划在不更换标志的情况下改变什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We plan to refresh the brand image without changing the logo.",
+          "zh": "我们计划在不更换标志的情况下焕新品牌形象。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 106,
+      "aliases": [],
+      "distinction": "区别于企业主动设计的 brand identity。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈɪmɪdʒ",
+      "ipaUS": "brænd ˈɪmɪdʒ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand image",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT107",
+    "before": {
+      "id": "MKT107",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand reputation",
+      "zh": "品牌声誉",
+      "definition": "利益相关者长期形成的品牌评价。",
+      "example": "A prompt response can help protect brand reputation.",
+      "exampleZh": "及时回应有助于维护品牌声誉。",
+      "collocation": "protect brand reputation",
+      "collocationZh": "维护品牌声誉",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should we respond to the public complaint to limit reputational damage?",
+          "zh": "我们应该如何回应公开投诉以减少声誉损失？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A prompt response can help protect brand reputation.",
+          "zh": "及时回应有助于维护品牌声誉。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 107,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˌrepjuːˈteɪʃən",
+      "ipaUS": "ˈbrænd ˌrepjuːˈteɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand reputation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT107",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand reputation",
+      "zh": "品牌声誉",
+      "definition": "利益相关者基于长期体验、行为和信息形成的品牌评价。",
+      "example": "A prompt response can help protect brand reputation.",
+      "exampleZh": "及时回应有助于维护品牌声誉。",
+      "collocation": "protect brand reputation",
+      "collocationZh": "维护品牌声誉",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why should we respond to the complaint promptly?",
+          "zh": "为什么应及时回应投诉？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A prompt response can help protect brand reputation.",
+          "zh": "及时回应有助于维护品牌声誉。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 107,
+      "aliases": [],
+      "distinction": "声誉通常涉及长期评价。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˌrepjuˈteɪʃən",
+      "ipaUS": "brænd ˌrepjəˈteɪʃən",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand reputation",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT108",
+    "before": {
+      "id": "MKT108",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand trust",
+      "zh": "品牌信任",
+      "definition": "消费者相信品牌能够兑现承诺的程度。",
+      "example": "Transparent pricing helps us earn brand trust.",
+      "exampleZh": "透明定价有助于赢得品牌信任。",
+      "collocation": "earn brand trust",
+      "collocationZh": "赢得品牌信任",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we reassure customers who worry about hidden charges?",
+          "zh": "如何让担心隐藏收费的客户放心？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Transparent pricing helps us earn brand trust.",
+          "zh": "透明定价有助于赢得品牌信任。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 108,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈtrʌst",
+      "ipaUS": "ˈbrænd ˈtrʌst",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand trust",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT108",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand trust",
+      "zh": "品牌信任",
+      "definition": "消费者相信品牌可靠、诚实并能够兑现承诺的程度。",
+      "example": "Transparent pricing helps us build brand trust.",
+      "exampleZh": "透明定价有助于赢得消费者对品牌的信任。",
+      "collocation": "build brand trust",
+      "collocationZh": "建立消费者对品牌的信任",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we reassure customers who worry about hidden charges?",
+          "zh": "如何让担心隐藏收费的客户放心？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Transparent pricing helps us build brand trust.",
+          "zh": "透明定价有助于赢得消费者对品牌的信任。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 108,
+      "aliases": [],
+      "distinction": "可用 trust in the brand 表达消费者对品牌的信任。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd trʌst",
+      "ipaUS": "brænd trʌst",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand trust",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocation",
+      "collocationZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT109",
+    "before": {
+      "id": "MKT109",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand preference",
+      "zh": "品牌偏好",
+      "definition": "消费者相对于其他品牌更倾向选择某品牌。",
+      "example": "The survey will measure brand preference across age groups.",
+      "exampleZh": "调查将衡量各年龄群体的品牌偏好。",
+      "collocation": "measure brand preference",
+      "collocationZh": "衡量品牌偏好",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we compare which brands different age groups favor?",
+          "zh": "我们如何比较不同年龄群体偏好的品牌？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The survey will measure brand preference across age groups.",
+          "zh": "调查将衡量各年龄群体的品牌偏好。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 109,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈprefrəns",
+      "ipaUS": "ˈbrænd ˈprefrəns",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand preference",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT109",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand preference",
+      "zh": "品牌偏好",
+      "definition": "消费者在多个备选品牌之间表现出的相对选择倾向。",
+      "example": "The survey will measure brand preference across age groups.",
+      "exampleZh": "调查将衡量不同年龄群体的品牌偏好。",
+      "collocation": "measure brand preference",
+      "collocationZh": "衡量品牌偏好",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we compare which brands different age groups favor?",
+          "zh": "我们如何比较不同年龄群体偏好的品牌？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The survey will measure brand preference across age groups.",
+          "zh": "调查将衡量不同年龄群体的品牌偏好。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 109,
+      "aliases": [],
+      "distinction": "偏好不一定转化为实际购买。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈprefərəns",
+      "ipaUS": "brænd ˈprefərəns",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand preference",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT110",
+    "before": {
+      "id": "MKT110",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand consideration",
+      "zh": "品牌考虑度",
+      "definition": "消费者将品牌纳入购买备选的程度。",
+      "example": "Our video campaign should increase brand consideration.",
+      "exampleZh": "视频营销活动应提升品牌考虑度。",
+      "collocation": "increase brand consideration",
+      "collocationZh": "提升品牌考虑度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should the video achieve before customers make a purchase decision?",
+          "zh": "视频应在客户作出购买决定前实现什么目标？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our video campaign should increase brand consideration.",
+          "zh": "视频营销活动应提升品牌考虑度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 110,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd kənˌsɪdəˈreɪʃən",
+      "ipaUS": "ˈbrænd kənˌsɪdɚˈreɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand consideration",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT110",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand consideration",
+      "zh": "品牌考虑度",
+      "definition": "消费者愿意将某品牌纳入购买备选范围的程度。",
+      "example": "Our video campaign should increase brand consideration.",
+      "exampleZh": "我们的视频营销活动应让更多消费者将品牌纳入购买考虑范围。",
+      "collocation": "increase brand consideration",
+      "collocationZh": "提升品牌考虑度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should the video achieve before customers make a purchase decision?",
+          "zh": "视频应在客户作出购买决定前实现什么目标？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our video campaign should increase brand consideration.",
+          "zh": "我们的视频营销活动应让更多消费者将品牌纳入购买考虑范围。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 110,
+      "aliases": [],
+      "distinction": "考虑度不同于最终购买意向或实际购买。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd kənˌsɪdəˈreɪʃən",
+      "ipaUS": "brænd kənˌsɪdərˈreɪʃən",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand consideration",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT111",
+    "before": {
+      "id": "MKT111",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand affinity",
+      "zh": "品牌亲和度",
+      "definition": "消费者与品牌之间的情感认同和联系。",
+      "example": "Community events can help build brand affinity.",
+      "exampleZh": "社区活动有助于建立品牌亲和度。",
+      "collocation": "build brand affinity",
+      "collocationZh": "建立品牌亲和度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we build a stronger emotional connection with local customers?",
+          "zh": "如何与当地客户建立更强的情感联系？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Community events can help build brand affinity.",
+          "zh": "社区活动有助于建立品牌亲和度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 111,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd əˈfɪnɪti",
+      "ipaUS": "ˈbrænd əˈfɪnɪti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand affinity",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT111",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand affinity",
+      "zh": "品牌亲和度",
+      "definition": "消费者对品牌的情感认同、亲近感和价值观联系。",
+      "example": "Community events can help build brand affinity.",
+      "exampleZh": "社区活动有助于增强消费者对品牌的情感认同。",
+      "collocation": "build brand affinity",
+      "collocationZh": "增强品牌情感认同",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we build a stronger emotional connection with local customers?",
+          "zh": "如何与当地客户建立更强的情感联系？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Community events can help build brand affinity.",
+          "zh": "社区活动有助于增强消费者对品牌的情感认同。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 111,
+      "aliases": [],
+      "distinction": "区别于单纯的重复购买行为。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd əˈfɪnəti",
+      "ipaUS": "brænd əˈfɪnəti",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand affinity",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT112",
+    "before": {
+      "id": "MKT112",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand advocacy",
+      "zh": "品牌拥护",
+      "definition": "消费者主动推荐和支持品牌的行为。",
+      "example": "Excellent service can encourage brand advocacy.",
+      "exampleZh": "优质服务可以鼓励消费者主动推荐品牌。",
+      "collocation": "encourage brand advocacy",
+      "collocationZh": "鼓励品牌拥护",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What could motivate satisfied customers to recommend us voluntarily?",
+          "zh": "什么能促使满意的客户主动推荐我们？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Excellent service can encourage brand advocacy.",
+          "zh": "优质服务可以鼓励消费者主动推荐品牌。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 112,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈædvəkəsi",
+      "ipaUS": "ˈbrænd ˈædvəkəsi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand advocacy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT112",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand advocacy",
+      "zh": "品牌拥护",
+      "definition": "消费者或其他支持者主动推荐、维护或传播品牌的行为。",
+      "example": "Excellent service can encourage brand advocacy.",
+      "exampleZh": "优质服务可以促使消费者主动推荐品牌。",
+      "collocation": "encourage brand advocacy",
+      "collocationZh": "鼓励消费者主动推荐品牌",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What could motivate satisfied customers to recommend us voluntarily?",
+          "zh": "什么能促使满意的客户主动推荐我们？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Excellent service can encourage brand advocacy.",
+          "zh": "优质服务可以促使消费者主动推荐品牌。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 112,
+      "aliases": [],
+      "distinction": "常见表达 brand advocate 指品牌拥护者。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈædvəkəsi",
+      "ipaUS": "brænd ˈædvəkəsi",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand advocacy",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT113",
+    "before": {
+      "id": "MKT113",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand audit",
+      "zh": "品牌审计",
+      "definition": "系统评估品牌表现、资产及表达一致性的过程。",
+      "example": "We will conduct a brand audit before the redesign.",
+      "exampleZh": "我们将在重新设计前开展品牌审计。",
+      "collocation": "conduct a brand audit",
+      "collocationZh": "开展品牌审计",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What assessment should we complete before commissioning the redesign?",
+          "zh": "委托重新设计前应完成什么评估？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will conduct a brand audit before the redesign.",
+          "zh": "我们将在重新设计前开展品牌审计。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 113,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈɔːdɪt",
+      "ipaUS": "ˈbrænd ˈɔːdɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand audit",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT113",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand audit",
+      "zh": "品牌审计",
+      "definition": "系统评估品牌战略、市场表现、消费者认知及各触点表达的过程。",
+      "example": "We will conduct a brand audit before the redesign.",
+      "exampleZh": "我们将在重新设计前开展品牌审计。",
+      "collocation": "conduct a brand audit",
+      "collocationZh": "开展品牌审计",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What assessment should we complete before commissioning the redesign?",
+          "zh": "委托重新设计前应完成什么评估？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will conduct a brand audit before the redesign.",
+          "zh": "我们将在重新设计前开展品牌审计。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 113,
+      "aliases": [],
+      "distinction": "通常是阶段性的综合诊断。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈɔːdɪt",
+      "ipaUS": "brænd ˈɑːdɪt",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand audit",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT114",
+    "before": {
+      "id": "MKT114",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand tracking",
+      "zh": "品牌追踪",
+      "definition": "持续测量品牌认知、偏好等指标。",
+      "example": "Let's run a brand tracking study every quarter.",
+      "exampleZh": "我们每季度开展一次品牌追踪研究吧。",
+      "collocation": "run a brand tracking study",
+      "collocationZh": "开展品牌追踪研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How often should we monitor changes in brand health?",
+          "zh": "我们应该多久监测一次品牌健康度变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's run a brand tracking study every quarter.",
+          "zh": "我们每季度开展一次品牌追踪研究吧。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 114,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈtrækɪŋ",
+      "ipaUS": "ˈbrænd ˈtrækɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand tracking",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT114",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand tracking",
+      "zh": "品牌追踪",
+      "definition": "通过定期采用可比的研究方法持续监测品牌认知、考虑度等指标。",
+      "example": "Let's run a brand tracking study every quarter.",
+      "exampleZh": "我们每季度开展一次品牌追踪研究吧。",
+      "collocation": "run a brand tracking study",
+      "collocationZh": "开展品牌追踪研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How often should we monitor changes in brand health?",
+          "zh": "我们应该多久监测一次品牌健康度变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's run a brand tracking study every quarter.",
+          "zh": "我们每季度开展一次品牌追踪研究吧。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 114,
+      "aliases": [],
+      "distinction": "区别于一次性的品牌审计。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈtrækɪŋ",
+      "ipaUS": "brænd ˈtrækɪŋ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand tracking",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT115",
+    "before": {
+      "id": "MKT115",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand lift",
+      "zh": "品牌提升",
+      "definition": "营销活动带来的品牌指标增量。",
+      "example": "We need a control group to measure brand lift reliably.",
+      "exampleZh": "我们需要对照组来可靠地衡量品牌提升。",
+      "collocation": "measure brand lift",
+      "collocationZh": "衡量品牌提升",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we distinguish the campaign's effect on brand metrics from other influences?",
+          "zh": "怎样区分活动对品牌指标的影响与其他因素的影响？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need a control group to measure brand lift reliably.",
+          "zh": "我们需要对照组来可靠地衡量品牌提升。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 115,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈlɪft",
+      "ipaUS": "ˈbrænd ˈlɪft",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand lift",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT115",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand lift",
+      "zh": "品牌提升",
+      "definition": "营销活动相对于基准或对照条件带来的品牌指标提升，例如广告回忆或品牌认知的增量。",
+      "example": "We need a control group to measure brand lift reliably.",
+      "exampleZh": "我们需要对照组来更可靠地衡量品牌指标的提升。",
+      "collocation": "measure brand lift",
+      "collocationZh": "衡量品牌指标提升",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we distinguish the campaign's effect on brand metrics from other influences?",
+          "zh": "怎样区分活动对品牌指标的影响与其他因素的影响？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need a control group to measure brand lift reliably.",
+          "zh": "我们需要对照组来更可靠地衡量品牌指标的提升。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 115,
+      "aliases": [],
+      "distinction": "报告时应区分百分点变化与相对百分比提升。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd lɪft",
+      "ipaUS": "brænd lɪft",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand lift",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT116",
+    "before": {
+      "id": "MKT116",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand narrative",
+      "zh": "品牌叙事",
+      "definition": "组织品牌历史、价值与愿景的故事表达。",
+      "example": "The agency will craft a brand narrative around craftsmanship.",
+      "exampleZh": "代理商将围绕工艺构建品牌叙事。",
+      "collocation": "craft a brand narrative",
+      "collocationZh": "构建品牌叙事",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What story should the agency develop for our handmade collection?",
+          "zh": "代理商应该为我们的手工系列构建怎样的故事？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency will craft a brand narrative around craftsmanship.",
+          "zh": "代理商将围绕工艺构建品牌叙事。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 116,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈnærəˌtɪv",
+      "ipaUS": "ˈbrænd ˈnærəˌtɪv",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand narrative",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT116",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand narrative",
+      "zh": "品牌叙事",
+      "definition": "围绕品牌历史、价值观及愿景形成的连贯故事表达。",
+      "example": "The agency will craft a brand narrative around craftsmanship.",
+      "exampleZh": "代理商将围绕精湛工艺构建品牌叙事。",
+      "collocation": "craft a brand narrative",
+      "collocationZh": "构建品牌叙事",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What will the agency focus on in the brand story?",
+          "zh": "代理商将围绕什么构建品牌故事？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency will craft a brand narrative around craftsmanship.",
+          "zh": "代理商将围绕精湛工艺构建品牌叙事。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 116,
+      "aliases": [],
+      "distinction": "不局限于单次广告故事。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈnærətɪv",
+      "ipaUS": "brænd ˈnærətɪv",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand narrative",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT117",
+    "before": {
+      "id": "MKT117",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand purpose",
+      "zh": "品牌使命",
+      "definition": "品牌超越商业收益所追求的存在意义。",
+      "example": "Leadership needs to articulate brand purpose more clearly.",
+      "exampleZh": "管理层需要更清晰地阐明品牌使命。",
+      "collocation": "articulate brand purpose",
+      "collocationZh": "阐明品牌使命",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Employees are unsure what the brand stands for beyond profit. What should leadership do?",
+          "zh": "员工不清楚品牌除了盈利之外代表什么。管理层应该怎么做？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Leadership needs to articulate brand purpose more clearly.",
+          "zh": "管理层需要更清晰地阐明品牌使命。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 117,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈpɜːpəs",
+      "ipaUS": "ˈbrænd ˈpɜːpəs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand purpose",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT117",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand purpose",
+      "zh": "品牌使命",
+      "definition": "品牌存在的根本理由及希望创造的价值，通常超越短期商业收益。",
+      "example": "Leadership needs to articulate brand purpose more clearly.",
+      "exampleZh": "管理层需要更清晰地阐明品牌使命。",
+      "collocation": "articulate brand purpose",
+      "collocationZh": "阐明品牌使命",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Employees are unsure what the brand stands for beyond profit. What should leadership do?",
+          "zh": "员工不清楚品牌除了盈利之外代表什么。管理层应该怎么做？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Leadership needs to articulate brand purpose more clearly.",
+          "zh": "管理层需要更清晰地阐明品牌使命。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 117,
+      "aliases": [],
+      "distinction": "与 brand mission 有重叠，但 purpose 更强调为何存在。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈpɜːpəs",
+      "ipaUS": "brænd ˈpɝːpəs",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand purpose",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT118",
+    "before": {
+      "id": "MKT118",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand archetype",
+      "zh": "品牌原型",
+      "definition": "用于塑造品牌人格的典型角色模型。",
+      "example": "We selected a brand archetype that reflects curiosity.",
+      "exampleZh": "我们选择了体现好奇心的品牌原型。",
+      "collocation": "select a brand archetype",
+      "collocationZh": "选择品牌原型",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What kind of symbolic personality did we choose for the brand?",
+          "zh": "我们为品牌选择了怎样的象征性人格？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We selected a brand archetype that reflects curiosity.",
+          "zh": "我们选择了体现好奇心的品牌原型。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 118,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈɑːkɪˌtaɪp",
+      "ipaUS": "ˈbrænd ˈɑːrkɪˌtaɪp",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand archetype",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT118",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand archetype",
+      "zh": "品牌原型",
+      "definition": "借助典型象征角色塑造品牌人格和叙事的策略模型。",
+      "example": "We selected a brand archetype that reflects curiosity.",
+      "exampleZh": "我们选择了体现好奇心的品牌原型。",
+      "collocation": "select a brand archetype",
+      "collocationZh": "选择品牌原型",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What kind of archetype did we select?",
+          "zh": "我们选择了怎样的品牌原型？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We selected a brand archetype that reflects curiosity.",
+          "zh": "我们选择了体现好奇心的品牌原型。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 118,
+      "aliases": [],
+      "distinction": "原型是策略工具，并非消费者心理的必然分类。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈɑːkɪtaɪp",
+      "ipaUS": "brænd ˈɑːrkətaɪp",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand archetype",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT119",
+    "before": {
+      "id": "MKT119",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Masterbrand",
+      "zh": "主品牌",
+      "definition": "为旗下产品或子品牌提供统一身份的核心品牌。",
+      "example": "The new service can leverage the masterbrand's credibility.",
+      "exampleZh": "新服务可以借助主品牌的信誉。",
+      "collocation": "leverage the masterbrand",
+      "collocationZh": "借助主品牌",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can the new service benefit from the reputation of our main brand?",
+          "zh": "新服务如何借助主品牌的声誉？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The new service can leverage the masterbrand's credibility.",
+          "zh": "新服务可以借助主品牌的信誉。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 119,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmæstəˌbrænd",
+      "ipaUS": "ˈmæstɚˌbrænd",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Masterbrand",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT119",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Masterbrand",
+      "zh": "主品牌",
+      "definition": "在品牌架构中为多个产品或子品牌提供共同身份和信誉的核心品牌。",
+      "example": "The new service can leverage the masterbrand's credibility.",
+      "exampleZh": "新服务可以借助主品牌的信誉。",
+      "collocation": "leverage the masterbrand",
+      "collocationZh": "借助主品牌",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can the new service benefit from the reputation of our main brand?",
+          "zh": "新服务如何借助主品牌的声誉？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The new service can leverage the masterbrand's credibility.",
+          "zh": "新服务可以借助主品牌的信誉。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 119,
+      "aliases": [
+        "master brand"
+      ],
+      "distinction": "也写作 master brand。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmɑːstəbrænd",
+      "ipaUS": "ˈmæstərbrænd",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Masterbrand",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "aliases",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT120",
+    "before": {
+      "id": "MKT120",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Sub-brand",
+      "zh": "子品牌",
+      "definition": "在母品牌体系内具有独立名称或定位的品牌。",
+      "example": "We may launch a sub-brand for premium customers.",
+      "exampleZh": "我们可能为高端客户推出子品牌。",
+      "collocation": "launch a sub-brand",
+      "collocationZh": "推出子品牌",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How could we distinguish the premium offer from our mainstream range?",
+          "zh": "如何将高端产品与主流产品系列区分开？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We may launch a sub-brand for premium customers.",
+          "zh": "我们可能为高端客户推出子品牌。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 120,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsʌbˈbrænd",
+      "ipaUS": "ˈsʌbˈbrænd",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Sub-brand",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT120",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Sub-brand",
+      "zh": "子品牌",
+      "definition": "与主品牌存在明确关联、同时具有自身名称或定位的品牌。",
+      "example": "We may launch a sub-brand for premium customers.",
+      "exampleZh": "我们可能为高端客户推出一个子品牌。",
+      "collocation": "launch a sub-brand",
+      "collocationZh": "推出子品牌",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How could we distinguish the premium offer from our mainstream range?",
+          "zh": "如何将高端产品与主流产品系列区分开？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We may launch a sub-brand for premium customers.",
+          "zh": "我们可能为高端客户推出一个子品牌。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 120,
+      "aliases": [
+        "subbrand"
+      ],
+      "distinction": "也写作 subbrand；区别于完全独立的品牌。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsʌbbrænd",
+      "ipaUS": "ˈsʌbbrænd",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Sub-brand",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "aliases",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "status": "编辑复核；未独立词典核验"
+  }
+]

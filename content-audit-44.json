@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "MKT301",
+    "before": {
+      "id": "MKT301",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Engagement rate",
+      "zh": "互动率",
+      "definition": "互动次数相对于曝光、触达或粉丝数的比例，须明确分母",
+      "example": "We calculate engagement rate using reach as the denominator.",
+      "exampleZh": "我们以触达人数为分母计算互动率。",
+      "collocation": "calculate engagement rate",
+      "collocationZh": "计算互动率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We calculate ____ using reach as the denominator.",
+          "zh": "补全职场表达：我们以触达人数为分母计算____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We calculate engagement rate using reach as the denominator.",
+          "zh": "我们以触达人数为分母计算互动率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 301,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "enˈɡeɪdʒmənt ˈreɪt",
+      "ipaUS": "enˈɡeɪdʒmənt ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Engagement rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT301",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Engagement rate",
+      "zh": "互动率",
+      "definition": "指定互动行为次数与触达人数、曝光次数或粉丝数等指定基数之比。",
+      "example": "We calculate engagement rate using reach as the denominator.",
+      "exampleZh": "我们以触达人数为分母计算互动率。",
+      "collocation": "calculate engagement rate",
+      "collocationZh": "计算互动率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which denominator do we use for engagement rate?",
+          "zh": "我们计算互动率时使用什么分母？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We calculate engagement rate using reach as the denominator.",
+          "zh": "我们以触达人数为分母计算互动率。"
+        }
+      ],
+      "usage": "跨平台比较须统一互动行为、分母和统计周期。",
+      "new": true,
+      "order": 301,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɪnˈɡeɪdʒmənt reɪt",
+      "ipaUS": "ɪnˈɡeɪdʒmənt reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Engagement rate",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT302",
+    "before": {
+      "id": "MKT302",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Follower growth",
+      "zh": "粉丝增长",
+      "definition": "账号粉丝数量在一定期间的变化",
+      "example": "Follower growth slowed after the giveaway ended.",
+      "exampleZh": "抽奖活动结束后粉丝增长放缓。",
+      "collocation": "track follower growth",
+      "collocationZh": "追踪粉丝增长",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ slowed after the giveaway ended.",
+          "zh": "补全职场表达：抽奖活动结束后____放缓。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Follower growth slowed after the giveaway ended.",
+          "zh": "抽奖活动结束后粉丝增长放缓。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 302,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈfɒləʊə ˈɡrəʊθ",
+      "ipaUS": "ˈfɑːloʊɚ ˈɡroʊθ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Follower growth",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT302",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Follower growth",
+      "zh": "粉丝增长",
+      "definition": "指定期间粉丝数量的净变化，也可用增长率表示。",
+      "example": "Follower growth slowed after the giveaway ended.",
+      "exampleZh": "抽奖活动结束后粉丝增长放缓。",
+      "collocation": "track follower growth",
+      "collocationZh": "追踪粉丝增长",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What happened after the giveaway ended?",
+          "zh": "抽奖活动结束后情况如何？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Follower growth slowed after the giveaway ended.",
+          "zh": "抽奖活动结束后粉丝增长放缓。"
+        }
+      ],
+      "usage": "净增长等于新增粉丝减去流失粉丝；增长率通常以期初粉丝数为分母。",
+      "new": true,
+      "order": 302,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈfɒləʊə ɡrəʊθ",
+      "ipaUS": "ˈfɑːloʊər ɡroʊθ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Follower growth",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT303",
+    "before": {
+      "id": "MKT303",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Organic reach",
+      "zh": "自然触达",
+      "definition": "未经付费推广而接触内容的独立用户数量",
+      "example": "Short tutorials helped us expand organic reach.",
+      "exampleZh": "简短教程帮助我们扩大自然触达。",
+      "collocation": "expand organic reach",
+      "collocationZh": "扩大自然触达",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Short tutorials helped us expand ____.",
+          "zh": "补全职场表达：简短教程帮助我们扩大____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Short tutorials helped us expand organic reach.",
+          "zh": "简短教程帮助我们扩大自然触达。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 303,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ɔːˈɡænɪk ˈriːtʃ",
+      "ipaUS": "ɔːrˈɡænɪk ˈriːtʃ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Organic reach",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT303",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Organic reach",
+      "zh": "自然触达",
+      "definition": "未通过付费推广而接触内容的去重受众数量。",
+      "example": "Short tutorials helped us expand organic reach.",
+      "exampleZh": "简短教程帮助我们扩大自然触达。",
+      "collocation": "expand organic reach",
+      "collocationZh": "扩大自然触达",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which content helped us reach more people without paid promotion?",
+          "zh": "哪些内容帮助我们在不付费推广的情况下触达更多人？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Short tutorials helped us expand organic reach.",
+          "zh": "简短教程帮助我们扩大自然触达。"
+        }
+      ],
+      "usage": "自然触达与付费触达可能重叠，不宜直接相加。",
+      "new": true,
+      "order": 303,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɔːˈɡænɪk riːtʃ",
+      "ipaUS": "ɔːrˈɡænɪk riːtʃ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Organic reach",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT304",
+    "before": {
+      "id": "MKT304",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social share",
+      "zh": "社交分享",
+      "definition": "用户将内容转发给其他用户的行为",
+      "example": "The checklist encouraged social shares among new parents.",
+      "exampleZh": "这份清单促进了新手父母之间的分享。",
+      "collocation": "encourage social shares",
+      "collocationZh": "鼓励社交分享",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The checklist encouraged ____ among new parents.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The checklist encouraged social shares among new parents.",
+          "zh": "这份清单促进了新手父母之间的分享。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 304,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsəʊʃəl ˈʃeə",
+      "ipaUS": "ˈsoʊʃəl ˈʃer",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Social share",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT304",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social share",
+      "zh": "社交分享",
+      "definition": "用户通过社交平台分享或转发内容的行为，也可指一次分享。",
+      "example": "The checklist encouraged social shares among new parents.",
+      "exampleZh": "这份清单促进了新手父母之间的分享。",
+      "collocation": "encourage social shares",
+      "collocationZh": "鼓励社交分享",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did the checklist perform among new parents?",
+          "zh": "这份清单在新手父母中的表现如何？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The checklist encouraged social shares among new parents.",
+          "zh": "这份清单促进了新手父母之间的分享。"
+        }
+      ],
+      "usage": "shares 为可数名词；分享次数不等于分享人数。",
+      "new": true,
+      "order": 304,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsəʊʃəl ʃeə",
+      "ipaUS": "ˈsoʊʃəl ʃer",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Social share",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT305",
+    "before": {
+      "id": "MKT305",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Save rate",
+      "zh": "收藏率",
+      "definition": "内容收藏次数相对于指定基数的比例",
+      "example": "Our recipe posts have a higher save rate than product photos.",
+      "exampleZh": "食谱帖的收藏率高于产品照片。",
+      "collocation": "monitor save rate",
+      "collocationZh": "监测收藏率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Our recipe posts have a higher ____ than product photos.",
+          "zh": "补全职场表达：食谱帖的____高于产品照片。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our recipe posts have a higher save rate than product photos.",
+          "zh": "食谱帖的收藏率高于产品照片。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 305,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈseɪv ˈreɪt",
+      "ipaUS": "ˈseɪv ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Save rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT305",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Save rate",
+      "zh": "收藏率",
+      "definition": "内容收藏次数与指定基数之比。",
+      "example": "Our recipe posts have a higher save rate than product photos when measured against reach.",
+      "exampleZh": "以触达人数为分母时，食谱帖的收藏率高于产品照片。",
+      "collocation": "monitor save rate",
+      "collocationZh": "监测收藏率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which type of post do users save more often relative to its reach?",
+          "zh": "按触达人数计算，用户更常收藏哪类帖子？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our recipe posts have a higher save rate than product photos when measured against reach.",
+          "zh": "以触达人数为分母时，食谱帖的收藏率高于产品照片。"
+        }
+      ],
+      "usage": "比较时统一分母，例如触达人数或曝光次数。",
+      "new": true,
+      "order": 305,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "seɪv reɪt",
+      "ipaUS": "seɪv reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Save rate",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT306",
+    "before": {
+      "id": "MKT306",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Community management",
+      "zh": "社群管理",
+      "definition": "维护品牌线上社区及用户关系的工作",
+      "example": "We need stronger community management during the launch.",
+      "exampleZh": "新品上市期间我们需要加强社群管理。",
+      "collocation": "strengthen community management",
+      "collocationZh": "加强社群管理",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We need stronger ____ during the launch.",
+          "zh": "补全职场表达：新品上市期间我们需要加强____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need stronger community management during the launch.",
+          "zh": "新品上市期间我们需要加强社群管理。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 306,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kəˈmjuːnɪti ˈmænɪdʒmənt",
+      "ipaUS": "kəˈmjuːnɪti ˈmænɪdʒmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Community management",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT306",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Community management",
+      "zh": "社群管理",
+      "definition": "维护品牌社群、促进互动、处理反馈及执行社群规则的工作。",
+      "example": "We need stronger community management during the launch.",
+      "exampleZh": "新品上市期间我们需要加强社群管理。",
+      "collocation": "strengthen community management",
+      "collocationZh": "加强社群管理",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we strengthen during the launch?",
+          "zh": "新品上市期间我们应加强什么工作？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need stronger community management during the launch.",
+          "zh": "新品上市期间我们需要加强社群管理。"
+        }
+      ],
+      "usage": "不只是发布内容，也包括维护成员关系。",
+      "new": true,
+      "order": 306,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kəˈmjuːnəti ˈmænɪdʒmənt",
+      "ipaUS": "kəˈmjuːnəti ˈmænɪdʒmənt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Community management",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT307",
+    "before": {
+      "id": "MKT307",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Community guidelines",
+      "zh": "社区准则",
+      "definition": "规定社区成员可接受行为的规则",
+      "example": "Publish the community guidelines before opening the group.",
+      "exampleZh": "开放群组前请发布社区准则。",
+      "collocation": "publish community guidelines",
+      "collocationZh": "发布社区准则",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Publish the ____ before opening the group.",
+          "zh": "补全职场表达：开放群组前请发布____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Publish the community guidelines before opening the group.",
+          "zh": "开放群组前请发布社区准则。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 307,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kəˈmjuːnɪti ˈɡaɪdlaɪnz",
+      "ipaUS": "kəˈmjuːnɪti ˈɡaɪdlaɪnz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Community guidelines",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT307",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Community guidelines",
+      "zh": "社区准则",
+      "definition": "说明社区允许及禁止的行为、内容和处理规则的规范。",
+      "example": "Publish the community guidelines before opening the group.",
+      "exampleZh": "开放群组前请发布社区准则。",
+      "collocation": "publish community guidelines",
+      "collocationZh": "发布社区准则",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we publish before opening the group?",
+          "zh": "开放群组前我们应发布什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Publish the community guidelines before opening the group.",
+          "zh": "开放群组前请发布社区准则。"
+        }
+      ],
+      "usage": "通常使用复数 guidelines。",
+      "new": true,
+      "order": 307,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kəˈmjuːnəti ˈɡaɪdlaɪnz",
+      "ipaUS": "kəˈmjuːnəti ˈɡaɪdlaɪnz",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Community guidelines",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT308",
+    "before": {
+      "id": "MKT308",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Comment moderation",
+      "zh": "评论审核",
+      "definition": "根据规则处理评论及违规内容",
+      "example": "The support team handles comment moderation on weekends.",
+      "exampleZh": "客服团队在周末负责评论审核。",
+      "collocation": "handle comment moderation",
+      "collocationZh": "处理评论审核",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The support team handles ____ on weekends.",
+          "zh": "补全职场表达：客服团队在周末负责____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The support team handles comment moderation on weekends.",
+          "zh": "客服团队在周末负责评论审核。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 308,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒment ˌmɒdəˈreɪʃən",
+      "ipaUS": "ˈkɑːment ˌmɑːdɚˈreɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Comment moderation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT308",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Comment moderation",
+      "zh": "评论审核",
+      "definition": "依据社区规则检查和处理评论，包括隐藏、删除或升级处理违规内容。",
+      "example": "The support team handles comment moderation on weekends.",
+      "exampleZh": "客服团队在周末负责评论审核。",
+      "collocation": "handle comment moderation",
+      "collocationZh": "处理评论审核",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who handles comments that violate our rules on weekends?",
+          "zh": "周末由谁处理违反规则的评论？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The support team handles comment moderation on weekends.",
+          "zh": "客服团队在周末负责评论审核。"
+        }
+      ],
+      "usage": "审核不等于删除所有负面评论。",
+      "new": true,
+      "order": 308,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒment ˌmɒdəˈreɪʃən",
+      "ipaUS": "ˈkɑːment ˌmɑːdəˈreɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Comment moderation",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT309",
+    "before": {
+      "id": "MKT309",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social inbox",
+      "zh": "社媒收件箱",
+      "definition": "集中管理社交平台私信和互动的界面",
+      "example": "Please monitor the social inbox during the livestream.",
+      "exampleZh": "直播期间请监控社媒收件箱。",
+      "collocation": "monitor the social inbox",
+      "collocationZh": "监控社媒收件箱",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Please monitor the ____ during the livestream.",
+          "zh": "补全职场表达：直播期间请监控____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Please monitor the social inbox during the livestream.",
+          "zh": "直播期间请监控社媒收件箱。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 309,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsəʊʃəl ˈɪnbɒks",
+      "ipaUS": "ˈsoʊʃəl ˈɪnbɑːks",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Social inbox",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT309",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social inbox",
+      "zh": "社媒收件箱",
+      "definition": "集中查看和处理社交平台私信及其他互动的界面。",
+      "example": "Please monitor the social inbox during the livestream.",
+      "exampleZh": "直播期间请留意社媒收件箱。",
+      "collocation": "monitor the social inbox",
+      "collocationZh": "关注社媒收件箱",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should I keep an eye on during the livestream?",
+          "zh": "直播期间我应该关注什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Please monitor the social inbox during the livestream.",
+          "zh": "直播期间请留意社媒收件箱。"
+        }
+      ],
+      "usage": "支持的消息类型因工具而异。",
+      "new": true,
+      "order": 309,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsəʊʃəl ˈɪnbɒks",
+      "ipaUS": "ˈsoʊʃəl ˈɪnbɑːks",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Social inbox",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT310",
+    "before": {
+      "id": "MKT310",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Response time",
+      "zh": "响应时间",
+      "definition": "从收到用户消息到回复所经过的时间",
+      "example": "We reduced response time by assigning a dedicated moderator.",
+      "exampleZh": "我们通过安排专职管理员缩短了响应时间。",
+      "collocation": "reduce response time",
+      "collocationZh": "缩短响应时间",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We reduced ____ by assigning a dedicated moderator.",
+          "zh": "补全职场表达：我们通过安排专职管理员缩短了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We reduced response time by assigning a dedicated moderator.",
+          "zh": "我们通过安排专职管理员缩短了响应时间。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 310,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "rɪˈspɒns ˈtaɪm",
+      "ipaUS": "rɪˈspɑːns ˈtaɪm",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Response time",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT310",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Response time",
+      "zh": "响应时间",
+      "definition": "从收到用户消息到作出指定回复之间的时间。",
+      "example": "We reduced response time by assigning a dedicated moderator.",
+      "exampleZh": "我们通过安排专职管理员缩短了响应时间。",
+      "collocation": "reduce response time",
+      "collocationZh": "缩短响应时间",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we improve our customer service speed?",
+          "zh": "我们如何提高客服响应速度？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We reduced response time by assigning a dedicated moderator.",
+          "zh": "我们通过安排专职管理员缩短了响应时间。"
+        }
+      ],
+      "usage": "明确首次回复还是后续回复，以及是否计入非工作时间。",
+      "new": true,
+      "order": 310,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "rɪˈspɒns taɪm",
+      "ipaUS": "rɪˈspɑːns taɪm",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Response time",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT311",
+    "before": {
+      "id": "MKT311",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social media audit",
+      "zh": "社媒审计",
+      "definition": "系统评估账号内容、表现及运营现状",
+      "example": "The audit revealed three inactive regional accounts.",
+      "exampleZh": "社媒审计发现三个不活跃的地区账号。",
+      "collocation": "conduct a social media audit",
+      "collocationZh": "开展社媒审计",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which marketing concept fits this situation? The audit revealed three inactive regional accounts.",
+          "zh": "这段业务描述对应哪个营销概念？系统评估账号内容、表现及运营现状"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The audit revealed three inactive regional accounts.",
+          "zh": "社媒审计发现三个不活跃的地区账号。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 311,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsəʊʃəl ˈmiːdiːər ˈɔːdɪt",
+      "ipaUS": "ˈsoʊʃəl ˈmiːdiːə ˈɔːdɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Social media audit",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT311",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social media audit",
+      "zh": "社媒审计",
+      "definition": "系统评估社交账号、内容、表现和运营现状的过程。",
+      "example": "The social media audit revealed three inactive regional accounts.",
+      "exampleZh": "社媒审计发现三个不活跃的地区账号。",
+      "collocation": "conduct a social media audit",
+      "collocationZh": "开展社媒审计",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did the social media audit reveal?",
+          "zh": "社媒审计发现了什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The social media audit revealed three inactive regional accounts.",
+          "zh": "社媒审计发现三个不活跃的地区账号。"
+        }
+      ],
+      "usage": "审计是阶段性诊断，不等同于日常监测。",
+      "new": true,
+      "order": 311,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsəʊʃəl ˈmiːdiə ˈɔːdɪt",
+      "ipaUS": "ˈsoʊʃəl ˈmiːdiə ˈɑːdɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Social media audit",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT312",
+    "before": {
+      "id": "MKT312",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social media calendar",
+      "zh": "社媒发布日历",
+      "definition": "规划社交平台内容及发布时间的日程",
+      "example": "Update the social media calendar with the holiday posts.",
+      "exampleZh": "将节日帖子加入社媒发布日历。",
+      "collocation": "update the social media calendar",
+      "collocationZh": "更新社媒发布日历",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Update the ____ with the holiday posts.",
+          "zh": "补全职场表达：将节日帖子加入____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Update the social media calendar with the holiday posts.",
+          "zh": "将节日帖子加入社媒发布日历。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 312,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsəʊʃəl ˈmiːdiːə ˈkælendə",
+      "ipaUS": "ˈsoʊʃəl ˈmiːdiːə ˈkælendɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Social media calendar",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT312",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social media calendar",
+      "zh": "社媒发布日历",
+      "definition": "安排社交平台内容、发布时间及相关执行事项的计划表。",
+      "example": "Update the social media calendar with the holiday posts.",
+      "exampleZh": "将节日帖子加入社媒发布日历。",
+      "collocation": "update the social media calendar",
+      "collocationZh": "更新社媒发布日历",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where should we schedule the holiday posts?",
+          "zh": "我们应在哪里安排节日帖子？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Update the social media calendar with the holiday posts.",
+          "zh": "将节日帖子加入社媒发布日历。"
+        }
+      ],
+      "usage": "可包含渠道、负责人及审核状态。",
+      "new": true,
+      "order": 312,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsəʊʃəl ˈmiːdiə ˈkælɪndə",
+      "ipaUS": "ˈsoʊʃəl ˈmiːdiə ˈkælɪndər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Social media calendar",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT313",
+    "before": {
+      "id": "MKT313",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Hashtag strategy",
+      "zh": "话题标签策略",
+      "definition": "选择和使用标签以组织内容并提高发现机会",
+      "example": "We refined the hashtag strategy for the local market.",
+      "exampleZh": "我们针对本地市场优化了话题标签策略。",
+      "collocation": "refine the hashtag strategy",
+      "collocationZh": "优化标签策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We refined the ____ for the local market.",
+          "zh": "补全职场表达：我们针对本地市场优化了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We refined the hashtag strategy for the local market.",
+          "zh": "我们针对本地市场优化了话题标签策略。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 313,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈhæʃtæɡ ˈstrætədʒi",
+      "ipaUS": "ˈhæʃtæɡ ˈstrætədʒi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Hashtag strategy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT313",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Hashtag strategy",
+      "zh": "话题标签策略",
+      "definition": "根据内容、受众及平台特点选择和使用话题标签的方案。",
+      "example": "We refined the hashtag strategy for the local market.",
+      "exampleZh": "我们针对本地市场优化了话题标签策略。",
+      "collocation": "refine the hashtag strategy",
+      "collocationZh": "优化标签策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we adapt our approach to hashtags for the local market?",
+          "zh": "我们如何针对本地市场调整标签使用方式？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We refined the hashtag strategy for the local market.",
+          "zh": "我们针对本地市场优化了话题标签策略。"
+        }
+      ],
+      "usage": "标签不保证提高触达，应关注相关性及平台规则。",
+      "new": true,
+      "order": 313,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈhæʃtæɡ ˈstrætədʒi",
+      "ipaUS": "ˈhæʃtæɡ ˈstrætədʒi",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Hashtag strategy",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT314",
+    "before": {
+      "id": "MKT314",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Trending topic",
+      "zh": "热门话题",
+      "definition": "在特定时期受到大量关注的话题",
+      "example": "Check whether the trending topic fits our brand values.",
+      "exampleZh": "确认热门话题是否符合品牌价值观。",
+      "collocation": "identify trending topics",
+      "collocationZh": "识别热门话题",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Check whether the ____ fits our brand values.",
+          "zh": "补全职场表达：确认____是否符合品牌价值观。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Check whether the trending topic fits our brand values.",
+          "zh": "确认热门话题是否符合品牌价值观。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 314,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtrendɪŋ ˈtɒpɪk",
+      "ipaUS": "ˈtrendɪŋ ˈtɑːpɪk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Trending topic",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT314",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Trending topic",
+      "zh": "热门话题",
+      "definition": "在特定平台或时间段内关注度或讨论热度较高的话题。",
+      "example": "Check whether the trending topic fits our brand values.",
+      "exampleZh": "确认热门话题是否符合品牌价值观。",
+      "collocation": "identify trending topics",
+      "collocationZh": "识别热门话题",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Should we join the conversation about this viral topic?",
+          "zh": "我们应该参与这个热门话题的讨论吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Check whether the trending topic fits our brand values.",
+          "zh": "确认热门话题是否符合品牌价值观。"
+        }
+      ],
+      "usage": "热门话题不一定适合品牌参与。",
+      "new": true,
+      "order": 314,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtrendɪŋ ˈtɒpɪk",
+      "ipaUS": "ˈtrendɪŋ ˈtɑːpɪk",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Trending topic",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT315",
+    "before": {
+      "id": "MKT315",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "User-generated content",
+      "zh": "用户生成内容",
+      "definition": "由消费者而非品牌制作的内容",
+      "example": "Obtain permission before reposting user-generated content.",
+      "exampleZh": "转发用户生成内容前应取得许可。",
+      "collocation": "curate user-generated content",
+      "collocationZh": "精选用户生成内容",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Obtain permission before reposting ____.",
+          "zh": "补全职场表达：转发____前应取得许可。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Obtain permission before reposting user-generated content.",
+          "zh": "转发用户生成内容前应取得许可。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 315,
+      "aliases": [
+        "UGC"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈjuːzəˈdʒenəˌreɪtɪd ˈkɒntent",
+      "ipaUS": "ˈjuːzɚˈdʒenɚˌreɪtɪd ˈkɑːntent",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "User-generated content",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT315",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "User-generated content",
+      "zh": "用户生成内容",
+      "definition": "由用户创作而非品牌官方制作的内容，如评论、照片和视频。",
+      "example": "Obtain permission before reposting user-generated content.",
+      "exampleZh": "转发用户生成内容前应取得许可。",
+      "collocation": "curate user-generated content",
+      "collocationZh": "精选用户生成内容",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can we repost a customer's photo on our brand account?",
+          "zh": "我们可以在品牌账号上转发客户照片吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Obtain permission before reposting user-generated content.",
+          "zh": "转发用户生成内容前应取得许可。"
+        }
+      ],
+      "usage": "UGC；公开发布不等于授权品牌用于营销。",
+      "new": true,
+      "order": 315,
+      "aliases": [
+        "UGC"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈjuːzə ˈdʒenəreɪtɪd ˈkɒntent",
+      "ipaUS": "ˈjuːzər ˈdʒenəreɪtɪd ˈkɑːntent",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "User-generated content",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT316",
+    "before": {
+      "id": "MKT316",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social commerce",
+      "zh": "社交电商",
+      "definition": "通过社交平台促进或完成商品交易",
+      "example": "We are testing social commerce with a limited product range.",
+      "exampleZh": "我们正用少量商品测试社交电商。",
+      "collocation": "develop social commerce",
+      "collocationZh": "发展社交电商",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We are testing ____ with a limited product range.",
+          "zh": "补全职场表达：我们正用少量商品测试____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We are testing social commerce with a limited product range.",
+          "zh": "我们正用少量商品测试社交电商。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 316,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsəʊʃəl ˈkɒmɜːs",
+      "ipaUS": "ˈsoʊʃəl ˈkɑːmɜːs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Social commerce",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT316",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social commerce",
+      "zh": "社交电商",
+      "definition": "借助社交平台的内容、互动或购物功能促进或完成商品交易的模式。",
+      "example": "We are testing social commerce with a limited product range.",
+      "exampleZh": "我们正在用有限的商品品类试水社交电商。",
+      "collocation": "develop social commerce",
+      "collocationZh": "发展社交电商",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we testing sales through social platforms?",
+          "zh": "我们如何测试社交平台销售？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We are testing social commerce with a limited product range.",
+          "zh": "我们正在用有限的商品品类试水社交电商。"
+        }
+      ],
+      "usage": "交易可在平台内完成，也可引导至外部购买页面。",
+      "new": true,
+      "order": 316,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsəʊʃəl ˈkɒmɜːs",
+      "ipaUS": "ˈsoʊʃəl ˈkɑːmɝːs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Social commerce",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT317",
+    "before": {
+      "id": "MKT317",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Shoppable post",
+      "zh": "可购物帖子",
+      "definition": "包含商品购买入口的社交内容",
+      "example": "Each shoppable post links to the relevant product page.",
+      "exampleZh": "每条可购物帖子都链接到对应商品页。",
+      "collocation": "create a shoppable post",
+      "collocationZh": "创建可购物帖子",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Each ____ links to the relevant product page.",
+          "zh": "补全职场表达：每条____都链接到对应商品页。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Each shoppable post links to the relevant product page.",
+          "zh": "每条可购物帖子都链接到对应商品页。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 317,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈʃɒpəbəl ˈpəʊst",
+      "ipaUS": "ˈʃɑːpəbəl ˈpoʊst",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Shoppable post",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT317",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Shoppable post",
+      "zh": "可购物帖子",
+      "definition": "包含商品标签、购买链接或其他购物入口的社交媒体帖子。",
+      "example": "Each shoppable post links to the relevant product page.",
+      "exampleZh": "每条可购物帖子都链接到对应商品页。",
+      "collocation": "create a shoppable post",
+      "collocationZh": "创建可购物帖子",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can customers find the product featured in a post?",
+          "zh": "客户如何找到帖子中展示的商品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Each shoppable post links to the relevant product page.",
+          "zh": "每条可购物帖子都链接到对应商品页。"
+        }
+      ],
+      "usage": "购买路径取决于平台功能。",
+      "new": true,
+      "order": 317,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈʃɒpəbəl pəʊst",
+      "ipaUS": "ˈʃɑːpəbəl poʊst",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Shoppable post",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT318",
+    "before": {
+      "id": "MKT318",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Livestream shopping",
+      "zh": "直播购物",
+      "definition": "通过实时视频展示商品并促成购买",
+      "example": "We will host a livestream shopping event on Friday.",
+      "exampleZh": "我们将在周五举办直播购物活动。",
+      "collocation": "host a livestream shopping event",
+      "collocationZh": "举办直播购物活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We will host a ____ event on Friday.",
+          "zh": "补全职场表达：我们将在周五举办____活动。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will host a livestream shopping event on Friday.",
+          "zh": "我们将在周五举办直播购物活动。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 318,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlaɪvstriːm ˈʃɒpɪŋ",
+      "ipaUS": "ˈlaɪvstriːm ˈʃɑːpɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Livestream shopping",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT318",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Livestream shopping",
+      "zh": "直播购物",
+      "definition": "通过实时视频展示商品、与观众互动并促进购买的方式。",
+      "example": "We will host a livestream shopping event on Friday.",
+      "exampleZh": "我们将在周五举办直播购物活动。",
+      "collocation": "host a livestream shopping event",
+      "collocationZh": "举办直播购物活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When is our next live shopping event?",
+          "zh": "下一场直播购物活动是什么时候？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will host a livestream shopping event on Friday.",
+          "zh": "我们将在周五举办直播购物活动。"
+        }
+      ],
+      "usage": "也常称 live shopping。",
+      "new": true,
+      "order": 318,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈlaɪvstriːm ˈʃɒpɪŋ",
+      "ipaUS": "ˈlaɪvstriːm ˈʃɑːpɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Livestream shopping",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT319",
+    "before": {
+      "id": "MKT319",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social referral traffic",
+      "zh": "社媒引荐流量",
+      "definition": "由社交平台链接带来的网站访问",
+      "example": "Social referral traffic doubled during the campaign.",
+      "exampleZh": "活动期间社媒引荐流量翻倍。",
+      "collocation": "measure social referral traffic",
+      "collocationZh": "衡量社媒引荐流量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ doubled during the campaign.",
+          "zh": "补全职场表达：活动期间____翻倍。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Social referral traffic doubled during the campaign.",
+          "zh": "活动期间社媒引荐流量翻倍。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 319,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsəʊʃəl rɪˈfɜːrəl ˈtræfɪk",
+      "ipaUS": "ˈsoʊʃəl rɪˈfɜːrəl ˈtræfɪk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Social referral traffic",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT319",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social referral traffic",
+      "zh": "社媒引荐流量",
+      "definition": "通过社交平台链接进入网站的访问流量。",
+      "example": "Social referral traffic doubled during the campaign.",
+      "exampleZh": "活动期间社媒引荐流量翻倍。",
+      "collocation": "measure social referral traffic",
+      "collocationZh": "衡量社媒引荐流量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did website visits from social platforms change during the campaign?",
+          "zh": "活动期间来自社交平台的网站访问量如何变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Social referral traffic doubled during the campaign.",
+          "zh": "活动期间社媒引荐流量翻倍。"
+        }
+      ],
+      "usage": "分析工具可能将其归入社交渠道而非 Referral 渠道。",
+      "new": true,
+      "order": 319,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsəʊʃəl rɪˈfɜːrəl ˈtræfɪk",
+      "ipaUS": "ˈsoʊʃəl rɪˈfɝːəl ˈtræfɪk",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Social referral traffic",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  },
+  {
+    "id": "MKT320",
+    "before": {
+      "id": "MKT320",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social media takeover",
+      "zh": "社媒账号接管",
+      "definition": "邀请嘉宾在限定时间内运营品牌账号",
+      "example": "A chef will lead our social media takeover next week.",
+      "exampleZh": "下周一位厨师将接管我们的社媒账号。",
+      "collocation": "plan a social media takeover",
+      "collocationZh": "策划社媒账号接管",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: A chef will lead our ____ next week.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A chef will lead our social media takeover next week.",
+          "zh": "下周一位厨师将接管我们的社媒账号。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 320,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsəʊʃəl ˈmiːdiːə ˈteɪkəʊvə",
+      "ipaUS": "ˈsoʊʃəl ˈmiːdiːə ˈteɪkoʊvɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Social media takeover",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT320",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social media takeover",
+      "zh": "社媒账号接管活动",
+      "definition": "邀请嘉宾在约定时间内参与品牌社媒内容运营的营销活动。",
+      "example": "A chef will lead our social media takeover next week.",
+      "exampleZh": "下周一位厨师将主导我们的社媒账号接管活动。",
+      "collocation": "plan a social media takeover",
+      "collocationZh": "策划社媒账号接管活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who will create guest content for our account next week?",
+          "zh": "下周谁将为我们的账号创作嘉宾内容？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A chef will lead our social media takeover next week.",
+          "zh": "下周一位厨师将主导我们的社媒账号接管活动。"
+        }
+      ],
+      "usage": "不必移交登录权限，可由品牌团队代为发布。",
+      "new": true,
+      "order": 320,
+      "aliases": [
+        "社媒账号接管"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsəʊʃəl ˈmiːdiə ˈteɪkəʊvə",
+      "ipaUS": "ˈsoʊʃəl ˈmiːdiə ˈteɪkoʊvər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Social media takeover",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "review": "逐条编辑复核；未独立核验词典"
+  }
+]

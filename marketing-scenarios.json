@@ -23,7 +23,7 @@
       {
         "role": "Marketing Director",
         "en": "Let’s test that positioning with our target market.",
-        "zh": "我们在目标市场中测试这一定位吧。"
+        "zh": "我们面向目标市场测试这一品牌定位吧。"
       }
     ],
     "quiz": "What should the team test?",
@@ -56,7 +56,7 @@
       {
         "role": "Marketing Manager",
         "en": "Can we test a different landing page?",
-        "zh": "我们能测试不同的落地页吗？"
+        "zh": "我们能测试另一版落地页吗？"
       },
       {
         "role": "Analyst",
@@ -113,8 +113,8 @@
     ],
     "quiz": "What should the team prioritize and why?",
     "quizZh": "团队应优先考虑什么，为什么？",
-    "answer": "Prioritize retention in mature markets and test acquisition in emerging segments before scaling.",
-    "answerZh": "成熟市场优先留存，新兴细分市场先测试获客再扩大投入。",
+    "answer": "Prioritize retention in mature markets as acquisition costs rise, and pilot acquisition in emerging segments where there is still room to grow.",
+    "answerZh": "获客成本正在上升，因此成熟市场优先留存；新兴细分市场仍有增长空间，可先试点获客。",
     "wordIds": [
       "MKT013",
       "MKT099",
@@ -161,8 +161,8 @@
     ],
     "quiz": "How should the team respond to the competitor's price cut?",
     "quizZh": "团队应如何应对竞争对手降价？",
-    "answer": "Test whether customers value service enough to justify the price premium before changing prices.",
-    "answerZh": "调整价格前，先测试客户是否足够重视服务，从而愿意支付溢价。",
+    "answer": "Assess willingness to pay for the service package before deciding whether to match the price cut.",
+    "answerZh": "先评估客户对服务套餐的支付意愿，再决定是否跟进降价。",
     "wordIds": [
       "MKT025",
       "MKT053",
@@ -208,8 +208,8 @@
     ],
     "quiz": "Why is the larger segment not necessarily the best choice?",
     "quizZh": "为什么更大的细分市场不一定是最佳选择？",
-    "answer": "Its higher acquisition costs and weaker fit may outweigh its size advantage.",
-    "answerZh": "更高的获客成本和较弱的匹配度可能抵消规模优势。",
+    "answer": "Higher acquisition costs and weaker product fit may outweigh the advantage of a larger market.",
+    "answerZh": "较高的获客成本和较低的产品匹配度可能抵消市场规模优势。",
     "wordIds": [
       "MKT001",
       "MKT211"
@@ -254,8 +254,8 @@
     ],
     "quiz": "What evidence would help distinguish awareness from brand preference?",
     "quizZh": "哪些证据有助于区分品牌知名度和品牌偏好？",
-    "answer": "Track consideration and preference alongside awareness, using consistent survey questions.",
-    "answerZh": "采用一致的调查问题，同时追踪知名度、考虑度和偏好。",
+    "answer": "Track brand consideration and preference alongside awareness, using consistent survey wording.",
+    "answerZh": "使用一致的调查措辞，同时追踪品牌知名度、考虑度和偏好。",
     "wordIds": [
       "MKT007",
       "MKT017"
@@ -300,8 +300,8 @@
     ],
     "quiz": "How can the team refresh the brand without losing recognition?",
     "quizZh": "团队如何在不损失识别度的情况下焕新品牌？",
-    "answer": "Retain distinctive brand assets and test the refreshed design before rollout.",
-    "answerZh": "保留独特品牌资产，并在推广前测试新版设计。",
+    "answer": "Keep recognizable brand assets and test recognition before approving the refreshed design.",
+    "answerZh": "保留易于识别的品牌资产，并在批准新版设计前测试识别度。",
     "wordIds": [
       "MKT063"
     ]
@@ -345,8 +345,8 @@
     ],
     "quiz": "Why should the team revise the sample design?",
     "quizZh": "团队为什么应该调整样本设计？",
-    "answer": "The existing sample overrepresents loyal customers and may bias the findings.",
-    "answerZh": "现有样本过度代表忠诚客户，可能导致研究结果偏差。",
+    "answer": "The sample draws heavily on existing members and may overestimate purchase intent among the wider audience.",
+    "answerZh": "样本主要来自现有会员，可能高估更广泛受众的购买意愿。",
     "wordIds": [
       "MKT488",
       "MKT052"
@@ -381,7 +381,7 @@
       {
         "role": "Insights Researcher",
         "en": "Exactly. They want to make a confident decision more quickly.",
-        "zh": "没错，他们希望更快地做出有信心的决定。"
+        "zh": "没错，他们希望更快地有把握地作出购买决定。"
       },
       {
         "role": "Product Marketer",
@@ -391,8 +391,8 @@
     ],
     "quiz": "What unmet need emerged from the interviews?",
     "quizZh": "访谈发现了什么未满足需求？",
-    "answer": "Customers need a faster way to compare options without sacrificing confidence in their choice.",
-    "answerZh": "客户需要更快地比较选项，同时保持对选择的信心。",
+    "answer": "A clearer, faster way to compare options and make a confident purchase decision.",
+    "answerZh": "更清晰、更快捷地比较方案，并有把握地作出购买决定。",
     "wordIds": [
       "MKT051"
     ]
@@ -406,7 +406,7 @@
       {
         "role": "Insights Manager",
         "en": "We're seeing more interest in refillable packaging among younger shoppers.",
-        "zh": "我们发现年轻购物者对可补充式包装的兴趣增加了。"
+        "zh": "我们发现年轻购物者对可重复灌装包装的兴趣增加了。"
       },
       {
         "role": "Marketing Director",
@@ -436,8 +436,8 @@
     ],
     "quiz": "How should the team validate the emerging trend?",
     "quizZh": "团队应如何验证新兴趋势？",
-    "answer": "Compare search and sales data across periods and test a limited offer before scaling.",
-    "answerZh": "比较不同时期的搜索与销售数据，并在扩大规模前测试小范围方案。",
+    "answer": "Compare trends across regions and periods, then test refill options in selected stores.",
+    "answerZh": "比较不同地区和时期的趋势，再在部分门店试点补充装方案。",
     "wordIds": [
       "MKT182",
       "MKT314"
@@ -462,7 +462,7 @@
       {
         "role": "Product Marketing Manager",
         "en": "Can we finish the sales enablement kit by Friday?",
-        "zh": "我们能在周五前完成销售赋能资料包吗？"
+        "zh": "我们能在周五前完成销售支持资料包吗？"
       },
       {
         "role": "Sales Director",
@@ -482,8 +482,8 @@
     ],
     "quiz": "What must happen before launch?",
     "quizZh": "上市前必须完成什么？",
-    "answer": "Approve pricing and complete the sales enablement kit.",
-    "answerZh": "批准定价并完成销售赋能资料包。",
+    "answer": "Obtain final pricing approval and complete the sales enablement kit.",
+    "answerZh": "取得最终定价审批，并完成销售支持资料包。",
     "wordIds": [
       "MKT075",
       "MKT178",
@@ -513,8 +513,8 @@
       },
       {
         "role": "Commercial Director",
-        "en": "Yes. We can demonstrate lower inventory costs with customer case studies.",
-        "zh": "有。我们可以用客户案例证明库存成本降低。"
+        "en": "Yes. We can illustrate potential inventory cost savings with customer case studies.",
+        "zh": "有。我们可以用客户案例说明潜在的库存成本节约。"
       },
       {
         "role": "Product Marketing Lead",
@@ -529,8 +529,8 @@
     ],
     "quiz": "Why prioritize mid-sized retailers?",
     "quizZh": "为何优先选择中型零售商？",
-    "answer": "They have a shorter sales cycle and a demonstrable value proposition.",
-    "answerZh": "他们的销售周期较短，且价值主张有证据支持。",
+    "answer": "They had the shortest sales cycle in the pilot, and customer cases can illustrate potential inventory cost savings.",
+    "answerZh": "他们在试点中的销售周期最短，客户案例也能说明潜在的库存成本节约。",
     "wordIds": [
       "MKT070",
       "MKT003"
@@ -555,7 +555,7 @@
       {
         "role": "Campaign Manager",
         "en": "Paid search will capture demand, while webinars will educate prospects.",
-        "zh": "付费搜索承接需求，线上研讨会负责教育潜客。"
+        "zh": "付费搜索承接需求，线上研讨会负责帮助潜在客户了解产品。"
       },
       {
         "role": "Channel Lead",
@@ -575,8 +575,8 @@
     ],
     "quiz": "How will the team maintain consistency?",
     "quizZh": "团队如何保持一致性？",
-    "answer": "Use a shared creative brief and weekly reviews.",
-    "answerZh": "使用统一创意简报并每周复盘。",
+    "answer": "Use a shared creative brief and review messaging weekly.",
+    "answerZh": "使用统一的创意简报，并每周复盘传播信息。",
     "wordIds": [
       "MKT204",
       "MKT011"
@@ -621,8 +621,8 @@
     ],
     "quiz": "What change is proposed?",
     "quizZh": "提出了什么修改？",
-    "answer": "Introduce the product benefit earlier while retaining the story.",
-    "answerZh": "保留故事，同时更早呈现产品利益点。",
+    "answer": "Show the product benefit earlier without removing the emotional story.",
+    "answerZh": "保留情感故事，同时更早展示产品利益点。",
     "wordIds": [
       "MKT222"
     ]
@@ -666,8 +666,8 @@
     ],
     "quiz": "What should be optimized first?",
     "quizZh": "应优先优化什么？",
-    "answer": "Exclude irrelevant searches and review landing page relevance.",
-    "answerZh": "排除无关搜索并检查落地页相关性。",
+    "answer": "Add negative keywords, tighten targeting and check landing pages against search intent.",
+    "answerZh": "添加否定关键词、收紧定向，并检查落地页是否符合搜索意图。",
     "wordIds": [
       "MKT230",
       "MKT010",
@@ -714,8 +714,8 @@
     ],
     "quiz": "Why consider a different channel mix?",
     "quizZh": "为何考虑不同渠道组合？",
-    "answer": "To increase incremental reach rather than duplicate exposure.",
-    "answerZh": "为了增加增量触达，而不是重复曝光。",
+    "answer": "To reach additional people rather than mainly increasing exposure frequency among the same audience.",
+    "answerZh": "为了触达更多新增受众，而非主要增加同一受众的曝光频次。",
     "wordIds": [
       "MKT268",
       "MKT258",
@@ -731,7 +731,7 @@
       {
         "role": "Social Media Manager",
         "en": "Our educational posts receive more saves than promotional posts.",
-        "zh": "教育类帖子比促销帖子获得更多收藏。"
+        "zh": "知识科普类帖子比促销帖子获得更多收藏。"
       },
       {
         "role": "Community Manager",
@@ -761,8 +761,8 @@
     ],
     "quiz": "What content should the team create?",
     "quizZh": "团队应该制作什么内容？",
-    "answer": "Tutorials addressing recurring product questions.",
-    "answerZh": "解答常见产品问题的教程。",
+    "answer": "A weekly tutorial series answering recurring product questions.",
+    "answerZh": "每周推出解答常见产品使用问题的教程。",
     "wordIds": [
       "MKT302",
       "MKT256"
@@ -807,8 +807,8 @@
     ],
     "quiz": "Which rights must be negotiated separately?",
     "quizZh": "哪些权利需要单独协商？",
-    "answer": "Thirty days of paid advertising usage rights in the domestic market.",
-    "answerZh": "国内市场三十天的付费广告使用权。",
+    "answer": "Paid advertising usage rights for thirty days in the domestic market, without automatic renewal.",
+    "answerZh": "国内市场为期三十天的付费广告使用权，不自动续期。",
     "wordIds": [
       "MKT363"
     ]
@@ -852,8 +852,8 @@
     ],
     "quiz": "How can content better support demand generation?",
     "quizZh": "内容如何更好地支持需求开发？",
-    "answer": "Create comparison guides and case studies for later buying stages.",
-    "answerZh": "为较后购买阶段制作对比指南和客户案例。",
+    "answer": "Create comparison guides and case studies for buyers evaluating solutions.",
+    "answerZh": "为正在比较解决方案的买家制作对比指南和客户案例。",
     "wordIds": [
       "MKT326"
     ]
@@ -897,8 +897,8 @@
     ],
     "quiz": "Why not declare a winner now?",
     "quizZh": "为什么现在不宣布胜出版本？",
-    "answer": "The planned sample size has not been reached.",
-    "answerZh": "尚未达到计划样本量。",
+    "answer": "The planned sample size has not yet been reached.",
+    "answerZh": "尚未达到预定样本量。",
     "wordIds": [
       "MKT009",
       "MKT010",
@@ -945,8 +945,8 @@
     ],
     "quiz": "What should be budgeted separately?",
     "quizZh": "什么费用应单独列预算？",
-    "answer": "Production costs.",
-    "answerZh": "制作费用。",
+    "answer": "Production costs should be budgeted separately.",
+    "answerZh": "制作费用应单独列入预算。",
     "wordIds": [
       "MKT203",
       "MKT204",
@@ -992,8 +992,8 @@
     ],
     "quiz": "What condition is attached to the discount?",
     "quizZh": "折扣附带什么条件？",
-    "answer": "A confirmed annual order volume.",
-    "answerZh": "确认年度采购量。",
+    "answer": "The discount depends on confirmation of annual order volume.",
+    "answerZh": "折扣以确认年度采购量为前提。",
     "wordIds": [
       "MKT576",
       "MKT577"
@@ -1008,7 +1008,7 @@
       {
         "role": "Trade Marketing Manager",
         "en": "Our sell-in is strong, but sell-through is below forecast.",
-        "zh": "我们的渠道进货表现不错，但终端售出低于预测。"
+        "zh": "我们的渠道进货表现不错，但终端销售低于预测。"
       },
       {
         "role": "Distributor",
@@ -1028,7 +1028,7 @@
       {
         "role": "Trade Marketing Manager",
         "en": "We'll link the next incentive payment to verified sell-through.",
-        "zh": "我们将把下一笔激励款与经核实的终端售出表现挂钩。"
+        "zh": "我们将把下一笔激励款与经核实的终端销售表现挂钩。"
       },
       {
         "role": "Distributor",
@@ -1038,8 +1038,8 @@
     ],
     "quiz": "What will determine the next incentive payment?",
     "quizZh": "下一笔激励款取决于什么？",
-    "answer": "Verified sell-through.",
-    "answerZh": "经核实的终端售出表现。",
+    "answer": "Verified sell-through will determine the next incentive payment.",
+    "answerZh": "下一笔激励款取决于经核实的终端销售表现。",
     "wordIds": [
       "MKT412",
       "MKT405",
@@ -1085,8 +1085,8 @@
     ],
     "quiz": "Which metric will assess the new layout?",
     "quizZh": "用什么指标评估新布局？",
-    "answer": "Units per transaction.",
-    "answerZh": "每笔交易的商品件数。",
+    "answer": "Units per transaction (UPT).",
+    "answerZh": "每笔交易的商品件数（UPT）。",
     "wordIds": [
       "MKT424",
       "MKT428",
@@ -1132,8 +1132,8 @@
     ],
     "quiz": "What should be monitored besides redemption?",
     "quizZh": "除兑换外还应监测什么？",
-    "answer": "Incremental purchases.",
-    "answerZh": "增量购买。",
+    "answer": "Incremental purchases alongside reward redemption.",
+    "answerZh": "除奖励兑换情况外，还应监测增量购买。",
     "wordIds": [
       "MKT484",
       "MKT481"
@@ -1178,8 +1178,8 @@
     ],
     "quiz": "Why keep a holdout group?",
     "quizZh": "为什么保留留出对照组？",
-    "answer": "To measure incremental response.",
-    "answerZh": "为了衡量增量响应。",
+    "answer": "To estimate the incremental response to the win-back offer.",
+    "answerZh": "为了估算挽回优惠带来的增量响应。",
     "wordIds": [
       "MKT504"
     ]
@@ -1223,8 +1223,8 @@
     ],
     "quiz": "How is activation defined in this experiment?",
     "quizZh": "本次实验如何定义激活？",
-    "answer": "Completing the first order within seven days.",
-    "answerZh": "七天内完成首笔订单。",
+    "answer": "A customer completes their first order within seven days.",
+    "answerZh": "客户在七天内完成首笔订单。",
     "wordIds": [
       "MKT445",
       "MKT443",
@@ -1254,13 +1254,13 @@
       },
       {
         "role": "Marketing Analyst",
-        "en": "We should apply the contribution margin before comparing it with campaign costs.",
-        "zh": "与活动成本比较前，我们应该先计算贡献毛利。"
+        "en": "We should apply the contribution margin ratio before comparing it with campaign costs.",
+        "zh": "与活动成本比较前，我们应该先计算边际贡献率。"
       },
       {
         "role": "Marketing Director",
-        "en": "At a fifty percent contribution margin, that gives us four hundred thousand dollars before campaign costs.",
-        "zh": "按百分之五十的贡献毛利率计算，扣除活动成本前为四十万美元。"
+        "en": "At a fifty percent contribution margin ratio, that gives us four hundred thousand dollars before campaign costs.",
+        "zh": "按百分之五十的边际贡献率计算，扣除活动成本前为四十万美元。"
       },
       {
         "role": "Marketing Analyst",
@@ -1270,8 +1270,8 @@
     ],
     "quiz": "What is the incremental contribution before campaign costs?",
     "quizZh": "扣除活动成本前的增量贡献毛利是多少？",
-    "answer": "Four hundred thousand dollars.",
-    "answerZh": "四十万美元。",
+    "answer": "Four hundred thousand dollars: $800,000 × 50%.",
+    "answerZh": "四十万美元：80万美元 × 50%。",
     "wordIds": [
       "MKT506",
       "MKT591"
@@ -1286,7 +1286,7 @@
       {
         "role": "Performance Marketer",
         "en": "Last-click attribution gives paid search most of the credit.",
-        "zh": "末次点击归因将大部分功劳归给付费搜索。"
+        "zh": "末次点击归因将大部分转化贡献分配给付费搜索。"
       },
       {
         "role": "Measurement Lead",
@@ -1316,8 +1316,8 @@
     ],
     "quiz": "Why is last-click attribution insufficient to establish causality?",
     "quizZh": "为什么末次点击归因不足以确定因果关系？",
-    "answer": "It assigns credit but does not establish which conversions were caused by advertising.",
-    "answerZh": "它分配归因功劳，但不能确定哪些转化由广告促成。",
+    "answer": "It allocates conversion credit to the last eligible click but does not establish causal impact.",
+    "answerZh": "它将转化贡献分配给最后一次符合条件的点击，但不能证明因果影响。",
     "wordIds": [
       "MKT503",
       "MKT016",
@@ -1365,8 +1365,8 @@
     ],
     "quiz": "What action will the analyst recommend?",
     "quizZh": "分析师将建议什么行动？",
-    "answer": "Reduce blanket discounts and test targeted offers.",
-    "answerZh": "减少普遍折扣并测试定向优惠。",
+    "answer": "Reduce blanket discounts and test targeted offers instead.",
+    "answerZh": "减少普遍折扣，改为测试定向优惠。",
     "wordIds": [
       "MKT597",
       "MKT592",
@@ -1392,7 +1392,7 @@
       {
         "role": "Expansion Director",
         "en": "Have we assessed the regulatory landscape and landed costs?",
-        "zh": "我们评估过监管环境和到岸总成本了吗？"
+        "zh": "我们评估过监管环境和到货总成本了吗？"
       },
       {
         "role": "Market Analyst",
@@ -1411,9 +1411,9 @@
       }
     ],
     "quiz": "Why is the team proposing a limited launch?",
-    "answer": "To validate demand before committing to a full rollout.",
+    "answer": "To validate demand in Malaysia before committing to a full rollout.",
     "quizZh": "团队为何建议小规模上市？",
-    "answerZh": "在全面推广前验证需求。",
+    "answerZh": "先在马来西亚验证需求，再决定是否全面推广。",
     "wordIds": [
       "MKT550"
     ]
@@ -1456,9 +1456,9 @@
       }
     ],
     "quiz": "What must remain consistent across markets?",
-    "answer": "The brand promise and visual identity.",
+    "answer": "The core brand promise and visual identity.",
     "quizZh": "哪些元素必须在各市场保持一致？",
-    "answerZh": "品牌承诺和视觉识别。",
+    "answerZh": "核心品牌承诺与视觉识别。",
     "wordIds": [
       "MKT526",
       "MKT527",
@@ -1484,12 +1484,12 @@
       {
         "role": "Localization Manager",
         "en": "Can you keep the product claims within the approved terminology?",
-        "zh": "你能确保产品宣称符合已批准的术语吗？"
+        "zh": "你能确保产品宣传表述符合已批准的术语吗？"
       },
       {
         "role": "Local Copywriter",
         "en": "Yes, I'll check the glossary and flag any claims that need legal review.",
-        "zh": "可以，我会核对术语表并标记需要法务审核的宣称。"
+        "zh": "可以，我会核对术语表并标记需要法务审核的宣传表述。"
       },
       {
         "role": "Localization Manager",
@@ -1503,9 +1503,9 @@
       }
     ],
     "quiz": "Why does the copywriter recommend transcreation?",
-    "answer": "To preserve emotional appeal while making the wording natural locally.",
+    "answer": "To preserve the emotional appeal while making the copy sound natural in the target market.",
     "quizZh": "文案人员为何建议创译？",
-    "answerZh": "在使表达符合当地语言习惯的同时保留情感诉求。",
+    "answerZh": "保留情感诉求，同时让文案符合目标市场的语言习惯。",
     "wordIds": [
       "MKT570",
       "MKT561"
@@ -1549,9 +1549,9 @@
       }
     ],
     "quiz": "How will the team encourage feedback?",
-    "answer": "By sharing proposals in advance and inviting written comments before sign-off.",
+    "answer": "Share proposals two days in advance and invite written feedback before sign-off.",
     "quizZh": "团队将如何鼓励反馈？",
-    "answerZh": "提前分享方案，并在确认前邀请书面反馈。",
+    "answerZh": "提前两天分享方案，并在最终确认前邀请书面反馈。",
     "wordIds": [
       "MKT532",
       "MKT573"
@@ -1595,9 +1595,9 @@
       }
     ],
     "quiz": "What condition applies to an early announcement?",
-    "answer": "The messaging must clearly state the availability date.",
+    "answer": "The announcement must clearly state when the product will be available.",
     "quizZh": "提前发布公告需要满足什么条件？",
-    "answerZh": "传播信息必须明确说明可用日期。",
+    "answerZh": "发布公告必须明确说明产品正式可用的日期。",
     "wordIds": [
       "MKT178"
     ]
@@ -1626,7 +1626,7 @@
       {
         "role": "Finance Director",
         "en": "Can we release the additional budget in stages?",
-        "zh": "我们能否分阶段释放额外预算？"
+        "zh": "我们能否分阶段拨付额外预算？"
       },
       {
         "role": "Marketing Director",
@@ -1640,9 +1640,9 @@
       }
     ],
     "quiz": "How will the additional budget be released?",
-    "answer": "In stages tied to agreed performance milestones.",
+    "answer": "Release the additional budget in stages linked to agreed performance milestones.",
     "quizZh": "额外预算将如何释放？",
-    "answerZh": "按约定的绩效里程碑分阶段释放。",
+    "answerZh": "按照约定的绩效里程碑分阶段拨付额外预算。",
     "wordIds": [
       "MKT576",
       "MKT579",
@@ -1659,7 +1659,7 @@
       {
         "role": "Chief Marketing Officer",
         "en": "Revenue exceeded our quarterly target, but contribution margin fell.",
-        "zh": "收入超过季度目标，但贡献毛利下降了。"
+        "zh": "收入超过季度目标，但边际贡献下降了。"
       },
       {
         "role": "Business Analyst",
@@ -1668,8 +1668,8 @@
       },
       {
         "role": "Chief Marketing Officer",
-        "en": "How much of the margin decline came from the discount?",
-        "zh": "毛利下降有多少来自折扣？"
+        "en": "How much of the decline in contribution margin came from the discount?",
+        "zh": "边际贡献下降有多少来自折扣？"
       },
       {
         "role": "Business Analyst",
@@ -1688,9 +1688,9 @@
       }
     ],
     "quiz": "Which effects is the analyst separating?",
-    "answer": "Price, volume and product mix effects.",
+    "answer": "The effects of price, sales volume and product mix.",
     "quizZh": "分析师正在拆分哪些影响？",
-    "answerZh": "价格、销量和产品组合的影响。",
+    "answerZh": "价格、销量及产品组合的影响。",
     "wordIds": [
       "MKT591",
       "MKT587"
@@ -1734,9 +1734,9 @@
       }
     ],
     "quiz": "When will the team reassess the allocation?",
-    "answer": "When incremental profit falls below the agreed threshold.",
+    "answer": "If incremental profit falls below the agreed threshold.",
     "quizZh": "团队何时重新评估分配方案？",
-    "answerZh": "当增量利润低于约定门槛时。",
+    "answerZh": "如果增量利润低于约定门槛。",
     "wordIds": [
       "MKT599",
       "MKT586"
@@ -1761,7 +1761,7 @@
       {
         "role": "Communications Director",
         "en": "Prepare a holding statement that acknowledges the concern without speculating.",
-        "zh": "准备一份承认相关顾虑但不作推测的初步声明。"
+        "zh": "准备一份回应相关顾虑但不作推测的初步回应声明。"
       },
       {
         "role": "Country PR Manager",
@@ -1780,9 +1780,9 @@
       }
     ],
     "quiz": "What must happen before publication?",
-    "answer": "Local approval of the translated statement.",
+    "answer": "Obtain local approval of the translated holding statement before publication.",
     "quizZh": "发布前必须完成什么？",
-    "answerZh": "取得当地对翻译声明的批准。",
+    "answerZh": "发布前取得当地团队对初步回应声明译文的批准。",
     "wordIds": [
       "MKT376",
       "MKT377",
@@ -1808,7 +1808,7 @@
       {
         "role": "Regional Marketing Director",
         "en": "Half is committed under existing contracts; the rest is discretionary.",
-        "zh": "一半已通过现有合同承诺，其余可酌情支配。"
+        "zh": "一半已根据现有合同形成支出承诺，其余可酌情支配。"
       },
       {
         "role": "Finance Partner",
@@ -1827,9 +1827,9 @@
       }
     ],
     "quiz": "Which part of the media budget can be considered for reallocation?",
-    "answer": "The discretionary portion that is not already committed.",
+    "answer": "The uncommitted, discretionary portion of the remaining media budget.",
     "quizZh": "哪部分媒介预算可以考虑重新分配？",
-    "answerZh": "尚未承诺支出的可酌情支配部分。",
+    "answerZh": "剩余媒介预算中尚未承诺支出、可酌情支配的部分。",
     "wordIds": [
       "MKT583",
       "MKT579",

@@ -1,0 +1,26 @@
+[
+  {
+    "before": "function validProgress(p){return p&&typeof p==='object'&&p.words&&typeof p.words==='object'&&!Array.isArray(p.words)&&p.days&&typeof p.days==='object'&&Number.isFinite(Number(p.xp||0))}",
+    "after": "function validProgress(p){const record=x=>x&&typeof x==='object'&&!Array.isArray(x);return !!(record(p)&&record(p.words)&&record(p.days)&&(p.xp==null||typeof p.xp==='number'&&Number.isFinite(p.xp))&&['wrong','roleplays'].every(k=>p[k]==null||record(p[k])))}"
+  },
+  {
+    "before": "!item||typeof item!=='object'",
+    "after": "!item||typeof item!=='object'||Array.isArray(item)"
+  },
+  {
+    "before": "seen:!!item.seen,favorite:!!item.favorite,due:Number.isFinite(+item.due)?+item.due:null,last:Number.isFinite(+item.last)?+item.last:null",
+    "after": "seen:item.seen===true,favorite:item.favorite===true,due:typeof item.due==='number'&&Number.isFinite(item.due)?item.due:null,last:typeof item.last==='number'&&Number.isFinite(item.last)?item.last:null"
+  },
+  {
+    "before": "let bytes=b64ToBytes(c.slice(zipped?8:9));",
+    "after": "if(c.length>533350)throw Error('迁移码过大');let bytes=b64ToBytes(c.slice(zipped?8:9));"
+  },
+  {
+    "before": "let ds=new DecompressionStream('gzip');let writer=ds.writable.getWriter();let result=new Response(ds.readable).arrayBuffer();await writer.write(bytes);await writer.close();bytes=new Uint8Array(await result);",
+    "after": "let reader=new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip')).getReader();let chunks=[],total=0;try{while(true){let {done,value}=await reader.read();if(done)break;total+=value.byteLength;if(total>400000){await reader.cancel();throw Error('解压后的迁移码过大')}chunks.push(value)}}finally{reader.releaseLock()}bytes=new Uint8Array(total);let offset=0;for(const chunk of chunks){bytes.set(chunk,offset);offset+=chunk.byteLength;}"
+  },
+  {
+    "before": "rate:STORE.rate,quizSource:STORE.quizSource,v15SpeedMigration:true",
+    "after": "rate:STORE.rate,accent:STORE.accent,quizSource:STORE.quizSource,v15SpeedMigration:true"
+  }
+]

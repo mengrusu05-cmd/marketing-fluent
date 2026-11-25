@@ -1,0 +1,1530 @@
+[
+  {
+    "id": "MKT161",
+    "before": {
+      "id": "MKT161",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Messaging framework",
+      "zh": "传播信息框架",
+      "definition": "组织核心信息、支撑理由及受众表达的结构。",
+      "example": "The team will develop a messaging framework before briefing the agency.",
+      "exampleZh": "团队将在向代理商简报前制定传播信息框架。",
+      "collocation": "develop a messaging framework",
+      "collocationZh": "制定传播信息框架",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we prepare so the agency understands our claims and supporting evidence?",
+          "zh": "为了让代理商理解我们的主张和佐证，应准备什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The team will develop a messaging framework before briefing the agency.",
+          "zh": "团队将在向代理商简报前制定传播信息框架。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 161,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmesɪdʒɪŋ ˈfreɪmwɜːk",
+      "ipaUS": "ˈmesɪdʒɪŋ ˈfreɪmwɜːk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Messaging framework",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT161",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Messaging framework",
+      "zh": "传播信息框架",
+      "definition": "组织核心传播主张、支撑证据及针对不同受众的表达方式的框架。",
+      "example": "The team will develop a messaging framework before briefing the agency.",
+      "exampleZh": "团队将在向营销代理机构介绍项目要求之前制定传播信息框架。",
+      "collocation": "develop a messaging framework",
+      "collocationZh": "制定传播信息框架",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we prepare so the agency understands our claims and supporting evidence?",
+          "zh": "为了让营销代理机构理解我们的主张和佐证，我们应准备什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The team will develop a messaging framework before briefing the agency.",
+          "zh": "团队将在向营销代理机构介绍项目要求之前制定传播信息框架。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 161,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmesɪdʒɪŋ ˈfreɪmwɜːk",
+      "ipaUS": "ˈmesɪdʒɪŋ ˈfreɪmwɝːk",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Messaging framework",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT162",
+    "before": {
+      "id": "MKT162",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Message hierarchy",
+      "zh": "信息层级",
+      "definition": "按重要程度组织核心与次要传播信息的顺序。",
+      "example": "Define the message hierarchy before designing the landing page.",
+      "exampleZh": "设计落地页前先明确信息层级。",
+      "collocation": "define the message hierarchy",
+      "collocationZh": "明确信息层级",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we decide which benefit appears first on the website?",
+          "zh": "如何决定网站首先展示哪项利益点？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Define the message hierarchy before designing the landing page.",
+          "zh": "设计落地页前先明确信息层级。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 162,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmesɪdʒ ˈhaɪərɑːki",
+      "ipaUS": "ˈmesɪdʒ ˈhaɪɚrɑːrki",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Message hierarchy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT162",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Message hierarchy",
+      "zh": "信息层级",
+      "definition": "按照受众需求与传播目标排列核心信息和辅助信息的优先顺序。",
+      "example": "Define the message hierarchy before designing the landing page.",
+      "exampleZh": "设计落地页前先明确信息层级。",
+      "collocation": "define the message hierarchy",
+      "collocationZh": "明确信息层级",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we decide which benefit appears first on the website?",
+          "zh": "如何决定网站首先展示哪项利益点？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Define the message hierarchy before designing the landing page.",
+          "zh": "设计落地页前先明确信息层级。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 162,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmesɪdʒ ˈhaɪərɑːki",
+      "ipaUS": "ˈmesɪdʒ ˈhaɪərɑːrki",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Message hierarchy",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT163",
+    "before": {
+      "id": "MKT163",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Proof point",
+      "zh": "佐证依据",
+      "definition": "支持营销主张的具体事实、数据或证据。",
+      "example": "Can we provide a proof point for the speed claim?",
+      "exampleZh": "我们能为速度主张提供佐证依据吗？",
+      "collocation": "provide a proof point",
+      "collocationZh": "提供佐证依据",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "The headline promises faster processing. How can we substantiate it?",
+          "zh": "标题承诺处理速度更快，如何提供佐证？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Can we provide a proof point for the speed claim?",
+          "zh": "我们能为速度主张提供佐证依据吗？"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 163,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpruːf ˈpɔɪnt",
+      "ipaUS": "ˈpruːf ˈpɔɪnt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Proof point",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT163",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Proof point",
+      "zh": "佐证依据",
+      "definition": "用于证实具体营销主张的事实、数据、测试结果或案例。",
+      "example": "Can we provide a proof point for the speed claim?",
+      "exampleZh": "我们能提供证据来支持处理速度方面的主张吗？",
+      "collocation": "provide a proof point",
+      "collocationZh": "提供佐证依据",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "The headline promises faster processing. How can we substantiate it?",
+          "zh": "标题承诺处理速度更快，如何提供佐证？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Can we provide a proof point for the speed claim?",
+          "zh": "我们能提供证据来支持处理速度方面的主张吗？"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 163,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈpruːf pɔɪnt",
+      "ipaUS": "ˈpruːf pɔɪnt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Proof point",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT164",
+    "before": {
+      "id": "MKT164",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Reason to believe",
+      "zh": "品牌主张的可信依据",
+      "definition": "使受众相信品牌或产品承诺的依据。",
+      "example": "Independent testing gives customers a reason to believe.",
+      "exampleZh": "独立测试为客户提供了品牌主张的可信依据。",
+      "collocation": "establish a reason to believe",
+      "collocationZh": "建立品牌主张的可信依据",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why should buyers trust our performance claims?",
+          "zh": "买家为什么应该相信我们的性能主张？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Independent testing gives customers a reason to believe.",
+          "zh": "独立测试为客户提供了品牌主张的可信依据。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 164,
+      "aliases": [
+        "信任理由"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈriːzən tə bɪˈliːv",
+      "ipaUS": "ˈriːzən tə bɪˈliːv",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Reason to believe",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT164",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Reason to believe",
+      "zh": "品牌主张的可信依据",
+      "definition": "使目标受众有理由相信品牌或产品价值主张的证据或可信理由。",
+      "example": "Independent testing gives customers a reason to believe.",
+      "exampleZh": "独立测试为客户相信我们的主张提供了依据。",
+      "collocation": "establish a reason to believe",
+      "collocationZh": "建立品牌主张的可信依据",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why should buyers trust our performance claims?",
+          "zh": "买家为什么应该相信我们的性能主张？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Independent testing gives customers a reason to believe.",
+          "zh": "独立测试为客户相信我们的主张提供了依据。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 164,
+      "aliases": [
+        "信任理由"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈriːzən tə bɪˈliːv",
+      "ipaUS": "ˈriːzən tə bɪˈliːv",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Reason to believe",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT165",
+    "before": {
+      "id": "MKT165",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Feature-benefit mapping",
+      "zh": "功能利益映射",
+      "definition": "将产品功能与客户实际获得的利益对应起来。",
+      "example": "Let's create a feature-benefit map for the sales team.",
+      "exampleZh": "我们为销售团队创建功能利益映射吧。",
+      "collocation": "create a feature-benefit map",
+      "collocationZh": "创建功能利益映射",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can sales explain why each technical capability matters to customers?",
+          "zh": "销售如何解释每项技术能力对客户的价值？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's create a feature-benefit map for the sales team.",
+          "zh": "我们为销售团队创建功能利益映射吧。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 165,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈfiːtʃəˈbenɪˌfɪt ˈmæpɪŋ",
+      "ipaUS": "ˈfiːtʃɚˈbenɪˌfɪt ˈmæpɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Feature-benefit mapping",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT165",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Feature-benefit mapping",
+      "zh": "功能利益映射",
+      "definition": "将产品功能逐项对应到客户能够获得的实际好处或价值。",
+      "example": "Let's create a feature-benefit map for the sales team.",
+      "exampleZh": "我们为销售团队制作一份功能与客户收益的对应表吧。",
+      "collocation": "create a feature-benefit map",
+      "collocationZh": "制作功能与客户收益对应表",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can sales explain why each technical capability matters to customers?",
+          "zh": "销售如何解释每项技术能力对客户的价值？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's create a feature-benefit map for the sales team.",
+          "zh": "我们为销售团队制作一份功能与客户收益的对应表吧。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 165,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈfiːtʃə ˈbenɪfɪt ˈmæpɪŋ",
+      "ipaUS": "ˈfiːtʃər ˈbenəfɪt ˈmæpɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Feature-benefit mapping",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT166",
+    "before": {
+      "id": "MKT166",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product differentiation",
+      "zh": "产品差异化",
+      "definition": "使产品相对竞争方案具有可识别价值差异的策略。",
+      "example": "The demo should highlight product differentiation rather than list every feature.",
+      "exampleZh": "演示应突出产品差异化而非罗列所有功能。",
+      "collocation": "highlight product differentiation",
+      "collocationZh": "突出产品差异化",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should the demonstration emphasize to distinguish us from competing products?",
+          "zh": "演示应突出什么才能与竞品形成差异？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The demo should highlight product differentiation rather than list every feature.",
+          "zh": "演示应突出产品差异化而非罗列所有功能。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 166,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌkt ˌdɪfəˌrenʃɪˈeɪʃən",
+      "ipaUS": "ˈprɑːdʌkt ˌdɪfɚˌrenʃɪˈeɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product differentiation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT166",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product differentiation",
+      "zh": "产品差异化",
+      "definition": "通过功能、体验、设计或其他属性使产品区别于竞争方案的过程或策略。",
+      "example": "The demo should highlight product differentiation rather than list every feature.",
+      "exampleZh": "演示应突出产品差异化而非罗列所有功能。",
+      "collocation": "highlight product differentiation",
+      "collocationZh": "突出产品差异化",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should the demonstration emphasize to distinguish us from competing products?",
+          "zh": "演示应突出什么，才能让我们的产品区别于竞品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The demo should highlight product differentiation rather than list every feature.",
+          "zh": "演示应突出产品差异化而非罗列所有功能。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 166,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt ˌdɪfərenʃiˈeɪʃən",
+      "ipaUS": "ˈprɑːdʌkt ˌdɪfərenʃiˈeɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Product differentiation",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT167",
+    "before": {
+      "id": "MKT167",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Competitive positioning",
+      "zh": "竞争定位",
+      "definition": "确定产品相对于竞争方案的市场位置。",
+      "example": "We must refine competitive positioning after the rival's launch.",
+      "exampleZh": "竞争对手上市后我们必须优化竞争定位。",
+      "collocation": "refine competitive positioning",
+      "collocationZh": "优化竞争定位",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "A competitor has released a cheaper alternative. What should we revisit?",
+          "zh": "竞争对手推出了更便宜的替代品，我们应该重新审视什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We must refine competitive positioning after the rival's launch.",
+          "zh": "竞争对手上市后我们必须优化竞争定位。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 167,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kəmˈpetɪˌtɪv pəˈzɪʃənɪŋ",
+      "ipaUS": "kəmˈpetɪˌtɪv pəˈzɪʃənɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Competitive positioning",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT167",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Competitive positioning",
+      "zh": "竞争定位",
+      "definition": "明确产品相对于竞争方案希望在目标客户心智中占据的位置。",
+      "example": "We must refine competitive positioning after the rival's launch.",
+      "exampleZh": "竞争对手推出新产品后，我们必须优化竞争定位。",
+      "collocation": "refine competitive positioning",
+      "collocationZh": "优化竞争定位",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "A competitor has released a cheaper alternative. What should we revisit?",
+          "zh": "竞争对手推出了更便宜的替代品，我们应该重新审视什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We must refine competitive positioning after the rival's launch.",
+          "zh": "竞争对手推出新产品后，我们必须优化竞争定位。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 167,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kəmˈpetɪtɪv pəˈzɪʃənɪŋ",
+      "ipaUS": "kəmˈpetətɪv pəˈzɪʃənɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Competitive positioning",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT168",
+    "before": {
+      "id": "MKT168",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Competitive intelligence",
+      "zh": "竞争情报",
+      "definition": "系统收集分析竞争环境信息以支持决策。",
+      "example": "We gather competitive intelligence from public sources.",
+      "exampleZh": "我们从公开来源收集竞争情报。",
+      "collocation": "gather competitive intelligence",
+      "collocationZh": "收集竞争情报",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we monitor rival offerings without accessing confidential information?",
+          "zh": "如何在不接触机密信息的情况下跟踪竞品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We gather competitive intelligence from public sources.",
+          "zh": "我们从公开来源收集竞争情报。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 168,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kəmˈpetɪˌtɪv ɪnˈtelɪdʒəns",
+      "ipaUS": "kəmˈpetɪˌtɪv ɪnˈtelɪdʒəns",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Competitive intelligence",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT168",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Competitive intelligence",
+      "zh": "竞争情报",
+      "definition": "以合法合规方式系统收集和分析竞争环境信息，为商业决策提供支持。",
+      "example": "We gather competitive intelligence from public sources.",
+      "exampleZh": "我们从公开来源收集竞争情报。",
+      "collocation": "gather competitive intelligence",
+      "collocationZh": "收集竞争情报",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we monitor rival offerings without accessing confidential information?",
+          "zh": "如何在不接触机密信息的情况下跟踪竞品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We gather competitive intelligence from public sources.",
+          "zh": "我们从公开来源收集竞争情报。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 168,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kəmˈpetɪtɪv ɪnˈtelɪdʒəns",
+      "ipaUS": "kəmˈpetətɪv ɪnˈtelədʒəns",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Competitive intelligence",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT169",
+    "before": {
+      "id": "MKT169",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Win-loss analysis",
+      "zh": "赢单输单分析",
+      "definition": "研究成交与失单原因以改善销售和产品策略。",
+      "example": "Let's conduct win-loss analysis with recent prospects.",
+      "exampleZh": "我们对近期潜在客户开展赢单输单分析吧。",
+      "collocation": "conduct win-loss analysis",
+      "collocationZh": "开展赢单输单分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we learn why prospects chose us or went with a competitor?",
+          "zh": "如何了解潜在客户选择我们或竞争对手的原因？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's conduct win-loss analysis with recent prospects.",
+          "zh": "我们对近期潜在客户开展赢单输单分析吧。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 169,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈwɪnˈlɒs əˈnæləˌsɪs",
+      "ipaUS": "ˈwɪnˈlɔs əˈnæləˌsɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Win-loss analysis",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT169",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Win-loss analysis",
+      "zh": "赢单输单分析",
+      "definition": "研究已赢得和已失去的销售机会及其决策原因，以改进销售和产品策略。",
+      "example": "Let’s conduct win-loss analysis by interviewing recent prospects who have made a purchase decision.",
+      "exampleZh": "我们来访谈近期已作出购买决定的潜在客户，开展赢单与失单分析吧。",
+      "collocation": "conduct win-loss analysis",
+      "collocationZh": "开展赢单输单分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we learn why prospects chose us or went with a competitor?",
+          "zh": "如何了解潜在客户选择我们或竞争对手的原因？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let’s conduct win-loss analysis by interviewing recent prospects who have made a purchase decision.",
+          "zh": "我们来访谈近期已作出购买决定的潜在客户，开展赢单与失单分析吧。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 169,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈwɪn lɒs əˈnæləsɪs",
+      "ipaUS": "ˈwɪn lɑːs əˈnæləsɪs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Win-loss analysis",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT170",
+    "before": {
+      "id": "MKT170",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Ideal customer profile",
+      "zh": "理想客户画像",
+      "definition": "描述最适合产品且具有商业价值的客户类型，常用于B2B。",
+      "example": "Sales and marketing must agree on the ideal customer profile.",
+      "exampleZh": "销售和市场团队必须就理想客户画像达成一致。",
+      "collocation": "define the ideal customer profile",
+      "collocationZh": "明确理想客户画像",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we prevent sales and marketing from pursuing different types of accounts?",
+          "zh": "如何避免销售和市场团队追逐不同类型的客户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Sales and marketing must agree on the ideal customer profile.",
+          "zh": "销售和市场团队必须就理想客户画像达成一致。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 170,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "aɪˈdiəl ˈkʌstəmə ˈprəʊfaɪl",
+      "ipaUS": "aɪˈdiəl ˈkʌstəmɚ ˈproʊfaɪl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Ideal customer profile",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT170",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Ideal customer profile",
+      "zh": "理想客户画像",
+      "definition": "描述与产品价值和商业目标高度匹配的客户类型；在B2B中通常指企业或账户特征。",
+      "example": "Sales and marketing must agree on the ideal customer profile.",
+      "exampleZh": "销售和市场团队必须就理想客户画像达成一致。",
+      "collocation": "define the ideal customer profile",
+      "collocationZh": "明确理想客户画像",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we prevent sales and marketing from pursuing different types of accounts?",
+          "zh": "如何避免销售和市场团队分别跟进不同类型的企业客户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Sales and marketing must agree on the ideal customer profile.",
+          "zh": "销售和市场团队必须就理想客户画像达成一致。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 170,
+      "aliases": [
+        "ICP"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "aɪˈdɪəl ˈkʌstəmə ˈprəʊfaɪl",
+      "ipaUS": "aɪˈdiːəl ˈkʌstəmər ˈproʊfaɪl",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Ideal customer profile",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT171",
+    "before": {
+      "id": "MKT171",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Use case",
+      "zh": "使用场景",
+      "definition": "产品解决特定用户任务或问题的具体情境。",
+      "example": "We should prioritize use cases with measurable business value.",
+      "exampleZh": "我们应优先考虑具有可衡量商业价值的使用场景。",
+      "collocation": "prioritize use cases",
+      "collocationZh": "确定使用场景优先级",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which customer workflows should we feature in the next demo?",
+          "zh": "下次演示应该重点展示哪些客户工作流程？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should prioritize use cases with measurable business value.",
+          "zh": "我们应优先考虑具有可衡量商业价值的使用场景。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 171,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈjuːs ˈkeɪs",
+      "ipaUS": "ˈjuːs ˈkeɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Use case",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT171",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Use case",
+      "zh": "使用场景",
+      "definition": "用户利用产品完成特定任务或解决具体问题的情境。",
+      "example": "We should prioritize use cases with measurable business value.",
+      "exampleZh": "我们应优先考虑具有可衡量商业价值的使用场景。",
+      "collocation": "prioritize use cases",
+      "collocationZh": "确定使用场景优先级",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which customer workflows should we feature in the next demo?",
+          "zh": "下次演示应该重点展示哪些客户工作流程？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should prioritize use cases with measurable business value.",
+          "zh": "我们应优先考虑具有可衡量商业价值的使用场景。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 171,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈjuːs keɪs",
+      "ipaUS": "ˈjuːs keɪs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Use case",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT172",
+    "before": {
+      "id": "MKT172",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product adoption",
+      "zh": "产品采用",
+      "definition": "目标用户开始并持续使用产品的过程。",
+      "example": "Onboarding workshops can drive product adoption.",
+      "exampleZh": "入门培训可以推动产品采用。",
+      "collocation": "drive product adoption",
+      "collocationZh": "推动产品采用",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Customers have purchased licenses but rarely use them. What could help?",
+          "zh": "客户购买了许可证却很少使用，如何改善？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Onboarding workshops can drive product adoption.",
+          "zh": "入门培训可以推动产品采用。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 172,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌkt əˈdɒpʃən",
+      "ipaUS": "ˈprɑːdʌkt əˈdɑːpʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product adoption",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT172",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product adoption",
+      "zh": "产品采用",
+      "definition": "目标用户开始接受并实际使用产品的过程；持续使用可作为采用程度的指标。",
+      "example": "Onboarding workshops can drive product adoption.",
+      "exampleZh": "入门培训可以推动产品采用。",
+      "collocation": "drive product adoption",
+      "collocationZh": "推动产品采用",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Customers have purchased licenses but rarely use them. What could help?",
+          "zh": "客户购买了许可证却很少使用，如何改善？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Onboarding workshops can drive product adoption.",
+          "zh": "入门培训可以推动产品采用。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 172,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt əˈdɒpʃən",
+      "ipaUS": "ˈprɑːdʌkt əˈdɑːpʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Product adoption",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT173",
+    "before": {
+      "id": "MKT173",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Time to value",
+      "zh": "价值实现时间",
+      "definition": "用户从开始使用到获得有意义价值所需时间。",
+      "example": "Prebuilt templates can shorten time to value.",
+      "exampleZh": "预制模板可以缩短价值实现时间。",
+      "collocation": "shorten time to value",
+      "collocationZh": "缩短价值实现时间",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can new users get meaningful results sooner?",
+          "zh": "如何让新用户更快获得有意义的成果？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Prebuilt templates can shorten time to value.",
+          "zh": "预制模板可以缩短价值实现时间。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 173,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtaɪm tə ˈvæljuː",
+      "ipaUS": "ˈtaɪm tə ˈvæljuː",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Time to value",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT173",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Time to value",
+      "zh": "价值实现时间",
+      "definition": "从约定起点（如注册或部署）到客户首次获得预先定义的有意义价值所需时间。",
+      "example": "Prebuilt templates can shorten time to value.",
+      "exampleZh": "预制模板可以缩短价值实现时间。",
+      "collocation": "shorten time to value",
+      "collocationZh": "缩短价值实现时间",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can new users get meaningful results sooner?",
+          "zh": "如何让新用户更快获得有意义的成果？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Prebuilt templates can shorten time to value.",
+          "zh": "预制模板可以缩短价值实现时间。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 173,
+      "aliases": [
+        "TTV"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "taɪm tə ˈvæljuː",
+      "ipaUS": "taɪm tə ˈvæljuː",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Time to value",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT174",
+    "before": {
+      "id": "MKT174",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product onboarding",
+      "zh": "产品引导",
+      "definition": "帮助新用户理解并开始有效使用产品的过程。",
+      "example": "We need to improve product onboarding for small teams.",
+      "exampleZh": "我们需要改善小团队的产品引导体验。",
+      "collocation": "improve product onboarding",
+      "collocationZh": "改善产品引导",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Small teams find the initial setup confusing. What should we improve?",
+          "zh": "小团队觉得初始设置复杂，我们应改进什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to improve product onboarding for small teams.",
+          "zh": "我们需要改善小团队的产品引导体验。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 174,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌkt ˈɒnbɔːdɪŋ",
+      "ipaUS": "ˈprɑːdʌkt ˈɑːnboːrdɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product onboarding",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT174",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product onboarding",
+      "zh": "产品引导",
+      "definition": "帮助新用户完成初始设置、理解产品并开始有效使用的过程。",
+      "example": "We need to improve product onboarding for small teams.",
+      "exampleZh": "我们需要改善面向小团队的新用户引导体验。",
+      "collocation": "improve product onboarding",
+      "collocationZh": "改善产品引导",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Small teams find the initial setup confusing. What should we improve?",
+          "zh": "小团队觉得初始设置复杂，我们应改进什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to improve product onboarding for small teams.",
+          "zh": "我们需要改善面向小团队的新用户引导体验。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 174,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt ˈɒnbɔːdɪŋ",
+      "ipaUS": "ˈprɑːdʌkt ˈɑːnbɔːrdɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Product onboarding",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT175",
+    "before": {
+      "id": "MKT175",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Activation milestone",
+      "zh": "激活里程碑",
+      "definition": "表明新用户完成关键价值体验的行为节点。",
+      "example": "Creating the first report is our activation milestone.",
+      "exampleZh": "创建第一份报告是我们的激活里程碑。",
+      "collocation": "define an activation milestone",
+      "collocationZh": "定义激活里程碑",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What user action tells us that a new account has reached its first meaningful outcome?",
+          "zh": "什么用户行为表明新账户取得了首个有意义的成果？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Creating the first report is our activation milestone.",
+          "zh": "创建第一份报告是我们的激活里程碑。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 175,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌæktɪˈveɪʃən ˈmaɪlstəʊn",
+      "ipaUS": "ˌæktɪˈveɪʃən ˈmaɪlstoʊn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Activation milestone",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT175",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Activation milestone",
+      "zh": "激活里程碑",
+      "definition": "用于判断新用户是否达到预设激活标准的关键行为节点，不一定等同于长期留存。",
+      "example": "Creating the first report is our activation milestone.",
+      "exampleZh": "创建第一份报告是我们的激活里程碑。",
+      "collocation": "define an activation milestone",
+      "collocationZh": "定义激活里程碑",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What user action tells us that a new account has reached its first meaningful outcome?",
+          "zh": "什么用户行为表明新账户取得了首个有意义的成果？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Creating the first report is our activation milestone.",
+          "zh": "创建第一份报告是我们的激活里程碑。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 175,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌæktɪˈveɪʃən ˈmaɪlstəʊn",
+      "ipaUS": "ˌæktɪˈveɪʃən ˈmaɪlstoʊn",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Activation milestone",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT176",
+    "before": {
+      "id": "MKT176",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Beta launch",
+      "zh": "测试版发布",
+      "definition": "向有限或公开用户发布测试版本以收集反馈。",
+      "example": "We plan a beta launch with ten design partners.",
+      "exampleZh": "我们计划与十家设计合作伙伴开展测试版发布。",
+      "collocation": "plan a beta launch",
+      "collocationZh": "规划测试版发布",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we collect feedback from selected partners before general availability?",
+          "zh": "全面开放前如何收集指定合作伙伴的反馈？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We plan a beta launch with ten design partners.",
+          "zh": "我们计划与十家设计合作伙伴开展测试版发布。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 176,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbiːtə ˈlɔːntʃ",
+      "ipaUS": "ˈbeɪtə ˈlɑːntʃ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Beta launch",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT176",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Beta launch",
+      "zh": "测试版发布",
+      "definition": "向选定用户或公众发布测试版本，以验证产品并收集反馈。",
+      "example": "We plan to launch the beta with ten design partners.",
+      "exampleZh": "我们计划邀请十家参与产品共创的合作伙伴体验测试版。",
+      "collocation": "plan a beta launch",
+      "collocationZh": "规划测试版发布",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we collect feedback from selected partners before general availability?",
+          "zh": "全面开放前如何收集指定合作伙伴的反馈？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We plan to launch the beta with ten design partners.",
+          "zh": "我们计划邀请十家参与产品共创的合作伙伴体验测试版。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 176,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈbiːtə lɔːntʃ",
+      "ipaUS": "ˈbeɪtə lɑːntʃ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Beta launch",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT177",
+    "before": {
+      "id": "MKT177",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Soft launch",
+      "zh": "试点上市",
+      "definition": "在有限市场或受众中先行推出产品以验证表现。",
+      "example": "We will conduct a soft launch in two cities.",
+      "exampleZh": "我们将在两个城市开展试点上市。",
+      "collocation": "conduct a soft launch",
+      "collocationZh": "开展试点上市",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can we test operational capacity before a nationwide release?",
+          "zh": "全国上市前能否测试运营承载能力？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will conduct a soft launch in two cities.",
+          "zh": "我们将在两个城市开展试点上市。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 177,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsɒft ˈlɔːntʃ",
+      "ipaUS": "ˈsɔft ˈlɑːntʃ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Soft launch",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT177",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Soft launch",
+      "zh": "试点上市",
+      "definition": "在有限市场或受众中先行推出产品，以验证市场表现和运营能力。",
+      "example": "We will conduct a soft launch in two cities.",
+      "exampleZh": "我们将在两个城市开展试点上市。",
+      "collocation": "conduct a soft launch",
+      "collocationZh": "开展试点上市",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can we test operational capacity before a nationwide release?",
+          "zh": "全国上市前能否测试运营承载能力？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will conduct a soft launch in two cities.",
+          "zh": "我们将在两个城市开展试点上市。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 177,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "sɒft lɔːntʃ",
+      "ipaUS": "sɑːft lɑːntʃ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Soft launch",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT178",
+    "before": {
+      "id": "MKT178",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Launch readiness",
+      "zh": "上市准备度",
+      "definition": "产品、销售、运营及营销等方面满足上市条件的程度。",
+      "example": "The steering committee will assess launch readiness on Friday.",
+      "exampleZh": "指导委员会将在周五评估上市准备度。",
+      "collocation": "assess launch readiness",
+      "collocationZh": "评估上市准备度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who will decide whether support, inventory and communications are ready?",
+          "zh": "谁来判断客服、库存和传播是否准备就绪？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The steering committee will assess launch readiness on Friday.",
+          "zh": "指导委员会将在周五评估上市准备度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 178,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlɔːntʃ ˈredinəs",
+      "ipaUS": "ˈlɑːntʃ ˈredɪnəs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Launch readiness",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT178",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Launch readiness",
+      "zh": "上市准备度",
+      "definition": "产品、销售、运营及营销等方面达到预先约定上市条件的程度。",
+      "example": "The steering committee will assess launch readiness on Friday.",
+      "exampleZh": "指导委员会将在周五评估上市准备度。",
+      "collocation": "assess launch readiness",
+      "collocationZh": "评估上市准备度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who will decide whether support, inventory and communications are ready?",
+          "zh": "谁来判断客服、库存和传播是否准备就绪？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The steering committee will assess launch readiness on Friday.",
+          "zh": "指导委员会将在周五评估上市准备度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 178,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "lɔːntʃ ˈredinəs",
+      "ipaUS": "lɑːntʃ ˈredinəs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Launch readiness",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT179",
+    "before": {
+      "id": "MKT179",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Launch embargo",
+      "zh": "上市信息禁发期",
+      "definition": "约定在指定时间前不得公开上市信息的安排。",
+      "example": "Media partners must respect the launch embargo.",
+      "exampleZh": "媒体合作伙伴必须遵守上市信息禁发期。",
+      "collocation": "respect the launch embargo",
+      "collocationZh": "遵守上市信息禁发期",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What restriction applies to journalists before the announcement?",
+          "zh": "正式发布前，记者需要遵守什么限制？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Media partners must respect the launch embargo.",
+          "zh": "媒体合作伙伴必须遵守上市信息禁发期。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 179,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlɔːntʃ emˈbɑːɡəʊ",
+      "ipaUS": "ˈlɑːntʃ emˈbɑːrɡoʊ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Launch embargo",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT179",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Launch embargo",
+      "zh": "上市信息禁发期",
+      "definition": "约定在指定时间之前不得公开产品发布信息的限制安排。",
+      "example": "Media partners must respect the launch embargo.",
+      "exampleZh": "媒体合作伙伴必须遵守上市信息禁发约定。",
+      "collocation": "respect the launch embargo",
+      "collocationZh": "遵守上市信息禁发约定",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What restriction applies to journalists before the announcement?",
+          "zh": "正式发布前，记者需要遵守什么限制？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Media partners must respect the launch embargo.",
+          "zh": "媒体合作伙伴必须遵守上市信息禁发约定。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 179,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "lɔːntʃ ɪmˈbɑːɡəʊ",
+      "ipaUS": "lɑːntʃ ɪmˈbɑːrɡoʊ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Launch embargo",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  },
+  {
+    "id": "MKT180",
+    "before": {
+      "id": "MKT180",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Launch calendar",
+      "zh": "上市日程表",
+      "definition": "协调上市相关任务与传播节点的时间计划。",
+      "example": "We maintain a launch calendar across regional teams.",
+      "exampleZh": "我们在各区域团队间维护上市日程表。",
+      "collocation": "maintain a launch calendar",
+      "collocationZh": "维护上市日程表",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we avoid overlapping product releases in different regions?",
+          "zh": "如何避免不同区域的产品发布时间冲突？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintain a launch calendar across regional teams.",
+          "zh": "我们在各区域团队间维护上市日程表。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 180,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlɔːntʃ ˈkælendə",
+      "ipaUS": "ˈlɑːntʃ ˈkælendɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Launch calendar",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT180",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Launch calendar",
+      "zh": "上市日程表",
+      "definition": "用于协调产品上市任务、负责人及关键传播时间节点的日程计划。",
+      "example": "We maintain a launch calendar across regional teams.",
+      "exampleZh": "我们为各区域团队维护一份共享的上市日程表。",
+      "collocation": "maintain a launch calendar",
+      "collocationZh": "维护上市日程表",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we avoid overlapping product releases in different regions?",
+          "zh": "如何避免不同区域的产品发布时间冲突？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintain a launch calendar across regional teams.",
+          "zh": "我们为各区域团队维护一份共享的上市日程表。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 180,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "lɔːntʃ ˈkælɪndə",
+      "ipaUS": "lɑːntʃ ˈkælɪndər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Launch calendar",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "status": "编辑复核；未独立词典核验"
+  }
+]

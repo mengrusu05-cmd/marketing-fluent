@@ -1,0 +1,461 @@
+{
+  "version": "1.0.61",
+  "changes": [
+    {
+      "id": "MKT006",
+      "before": {
+        "id": "MKT006",
+        "moduleId": "m2",
+        "module": "品牌管理",
+        "term": "Brand awareness",
+        "zh": "品牌知名度",
+        "definition": "目标受众识别或回忆品牌的程度。",
+        "example": "The campaign aims to increase brand awareness.",
+        "exampleZh": "本次活动旨在提高品牌知名度。",
+        "collocation": "increase brand awareness",
+        "collocationZh": "提高品牌知名度",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What is the main objective of this campaign?",
+            "zh": "这次营销活动的主要目标是什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The campaign aims to increase brand awareness.",
+            "zh": "本次活动旨在提高品牌知名度。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 6,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "brænd əˈweənəs",
+        "ipaUS": "brænd əˈwernəs",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Brand awareness",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT006",
+        "moduleId": "m2",
+        "module": "品牌管理",
+        "term": "Brand awareness",
+        "zh": "品牌知名度",
+        "definition": "目标受众识别或回忆品牌的程度。",
+        "example": "The campaign aims to increase brand awareness.",
+        "exampleZh": "本次活动旨在提高品牌知名度。",
+        "collocation": "increase brand awareness",
+        "collocationZh": "提高品牌知名度",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What is the main objective of this campaign?",
+            "zh": "这次营销活动的主要目标是什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The campaign aims to increase brand awareness.",
+            "zh": "本次活动旨在提高品牌知名度。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 6,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌbrænd əˈweə.nəs",
+        "ipaUS": "ˌbrænd əˈwer.nəs",
+        "ipaSource": "Cambridge Dictionary · 完整词条核验",
+        "speakTerm": "Brand awareness",
+        "ipaReview": "完整词条核验",
+        "ipaNote": "依据剑桥词典完整词组 IPA；英式括号 r 表示连读时可能发音。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT008",
+      "before": {
+        "id": "MKT008",
+        "moduleId": "m2",
+        "module": "品牌管理",
+        "term": "Brand identity",
+        "zh": "品牌识别体系",
+        "definition": "品牌通过名称、视觉和语言等传达的身份特征。",
+        "example": "The design team will develop a new brand identity.",
+        "exampleZh": "设计团队将建立新的品牌识别体系。",
+        "collocation": "develop a brand identity",
+        "collocationZh": "建立品牌识别体系",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Who will develop our new brand identity?",
+            "zh": "谁负责建立新的品牌识别体系？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The design team will develop a new brand identity.",
+            "zh": "设计团队将建立新的品牌识别体系。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 8,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "brænd aɪˈdentəti",
+        "ipaUS": "brænd aɪˈdentəti",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Brand identity",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT008",
+        "moduleId": "m2",
+        "module": "品牌管理",
+        "term": "Brand identity",
+        "zh": "品牌识别体系",
+        "definition": "品牌通过名称、视觉和语言等传达的身份特征。",
+        "example": "The design team will develop a new brand identity.",
+        "exampleZh": "设计团队将建立新的品牌识别体系。",
+        "collocation": "develop a brand identity",
+        "collocationZh": "建立品牌识别体系",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Who will develop our new brand identity?",
+            "zh": "谁负责建立新的品牌识别体系？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The design team will develop a new brand identity.",
+            "zh": "设计团队将建立新的品牌识别体系。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 8,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌbrænd aɪˈden.tə.ti",
+        "ipaUS": "ˈbrænd aɪˌden.t̬ə.t̬i",
+        "ipaSource": "Cambridge Dictionary · 完整词条核验",
+        "speakTerm": "Brand identity",
+        "ipaReview": "完整词条核验",
+        "ipaNote": "依据剑桥词典完整词组 IPA；英式括号 r 表示连读时可能发音。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT010",
+      "before": {
+        "id": "MKT010",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "Landing page",
+        "zh": "落地页",
+        "definition": "用户点击营销链接后进入的目标页面。",
+        "example": "We should optimize the landing page for mobile users.",
+        "exampleZh": "我们应针对移动端用户优化落地页。",
+        "collocation": "optimize the landing page",
+        "collocationZh": "优化落地页",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Most of our traffic comes from phones. What should we improve first?",
+            "zh": "大部分流量来自手机。我们应该先改善什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We should optimize the landing page for mobile users.",
+            "zh": "我们应针对移动端用户优化落地页。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 10,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈlændɪŋ peɪdʒ",
+        "ipaUS": "ˈlændɪŋ peɪdʒ",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Landing page",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT010",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "Landing page",
+        "zh": "落地页",
+        "definition": "用户点击营销链接后进入的目标页面。",
+        "example": "We should optimize the landing page for mobile users.",
+        "exampleZh": "我们应针对移动端用户优化落地页。",
+        "collocation": "optimize the landing page",
+        "collocationZh": "优化落地页",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Most of our traffic comes from phones. What should we improve first?",
+            "zh": "大部分流量来自手机。我们应该先改善什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We should optimize the landing page for mobile users.",
+            "zh": "我们应针对移动端用户优化落地页。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 10,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈlæn.dɪŋ ˌpeɪdʒ",
+        "ipaUS": "ˈlæn.dɪŋ ˌpeɪdʒ",
+        "ipaSource": "Cambridge Dictionary · 完整词条核验",
+        "speakTerm": "Landing page",
+        "ipaReview": "完整词条核验",
+        "ipaNote": "依据剑桥词典完整词组 IPA；英式括号 r 表示连读时可能发音。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT017",
+      "before": {
+        "id": "MKT017",
+        "moduleId": "m1",
+        "module": "市场战略",
+        "term": "Market share",
+        "zh": "市场份额",
+        "definition": "企业销售额或销量占相关市场总量的比例",
+        "example": "Our market share rose from 12% to 15% after the distribution expansion.",
+        "exampleZh": "扩大铺货后，我们的市场份额从12%升至15%。",
+        "collocation": "gain market share",
+        "collocationZh": "扩大市场份额",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to our share of category sales after we expanded distribution?",
+            "zh": "扩大铺货后，我们在品类销售中的份额有什么变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our market share rose from 12% to 15% after the distribution expansion.",
+            "zh": "扩大铺货后，我们的市场份额从12%升至15%。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 17,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmɑːkɪt ʃeə",
+        "ipaUS": "ˈmɑːrkɪt ʃer",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Market share",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT017",
+        "moduleId": "m1",
+        "module": "市场战略",
+        "term": "Market share",
+        "zh": "市场份额",
+        "definition": "企业销售额或销量占相关市场总量的比例",
+        "example": "Our market share rose from 12% to 15% after the distribution expansion.",
+        "exampleZh": "扩大铺货后，我们的市场份额从12%升至15%。",
+        "collocation": "gain market share",
+        "collocationZh": "扩大市场份额",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to our share of category sales after we expanded distribution?",
+            "zh": "扩大铺货后，我们在品类销售中的份额有什么变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our market share rose from 12% to 15% after the distribution expansion.",
+            "zh": "扩大铺货后，我们的市场份额从12%升至15%。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 17,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmɑː.kɪt ˌʃeə(r)",
+        "ipaUS": "ˈmɑːr.kɪt ˌʃer",
+        "ipaSource": "Cambridge Dictionary · 完整词条核验",
+        "speakTerm": "Market share",
+        "ipaReview": "完整词条核验",
+        "ipaNote": "依据剑桥词典完整词组 IPA；英式括号 r 表示连读时可能发音。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT066",
+      "before": {
+        "id": "MKT066",
+        "moduleId": "m2",
+        "module": "品牌管理",
+        "term": "Brand loyalty",
+        "zh": "品牌忠诚度",
+        "definition": "消费者对某品牌持续偏好、承诺或重复选择的程度。",
+        "example": "Reliable service can build brand loyalty without heavy discounts.",
+        "exampleZh": "可靠的服务可以在不依赖大幅折扣的情况下培养品牌忠诚度。",
+        "collocation": "build brand loyalty",
+        "collocationZh": "培养品牌忠诚度",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we encourage repeat purchases without relying on discounts?",
+            "zh": "如何在不依赖折扣的情况下促进复购？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Reliable service can build brand loyalty without heavy discounts.",
+            "zh": "可靠的服务可以在不依赖大幅折扣的情况下培养品牌忠诚度。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 66,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "brænd ˈlɔɪəlti",
+        "ipaUS": "brænd ˈlɔɪəlti",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Brand loyalty",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT066",
+        "moduleId": "m2",
+        "module": "品牌管理",
+        "term": "Brand loyalty",
+        "zh": "品牌忠诚度",
+        "definition": "消费者对某品牌持续偏好、承诺或重复选择的程度。",
+        "example": "Reliable service can build brand loyalty without heavy discounts.",
+        "exampleZh": "可靠的服务可以在不依赖大幅折扣的情况下培养品牌忠诚度。",
+        "collocation": "build brand loyalty",
+        "collocationZh": "培养品牌忠诚度",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we encourage repeat purchases without relying on discounts?",
+            "zh": "如何在不依赖折扣的情况下促进复购？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Reliable service can build brand loyalty without heavy discounts.",
+            "zh": "可靠的服务可以在不依赖大幅折扣的情况下培养品牌忠诚度。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 66,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈbrænd ˌlɔɪ.əl.ti",
+        "ipaUS": "ˈbrænd ˌlɔɪ.əl.t̬i",
+        "ipaSource": "Cambridge Dictionary · 完整词条核验",
+        "speakTerm": "Brand loyalty",
+        "ipaReview": "完整词条核验",
+        "ipaNote": "依据剑桥词典完整词组 IPA；英式括号 r 表示连读时可能发音。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT586",
+      "before": {
+        "id": "MKT586",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Executive summary",
+        "zh": "执行摘要",
+        "definition": "面向决策者简明概述关键发现、风险、结论及建议。",
+        "example": "The executive summary highlights the three biggest risks.",
+        "exampleZh": "执行摘要重点介绍了三项最大的风险。",
+        "collocation": "prepare an executive summary",
+        "collocationZh": "准备执行摘要",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Where can leadership find the main risks at a glance?",
+            "zh": "管理层在哪里可以快速了解主要风险？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The executive summary highlights the three biggest risks.",
+            "zh": "执行摘要重点介绍了三项最大的风险。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 586,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ɪɡˈzekjətɪv ˈsʌməri",
+        "ipaUS": "ɪɡˈzekjətɪv ˈsʌməri",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Executive summary",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT586",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Executive summary",
+        "zh": "执行摘要",
+        "definition": "面向决策者简明概述关键发现、风险、结论及建议。",
+        "example": "The executive summary highlights the three biggest risks.",
+        "exampleZh": "执行摘要重点介绍了三项最大的风险。",
+        "collocation": "prepare an executive summary",
+        "collocationZh": "准备执行摘要",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Where can leadership find the main risks at a glance?",
+            "zh": "管理层在哪里可以快速了解主要风险？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The executive summary highlights the three biggest risks.",
+            "zh": "执行摘要重点介绍了三项最大的风险。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 586,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ɪɡˌzek.jə.tɪv ˈsʌm.ə(r).i",
+        "ipaUS": "ɪɡˌzek.jə.t̬ɪv ˈsʌm.ɚ.i",
+        "ipaSource": "Cambridge Dictionary · 完整词条核验",
+        "speakTerm": "Executive summary",
+        "ipaReview": "完整词条核验",
+        "ipaNote": "依据剑桥词典完整词组 IPA；英式括号 r 表示连读时可能发音。朗读使用设备语音包。"
+      }
+    }
+  ],
+  "statusCounts": {
+    "partial_component_evidence": 95,
+    "editorial_only": 499,
+    "full_term_verified": 6
+  },
+  "uniqueComponents": 662
+}

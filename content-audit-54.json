@@ -1,0 +1,1718 @@
+[
+  {
+    "id": "MKT501",
+    "before": {
+      "id": "MKT501",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Marketing mix modeling",
+      "zh": "营销组合建模",
+      "definition": "利用汇总历史数据估计各营销投入对业务结果的贡献",
+      "example": "We built a marketing mix model to separate media effects from seasonality.",
+      "exampleZh": "我们建立营销组合模型以区分媒介效果与季节性影响。",
+      "collocation": "build a marketing mix model",
+      "collocationZh": "建立营销组合模型",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which marketing concept fits this situation? We built a marketing mix model to separate media effects from seasonality.",
+          "zh": "这段业务描述对应哪个营销概念？利用汇总历史数据估计各营销投入对业务结果的贡献"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We built a marketing mix model to separate media effects from seasonality.",
+          "zh": "我们建立营销组合模型以区分媒介效果与季节性影响。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 501,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmɑːkɪtɪŋ ˈmɪks ˈmɒdəlɪŋ",
+      "ipaUS": "ˈmɑːrkɪtɪŋ ˈmɪks ˈmɑːdəlɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Marketing mix modeling",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT501",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Marketing mix modeling",
+      "zh": "营销组合建模",
+      "definition": "利用汇总营销和业务数据估计营销投入与业务结果的关系；因果解释依赖模型假设。",
+      "example": "We built a marketing mix model to estimate media effects while accounting for seasonality.",
+      "exampleZh": "我们建立营销组合模型，在考虑季节性因素的同时估计媒介效果。",
+      "collocation": "build a marketing mix model",
+      "collocationZh": "建立营销组合模型",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we accounting for seasonal demand?",
+          "zh": "我们如何考虑季节性需求？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We built a marketing mix model to estimate media effects while accounting for seasonality.",
+          "zh": "我们建立营销组合模型，在考虑季节性因素的同时估计媒介效果。"
+        }
+      ],
+      "usage": "模型估计并不自动证明因果关系。",
+      "new": true,
+      "order": 501,
+      "aliases": [
+        "MMM",
+        "Marketing mix modelling"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmɑːkɪtɪŋ mɪks ˈmɒdəlɪŋ",
+      "ipaUS": "ˈmɑːrkɪtɪŋ mɪks ˈmɑːdəlɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Marketing mix modeling",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT502",
+    "before": {
+      "id": "MKT502",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Multi-touch attribution",
+      "zh": "多触点归因",
+      "definition": "将转化功劳分配给多个接触点的方法",
+      "example": "Multi-touch attribution assigns credit across the observed journey.",
+      "exampleZh": "多触点归因在可观测的旅程中分配转化功劳。",
+      "collocation": "compare multi-touch attribution models",
+      "collocationZh": "比较多触点归因模型",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ assigns credit across the observed journey.",
+          "zh": "补全职场表达：____在可观测的旅程中分配转化功劳。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Multi-touch attribution assigns credit across the observed journey.",
+          "zh": "多触点归因在可观测的旅程中分配转化功劳。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 502,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmʌltɪˈtʌtʃ ətrɪˈbjuːʃən",
+      "ipaUS": "ˈmʌltaɪˈtʌtʃ ətrɪˈbjuːʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Multi-touch attribution",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT502",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Multi-touch attribution",
+      "zh": "多触点归因",
+      "definition": "将转化贡献按规则或模型分配给多个可观测触点。",
+      "example": "Multi-touch attribution assigns credit across the observed journey.",
+      "exampleZh": "多触点归因在可观测的客户旅程中分配转化贡献。",
+      "collocation": "compare multi-touch attribution models",
+      "collocationZh": "比较多触点归因模型",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we credit channels earlier in the journey?",
+          "zh": "我们如何衡量客户旅程前期渠道的贡献？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Multi-touch attribution assigns credit across the observed journey.",
+          "zh": "多触点归因在可观测的客户旅程中分配转化贡献。"
+        }
+      ],
+      "usage": "归因贡献不等于因果增量。",
+      "new": true,
+      "order": 502,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌmʌlti tʌtʃ ˌætrɪˈbjuːʃən",
+      "ipaUS": "ˌmʌlti tʌtʃ ˌætrɪˈbjuːʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Multi-touch attribution",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT503",
+    "before": {
+      "id": "MKT503",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Last-click attribution",
+      "zh": "末次点击归因",
+      "definition": "将转化功劳分配给最后一次符合条件的点击",
+      "example": "Last-click attribution may undervalue awareness campaigns.",
+      "exampleZh": "末次点击归因可能低估认知类活动的价值。",
+      "collocation": "use last-click attribution",
+      "collocationZh": "使用末次点击归因",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ may undervalue awareness campaigns.",
+          "zh": "补全职场表达：____可能低估认知类活动的价值。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Last-click attribution may undervalue awareness campaigns.",
+          "zh": "末次点击归因可能低估认知类活动的价值。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 503,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlæstˈklɪk ətrɪˈbjuːʃən",
+      "ipaUS": "ˈlæstˈklɪk ətrɪˈbjuːʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Last-click attribution",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT503",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Last-click attribution",
+      "zh": "末次点击归因",
+      "definition": "将全部转化贡献分配给最后一次符合规则的点击。",
+      "example": "Last-click attribution may undervalue awareness campaigns.",
+      "exampleZh": "末次点击归因可能低估品牌认知活动的价值。",
+      "collocation": "use last-click attribution",
+      "collocationZh": "使用末次点击归因",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why might our awareness ads receive little credit?",
+          "zh": "为什么品牌认知广告获得的归因贡献可能很少？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Last-click attribution may undervalue awareness campaigns.",
+          "zh": "末次点击归因可能低估品牌认知活动的价值。"
+        }
+      ],
+      "usage": "具体点击资格取决于平台规则。",
+      "new": true,
+      "order": 503,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌlɑːst klɪk ˌætrɪˈbjuːʃən",
+      "ipaUS": "ˌlæst klɪk ˌætrɪˈbjuːʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Last-click attribution",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT504",
+    "before": {
+      "id": "MKT504",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Holdout group",
+      "zh": "留出对照组",
+      "definition": "不接受目标营销干预以估计增量效果的群体",
+      "example": "We maintained a holdout group for the email campaign.",
+      "exampleZh": "我们为邮件活动保留了留出对照组。",
+      "collocation": "maintain a holdout group",
+      "collocationZh": "保留留出对照组",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We maintained a ____ for the email campaign.",
+          "zh": "补全职场表达：我们为邮件活动保留了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintained a holdout group for the email campaign.",
+          "zh": "我们为邮件活动保留了留出对照组。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 504,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈhəʊldaʊt ˈɡruːp",
+      "ipaUS": "ˈhoʊldaʊt ˈɡruːp",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Holdout group",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT504",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Holdout group",
+      "zh": "留出对照组",
+      "definition": "不接受目标干预、用于估计反事实结果的对照群体。",
+      "example": "We maintained a holdout group for the email campaign.",
+      "exampleZh": "我们为邮件营销活动设置了留出对照组。",
+      "collocation": "maintain a holdout group",
+      "collocationZh": "保留对照组",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we estimate what would happen without the emails?",
+          "zh": "我们如何估计不发送邮件时的结果？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintained a holdout group for the email campaign.",
+          "zh": "我们为邮件营销活动设置了留出对照组。"
+        }
+      ],
+      "usage": "随机分配有助于降低选择偏差。",
+      "new": true,
+      "order": 504,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈhəʊldaʊt ɡruːp",
+      "ipaUS": "ˈhoʊldaʊt ɡruːp",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Holdout group",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT505",
+    "before": {
+      "id": "MKT505",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Geo experiment",
+      "zh": "地理区域实验",
+      "definition": "以地理区域为实验单位评估营销干预",
+      "example": "We ran a geo experiment across comparable cities.",
+      "exampleZh": "我们在可比城市开展了地理区域实验。",
+      "collocation": "run a geo experiment",
+      "collocationZh": "开展地理区域实验",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We ran a ____ across comparable cities.",
+          "zh": "补全职场表达：我们在可比城市开展了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We ran a geo experiment across comparable cities.",
+          "zh": "我们在可比城市开展了地理区域实验。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 505,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈdʒiːəʊ ekˈsperɪmənt",
+      "ipaUS": "ˈdʒiːoʊ ekˈsperɪmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Geo experiment",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT505",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Geo experiment",
+      "zh": "地理区域实验",
+      "definition": "以地理区域为实验单位，通过干预与对照比较估计营销效果。",
+      "example": "We ran a geo experiment across comparable cities.",
+      "exampleZh": "我们在可比城市开展了地理区域实验。",
+      "collocation": "run a geo experiment",
+      "collocationZh": "开展地理区域实验",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we test the regional campaign?",
+          "zh": "我们如何测试区域营销活动？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We ran a geo experiment across comparable cities.",
+          "zh": "我们在可比城市开展了地理区域实验。"
+        }
+      ],
+      "usage": "注意跨区域溢出及实验前趋势。",
+      "new": true,
+      "order": 505,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈdʒiːəʊ ɪkˈsperɪmənt",
+      "ipaUS": "ˈdʒiːoʊ ɪkˈsperəmənt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Geo experiment",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT506",
+    "before": {
+      "id": "MKT506",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Incremental revenue",
+      "zh": "增量收入",
+      "definition": "相对于未实施干预的反事实情形新增的收入",
+      "example": "Incremental revenue was lower than attributed revenue.",
+      "exampleZh": "增量收入低于归因收入。",
+      "collocation": "estimate incremental revenue",
+      "collocationZh": "估算增量收入",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ was lower than attributed revenue.",
+          "zh": "补全职场表达：____低于归因收入。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Incremental revenue was lower than attributed revenue.",
+          "zh": "增量收入低于归因收入。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 506,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌɪnkrɪˈmentəl ˈrevəˌnjuː",
+      "ipaUS": "ˌɪnkrɪˈmentəl ˈrevəˌnuː",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Incremental revenue",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT506",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Incremental revenue",
+      "zh": "增量收入",
+      "definition": "实际收入与未实施指定干预时的反事实收入之差。",
+      "example": "Incremental revenue was lower than attributed revenue.",
+      "exampleZh": "增量收入低于归因收入。",
+      "collocation": "estimate incremental revenue",
+      "collocationZh": "估算增量收入",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did the campaign generate as much revenue as attribution suggests?",
+          "zh": "活动实际创造的收入是否达到归因报告显示的水平？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Incremental revenue was lower than attributed revenue.",
+          "zh": "增量收入低于归因收入。"
+        }
+      ],
+      "usage": "增量也可能为零或负数。",
+      "new": true,
+      "order": 506,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌɪŋkrɪˈmentəl ˈrevənjuː",
+      "ipaUS": "ˌɪŋkrəˈmentəl ˈrevənuː",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Incremental revenue",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT507",
+    "before": {
+      "id": "MKT507",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Incremental ROAS",
+      "zh": "增量广告支出回报率",
+      "definition": "相对于反事实基准的增量收入除以对应广告支出。",
+      "example": "We calculated incremental ROAS using the experiment results.",
+      "exampleZh": "我们利用实验结果计算增量广告支出回报率。",
+      "collocation": "calculate incremental ROAS",
+      "collocationZh": "计算增量广告支出回报率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We calculated ____ using the experiment results.",
+          "zh": "补全职场表达：我们利用实验结果计算____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We calculated incremental ROAS using the experiment results.",
+          "zh": "我们利用实验结果计算增量广告支出回报率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 507,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌɪnkrɪˈmentəl ˌɑːr əʊ eɪ ˈes",
+      "ipaUS": "ˌɪnkrɪˈmentəl ˌɑr oʊ eɪ ˈes",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Incremental R O A S",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT507",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Incremental ROAS",
+      "zh": "增量广告支出回报率",
+      "definition": "指定广告干预带来的增量收入除以对应广告支出。",
+      "example": "We calculated incremental ROAS using the experiment results.",
+      "exampleZh": "我们利用实验结果计算增量广告支出回报率。",
+      "collocation": "calculate incremental ROAS",
+      "collocationZh": "计算增量广告支出回报率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we measure the causal return on ad spend?",
+          "zh": "我们如何衡量广告投入的因果回报？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We calculated incremental ROAS using the experiment results.",
+          "zh": "我们利用实验结果计算增量广告支出回报率。"
+        }
+      ],
+      "usage": "明确实验基准与支出范围；ROAS也常作为一个词朗读。",
+      "new": true,
+      "order": 507,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌɪŋkrɪˈmentəl ˌɑː əʊ eɪ ˈes",
+      "ipaUS": "ˌɪŋkrəˈmentəl ˌɑːr oʊ eɪ ˈes",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Incremental R O A S",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT508",
+    "before": {
+      "id": "MKT508",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Marginal ROAS",
+      "zh": "边际广告支出回报率",
+      "definition": "额外广告支出带来的增量收入除以该额外支出，反映下一单位投入的回报。",
+      "example": "Marginal ROAS declined as we increased spending.",
+      "exampleZh": "随着投入增加，边际广告支出回报率下降。",
+      "collocation": "estimate marginal ROAS",
+      "collocationZh": "估算边际广告支出回报率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ declined as we increased spending.",
+          "zh": "补全职场表达：随着投入增加，____下降。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Marginal ROAS declined as we increased spending.",
+          "zh": "随着投入增加，边际广告支出回报率下降。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 508,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmɑːdʒɪnəl ˌɑːr əʊ eɪ ˈes",
+      "ipaUS": "ˈmɑːrdʒɪnəl ˌɑr oʊ eɪ ˈes",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Marginal R O A S",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT508",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Marginal ROAS",
+      "zh": "边际广告支出回报率",
+      "definition": "额外广告支出带来的额外收入与额外支出之比。",
+      "example": "Marginal ROAS declined as we increased spending.",
+      "exampleZh": "随着投入增加，边际广告支出回报率下降。",
+      "collocation": "estimate marginal ROAS",
+      "collocationZh": "估算边际广告支出回报率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What happened to the return on additional spending?",
+          "zh": "额外投入的回报发生了什么变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Marginal ROAS declined as we increased spending.",
+          "zh": "随着投入增加，边际广告支出回报率下降。"
+        }
+      ],
+      "usage": "区别于平均ROAS；此处采用逐字母读法。",
+      "new": true,
+      "order": 508,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmɑːdʒɪnəl ˌɑː əʊ eɪ ˈes",
+      "ipaUS": "ˈmɑːrdʒɪnəl ˌɑːr oʊ eɪ ˈes",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Marginal R O A S",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT509",
+    "before": {
+      "id": "MKT509",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Diminishing returns",
+      "zh": "边际收益递减",
+      "definition": "投入增加时每单位额外投入产生的收益逐渐减少",
+      "example": "Our budget model accounts for diminishing returns.",
+      "exampleZh": "我们的预算模型考虑了边际收益递减。",
+      "collocation": "account for diminishing returns",
+      "collocationZh": "考虑边际收益递减",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Our budget model accounts for ____.",
+          "zh": "补全职场表达：我们的预算模型考虑了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our budget model accounts for diminishing returns.",
+          "zh": "我们的预算模型考虑了边际收益递减。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 509,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "dɪˈmɪnɪʃɪŋ rɪˈtɜːnz",
+      "ipaUS": "dɪˈmɪnɪʃɪŋ rɪˈtɜːnz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Diminishing returns",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT509",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Diminishing returns",
+      "zh": "边际收益递减",
+      "definition": "其他条件相近时，每增加一单位投入所产生的额外收益逐渐减少。",
+      "example": "Our budget model accounts for diminishing returns.",
+      "exampleZh": "我们的预算模型考虑了边际收益递减。",
+      "collocation": "account for diminishing returns",
+      "collocationZh": "考虑边际收益递减",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why not double the budget immediately?",
+          "zh": "为什么不立即将预算翻倍？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our budget model accounts for diminishing returns.",
+          "zh": "我们的预算模型考虑了边际收益递减。"
+        }
+      ],
+      "usage": "边际收益下降不代表总收益下降。",
+      "new": true,
+      "order": 509,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "dɪˈmɪnɪʃɪŋ rɪˈtɜːnz",
+      "ipaUS": "dɪˈmɪnɪʃɪŋ rɪˈtɝːnz",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Diminishing returns",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT510",
+    "before": {
+      "id": "MKT510",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Response curve",
+      "zh": "响应曲线",
+      "definition": "描述投入水平与预期结果之间关系的曲线",
+      "example": "The response curve suggests limited upside at current spend levels.",
+      "exampleZh": "响应曲线显示当前投入水平的增长空间有限。",
+      "collocation": "fit a response curve",
+      "collocationZh": "拟合响应曲线",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ suggests limited upside at current spend levels.",
+          "zh": "补全职场表达：____显示当前投入水平的增长空间有限。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The response curve suggests limited upside at current spend levels.",
+          "zh": "响应曲线显示当前投入水平的增长空间有限。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 510,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "rɪˈspɒns ˈkɜːv",
+      "ipaUS": "rɪˈspɑːns ˈkɜːv",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Response curve",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT510",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Response curve",
+      "zh": "响应曲线",
+      "definition": "描述投入水平与模型预期结果之间关系的曲线。",
+      "example": "The response curve suggests limited upside at current spend levels.",
+      "exampleZh": "响应曲线显示当前投入水平的增长空间有限。",
+      "collocation": "fit a response curve",
+      "collocationZh": "拟合响应曲线",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Is there much room for growth if we spend more?",
+          "zh": "增加投入还有很大的增长空间吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The response curve suggests limited upside at current spend levels.",
+          "zh": "响应曲线显示当前投入水平的增长空间有限。"
+        }
+      ],
+      "usage": "曲线外推存在不确定性。",
+      "new": true,
+      "order": 510,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "rɪˈspɒns kɜːv",
+      "ipaUS": "rɪˈspɑːns kɝːv",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Response curve",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT511",
+    "before": {
+      "id": "MKT511",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Adstock",
+      "zh": "广告存续效应",
+      "definition": "广告影响在投放结束后持续并逐渐衰减的建模概念",
+      "example": "We model adstock to capture delayed media effects.",
+      "exampleZh": "我们对广告存续效应建模以捕捉滞后影响。",
+      "collocation": "model adstock",
+      "collocationZh": "建模广告存续效应",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We model ____ to capture delayed media effects.",
+          "zh": "补全职场表达：我们对____建模以捕捉滞后影响。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We model adstock to capture delayed media effects.",
+          "zh": "我们对广告存续效应建模以捕捉滞后影响。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 511,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ədˈstɒk",
+      "ipaUS": "ədˈstɑːk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Adstock",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT511",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Adstock",
+      "zh": "广告存续效应",
+      "definition": "用于表示广告影响跨期延续及衰减的模型变换或概念。",
+      "example": "We model adstock to capture delayed media effects.",
+      "exampleZh": "我们对广告存续效应建模以捕捉滞后影响。",
+      "collocation": "model adstock",
+      "collocationZh": "对广告存续效应建模",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we account for effects after an ad has aired?",
+          "zh": "我们如何考虑广告播出后的持续影响？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We model adstock to capture delayed media effects.",
+          "zh": "我们对广告存续效应建模以捕捉滞后影响。"
+        }
+      ],
+      "usage": "衰减形式由模型设定，并非固定规律。",
+      "new": true,
+      "order": 511,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈædstɒk",
+      "ipaUS": "ˈædstɑːk",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Adstock",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT512",
+    "before": {
+      "id": "MKT512",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Baseline sales",
+      "zh": "基准销售额",
+      "definition": "在指定营销干预缺席时预计实现的销售额",
+      "example": "Holiday demand must be reflected in baseline sales.",
+      "exampleZh": "基准销售额必须反映节假日需求。",
+      "collocation": "estimate baseline sales",
+      "collocationZh": "估算基准销售额",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Holiday demand must be reflected in ____.",
+          "zh": "补全职场表达：____必须反映节假日需求。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Holiday demand must be reflected in baseline sales.",
+          "zh": "基准销售额必须反映节假日需求。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 512,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbeɪslaɪn ˈseɪlz",
+      "ipaUS": "ˈbeɪslaɪn ˈseɪlz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Baseline sales",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT512",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Baseline sales",
+      "zh": "基准销售额",
+      "definition": "在指定基准条件下预计实现的销售额，例如没有目标营销干预时的销售额。",
+      "example": "Baseline sales should account for holiday demand.",
+      "exampleZh": "基准销售额应考虑节假日需求。",
+      "collocation": "estimate baseline sales",
+      "collocationZh": "估算基准销售额",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Should seasonal demand be included in our baseline?",
+          "zh": "基准是否应包含季节性需求？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Baseline sales should account for holiday demand.",
+          "zh": "基准销售额应考虑节假日需求。"
+        }
+      ],
+      "usage": "明确基准情景，不一定排除所有营销活动。",
+      "new": true,
+      "order": 512,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈbeɪslaɪn seɪlz",
+      "ipaUS": "ˈbeɪslaɪn seɪlz",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Baseline sales",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT513",
+    "before": {
+      "id": "MKT513",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Cohort analysis",
+      "zh": "同期群分析",
+      "definition": "按共同起始时间或特征分组比较后续表现",
+      "example": "Cohort analysis revealed weaker retention among March buyers.",
+      "exampleZh": "同期群分析发现三月买家的留存较弱。",
+      "collocation": "perform cohort analysis",
+      "collocationZh": "开展同期群分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ revealed weaker retention among March buyers.",
+          "zh": "补全职场表达：____发现三月买家的留存较弱。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Cohort analysis revealed weaker retention among March buyers.",
+          "zh": "同期群分析发现三月买家的留存较弱。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 513,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkəʊhɔːt əˈnæləˌsɪs",
+      "ipaUS": "ˈkoʊhɔːrt əˈnæləˌsɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Cohort analysis",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT513",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Cohort analysis",
+      "zh": "同期群分析",
+      "definition": "按共同起始事件或特征分组，在可比观察窗口内比较后续表现。",
+      "example": "Cohort analysis revealed weaker retention among March buyers.",
+      "exampleZh": "同期群分析发现三月份购买的客户留存表现较弱。",
+      "collocation": "perform cohort analysis",
+      "collocationZh": "开展同期群分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which group showed weaker retention?",
+          "zh": "哪个客户群的留存表现较弱？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Cohort analysis revealed weaker retention among March buyers.",
+          "zh": "同期群分析发现三月份购买的客户留存表现较弱。"
+        }
+      ],
+      "usage": "比较时应对齐观察时长。",
+      "new": true,
+      "order": 513,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkəʊhɔːt əˈnæləsɪs",
+      "ipaUS": "ˈkoʊhɔːrt əˈnæləsɪs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Cohort analysis",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT514",
+    "before": {
+      "id": "MKT514",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Statistical significance",
+      "zh": "统计显著性",
+      "definition": "在预先设定的显著性水平下，统计检验结果达到拒绝零假设的标准；不代表效果具有商业意义。",
+      "example": "Statistical significance does not guarantee commercial relevance.",
+      "exampleZh": "统计显著性并不保证具有商业价值。",
+      "collocation": "test for statistical significance",
+      "collocationZh": "检验统计显著性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ does not guarantee commercial relevance.",
+          "zh": "补全职场表达：____并不保证具有商业价值。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Statistical significance does not guarantee commercial relevance.",
+          "zh": "统计显著性并不保证具有商业价值。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 514,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "stəˈtɪstɪkəl sɪɡˈnɪfɪkəns",
+      "ipaUS": "stəˈtɪstɪkəl sɪɡˈnɪfɪkəns",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Statistical significance",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT514",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Statistical significance",
+      "zh": "统计显著性",
+      "definition": "在统计检验假设成立时，结果达到预设拒绝零假设的标准。",
+      "example": "Statistical significance does not guarantee commercial relevance.",
+      "exampleZh": "统计显著并不意味着具有商业价值。",
+      "collocation": "test for statistical significance",
+      "collocationZh": "检验统计显著性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Is a statistically significant lift enough to justify rollout?",
+          "zh": "统计显著的提升足以支持全面推广吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Statistical significance does not guarantee commercial relevance.",
+          "zh": "统计显著并不意味着具有商业价值。"
+        }
+      ],
+      "usage": "不代表商业价值，也不是零假设为真的概率。",
+      "new": true,
+      "order": 514,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "stəˈtɪstɪkəl sɪɡˈnɪfɪkəns",
+      "ipaUS": "stəˈtɪstɪkəl sɪɡˈnɪfɪkəns",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Statistical significance",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT515",
+    "before": {
+      "id": "MKT515",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Statistical power",
+      "zh": "统计功效",
+      "definition": "在指定真实效应存在时检验拒绝零假设的概率",
+      "example": "We calculated statistical power before recruiting participants.",
+      "exampleZh": "我们在招募参与者前计算了统计功效。",
+      "collocation": "calculate statistical power",
+      "collocationZh": "计算统计功效",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We calculated ____ before recruiting participants.",
+          "zh": "补全职场表达：我们在招募参与者前计算了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We calculated statistical power before recruiting participants.",
+          "zh": "我们在招募参与者前计算了统计功效。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 515,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "stəˈtɪstɪkəl ˈpaʊə",
+      "ipaUS": "stəˈtɪstɪkəl ˈpaʊɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Statistical power",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT515",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Statistical power",
+      "zh": "统计功效",
+      "definition": "在指定备择假设及检验条件下，正确拒绝零假设的概率。",
+      "example": "We calculated statistical power before recruiting participants.",
+      "exampleZh": "我们在招募参与者前计算了统计功效。",
+      "collocation": "calculate statistical power",
+      "collocationZh": "计算统计功效",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we assess whether our study could detect the target effect?",
+          "zh": "我们如何评估研究能否检测到目标效应？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We calculated statistical power before recruiting participants.",
+          "zh": "我们在招募参与者前计算了统计功效。"
+        }
+      ],
+      "usage": "功效取决于效应大小、样本量、变异和显著性水平。",
+      "new": true,
+      "order": 515,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "stəˈtɪstɪkəl ˈpaʊə",
+      "ipaUS": "stəˈtɪstɪkəl ˈpaʊər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Statistical power",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT516",
+    "before": {
+      "id": "MKT516",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Control variable",
+      "zh": "控制变量",
+      "definition": "分析中用于控制其他影响因素的变量",
+      "example": "We included price and holidays as control variables.",
+      "exampleZh": "我们将价格和节假日纳入控制变量。",
+      "collocation": "include control variables",
+      "collocationZh": "纳入控制变量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We included price and holidays as ____.",
+          "zh": "补全职场表达：我们将价格和节假日纳入____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We included price and holidays as control variables.",
+          "zh": "我们将价格和节假日纳入控制变量。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 516,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kənˈtrəʊl ˈveərɪəbəl",
+      "ipaUS": "kənˈtroʊl ˈverɪəbəl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Control variable",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT516",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Control variable",
+      "zh": "控制变量",
+      "definition": "在研究设计或分析中保持不变或加以调整的变量。",
+      "example": "We included price and holidays as control variables.",
+      "exampleZh": "我们将价格和节假日因素作为控制变量纳入分析。",
+      "collocation": "include control variables",
+      "collocationZh": "纳入控制变量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we account for price changes and holidays?",
+          "zh": "我们如何考虑价格变化与节假日？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We included price and holidays as control variables.",
+          "zh": "我们将价格和节假日因素作为控制变量纳入分析。"
+        }
+      ],
+      "usage": "并非所有变量都适合控制；应避免不当控制中介或碰撞变量。",
+      "new": true,
+      "order": 516,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kənˈtrəʊl ˈveəriəbəl",
+      "ipaUS": "kənˈtroʊl ˈveriəbəl",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Control variable",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT517",
+    "before": {
+      "id": "MKT517",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Confounding factor",
+      "zh": "混杂因素",
+      "definition": "可能同时影响干预和结果并扭曲因果估计的因素",
+      "example": "A concurrent promotion was a potential confounding factor.",
+      "exampleZh": "同期促销是潜在混杂因素。",
+      "collocation": "identify confounding factors",
+      "collocationZh": "识别混杂因素",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: A concurrent promotion was a potential ____.",
+          "zh": "补全职场表达：同期促销是潜在____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A concurrent promotion was a potential confounding factor.",
+          "zh": "同期促销是潜在混杂因素。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 517,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kənˈfaʊndɪŋ ˈfæktə",
+      "ipaUS": "kənˈfaʊndɪŋ ˈfæktɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Confounding factor",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT517",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Confounding factor",
+      "zh": "混杂因素",
+      "definition": "可能同时影响干预分配和结果、导致因果估计偏差的因素。",
+      "example": "A concurrent promotion may have confounded the estimated ad effect.",
+      "exampleZh": "同期促销可能干扰了广告效果的估计。",
+      "collocation": "identify confounding factors",
+      "collocationZh": "识别混杂因素",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why should we be cautious about attributing the lift to ads?",
+          "zh": "为什么应谨慎地将增长归因于广告？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A concurrent promotion may have confounded the estimated ad effect.",
+          "zh": "同期促销可能干扰了广告效果的估计。"
+        }
+      ],
+      "usage": "同期事件只有在符合混杂条件时才是混杂因素。",
+      "new": true,
+      "order": 517,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kənˈfaʊndɪŋ ˈfæktə",
+      "ipaUS": "kənˈfaʊndɪŋ ˈfæktər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Confounding factor",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT518",
+    "before": {
+      "id": "MKT518",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Data granularity",
+      "zh": "数据粒度",
+      "definition": "数据记录所体现的细分程度",
+      "example": "Daily data granularity helps us detect short-lived spikes.",
+      "exampleZh": "日级数据粒度有助于发现短暂峰值。",
+      "collocation": "increase data granularity",
+      "collocationZh": "提高数据粒度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Daily ____ helps us detect short-lived spikes.",
+          "zh": "补全职场表达：日级____有助于发现短暂峰值。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Daily data granularity helps us detect short-lived spikes.",
+          "zh": "日级数据粒度有助于发现短暂峰值。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 518,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈdeɪtə ˌɡrænjʊˈlærɪti",
+      "ipaUS": "ˈdeɪtə ˌɡrænjʊˈlærɪti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Data granularity",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT518",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Data granularity",
+      "zh": "数据粒度",
+      "definition": "数据记录在时间、对象或其他维度上的细分程度。",
+      "example": "Daily data helps us detect short-lived spikes.",
+      "exampleZh": "每日数据有助于发现短暂的峰值。",
+      "collocation": "use more granular data",
+      "collocationZh": "使用更细粒度的数据",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why do we need daily rather than monthly figures?",
+          "zh": "为什么需要每日而非每月数据？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Daily data helps us detect short-lived spikes.",
+          "zh": "每日数据有助于发现短暂的峰值。"
+        }
+      ],
+      "usage": "更细粒度不必然意味着更高质量。",
+      "new": true,
+      "order": 518,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈdeɪtə ˌɡrænjʊˈlærəti",
+      "ipaUS": "ˈdeɪtə ˌɡrænjəˈlærəti",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Data granularity",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocation",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT519",
+    "before": {
+      "id": "MKT519",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Data reconciliation",
+      "zh": "数据核对",
+      "definition": "比较不同来源的数据并解释或解决差异",
+      "example": "Data reconciliation exposed duplicate order records.",
+      "exampleZh": "数据核对发现了重复订单记录。",
+      "collocation": "perform data reconciliation",
+      "collocationZh": "开展数据核对",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ exposed duplicate order records.",
+          "zh": "补全职场表达：____发现了重复订单记录。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Data reconciliation exposed duplicate order records.",
+          "zh": "数据核对发现了重复订单记录。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 519,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈdeɪtə ˌrekənˌsɪlɪˈeɪʃən",
+      "ipaUS": "ˈdeɪtɚ ˌrekənˌsɪlɪˈeɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Data reconciliation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT519",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Data reconciliation",
+      "zh": "数据核对",
+      "definition": "比较不同数据来源并解释或解决差异的过程。",
+      "example": "Data reconciliation exposed duplicate order records.",
+      "exampleZh": "数据核对发现了重复订单记录。",
+      "collocation": "perform data reconciliation",
+      "collocationZh": "开展数据核对",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we discover duplicate orders?",
+          "zh": "我们如何发现重复订单？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Data reconciliation exposed duplicate order records.",
+          "zh": "数据核对发现了重复订单记录。"
+        }
+      ],
+      "usage": "核对时应统一时间范围、口径及去重规则。",
+      "new": true,
+      "order": 519,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈdeɪtə ˌrekənsɪliˈeɪʃən",
+      "ipaUS": "ˈdeɪtə ˌrekənsɪliˈeɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Data reconciliation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  },
+  {
+    "id": "MKT520",
+    "before": {
+      "id": "MKT520",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Measurement framework",
+      "zh": "衡量框架",
+      "definition": "定义目标、指标、数据来源和评估方法的体系",
+      "example": "We established a measurement framework before launch.",
+      "exampleZh": "我们在上市前建立了衡量框架。",
+      "collocation": "establish a measurement framework",
+      "collocationZh": "建立衡量框架",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We established a ____ before launch.",
+          "zh": "补全职场表达：我们在上市前建立了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We established a measurement framework before launch.",
+          "zh": "我们在上市前建立了衡量框架。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 520,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmeʒəmənt ˈfreɪmwɜːk",
+      "ipaUS": "ˈmeʒɚmənt ˈfreɪmwɜːk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Measurement framework",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT520",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Measurement framework",
+      "zh": "衡量框架",
+      "definition": "明确业务目标、指标定义、数据来源及评估方法的体系。",
+      "example": "We established a measurement framework before launch.",
+      "exampleZh": "我们在上市前建立了衡量框架。",
+      "collocation": "establish a measurement framework",
+      "collocationZh": "建立衡量框架",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we agree on success criteria before launch?",
+          "zh": "上线前我们如何确定成功标准？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We established a measurement framework before launch.",
+          "zh": "我们在上市前建立了衡量框架。"
+        }
+      ],
+      "usage": "应明确指标负责人、统计周期和评估方法。",
+      "new": true,
+      "order": 520,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmeʒəmənt ˈfreɪmwɜːk",
+      "ipaUS": "ˈmeʒərmənt ˈfreɪmwɝːk",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Measurement framework",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource"
+    ],
+    "verification": "编辑校订，未独立核验词典"
+  }
+]

@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "MKT441",
+    "before": {
+      "id": "MKT441",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Growth loop",
+      "zh": "增长循环",
+      "definition": "产出可反过来驱动新一轮增长的机制",
+      "example": "Sharing invites helped us build a growth loop.",
+      "exampleZh": "分享邀请帮助我们构建了增长循环。",
+      "collocation": "build a growth loop",
+      "collocationZh": "构建增长循环",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Sharing invites helped us build a ____.",
+          "zh": "补全职场表达：分享邀请帮助我们构建了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Sharing invites helped us build a growth loop.",
+          "zh": "分享邀请帮助我们构建了增长循环。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 441,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡrəʊθ ˈluːp",
+      "ipaUS": "ˈɡroʊθ ˈluːp",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Growth loop",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT441",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Growth loop",
+      "zh": "增长循环",
+      "definition": "将一轮增长的部分结果作为下一轮增长的输入，形成可重复运行的机制。",
+      "example": "Invitations from existing users helped us build a growth loop.",
+      "exampleZh": "现有用户发出的邀请帮助我们构建了增长循环。",
+      "collocation": "build a growth loop",
+      "collocationZh": "构建增长循环",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can new users help us acquire more customers?",
+          "zh": "新用户如何帮助我们获取更多客户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Invitations from existing users helped us build a growth loop.",
+          "zh": "现有用户发出的邀请帮助我们构建了增长循环。"
+        }
+      ],
+      "usage": "循环不保证持续增长。",
+      "new": true,
+      "order": 441,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɡrəʊθ luːp",
+      "ipaUS": "ɡroʊθ luːp",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Growth loop",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "循环不保证持续增长。"
+  },
+  {
+    "id": "MKT442",
+    "before": {
+      "id": "MKT442",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Activation rate",
+      "zh": "激活率",
+      "definition": "新用户完成预定关键行为的比例",
+      "example": "Simpler onboarding increased our activation rate.",
+      "exampleZh": "更简洁的新手引导提高了激活率。",
+      "collocation": "increase activation rate",
+      "collocationZh": "提高激活率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Simpler onboarding increased our ____.",
+          "zh": "补全职场表达：更简洁的新手引导提高了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Simpler onboarding increased our activation rate.",
+          "zh": "更简洁的新手引导提高了激活率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 442,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌæktɪˈveɪʃən ˈreɪt",
+      "ipaUS": "ˌæktɪˈveɪʃən ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Activation rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT442",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Activation rate",
+      "zh": "激活率",
+      "definition": "指定用户群在规定时间内完成预设激活行为的比例。",
+      "example": "Simpler onboarding increased our activation rate.",
+      "exampleZh": "更简洁的新手引导提高了激活率。",
+      "collocation": "increase the activation rate",
+      "collocationZh": "提高激活率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What changed after we simplified onboarding?",
+          "zh": "简化新手引导后有什么变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Simpler onboarding increased our activation rate.",
+          "zh": "更简洁的新手引导提高了激活率。"
+        }
+      ],
+      "usage": "注明用户群、激活事件及时间窗口。",
+      "new": true,
+      "order": 442,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌæktɪˈveɪʃən reɪt",
+      "ipaUS": "ˌæktəˈveɪʃən reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Activation rate",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "注明用户群、激活事件及时间窗口。"
+  },
+  {
+    "id": "MKT443",
+    "before": {
+      "id": "MKT443",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Referral program",
+      "zh": "推荐计划",
+      "definition": "鼓励现有用户推荐新用户的机制",
+      "example": "We launched a referral program for paying customers.",
+      "exampleZh": "我们为付费客户推出了推荐计划。",
+      "collocation": "launch a referral program",
+      "collocationZh": "推出推荐计划",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We launched a ____ for paying customers.",
+          "zh": "补全职场表达：我们为付费客户推出了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We launched a referral program for paying customers.",
+          "zh": "我们为付费客户推出了推荐计划。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 443,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "rɪˈfɜːrəl ˈprəʊɡræm",
+      "ipaUS": "rɪˈfɜːrəl ˈproʊɡræm",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Referral program",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT443",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Referral program",
+      "zh": "推荐计划",
+      "definition": "鼓励现有用户推荐新用户的计划，可包含奖励。",
+      "example": "We launched a referral program for paying customers.",
+      "exampleZh": "我们为付费客户推出了推荐计划。",
+      "collocation": "launch a referral program",
+      "collocationZh": "推出推荐计划",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we encouraging customers to recommend us?",
+          "zh": "我们如何鼓励客户推荐我们？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We launched a referral program for paying customers.",
+          "zh": "我们为付费客户推出了推荐计划。"
+        }
+      ],
+      "usage": "英式拼写 referral programme。",
+      "new": true,
+      "order": 443,
+      "aliases": [
+        "Referral programme"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "rɪˈfɜːrəl ˈprəʊɡræm",
+      "ipaUS": "rɪˈfɝːəl ˈproʊɡræm",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Referral program",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "英式拼写 referral programme。"
+  },
+  {
+    "id": "MKT444",
+    "before": {
+      "id": "MKT444",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Viral coefficient",
+      "zh": "病毒传播系数",
+      "definition": "每位现有用户平均带来的新用户数量",
+      "example": "We estimated the viral coefficient using verified sign-ups.",
+      "exampleZh": "我们使用已验证的注册数据估算病毒传播系数。",
+      "collocation": "estimate the viral coefficient",
+      "collocationZh": "估算病毒传播系数",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We estimated the ____ using verified sign-ups.",
+          "zh": "补全职场表达：我们使用已验证的注册数据估算____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We estimated the viral coefficient using verified sign-ups.",
+          "zh": "我们使用已验证的注册数据估算病毒传播系数。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 444,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈvaɪərəl ˌkəʊɪˈfɪʃənt",
+      "ipaUS": "ˈvaɪɚrəl ˌkoʊɪˈfɪʃənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Viral coefficient",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT444",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Viral coefficient",
+      "zh": "病毒传播系数",
+      "definition": "每位现有用户通过传播平均带来的新用户数量。",
+      "example": "We estimated the viral coefficient using verified sign-ups.",
+      "exampleZh": "我们根据已验证的注册数据估算病毒传播系数。",
+      "collocation": "estimate the viral coefficient",
+      "collocationZh": "估算病毒传播系数",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we estimate the impact of invitations?",
+          "zh": "我们如何估算邀请带来的增长？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We estimated the viral coefficient using verified sign-ups.",
+          "zh": "我们根据已验证的注册数据估算病毒传播系数。"
+        }
+      ],
+      "usage": "简化模型：每位用户平均邀请数乘以邀请转化率；大于1不保证持续增长。",
+      "new": true,
+      "order": 444,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈvaɪrəl ˌkəʊɪˈfɪʃənt",
+      "ipaUS": "ˈvaɪrəl ˌkoʊɪˈfɪʃənt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Viral coefficient",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "简化模型：每位用户平均邀请数乘以邀请转化率；大于1不保证持续增长。"
+  },
+  {
+    "id": "MKT445",
+    "before": {
+      "id": "MKT445",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Growth experiment",
+      "zh": "增长实验",
+      "definition": "用于验证增长假设的受控测试",
+      "example": "We prioritize growth experiments by expected impact.",
+      "exampleZh": "我们按预期影响确定增长实验优先级。",
+      "collocation": "prioritize growth experiments",
+      "collocationZh": "确定增长实验优先级",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We prioritize ____ by expected impact.",
+          "zh": "补全职场表达：我们按预期影响确定____优先级。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We prioritize growth experiments by expected impact.",
+          "zh": "我们按预期影响确定增长实验优先级。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 445,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡrəʊθ ekˈsperɪmənt",
+      "ipaUS": "ˈɡroʊθ ekˈsperɪmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Growth experiment",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT445",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Growth experiment",
+      "zh": "增长实验",
+      "definition": "用于检验增长假设的系统性测试。",
+      "example": "We prioritize growth experiments by expected impact.",
+      "exampleZh": "我们根据预期影响确定增长实验的优先级。",
+      "collocation": "prioritize growth experiments",
+      "collocationZh": "确定增长实验优先级",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we decide which tests to run first?",
+          "zh": "我们如何决定优先开展哪些测试？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We prioritize growth experiments by expected impact.",
+          "zh": "我们根据预期影响确定增长实验的优先级。"
+        }
+      ],
+      "usage": "因果推断需要合适的实验设计。",
+      "new": true,
+      "order": 445,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɡrəʊθ ɪkˈsperɪmənt",
+      "ipaUS": "ɡroʊθ ɪkˈsperəmənt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Growth experiment",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "因果推断需要合适的实验设计。"
+  },
+  {
+    "id": "MKT446",
+    "before": {
+      "id": "MKT446",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "North star metric",
+      "zh": "北极星指标",
+      "definition": "反映产品核心用户价值的主要增长指标",
+      "example": "Weekly completed orders became our north star metric.",
+      "exampleZh": "每周完成订单数成为我们的北极星指标。",
+      "collocation": "define a north star metric",
+      "collocationZh": "定义北极星指标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Weekly completed orders became our ____.",
+          "zh": "补全职场表达：每周完成订单数成为我们的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Weekly completed orders became our north star metric.",
+          "zh": "每周完成订单数成为我们的北极星指标。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 446,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈnɔːθ ˈstɑː ˈmetrɪk",
+      "ipaUS": "ˈnɔːrθ ˈstɑːr ˈmetrɪk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "North star metric",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT446",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "North star metric",
+      "zh": "北极星指标",
+      "definition": "反映产品持续为用户创造核心价值的主要衡量指标。",
+      "example": "Weekly completed orders became our North Star metric.",
+      "exampleZh": "每周完成订单数成为我们的北极星指标。",
+      "collocation": "define a North Star metric",
+      "collocationZh": "定义北极星指标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which metric did we choose to guide the team?",
+          "zh": "我们选择了哪个指标指导团队？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Weekly completed orders became our North Star metric.",
+          "zh": "每周完成订单数成为我们的北极星指标。"
+        }
+      ],
+      "usage": "不一定等同于收入指标。",
+      "new": true,
+      "order": 446,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "nɔːθ stɑː ˈmetrɪk",
+      "ipaUS": "nɔːrθ stɑːr ˈmetrɪk",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "North star metric",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "不一定等同于收入指标。"
+  },
+  {
+    "id": "MKT447",
+    "before": {
+      "id": "MKT447",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Time to first purchase",
+      "zh": "首次购买耗时",
+      "definition": "从注册或首次接触到首次购买的时间",
+      "example": "The welcome offer shortened time to first purchase.",
+      "exampleZh": "欢迎优惠缩短了首次购买耗时。",
+      "collocation": "shorten time to first purchase",
+      "collocationZh": "缩短首次购买耗时",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The welcome offer shortened ____.",
+          "zh": "补全职场表达：欢迎优惠缩短了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The welcome offer shortened time to first purchase.",
+          "zh": "欢迎优惠缩短了首次购买耗时。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 447,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtaɪm tə ˈfɜːst ˈpɜːtʃɪs",
+      "ipaUS": "ˈtaɪm tə ˈfɜːst ˈpɜːtʃɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Time to first purchase",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT447",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Time to first purchase",
+      "zh": "首次购买耗时",
+      "definition": "从指定起始事件到首次购买的时间间隔。",
+      "example": "The welcome offer shortened the time to first purchase.",
+      "exampleZh": "新客优惠缩短了首次购买耗时。",
+      "collocation": "shorten the time to first purchase",
+      "collocationZh": "缩短首次购买耗时",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What effect did the welcome offer have?",
+          "zh": "新客优惠产生了什么效果？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The welcome offer shortened the time to first purchase.",
+          "zh": "新客优惠缩短了首次购买耗时。"
+        }
+      ],
+      "usage": "注明起始事件及未购买用户的处理方式。",
+      "new": true,
+      "order": 447,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "taɪm tə fɜːst ˈpɜːtʃəs",
+      "ipaUS": "taɪm tə fɝːst ˈpɝːtʃəs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Time to first purchase",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "注明起始事件及未购买用户的处理方式。"
+  },
+  {
+    "id": "MKT448",
+    "before": {
+      "id": "MKT448",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Onboarding flow",
+      "zh": "新手引导流程",
+      "definition": "帮助新用户开始使用产品的步骤",
+      "example": "We simplified the onboarding flow to reduce abandonment.",
+      "exampleZh": "我们简化新手引导流程以减少中途退出。",
+      "collocation": "simplify the onboarding flow",
+      "collocationZh": "简化新手引导流程",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We simplified the ____ to reduce abandonment.",
+          "zh": "补全职场表达：我们简化____以减少中途退出。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We simplified the onboarding flow to reduce abandonment.",
+          "zh": "我们简化新手引导流程以减少中途退出。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 448,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɒnbɔːdɪŋ ˈfləʊ",
+      "ipaUS": "ˈɑːnboːrdɪŋ ˈfloʊ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Onboarding flow",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT448",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Onboarding flow",
+      "zh": "新手引导流程",
+      "definition": "帮助新用户开始使用产品并理解其价值的一系列步骤。",
+      "example": "We simplified the onboarding flow to reduce abandonment.",
+      "exampleZh": "我们简化了新手引导流程，以减少中途退出。",
+      "collocation": "simplify the onboarding flow",
+      "collocationZh": "简化新手引导流程",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we address early abandonment?",
+          "zh": "我们如何应对新用户早期退出？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We simplified the onboarding flow to reduce abandonment.",
+          "zh": "我们简化了新手引导流程，以减少中途退出。"
+        }
+      ],
+      "usage": "不局限于注册流程。",
+      "new": true,
+      "order": 448,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɒnbɔːdɪŋ fləʊ",
+      "ipaUS": "ˈɑːnbɔːrdɪŋ floʊ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Onboarding flow",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "不局限于注册流程。"
+  },
+  {
+    "id": "MKT449",
+    "before": {
+      "id": "MKT449",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Funnel leakage",
+      "zh": "漏斗流失",
+      "definition": "用户在转化流程各阶段的流失",
+      "example": "The team identified funnel leakage at payment.",
+      "exampleZh": "团队发现支付环节存在漏斗流失。",
+      "collocation": "identify funnel leakage",
+      "collocationZh": "识别漏斗流失",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The team identified ____ at payment.",
+          "zh": "补全职场表达：团队发现支付环节存在____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The team identified funnel leakage at payment.",
+          "zh": "团队发现支付环节存在漏斗流失。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 449,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈfʌnəl ˈliːkɪdʒ",
+      "ipaUS": "ˈfʌnəl ˈliːkɪdʒ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Funnel leakage",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT449",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Funnel leakage",
+      "zh": "漏斗流失",
+      "definition": "用户未能从转化漏斗某阶段进入后续阶段的现象。",
+      "example": "The team identified funnel leakage at the payment stage.",
+      "exampleZh": "团队发现支付环节存在用户流失。",
+      "collocation": "identify funnel leakage",
+      "collocationZh": "识别漏斗流失",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where are we losing potential buyers?",
+          "zh": "潜在买家在哪个环节流失？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The team identified funnel leakage at the payment stage.",
+          "zh": "团队发现支付环节存在用户流失。"
+        }
+      ],
+      "usage": "结合漏斗步骤和观察窗口分析。",
+      "new": true,
+      "order": 449,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈfʌnəl ˈliːkɪdʒ",
+      "ipaUS": "ˈfʌnəl ˈliːkɪdʒ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Funnel leakage",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "结合漏斗步骤和观察窗口分析。"
+  },
+  {
+    "id": "MKT450",
+    "before": {
+      "id": "MKT450",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Drop-off rate",
+      "zh": "流失率（步骤）",
+      "definition": "进入某步骤但未继续到下一步骤的用户比例",
+      "example": "Removing optional fields reduced the drop-off rate.",
+      "exampleZh": "删除非必填字段降低了步骤流失率。",
+      "collocation": "reduce the drop-off rate",
+      "collocationZh": "降低步骤流失率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Removing optional fields reduced the ____.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Removing optional fields reduced the drop-off rate.",
+          "zh": "删除非必填字段降低了步骤流失率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 450,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈdrɒˈpɒf ˈreɪt",
+      "ipaUS": "ˈdrɑːˈpɔf ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Drop-off rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT450",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Drop-off rate",
+      "zh": "步骤流失率",
+      "definition": "进入某步骤但在规定窗口内未进入下一步骤的用户比例。",
+      "example": "Removing optional fields reduced the drop-off rate.",
+      "exampleZh": "删除非必填字段降低了步骤流失率。",
+      "collocation": "reduce the drop-off rate",
+      "collocationZh": "降低步骤流失率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did removing optional fields help?",
+          "zh": "删除非必填字段有效果吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Removing optional fields reduced the drop-off rate.",
+          "zh": "删除非必填字段降低了步骤流失率。"
+        }
+      ],
+      "usage": "区别于客户流失率；drop off 为动词短语。",
+      "new": true,
+      "order": 450,
+      "aliases": [
+        "流失率（步骤）"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈdrɒpɒf reɪt",
+      "ipaUS": "ˈdrɑːpɔːf reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Drop-off rate",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "区别于客户流失率；drop off 为动词短语。"
+  },
+  {
+    "id": "MKT451",
+    "before": {
+      "id": "MKT451",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Acquisition channel",
+      "zh": "获客渠道",
+      "definition": "企业获取新客户的途径",
+      "example": "We compared acquisition channels by long-term customer value.",
+      "exampleZh": "我们按长期客户价值比较获客渠道。",
+      "collocation": "compare acquisition channels",
+      "collocationZh": "比较获客渠道",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We compared ____ by long-term customer value.",
+          "zh": "补全职场表达：我们按长期客户价值比较____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We compared acquisition channels by long-term customer value.",
+          "zh": "我们按长期客户价值比较获客渠道。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 451,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "əkwɪˈsɪʃən ˈtʃænəl",
+      "ipaUS": "əkwɪˈsɪʃən ˈtʃænəl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Acquisition channel",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT451",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Acquisition channel",
+      "zh": "获客渠道",
+      "definition": "企业获取新用户或客户的途径。",
+      "example": "We compared acquisition channels by long-term customer value.",
+      "exampleZh": "我们根据客户长期价值比较获客渠道。",
+      "collocation": "compare acquisition channels",
+      "collocationZh": "比较获客渠道",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we evaluate the different channels?",
+          "zh": "我们如何评估不同渠道？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We compared acquisition channels by long-term customer value.",
+          "zh": "我们根据客户长期价值比较获客渠道。"
+        }
+      ],
+      "usage": "比较时统一归因及客户价值口径。",
+      "new": true,
+      "order": 451,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌækwɪˈzɪʃən ˈtʃænəl",
+      "ipaUS": "ˌækwɪˈzɪʃən ˈtʃænəl",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Acquisition channel",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "比较时统一归因及客户价值口径。"
+  },
+  {
+    "id": "MKT452",
+    "before": {
+      "id": "MKT452",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Organic acquisition",
+      "zh": "自然获客",
+      "definition": "不依赖直接付费广告获取用户",
+      "example": "Educational articles helped scale organic acquisition.",
+      "exampleZh": "教育类文章帮助扩大自然获客。",
+      "collocation": "scale organic acquisition",
+      "collocationZh": "扩大自然获客",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Educational articles helped scale ____.",
+          "zh": "补全职场表达：教育类文章帮助扩大____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Educational articles helped scale organic acquisition.",
+          "zh": "教育类文章帮助扩大自然获客。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 452,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ɔːˈɡænɪk əkwɪˈsɪʃən",
+      "ipaUS": "ɔːrˈɡænɪk əkwɪˈsɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Organic acquisition",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT452",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Organic acquisition",
+      "zh": "自然获客",
+      "definition": "通过非直接付费推广途径获取新用户或客户。",
+      "example": "Educational articles helped scale organic acquisition.",
+      "exampleZh": "知识科普文章帮助扩大了自然获客规模。",
+      "collocation": "scale organic acquisition",
+      "collocationZh": "扩大自然获客规模",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What helped us attract users without buying ads?",
+          "zh": "什么帮助我们在不购买广告的情况下吸引用户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Educational articles helped scale organic acquisition.",
+          "zh": "知识科普文章帮助扩大了自然获客规模。"
+        }
+      ],
+      "usage": "自然获客并非零成本。",
+      "new": true,
+      "order": 452,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɔːˈɡænɪk ˌækwɪˈzɪʃən",
+      "ipaUS": "ɔːrˈɡænɪk ˌækwɪˈzɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Organic acquisition",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "自然获客并非零成本。"
+  },
+  {
+    "id": "MKT453",
+    "before": {
+      "id": "MKT453",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Paid acquisition",
+      "zh": "付费获客",
+      "definition": "通过付费推广获取新客户",
+      "example": "We optimized paid acquisition for qualified sign-ups.",
+      "exampleZh": "我们针对高质量注册优化付费获客。",
+      "collocation": "optimize paid acquisition",
+      "collocationZh": "优化付费获客",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We optimized ____ for qualified sign-ups.",
+          "zh": "补全职场表达：我们针对高质量注册优化____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We optimized paid acquisition for qualified sign-ups.",
+          "zh": "我们针对高质量注册优化付费获客。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 453,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpeɪd əkwɪˈsɪʃən",
+      "ipaUS": "ˈpeɪd əkwɪˈsɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Paid acquisition",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT453",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Paid acquisition",
+      "zh": "付费获客",
+      "definition": "通过付费推广获取新用户或客户。",
+      "example": "We optimized paid acquisition for qualified sign-ups.",
+      "exampleZh": "我们优化付费获客，以获得符合条件的注册用户。",
+      "collocation": "optimize paid acquisition",
+      "collocationZh": "优化付费获客",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What outcome did we optimize our ads for?",
+          "zh": "我们针对什么结果优化广告？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We optimized paid acquisition for qualified sign-ups.",
+          "zh": "我们优化付费获客，以获得符合条件的注册用户。"
+        }
+      ],
+      "usage": "注册用户不一定是付费客户。",
+      "new": true,
+      "order": 453,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "peɪd ˌækwɪˈzɪʃən",
+      "ipaUS": "peɪd ˌækwɪˈzɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Paid acquisition",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "注册用户不一定是付费客户。"
+  },
+  {
+    "id": "MKT454",
+    "before": {
+      "id": "MKT454",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Referral traffic",
+      "zh": "引荐流量",
+      "definition": "通过其他网站链接进入的访问流量",
+      "example": "Referral traffic from partner blogs converted well.",
+      "exampleZh": "合作伙伴博客的引荐流量转化表现良好。",
+      "collocation": "analyze referral traffic",
+      "collocationZh": "分析引荐流量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ from partner blogs converted well.",
+          "zh": "补全职场表达：合作伙伴博客的____转化表现良好。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Referral traffic from partner blogs converted well.",
+          "zh": "合作伙伴博客的引荐流量转化表现良好。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 454,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "rɪˈfɜːrəl ˈtræfɪk",
+      "ipaUS": "rɪˈfɜːrəl ˈtræfɪk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Referral traffic",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT454",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Referral traffic",
+      "zh": "引荐流量",
+      "definition": "通过外部网站链接进入且按分析规则归为引荐渠道的访问流量。",
+      "example": "Referral traffic from partner blogs converted well.",
+      "exampleZh": "来自合作伙伴博客的引荐流量转化表现良好。",
+      "collocation": "analyze referral traffic",
+      "collocationZh": "分析引荐流量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did traffic from partner blogs perform?",
+          "zh": "合作伙伴博客带来的流量表现如何？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Referral traffic from partner blogs converted well.",
+          "zh": "来自合作伙伴博客的引荐流量转化表现良好。"
+        }
+      ],
+      "usage": "具体归类取决于分析工具规则。",
+      "new": true,
+      "order": 454,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "rɪˈfɜːrəl ˈtræfɪk",
+      "ipaUS": "rɪˈfɝːəl ˈtræfɪk",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Referral traffic",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "具体归类取决于分析工具规则。"
+  },
+  {
+    "id": "MKT455",
+    "before": {
+      "id": "MKT455",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Invite conversion rate",
+      "zh": "邀请转化率",
+      "definition": "收到邀请的人中完成指定转化的比例",
+      "example": "We measure invite conversion rate after account verification.",
+      "exampleZh": "我们在账户验证后衡量邀请转化率。",
+      "collocation": "measure invite conversion rate",
+      "collocationZh": "衡量邀请转化率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We measure ____ after account verification.",
+          "zh": "补全职场表达：我们在账户验证后衡量____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We measure invite conversion rate after account verification.",
+          "zh": "我们在账户验证后衡量邀请转化率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 455,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ɪnˈvaɪt kənˈvɜːʃən ˈreɪt",
+      "ipaUS": "ɪnˈvaɪt kənˈvɜːʒən ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Invite conversion rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT455",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Invite conversion rate",
+      "zh": "邀请转化率",
+      "definition": "收到邀请的目标对象中在规定时间内完成指定转化的比例。",
+      "example": "We count verified accounts when calculating the invite conversion rate.",
+      "exampleZh": "计算邀请转化率时，我们将已验证账户计为转化。",
+      "collocation": "measure the invite conversion rate",
+      "collocationZh": "衡量邀请转化率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What counts as a successful invite conversion?",
+          "zh": "什么算作一次成功的邀请转化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We count verified accounts when calculating the invite conversion rate.",
+          "zh": "计算邀请转化率时，我们将已验证账户计为转化。"
+        }
+      ],
+      "usage": "invite 在此为名词；注明去重规则及分母。",
+      "new": true,
+      "order": 455,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɪnvaɪt kənˈvɜːʃən reɪt",
+      "ipaUS": "ˈɪnvaɪt kənˈvɝːʒən reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Invite conversion rate",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "invite 在此为名词；注明去重规则及分母。"
+  },
+  {
+    "id": "MKT456",
+    "before": {
+      "id": "MKT456",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Growth hypothesis",
+      "zh": "增长假设",
+      "definition": "关于某项行动如何影响增长的可验证预测",
+      "example": "The pilot will validate our growth hypothesis before rollout.",
+      "exampleZh": "试点将在全面推出前验证增长假设。",
+      "collocation": "validate a growth hypothesis",
+      "collocationZh": "验证增长假设",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The pilot will validate our ____ before rollout.",
+          "zh": "补全职场表达：试点将在全面推出前验证____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The pilot will validate our growth hypothesis before rollout.",
+          "zh": "试点将在全面推出前验证增长假设。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 456,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡrəʊθ haɪˈpɒθəˌsɪs",
+      "ipaUS": "ˈɡroʊθ haɪˈpɑːθəˌsɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Growth hypothesis",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT456",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Growth hypothesis",
+      "zh": "增长假设",
+      "definition": "关于某项行动如何影响增长指标的可检验预测。",
+      "example": "The pilot will test our growth hypothesis before a full rollout.",
+      "exampleZh": "我们将在全面推广前通过试点检验增长假设。",
+      "collocation": "test a growth hypothesis",
+      "collocationZh": "检验增长假设",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why are we running a pilot first?",
+          "zh": "为什么先开展试点？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The pilot will test our growth hypothesis before a full rollout.",
+          "zh": "我们将在全面推广前通过试点检验增长假设。"
+        }
+      ],
+      "usage": "test 不预设假设成立。",
+      "new": true,
+      "order": 456,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɡrəʊθ haɪˈpɒθəsɪs",
+      "ipaUS": "ɡroʊθ haɪˈpɑːθəsɪs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Growth hypothesis",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "test 不预设假设成立。"
+  },
+  {
+    "id": "MKT457",
+    "before": {
+      "id": "MKT457",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Experiment backlog",
+      "zh": "实验待办清单",
+      "definition": "尚待评估或执行的实验列表",
+      "example": "We maintain an experiment backlog with clear success criteria.",
+      "exampleZh": "我们维护带有明确成功标准的实验待办清单。",
+      "collocation": "maintain an experiment backlog",
+      "collocationZh": "维护实验待办清单",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We maintain an ____ with clear success criteria.",
+          "zh": "补全职场表达：我们维护带有明确成功标准的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintain an experiment backlog with clear success criteria.",
+          "zh": "我们维护带有明确成功标准的实验待办清单。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 457,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ekˈsperɪmənt ˈbæklɒɡ",
+      "ipaUS": "ekˈsperɪmənt ˈbæklɑːɡ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Experiment backlog",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT457",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Experiment backlog",
+      "zh": "实验待办清单",
+      "definition": "尚待评估、排序或执行的实验列表。",
+      "example": "We maintain an experiment backlog with clear success criteria.",
+      "exampleZh": "我们维护实验待办清单，并为实验设定明确的成功标准。",
+      "collocation": "maintain an experiment backlog",
+      "collocationZh": "维护实验待办清单",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we organize upcoming tests?",
+          "zh": "我们如何组织即将开展的测试？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintain an experiment backlog with clear success criteria.",
+          "zh": "我们维护实验待办清单，并为实验设定明确的成功标准。"
+        }
+      ],
+      "usage": "experiment 在此为名词。",
+      "new": true,
+      "order": 457,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɪkˈsperɪmənt ˈbæklɒɡ",
+      "ipaUS": "ɪkˈsperəmənt ˈbæklɑːɡ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Experiment backlog",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "experiment 在此为名词。"
+  },
+  {
+    "id": "MKT458",
+    "before": {
+      "id": "MKT458",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Minimum detectable effect",
+      "zh": "最小可检测效应",
+      "definition": "在指定统计功效和显著性水平下可检测的最小效应",
+      "example": "We set the minimum detectable effect before calculating sample size.",
+      "exampleZh": "我们在计算样本量前设定最小可检测效应。",
+      "collocation": "set the minimum detectable effect",
+      "collocationZh": "设定最小可检测效应",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We set the ____ before calculating sample size.",
+          "zh": "补全职场表达：我们在计算样本量前设定____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We set the minimum detectable effect before calculating sample size.",
+          "zh": "我们在计算样本量前设定最小可检测效应。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 458,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmɪnɪməm dɪˈtektəbəl ɪˈfekt",
+      "ipaUS": "ˈmɪnɪməm dɪˈtektəbəl ɪˈfekt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Minimum detectable effect",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT458",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Minimum detectable effect",
+      "zh": "最小可检测效应",
+      "definition": "在给定样本量、统计功效、显著性水平及模型假设下可检测的最小效应大小。",
+      "example": "We set the minimum detectable effect before calculating sample size.",
+      "exampleZh": "我们在计算样本量前设定最小可检测效应。",
+      "collocation": "set the minimum detectable effect",
+      "collocationZh": "设定最小可检测效应",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did we specify before calculating sample size?",
+          "zh": "计算样本量前我们设定了什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We set the minimum detectable effect before calculating sample size.",
+          "zh": "我们在计算样本量前设定最小可检测效应。"
+        }
+      ],
+      "usage": "MDE 不等于业务上最小有价值的改善幅度。",
+      "new": true,
+      "order": 458,
+      "aliases": [
+        "MDE"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmɪnɪməm dɪˈtektəbəl ɪˈfekt",
+      "ipaUS": "ˈmɪnəməm dɪˈtektəbəl ɪˈfekt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Minimum detectable effect",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "MDE 不等于业务上最小有价值的改善幅度。"
+  },
+  {
+    "id": "MKT459",
+    "before": {
+      "id": "MKT459",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Invite acceptance rate",
+      "zh": "邀请接受率",
+      "definition": "收到邀请的人中接受邀请的比例",
+      "example": "We track invite acceptance rate separately from registration.",
+      "exampleZh": "我们将邀请接受率与注册分开追踪。",
+      "collocation": "track invite acceptance rate",
+      "collocationZh": "追踪邀请接受率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We track ____ separately from registration.",
+          "zh": "补全职场表达：我们将____与注册分开追踪。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We track invite acceptance rate separately from registration.",
+          "zh": "我们将邀请接受率与注册分开追踪。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 459,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ɪnˈvaɪt əkˈseptəns ˈreɪt",
+      "ipaUS": "ɪnˈvaɪt əkˈseptəns ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Invite acceptance rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT459",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Invite acceptance rate",
+      "zh": "邀请接受率",
+      "definition": "收到邀请的目标对象中在规定时间内接受邀请的比例。",
+      "example": "We track the invite acceptance rate separately from the registration rate.",
+      "exampleZh": "我们分别追踪邀请接受率和注册率。",
+      "collocation": "track the invite acceptance rate",
+      "collocationZh": "追踪邀请接受率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Do we treat accepting an invite as registration?",
+          "zh": "我们将接受邀请视为注册吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We track the invite acceptance rate separately from the registration rate.",
+          "zh": "我们分别追踪邀请接受率和注册率。"
+        }
+      ],
+      "usage": "接受邀请不一定意味着完成注册。",
+      "new": true,
+      "order": 459,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɪnvaɪt əkˈseptəns reɪt",
+      "ipaUS": "ˈɪnvaɪt əkˈseptəns reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Invite acceptance rate",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "接受邀请不一定意味着完成注册。"
+  },
+  {
+    "id": "MKT460",
+    "before": {
+      "id": "MKT460",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Product-led growth",
+      "zh": "产品驱动增长",
+      "definition": "主要依靠产品体验推动获客、转化和扩张的增长模式",
+      "example": "The company adopted product-led growth for its self-service offering.",
+      "exampleZh": "公司为自助服务产品采用产品驱动增长模式。",
+      "collocation": "adopt product-led growth",
+      "collocationZh": "采用产品驱动增长",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The company adopted ____ for its self-service offering.",
+          "zh": "补全职场表达：公司为自助服务产品采用____模式。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The company adopted product-led growth for its self-service offering.",
+          "zh": "公司为自助服务产品采用产品驱动增长模式。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 460,
+      "aliases": [
+        "PLG"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌktˈled ˈɡrəʊθ",
+      "ipaUS": "ˈprɑːdʌktˈled ˈɡroʊθ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product-led growth",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT460",
+      "moduleId": "m17",
+      "module": "用户增长",
+      "term": "Product-led growth",
+      "zh": "产品驱动增长",
+      "definition": "主要依靠产品体验推动获客、激活、留存和扩张的增长模式。",
+      "example": "The company adopted product-led growth for its self-service offering.",
+      "exampleZh": "公司为自助服务产品采用了产品驱动增长模式。",
+      "collocation": "adopt product-led growth",
+      "collocationZh": "采用产品驱动增长模式",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which growth model did the company choose?",
+          "zh": "公司选择了哪种增长模式？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The company adopted product-led growth for its self-service offering.",
+          "zh": "公司为自助服务产品采用了产品驱动增长模式。"
+        }
+      ],
+      "usage": "PLG 不排斥销售团队参与。",
+      "new": true,
+      "order": 460,
+      "aliases": [
+        "PLG"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt led ɡrəʊθ",
+      "ipaUS": "ˈprɑːdʌkt led ɡroʊθ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Product-led growth",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "PLG 不排斥销售团队参与。"
+  }
+]

@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "MKT181",
+    "before": {
+      "id": "MKT181",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product roadmap",
+      "zh": "产品路线图",
+      "definition": "描述产品未来方向及计划重点的动态规划。",
+      "example": "Our campaign must align with the product roadmap.",
+      "exampleZh": "我们的营销活动必须与产品路线图保持一致。",
+      "collocation": "align with the product roadmap",
+      "collocationZh": "与产品路线图保持一致",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we avoid promoting features that engineering has not scheduled?",
+          "zh": "如何避免推广研发尚未安排的功能？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our campaign must align with the product roadmap.",
+          "zh": "我们的营销活动必须与产品路线图保持一致。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 181,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌkt ˈrəʊdmæp",
+      "ipaUS": "ˈprɑːdʌkt ˈroʊdmæp",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product roadmap",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT181",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product roadmap",
+      "zh": "产品路线图",
+      "definition": "展示产品未来方向、优先事项和预期交付计划的动态规划。",
+      "example": "Our campaign must align with the product roadmap.",
+      "exampleZh": "我们的营销活动必须与产品路线图保持一致。",
+      "collocation": "align with the product roadmap",
+      "collocationZh": "与产品路线图保持一致",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we avoid promoting features that are not yet planned?",
+          "zh": "如何避免推广尚未纳入计划的功能？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our campaign must align with the product roadmap.",
+          "zh": "我们的营销活动必须与产品路线图保持一致。"
+        }
+      ],
+      "usage": "路线图不是对具体发布日期的保证。",
+      "new": true,
+      "order": 181,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt ˈrəʊdmæp",
+      "ipaUS": "ˈprɑːdʌkt ˈroʊdmæp",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Product roadmap",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT182",
+    "before": {
+      "id": "MKT182",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product packaging",
+      "zh": "产品组合包装",
+      "definition": "将功能、服务或权益组织为可销售方案的方式。",
+      "example": "We need to review product packaging for mid-market customers.",
+      "exampleZh": "我们需要审查面向中型市场客户的产品组合包装。",
+      "collocation": "review product packaging",
+      "collocationZh": "审查产品组合包装",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Our current bundle is too complex for mid-sized accounts. What should we revisit?",
+          "zh": "目前的产品组合对中型客户太复杂，应重新审视什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to review product packaging for mid-market customers.",
+          "zh": "我们需要审查面向中型市场客户的产品组合包装。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 182,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌkt ˈpækɪdʒɪŋ",
+      "ipaUS": "ˈprɑːdʌkt ˈpækɪdʒɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product packaging",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT182",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product packaging",
+      "zh": "产品包装／产品套餐设计",
+      "definition": "指产品实体包装；在软件产品营销中也指将功能和权益组织为可销售套餐。",
+      "example": "We need to review product packaging for mid-market customers.",
+      "exampleZh": "我们需要重新审视面向中型企业客户的产品套餐设计。",
+      "collocation": "review product packaging",
+      "collocationZh": "审视产品套餐设计",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Our current bundle is too complex for mid-sized accounts. What should we revisit?",
+          "zh": "现有套餐对中型企业客户来说太复杂，我们应该重新审视什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to review product packaging for mid-market customers.",
+          "zh": "我们需要重新审视面向中型企业客户的产品套餐设计。"
+        }
+      ],
+      "usage": "本例采用软件套餐设计的含义，而非实体包装。",
+      "new": true,
+      "order": 182,
+      "aliases": [
+        "产品组合包装"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt ˈpækɪdʒɪŋ",
+      "ipaUS": "ˈprɑːdʌkt ˈpækɪdʒɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Product packaging",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "zh",
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT183",
+    "before": {
+      "id": "MKT183",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Pricing tier",
+      "zh": "价格档位",
+      "definition": "按不同功能或权益设置的价格等级。",
+      "example": "We may introduce a pricing tier for growing teams.",
+      "exampleZh": "我们可能为成长型团队推出一个价格档位。",
+      "collocation": "introduce a pricing tier",
+      "collocationZh": "推出价格档位",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How could we serve customers who have outgrown the entry-level plan?",
+          "zh": "如何服务已超出入门套餐需求的客户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We may introduce a pricing tier for growing teams.",
+          "zh": "我们可能为成长型团队推出一个价格档位。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 183,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpraɪsɪŋ ˈtiə",
+      "ipaUS": "ˈpraɪsɪŋ ˈtɪr",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Pricing tier",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT183",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Pricing tier",
+      "zh": "价格档位",
+      "definition": "根据功能、用量或服务权益划分的定价档次。",
+      "example": "We may introduce a new pricing tier for growing teams.",
+      "exampleZh": "我们可能为不断壮大的团队推出新的定价档次。",
+      "collocation": "introduce a pricing tier",
+      "collocationZh": "推出一个定价档次",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How could we serve customers who have outgrown the entry-level plan?",
+          "zh": "如何满足入门套餐已无法满足其需求的客户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We may introduce a new pricing tier for growing teams.",
+          "zh": "我们可能为不断壮大的团队推出新的定价档次。"
+        }
+      ],
+      "usage": "常与 pricing plan 搭配使用，但 tier 强调等级。",
+      "new": true,
+      "order": 183,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈpraɪsɪŋ tɪə",
+      "ipaUS": "ˈpraɪsɪŋ tɪr",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Pricing tier",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT184",
+    "before": {
+      "id": "MKT184",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Freemium model",
+      "zh": "免费增值模式",
+      "definition": "提供免费基础版本并对高级功能收费的模式。",
+      "example": "We should evaluate the freemium model against paid trials.",
+      "exampleZh": "我们应比较评估免费增值模式与付费试用。",
+      "collocation": "evaluate the freemium model",
+      "collocationZh": "评估免费增值模式",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Should we offer a permanently free plan or a time-limited trial?",
+          "zh": "应该提供长期免费套餐还是限时试用？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should evaluate the freemium model against paid trials.",
+          "zh": "我们应比较评估免费增值模式与付费试用。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 184,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈfriːmiəm ˈmɒdəl",
+      "ipaUS": "ˈfriːmiəm ˈmɑːdəl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Freemium model",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT184",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Freemium model",
+      "zh": "免费增值模式",
+      "definition": "长期提供免费基础服务，并通过高级功能、容量或其他权益收费的商业模式。",
+      "example": "We should compare the freemium model with a time-limited free trial.",
+      "exampleZh": "我们应比较免费增值模式与限时免费试用。",
+      "collocation": "evaluate the freemium model",
+      "collocationZh": "评估免费增值模式",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Should we offer an ongoing free plan or a time-limited trial?",
+          "zh": "我们应该提供长期免费套餐还是限时试用？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should compare the freemium model with a time-limited free trial.",
+          "zh": "我们应比较免费增值模式与限时免费试用。"
+        }
+      ],
+      "usage": "区别于到期后结束的免费试用。",
+      "new": true,
+      "order": 184,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈfriːmiəm ˈmɒdəl",
+      "ipaUS": "ˈfriːmiəm ˈmɑːdəl",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Freemium model",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT185",
+    "before": {
+      "id": "MKT185",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Penetration pricing",
+      "zh": "渗透定价",
+      "definition": "以较低初始价格快速吸引客户和扩大市场的策略。",
+      "example": "The company adopted penetration pricing in the new market.",
+      "exampleZh": "公司在新市场采用了渗透定价。",
+      "collocation": "adopt penetration pricing",
+      "collocationZh": "采用渗透定价",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did the company use pricing to attract buyers quickly in the new market?",
+          "zh": "公司如何利用定价快速吸引新市场买家？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The company adopted penetration pricing in the new market.",
+          "zh": "公司在新市场采用了渗透定价。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 185,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌpenɪˈtreɪʃən ˈpraɪsɪŋ",
+      "ipaUS": "ˌpenɪˈtreɪʃən ˈpraɪsɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Penetration pricing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT185",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Penetration pricing",
+      "zh": "渗透定价",
+      "definition": "以较低的初始价格吸引客户、促进采用并争取市场份额的定价策略。",
+      "example": "The company adopted penetration pricing in the new market.",
+      "exampleZh": "该公司在新市场采用了渗透定价策略。",
+      "collocation": "adopt penetration pricing",
+      "collocationZh": "采用渗透定价策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did the company use pricing to attract buyers quickly in the new market?",
+          "zh": "该公司如何通过定价快速吸引新市场的买家？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The company adopted penetration pricing in the new market.",
+          "zh": "该公司在新市场采用了渗透定价策略。"
+        }
+      ],
+      "usage": "低价并不保证市场份额增长。",
+      "new": true,
+      "order": 185,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌpenɪˈtreɪʃən ˈpraɪsɪŋ",
+      "ipaUS": "ˌpenəˈtreɪʃən ˈpraɪsɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Penetration pricing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT186",
+    "before": {
+      "id": "MKT186",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Price skimming",
+      "zh": "撇脂定价",
+      "definition": "上市初期设置较高价格并随后逐步降低的策略。",
+      "example": "Price skimming may work when early demand is strong.",
+      "exampleZh": "早期需求旺盛时撇脂定价可能有效。",
+      "collocation": "use price skimming",
+      "collocationZh": "采用撇脂定价",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Could we start with a premium price and lower it as demand broadens?",
+          "zh": "能否先采用高价，再随着需求扩大逐步降价？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Price skimming may work when early demand is strong.",
+          "zh": "早期需求旺盛时撇脂定价可能有效。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 186,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpraɪs ˈskɪmɪŋ",
+      "ipaUS": "ˈpraɪs ˈskɪmɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Price skimming",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT186",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Price skimming",
+      "zh": "撇脂定价",
+      "definition": "上市初期设定较高价格，随后逐步降价以覆盖更多支付意愿不同的客户。",
+      "example": "Price skimming may work when early adopters are willing to pay a premium.",
+      "exampleZh": "早期采用者愿意支付溢价时，撇脂定价可能有效。",
+      "collocation": "use price skimming",
+      "collocationZh": "采用撇脂定价",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Could we start with a premium price and lower it later?",
+          "zh": "我们能否先采用高价，再逐步降价？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Price skimming may work when early adopters are willing to pay a premium.",
+          "zh": "早期采用者愿意支付溢价时，撇脂定价可能有效。"
+        }
+      ],
+      "usage": "与渗透定价的低价切入策略形成对比。",
+      "new": true,
+      "order": 186,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "praɪs ˈskɪmɪŋ",
+      "ipaUS": "praɪs ˈskɪmɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Price skimming",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT187",
+    "before": {
+      "id": "MKT187",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Price elasticity of demand",
+      "zh": "需求价格弹性",
+      "definition": "需求量变动百分比相对于价格变动百分比的比率。",
+      "example": "We need to estimate price elasticity of demand before the promotion.",
+      "exampleZh": "促销前需要估计需求价格弹性。",
+      "collocation": "estimate price elasticity of demand",
+      "collocationZh": "估计需求价格弹性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What do we need to know about demand before deciding the discount depth?",
+          "zh": "确定折扣力度前，需要了解需求的什么特征？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to estimate price elasticity of demand before the promotion.",
+          "zh": "促销前需要估计需求价格弹性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 187,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpraɪs ɪlæˈstɪsɪti ɒv dɪˈmænd",
+      "ipaUS": "ˈpraɪs ɪləˈstɪsɪti ʌv dɪˈmænd",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Price elasticity of demand",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT187",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Price elasticity of demand",
+      "zh": "需求价格弹性",
+      "definition": "需求量变动百分比与价格变动百分比之比，衡量需求量对价格变化的敏感程度。",
+      "example": "We need to estimate the price elasticity of demand before the promotion.",
+      "exampleZh": "促销前，我们需要估算需求价格弹性。",
+      "collocation": "estimate the price elasticity of demand",
+      "collocationZh": "估算需求价格弹性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we estimate before deciding how large a discount to offer?",
+          "zh": "决定折扣力度之前，我们应该估算什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to estimate the price elasticity of demand before the promotion.",
+          "zh": "促销前，我们需要估算需求价格弹性。"
+        }
+      ],
+      "usage": "通常为负值；比较弹性大小时常取绝对值。",
+      "new": true,
+      "order": 187,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "praɪs ˌiːlæˈstɪsəti əv dɪˈmɑːnd",
+      "ipaUS": "praɪs ˌiːlæˈstɪsəti əv dɪˈmænd",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Price elasticity of demand",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocation",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT188",
+    "before": {
+      "id": "MKT188",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Screening question",
+      "zh": "筛选题",
+      "definition": "用于判断受访者是否符合研究条件的问题。",
+      "example": "We need to design screening questions for recent buyers.",
+      "exampleZh": "我们需要为近期购买者设计筛选题。",
+      "collocation": "design screening questions",
+      "collocationZh": "设计筛选题",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we ensure survey participants have purchased recently?",
+          "zh": "如何确保问卷参与者近期购买过产品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to design screening questions for recent buyers.",
+          "zh": "我们需要为近期购买者设计筛选题。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 188,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈskriːnɪŋ ˈkwestʃən",
+      "ipaUS": "ˈskriːnɪŋ ˈkwestʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Screening question",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT188",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Screening question",
+      "zh": "筛选题",
+      "definition": "用于判断潜在受访者是否满足研究招募条件的问题。",
+      "example": "We need to design screening questions to identify recent buyers.",
+      "exampleZh": "我们需要设计筛选题来识别近期购买者。",
+      "collocation": "design screening questions",
+      "collocationZh": "设计筛选题",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we check whether survey participants have purchased recently?",
+          "zh": "如何确认调查参与者近期是否购买过产品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to design screening questions to identify recent buyers.",
+          "zh": "我们需要设计筛选题来识别近期购买者。"
+        }
+      ],
+      "usage": "筛选题应避免暗示合格答案。",
+      "new": true,
+      "order": 188,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈskriːnɪŋ ˈkwestʃən",
+      "ipaUS": "ˈskriːnɪŋ ˈkwestʃən",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Screening question",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT189",
+    "before": {
+      "id": "MKT189",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Quota sampling",
+      "zh": "配额抽样",
+      "definition": "按预设群体配额招募样本的非概率抽样方法。",
+      "example": "We used quota sampling to balance age groups.",
+      "exampleZh": "我们采用配额抽样平衡年龄群体。",
+      "collocation": "use quota sampling",
+      "collocationZh": "采用配额抽样",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we ensure enough respondents from each age group?",
+          "zh": "如何确保各年龄组都有足够的受访者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We used quota sampling to balance age groups.",
+          "zh": "我们采用配额抽样平衡年龄群体。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 189,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkwəʊtə ˈsæmplɪŋ",
+      "ipaUS": "ˈkwoʊtə ˈsæmplɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Quota sampling",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT189",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Quota sampling",
+      "zh": "配额抽样",
+      "definition": "按预设群体配额招募样本，通常不在各群体内随机抽取的非概率抽样方法。",
+      "example": "We used quota sampling to meet our targets for each age group.",
+      "exampleZh": "我们采用配额抽样以达到各年龄组的招募目标。",
+      "collocation": "use quota sampling",
+      "collocationZh": "采用配额抽样",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we recruit the planned number of respondents in each age group?",
+          "zh": "我们如何招募各年龄组计划数量的受访者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We used quota sampling to meet our targets for each age group.",
+          "zh": "我们采用配额抽样以达到各年龄组的招募目标。"
+        }
+      ],
+      "usage": "满足配额并不保证样本具有总体代表性。",
+      "new": true,
+      "order": 189,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkwəʊtə ˈsɑːmplɪŋ",
+      "ipaUS": "ˈkwoʊtə ˈsæmplɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Quota sampling",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT190",
+    "before": {
+      "id": "MKT190",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Stratified sampling",
+      "zh": "分层抽样",
+      "definition": "将总体分层并在各层内抽样的方法。",
+      "example": "We applied stratified sampling across regions.",
+      "exampleZh": "我们在各区域应用分层抽样。",
+      "collocation": "apply stratified sampling",
+      "collocationZh": "应用分层抽样",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we structure the probability sample to represent different regions?",
+          "zh": "如何设计概率样本以覆盖不同区域？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We applied stratified sampling across regions.",
+          "zh": "我们在各区域应用分层抽样。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 190,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈstrætɪˌfaɪd ˈsæmplɪŋ",
+      "ipaUS": "ˈstrætɪˌfaɪd ˈsæmplɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Stratified sampling",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT190",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Stratified sampling",
+      "zh": "分层抽样",
+      "definition": "将总体划分为互不重叠的层，再从各层中进行概率抽样的方法。",
+      "example": "We used stratified sampling, with regions as strata.",
+      "exampleZh": "我们以地区为分层依据进行分层抽样。",
+      "collocation": "use stratified sampling",
+      "collocationZh": "采用分层抽样",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we structure the probability sample to cover different regions?",
+          "zh": "我们如何设计概率样本以覆盖不同地区？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We used stratified sampling, with regions as strata.",
+          "zh": "我们以地区为分层依据进行分层抽样。"
+        }
+      ],
+      "usage": "区别于非概率配额抽样。",
+      "new": true,
+      "order": 190,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈstrætɪfaɪd ˈsɑːmplɪŋ",
+      "ipaUS": "ˈstrætəfaɪd ˈsæmplɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Stratified sampling",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocation",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT191",
+    "before": {
+      "id": "MKT191",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Random sampling",
+      "zh": "随机抽样",
+      "definition": "利用随机机制从总体选择样本的方法。",
+      "example": "We use random sampling when a reliable sampling frame is available.",
+      "exampleZh": "有可靠抽样框时我们采用随机抽样。",
+      "collocation": "use random sampling",
+      "collocationZh": "采用随机抽样",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When can we select participants by chance from a defined population list?",
+          "zh": "何时可以从明确的总体名单中随机选取参与者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We use random sampling when a reliable sampling frame is available.",
+          "zh": "有可靠抽样框时我们采用随机抽样。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 191,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈrændəm ˈsæmplɪŋ",
+      "ipaUS": "ˈrændəm ˈsæmplɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Random sampling",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT191",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Random sampling",
+      "zh": "随机抽样",
+      "definition": "利用随机机制从总体中选取样本的方法。",
+      "example": "We use random sampling when a suitable sampling frame is available.",
+      "exampleZh": "有合适的抽样框时，我们采用随机抽样。",
+      "collocation": "use random sampling",
+      "collocationZh": "采用随机抽样",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When can we select participants at random from a population list?",
+          "zh": "何时可以从总体名单中随机选取参与者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We use random sampling when a suitable sampling frame is available.",
+          "zh": "有合适的抽样框时，我们采用随机抽样。"
+        }
+      ],
+      "usage": "简单随机抽样要求每个单位具有相同的入样概率；其他概率设计不一定如此。",
+      "new": true,
+      "order": 191,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈrændəm ˈsɑːmplɪŋ",
+      "ipaUS": "ˈrændəm ˈsæmplɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Random sampling",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT192",
+    "before": {
+      "id": "MKT192",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Nonresponse bias",
+      "zh": "无应答偏差",
+      "definition": "未回应者与回应者系统性不同所造成的偏差。",
+      "example": "We should assess nonresponse bias before reporting the results.",
+      "exampleZh": "汇报结果前应评估无应答偏差。",
+      "collocation": "assess nonresponse bias",
+      "collocationZh": "评估无应答偏差",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What if people who ignored the survey differ from those who answered?",
+          "zh": "如果未回应问卷的人与回应者不同怎么办？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should assess nonresponse bias before reporting the results.",
+          "zh": "汇报结果前应评估无应答偏差。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 192,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌnɒnrɪˈspɒns ˈbaɪəs",
+      "ipaUS": "ˌnɑːnrɪˈspɑːns ˈbaɪəs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Nonresponse bias",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT192",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Nonresponse bias",
+      "zh": "无应答偏差",
+      "definition": "未应答者与应答者在研究相关特征上存在系统差异而导致的估计偏差。",
+      "example": "We should assess nonresponse bias before reporting the results.",
+      "exampleZh": "汇报结果前，我们应评估无应答偏差。",
+      "collocation": "assess nonresponse bias",
+      "collocationZh": "评估无应答偏差",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What if people who did not respond differ systematically from those who did?",
+          "zh": "如果未应答者与应答者存在系统性差异怎么办？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should assess nonresponse bias before reporting the results.",
+          "zh": "汇报结果前，我们应评估无应答偏差。"
+        }
+      ],
+      "usage": "低应答率不必然意味着存在较大的无应答偏差。",
+      "new": true,
+      "order": 192,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌnɒnrɪˈspɒns ˈbaɪəs",
+      "ipaUS": "ˌnɑːnrɪˈspɑːns ˈbaɪəs",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Nonresponse bias",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT193",
+    "before": {
+      "id": "MKT193",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Recall bias",
+      "zh": "回忆偏差",
+      "definition": "受访者回忆不准确或存在系统差异导致的偏差。",
+      "example": "Shorter recall periods can minimize recall bias.",
+      "exampleZh": "缩短回忆时间范围可以尽量减少回忆偏差。",
+      "collocation": "minimize recall bias",
+      "collocationZh": "尽量减少回忆偏差",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we improve the accuracy of answers about past purchases?",
+          "zh": "如何提高关于过去购买行为的回答准确性？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Shorter recall periods can minimize recall bias.",
+          "zh": "缩短回忆时间范围可以尽量减少回忆偏差。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 193,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈriːkɔːl ˈbaɪəs",
+      "ipaUS": "ˈriːkɔːl ˈbaɪəs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Recall bias",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT193",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Recall bias",
+      "zh": "回忆偏差",
+      "definition": "对过去事件的回忆存在系统性误差而导致的偏差。",
+      "example": "Shorter recall periods can help reduce recall bias.",
+      "exampleZh": "缩短回忆期有助于减少回忆偏差。",
+      "collocation": "reduce recall bias",
+      "collocationZh": "减少回忆偏差",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we improve the accuracy of answers about past purchases?",
+          "zh": "如何提高有关过去购买行为的回答准确性？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Shorter recall periods can help reduce recall bias.",
+          "zh": "缩短回忆期有助于减少回忆偏差。"
+        }
+      ],
+      "usage": "缩短回忆期可能降低偏差，但无法保证消除。",
+      "new": true,
+      "order": 193,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈriːkɔːl ˈbaɪəs",
+      "ipaUS": "ˈriːkɑːl ˈbaɪəs",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Recall bias",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocation",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT194",
+    "before": {
+      "id": "MKT194",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Leading question",
+      "zh": "诱导性问题",
+      "definition": "措辞暗示或引导特定回答的问题。",
+      "example": "The moderator must avoid leading questions.",
+      "exampleZh": "主持人必须避免诱导性问题。",
+      "collocation": "avoid leading questions",
+      "collocationZh": "避免诱导性问题",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should interviewers avoid when asking about a preferred design?",
+          "zh": "询问偏好设计时，访谈员应避免什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The moderator must avoid leading questions.",
+          "zh": "主持人必须避免诱导性问题。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 194,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈliːdɪŋ ˈkwestʃən",
+      "ipaUS": "ˈliːdɪŋ ˈkwestʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Leading question",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT194",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Leading question",
+      "zh": "诱导性问题",
+      "definition": "措辞或前提暗示某种预期回答的问题。",
+      "example": "Interviewers should avoid leading questions.",
+      "exampleZh": "访谈员应避免提出诱导性问题。",
+      "collocation": "avoid leading questions",
+      "collocationZh": "避免诱导性问题",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should interviewers avoid when asking about design preferences?",
+          "zh": "询问设计偏好时，访谈员应避免什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Interviewers should avoid leading questions.",
+          "zh": "访谈员应避免提出诱导性问题。"
+        }
+      ],
+      "usage": "宜使用中性措辞，避免预设受访者的态度。",
+      "new": true,
+      "order": 194,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈliːdɪŋ ˈkwestʃən",
+      "ipaUS": "ˈliːdɪŋ ˈkwestʃən",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Leading question",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT195",
+    "before": {
+      "id": "MKT195",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Likert scale",
+      "zh": "李克特量表",
+      "definition": "通过有序同意程度选项衡量态度的量表形式。",
+      "example": "We use a five-point Likert scale to measure agreement.",
+      "exampleZh": "我们使用五点李克特量表衡量同意程度。",
+      "collocation": "use a Likert scale",
+      "collocationZh": "使用李克特量表",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can respondents indicate different degrees of agreement?",
+          "zh": "受访者如何表达不同程度的认同？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We use a five-point Likert scale to measure agreement.",
+          "zh": "我们使用五点李克特量表衡量同意程度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 195,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlaɪkɜːt ˈskeɪl",
+      "ipaUS": "ˈlaɪkɜːt ˈskeɪl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Likert scale",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT195",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Likert scale",
+      "zh": "李克特量表",
+      "definition": "通常由多个采用有序同意程度选项的题项组成，用于测量态度的量表。",
+      "example": "We use a five-point Likert-type item to measure agreement.",
+      "exampleZh": "我们使用五级李克特式题项衡量认同程度。",
+      "collocation": "use a Likert scale",
+      "collocationZh": "使用李克特量表",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can respondents indicate different degrees of agreement with a statement?",
+          "zh": "受访者如何表达对某项陈述的不同认同程度？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We use a five-point Likert-type item to measure agreement.",
+          "zh": "我们使用五级李克特式题项衡量认同程度。"
+        }
+      ],
+      "usage": "单个题项严格说是 Likert-type item；Likert 也常被读作 /ˈlaɪkərt/（美式），读音存在变体。",
+      "new": true,
+      "order": 195,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈlɪkət skeɪl",
+      "ipaUS": "ˈlɪkərt skeɪl",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Likert scale",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；Likert 存在读音变体，待词典核验。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT196",
+    "before": {
+      "id": "MKT196",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Concept testing",
+      "zh": "概念测试",
+      "definition": "在开发或上市前评估受众对产品或创意概念反应的方法。",
+      "example": "We will conduct concept testing before investing in prototypes.",
+      "exampleZh": "我们将在投入原型制作前开展概念测试。",
+      "collocation": "conduct concept testing",
+      "collocationZh": "开展概念测试",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we evaluate an idea before paying to build it?",
+          "zh": "如何在投入原型开发费用前评估创意？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will conduct concept testing before investing in prototypes.",
+          "zh": "我们将在投入原型制作前开展概念测试。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 196,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒnsept ˈtestɪŋ",
+      "ipaUS": "ˈkɑːnsept ˈtestɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Concept testing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT196",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Concept testing",
+      "zh": "概念测试",
+      "definition": "在开发或上市前评估目标受众对产品或创意概念反应的研究方法。",
+      "example": "We will conduct concept testing before investing in prototypes.",
+      "exampleZh": "我们将在投入原型开发前开展概念测试。",
+      "collocation": "conduct concept testing",
+      "collocationZh": "开展概念测试",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we evaluate an idea before investing in a prototype?",
+          "zh": "如何在投入原型开发前评估创意？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will conduct concept testing before investing in prototypes.",
+          "zh": "我们将在投入原型开发前开展概念测试。"
+        }
+      ],
+      "usage": "概念测试结果不等同于实际购买行为。",
+      "new": true,
+      "order": 196,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒnsept ˈtestɪŋ",
+      "ipaUS": "ˈkɑːnsept ˈtestɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Concept testing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT197",
+    "before": {
+      "id": "MKT197",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Monadic testing",
+      "zh": "单概念测试",
+      "definition": "每位受访者仅评估一个测试方案的研究设计。",
+      "example": "We will run a monadic test to avoid direct comparison effects.",
+      "exampleZh": "我们将开展单概念测试以避免直接比较效应。",
+      "collocation": "run a monadic test",
+      "collocationZh": "开展单概念测试",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we test each concept without showing competing concepts to the same respondent?",
+          "zh": "如何在不向同一受访者展示竞争概念的情况下测试各个概念？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will run a monadic test to avoid direct comparison effects.",
+          "zh": "我们将开展单概念测试以避免直接比较效应。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 197,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "məˈnædɪk ˈtestɪŋ",
+      "ipaUS": "məˈnædɪk ˈtestɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Monadic testing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT197",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Monadic testing",
+      "zh": "单概念测试",
+      "definition": "每位受访者仅评估一个测试方案的研究设计。",
+      "example": "We will run a monadic test to avoid direct comparisons within respondents.",
+      "exampleZh": "我们将开展单概念测试，避免同一受访者直接比较多个方案。",
+      "collocation": "run a monadic test",
+      "collocationZh": "开展单概念测试",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we test concepts without showing multiple concepts to the same respondent?",
+          "zh": "如何测试多个概念而不向同一受访者展示多个方案？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will run a monadic test to avoid direct comparisons within respondents.",
+          "zh": "我们将开展单概念测试，避免同一受访者直接比较多个方案。"
+        }
+      ],
+      "usage": "区别于 sequential monadic testing，后者让同一受访者依次评价多个方案。",
+      "new": true,
+      "order": 197,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "məˈnædɪk ˈtestɪŋ",
+      "ipaUS": "məˈnædɪk ˈtestɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Monadic testing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT198",
+    "before": {
+      "id": "MKT198",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "MaxDiff analysis",
+      "zh": "最大差异分析",
+      "definition": "通过选择最重要与最不重要选项估计相对偏好的方法。",
+      "example": "Let's run a MaxDiff analysis to rank product benefits.",
+      "exampleZh": "我们开展最大差异分析来排序产品利益点吧。",
+      "collocation": "run a MaxDiff analysis",
+      "collocationZh": "开展最大差异分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we force respondents to distinguish their most and least valued benefits?",
+          "zh": "如何让受访者区分最重视和最不重视的利益点？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's run a MaxDiff analysis to rank product benefits.",
+          "zh": "我们开展最大差异分析来排序产品利益点吧。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 198,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmæks ˈdɪf əˈnæləˌsɪs",
+      "ipaUS": "ˈmæks ˈdɪf əˈnæləˌsɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "MaxDiff analysis",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT198",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "MaxDiff analysis",
+      "zh": "最大差异分析",
+      "definition": "通过多轮选择各组中最偏好和最不偏好的选项，估计选项相对偏好的研究方法。",
+      "example": "Let's run a MaxDiff analysis to rank product benefits.",
+      "exampleZh": "我们来开展最大差异分析，对产品利益点进行排序。",
+      "collocation": "run a MaxDiff analysis",
+      "collocationZh": "开展最大差异分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we identify the benefits respondents value most and least?",
+          "zh": "如何识别受访者最重视和最不重视的产品利益点？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's run a MaxDiff analysis to rank product benefits.",
+          "zh": "我们来开展最大差异分析，对产品利益点进行排序。"
+        }
+      ],
+      "usage": "也称 best-worst scaling；结果通常表示相对偏好而非绝对需求。",
+      "new": true,
+      "order": 198,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmæks dɪf əˈnæləsɪs",
+      "ipaUS": "ˈmæks dɪf əˈnæləsɪs",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Max Diff analysis",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "speakTerm",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT199",
+    "before": {
+      "id": "MKT199",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Confidence interval",
+      "zh": "置信区间",
+      "definition": "按给定置信水平构造、用于表达参数估计不确定性的区间。",
+      "example": "We should report confidence intervals alongside survey estimates.",
+      "exampleZh": "我们应在调查估计值旁报告置信区间。",
+      "collocation": "report confidence intervals",
+      "collocationZh": "报告置信区间",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should we communicate the uncertainty around our survey estimates?",
+          "zh": "如何传达调查估计值的不确定性？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should report confidence intervals alongside survey estimates.",
+          "zh": "我们应在调查估计值旁报告置信区间。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 199,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒnfɪdəns ˈɪntəvəl",
+      "ipaUS": "ˈkɑːnfɪdəns ˈɪntɚvəl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Confidence interval",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT199",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Confidence interval",
+      "zh": "置信区间",
+      "definition": "根据样本及统计模型构造、用于表达总体参数估计不确定性的区间。",
+      "example": "We should report confidence intervals alongside survey estimates.",
+      "exampleZh": "我们应在报告调查估计值时同时给出置信区间。",
+      "collocation": "report confidence intervals",
+      "collocationZh": "报告置信区间",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should we communicate the uncertainty around our survey estimates?",
+          "zh": "如何说明调查估计值的不确定性？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should report confidence intervals alongside survey estimates.",
+          "zh": "我们应在报告调查估计值时同时给出置信区间。"
+        }
+      ],
+      "usage": "95%置信水平指在模型假设成立时，重复使用该构造方法所得区间约95%覆盖真实参数。",
+      "new": true,
+      "order": 199,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒnfɪdəns ˈɪntəvəl",
+      "ipaUS": "ˈkɑːnfɪdəns ˈɪntərvəl",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Confidence interval",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  },
+  {
+    "id": "MKT200",
+    "before": {
+      "id": "MKT200",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Margin of error",
+      "zh": "误差幅度",
+      "definition": "在特定抽样假设与置信水平下估计值的抽样误差范围半宽。",
+      "example": "Calculate the margin of error for the probability sample.",
+      "exampleZh": "计算该概率样本的误差幅度。",
+      "collocation": "calculate the margin of error",
+      "collocationZh": "计算误差幅度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What measure of sampling precision should we calculate for this probability sample?",
+          "zh": "对于该概率样本，应计算哪项抽样精度指标？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Calculate the margin of error for the probability sample.",
+          "zh": "计算该概率样本的误差幅度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 200,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmɑːdʒɪn ɒv ˈerə",
+      "ipaUS": "ˈmɑːrdʒɪn ʌv ˈerɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Margin of error",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT200",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Margin of error",
+      "zh": "抽样误差限",
+      "definition": "在给定置信水平和抽样假设下，对称置信区间的半宽，用于表示抽样不确定性。",
+      "example": "We should calculate the margin of error for the probability sample.",
+      "exampleZh": "我们应计算该概率样本的抽样误差限。",
+      "collocation": "calculate the margin of error",
+      "collocationZh": "计算抽样误差限",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What measure of sampling precision should we report for this probability sample?",
+          "zh": "对于该概率样本，我们应该报告哪项抽样精度指标？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should calculate the margin of error for the probability sample.",
+          "zh": "我们应计算该概率样本的抽样误差限。"
+        }
+      ],
+      "usage": "不涵盖所有非抽样误差；不能直接套用于普通非概率样本。",
+      "new": true,
+      "order": 200,
+      "aliases": [
+        "误差幅度"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmɑːdʒɪn əv ˈerə",
+      "ipaUS": "ˈmɑːrdʒɪn əv ˈerər",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Margin of error",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "zh",
+      "definition",
+      "example",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑复核；未独立查词典"
+  }
+]

@@ -1,0 +1,3188 @@
+[
+  {
+    "id": "MKT121",
+    "term": "Endorsed brand",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "具有独立身份并得到母品牌背书的品牌。",
+        "after": "拥有独立品牌身份，同时借助背书品牌的信誉建立信任的品牌。"
+      },
+      "exampleZh": {
+        "before": "此次收购可能需要采用背书品牌策略。",
+        "after": "此次收购可能需要采用品牌背书策略。"
+      },
+      "collocationZh": {
+        "before": "采用背书品牌策略",
+        "after": "采用品牌背书策略"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "How might we retain the acquired label while signaling its connection to us?",
+            "zh": "怎样保留被收购品牌，同时体现它与我们的联系？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The acquisition may require an endorsed brand strategy.",
+            "zh": "此次收购可能需要采用背书品牌策略。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "How might we retain the acquired label while signaling its connection to us?",
+            "zh": "怎样保留被收购品牌，同时体现它与我们的联系？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The acquisition may require an endorsed brand strategy.",
+            "zh": "此次收购可能需要采用品牌背书策略。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "不同于完全独立的品牌；背书品牌通常保留自身名称。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "enˈdɔːsd ˈbrænd",
+        "after": "ɪnˈdɔːst brænd"
+      },
+      "ipaUS": {
+        "before": "enˈdoːrsd ˈbrænd",
+        "after": "ɪnˈdɔːrst brænd"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT121",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Endorsed brand",
+      "zh": "背书品牌",
+      "definition": "具有独立身份并得到母品牌背书的品牌。",
+      "example": "The acquisition may require an endorsed brand strategy.",
+      "exampleZh": "此次收购可能需要采用背书品牌策略。",
+      "collocation": "adopt an endorsed brand strategy",
+      "collocationZh": "采用背书品牌策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How might we retain the acquired label while signaling its connection to us?",
+          "zh": "怎样保留被收购品牌，同时体现它与我们的联系？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The acquisition may require an endorsed brand strategy.",
+          "zh": "此次收购可能需要采用背书品牌策略。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 121,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "enˈdɔːsd ˈbrænd",
+      "ipaUS": "enˈdoːrsd ˈbrænd",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Endorsed brand",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT121",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Endorsed brand",
+      "zh": "背书品牌",
+      "definition": "拥有独立品牌身份，同时借助背书品牌的信誉建立信任的品牌。",
+      "example": "The acquisition may require an endorsed brand strategy.",
+      "exampleZh": "此次收购可能需要采用品牌背书策略。",
+      "collocation": "adopt an endorsed brand strategy",
+      "collocationZh": "采用品牌背书策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How might we retain the acquired label while signaling its connection to us?",
+          "zh": "怎样保留被收购品牌，同时体现它与我们的联系？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The acquisition may require an endorsed brand strategy.",
+          "zh": "此次收购可能需要采用品牌背书策略。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 121,
+      "aliases": [],
+      "distinction": "不同于完全独立的品牌；背书品牌通常保留自身名称。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɪnˈdɔːst brænd",
+      "ipaUS": "ɪnˈdɔːrst brænd",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Endorsed brand",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT122",
+    "term": "House of brands",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "旗下品牌以相对独立身份面向市场的架构。",
+        "after": "企业旗下多个品牌以相对独立的名称、定位和身份面向市场的品牌架构。"
+      },
+      "example": {
+        "before": "It takes separate budgets to manage a house of brands.",
+        "after": "Managing a house of brands often requires separate budgets for each brand."
+      },
+      "exampleZh": {
+        "before": "管理多品牌架构需要独立预算。",
+        "after": "管理多品牌架构通常需要为各品牌分别安排预算。"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "What is the budget implication of keeping several independent brands?",
+            "zh": "保留多个独立品牌对预算有什么影响？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "It takes separate budgets to manage a house of brands.",
+            "zh": "管理多品牌架构需要独立预算。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "What is the budget implication of keeping several independent brands?",
+            "zh": "保留多个独立品牌对预算有什么影响？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Managing a house of brands often requires separate budgets for each brand.",
+            "zh": "管理多品牌架构通常需要为各品牌分别安排预算。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "与 branded house 相对；不意味着必须完全独立运营。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈhaʊs ɒv ˈbrændz",
+        "after": "ˈhaʊs əv brændz"
+      },
+      "ipaUS": {
+        "before": "ˈhaʊs ʌv ˈbrændz",
+        "after": "ˈhaʊs əv brændz"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT122",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "House of brands",
+      "zh": "多品牌架构",
+      "definition": "旗下品牌以相对独立身份面向市场的架构。",
+      "example": "It takes separate budgets to manage a house of brands.",
+      "exampleZh": "管理多品牌架构需要独立预算。",
+      "collocation": "manage a house of brands",
+      "collocationZh": "管理多品牌架构",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What is the budget implication of keeping several independent brands?",
+          "zh": "保留多个独立品牌对预算有什么影响？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "It takes separate budgets to manage a house of brands.",
+          "zh": "管理多品牌架构需要独立预算。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 122,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈhaʊs ɒv ˈbrændz",
+      "ipaUS": "ˈhaʊs ʌv ˈbrændz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "House of brands",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT122",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "House of brands",
+      "zh": "多品牌架构",
+      "definition": "企业旗下多个品牌以相对独立的名称、定位和身份面向市场的品牌架构。",
+      "example": "Managing a house of brands often requires separate budgets for each brand.",
+      "exampleZh": "管理多品牌架构通常需要为各品牌分别安排预算。",
+      "collocation": "manage a house of brands",
+      "collocationZh": "管理多品牌架构",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What is the budget implication of keeping several independent brands?",
+          "zh": "保留多个独立品牌对预算有什么影响？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Managing a house of brands often requires separate budgets for each brand.",
+          "zh": "管理多品牌架构通常需要为各品牌分别安排预算。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 122,
+      "aliases": [],
+      "distinction": "与 branded house 相对；不意味着必须完全独立运营。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈhaʊs əv brændz",
+      "ipaUS": "ˈhaʊs əv brændz",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "House of brands",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT123",
+    "term": "Branded house",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "各业务主要共享同一主品牌身份的架构。",
+        "after": "各业务或产品主要共享同一主品牌名称及身份的品牌架构。"
+      },
+      "exampleZh": {
+        "before": "我们可以转向单一主品牌架构以降低复杂度。",
+        "after": "我们可以转向单一主品牌架构，以降低管理复杂度。"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "How could we simplify our fragmented brand architecture?",
+            "zh": "如何简化分散的品牌架构？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We could move toward a branded house to reduce complexity.",
+            "zh": "我们可以转向单一主品牌架构以降低复杂度。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "How could we simplify our fragmented brand architecture?",
+            "zh": "如何简化分散的品牌架构？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We could move toward a branded house to reduce complexity.",
+            "zh": "我们可以转向单一主品牌架构，以降低管理复杂度。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "可以包含子品牌，并非只能有一个产品名称。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈbrændɪd ˈhaʊs",
+        "after": "ˈbrændɪd haʊs"
+      },
+      "ipaUS": {
+        "before": "ˈbrændɪd ˈhaʊs",
+        "after": "ˈbrændɪd haʊs"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT123",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Branded house",
+      "zh": "单一主品牌架构",
+      "definition": "各业务主要共享同一主品牌身份的架构。",
+      "example": "We could move toward a branded house to reduce complexity.",
+      "exampleZh": "我们可以转向单一主品牌架构以降低复杂度。",
+      "collocation": "move toward a branded house",
+      "collocationZh": "转向单一主品牌架构",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How could we simplify our fragmented brand architecture?",
+          "zh": "如何简化分散的品牌架构？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We could move toward a branded house to reduce complexity.",
+          "zh": "我们可以转向单一主品牌架构以降低复杂度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 123,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrændɪd ˈhaʊs",
+      "ipaUS": "ˈbrændɪd ˈhaʊs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Branded house",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT123",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Branded house",
+      "zh": "单一主品牌架构",
+      "definition": "各业务或产品主要共享同一主品牌名称及身份的品牌架构。",
+      "example": "We could move toward a branded house to reduce complexity.",
+      "exampleZh": "我们可以转向单一主品牌架构，以降低管理复杂度。",
+      "collocation": "move toward a branded house",
+      "collocationZh": "转向单一主品牌架构",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How could we simplify our fragmented brand architecture?",
+          "zh": "如何简化分散的品牌架构？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We could move toward a branded house to reduce complexity.",
+          "zh": "我们可以转向单一主品牌架构，以降低管理复杂度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 123,
+      "aliases": [],
+      "distinction": "可以包含子品牌，并非只能有一个产品名称。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈbrændɪd haʊs",
+      "ipaUS": "ˈbrændɪd haʊs",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Branded house",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT124",
+    "term": "Co-branding",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "两个或多个品牌共同推出产品或传播活动。",
+        "after": "两个或多个品牌共同参与产品、服务或营销活动，并借助彼此品牌资产的合作方式。"
+      },
+      "exampleZh": {
+        "before": "我们与旅游合作伙伴探索联合品牌机会吧。",
+        "after": "我们来探索与旅游行业合作伙伴开展品牌联名的机会吧。"
+      },
+      "collocationZh": {
+        "before": "探索联合品牌机会",
+        "after": "探索品牌联名机会"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "How might we collaborate with another brand to reach travelers?",
+            "zh": "如何与其他品牌合作触达旅行者？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Let's explore co-branding opportunities with a travel partner.",
+            "zh": "我们与旅游合作伙伴探索联合品牌机会吧。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "How might we collaborate with another brand to reach travelers?",
+            "zh": "如何与其他品牌合作触达旅行者？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Let's explore co-branding opportunities with a travel partner.",
+            "zh": "我们来探索与旅游行业合作伙伴开展品牌联名的机会吧。"
+          }
+        ]
+      },
+      "aliases": {
+        "before": [],
+        "after": [
+          "品牌联名",
+          "品牌联合"
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "联名是常见形式，不等于单纯的渠道合作。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈkəʊˈbrændɪŋ",
+        "after": "ˌkəʊˈbrændɪŋ"
+      },
+      "ipaUS": {
+        "before": "ˈkoʊˈbrændɪŋ",
+        "after": "ˌkoʊˈbrændɪŋ"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT124",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Co-branding",
+      "zh": "联合品牌",
+      "definition": "两个或多个品牌共同推出产品或传播活动。",
+      "example": "Let's explore co-branding opportunities with a travel partner.",
+      "exampleZh": "我们与旅游合作伙伴探索联合品牌机会吧。",
+      "collocation": "explore co-branding opportunities",
+      "collocationZh": "探索联合品牌机会",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How might we collaborate with another brand to reach travelers?",
+          "zh": "如何与其他品牌合作触达旅行者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's explore co-branding opportunities with a travel partner.",
+          "zh": "我们与旅游合作伙伴探索联合品牌机会吧。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 124,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkəʊˈbrændɪŋ",
+      "ipaUS": "ˈkoʊˈbrændɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Co-branding",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT124",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Co-branding",
+      "zh": "联合品牌",
+      "definition": "两个或多个品牌共同参与产品、服务或营销活动，并借助彼此品牌资产的合作方式。",
+      "example": "Let's explore co-branding opportunities with a travel partner.",
+      "exampleZh": "我们来探索与旅游行业合作伙伴开展品牌联名的机会吧。",
+      "collocation": "explore co-branding opportunities",
+      "collocationZh": "探索品牌联名机会",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How might we collaborate with another brand to reach travelers?",
+          "zh": "如何与其他品牌合作触达旅行者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's explore co-branding opportunities with a travel partner.",
+          "zh": "我们来探索与旅游行业合作伙伴开展品牌联名的机会吧。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 124,
+      "aliases": [
+        "品牌联名",
+        "品牌联合"
+      ],
+      "distinction": "联名是常见形式，不等于单纯的渠道合作。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌkəʊˈbrændɪŋ",
+      "ipaUS": "ˌkoʊˈbrændɪŋ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Co-branding",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT125",
+    "term": "Brand dilution",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "过度延伸等因素削弱品牌核心联想的现象。",
+        "after": "品牌延伸或其他因素削弱品牌原有联想、独特性或价值的现象。"
+      },
+      "exampleZh": {
+        "before": "过多不相关的品牌延伸可能导致品牌稀释。",
+        "after": "过多与核心品牌无关的延伸产品可能导致品牌稀释。"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "What is the risk of putting our brand name on too many unrelated products?",
+            "zh": "在过多不相关产品上使用品牌名称有什么风险？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Too many unrelated extensions may cause brand dilution.",
+            "zh": "过多不相关的品牌延伸可能导致品牌稀释。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "What is the risk of putting our brand name on too many unrelated products?",
+            "zh": "在过多不相关产品上使用品牌名称有什么风险？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Too many unrelated extensions may cause brand dilution.",
+            "zh": "过多与核心品牌无关的延伸产品可能导致品牌稀释。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "此处为营销概念，不专指商标法中的淡化。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈbrænd daɪˈluːʃən",
+        "after": "brænd daɪˈluːʃən"
+      },
+      "ipaUS": {
+        "before": "ˈbrænd daɪˈluːʃən",
+        "after": "brænd daɪˈluːʃən"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT125",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand dilution",
+      "zh": "品牌稀释",
+      "definition": "过度延伸等因素削弱品牌核心联想的现象。",
+      "example": "Too many unrelated extensions may cause brand dilution.",
+      "exampleZh": "过多不相关的品牌延伸可能导致品牌稀释。",
+      "collocation": "avoid brand dilution",
+      "collocationZh": "避免品牌稀释",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What is the risk of putting our brand name on too many unrelated products?",
+          "zh": "在过多不相关产品上使用品牌名称有什么风险？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Too many unrelated extensions may cause brand dilution.",
+          "zh": "过多不相关的品牌延伸可能导致品牌稀释。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 125,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd daɪˈluːʃən",
+      "ipaUS": "ˈbrænd daɪˈluːʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand dilution",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT125",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand dilution",
+      "zh": "品牌稀释",
+      "definition": "品牌延伸或其他因素削弱品牌原有联想、独特性或价值的现象。",
+      "example": "Too many unrelated extensions may cause brand dilution.",
+      "exampleZh": "过多与核心品牌无关的延伸产品可能导致品牌稀释。",
+      "collocation": "avoid brand dilution",
+      "collocationZh": "避免品牌稀释",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What is the risk of putting our brand name on too many unrelated products?",
+          "zh": "在过多不相关产品上使用品牌名称有什么风险？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Too many unrelated extensions may cause brand dilution.",
+          "zh": "过多与核心品牌无关的延伸产品可能导致品牌稀释。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 125,
+      "aliases": [],
+      "distinction": "此处为营销概念，不专指商标法中的淡化。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd daɪˈluːʃən",
+      "ipaUS": "brænd daɪˈluːʃən",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand dilution",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT126",
+    "term": "Brand revitalization",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "恢复成熟或衰退品牌活力的策略。",
+        "after": "通过调整定位、产品或传播等方式恢复成熟或衰退品牌的市场活力。"
+      },
+      "example": {
+        "before": "We should invest in brand revitalization rather than deep discounts.",
+        "after": "We should invest in brand revitalization rather than rely on deep discounts."
+      },
+      "exampleZh": {
+        "before": "我们应投入品牌焕新而非大幅折扣。",
+        "after": "我们应投入资源推动品牌焕新，而不是依赖大幅降价。"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "How should we restore interest in the aging brand without cutting prices further?",
+            "zh": "怎样在不进一步降价的情况下恢复消费者对老品牌的兴趣？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We should invest in brand revitalization rather than deep discounts.",
+            "zh": "我们应投入品牌焕新而非大幅折扣。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "How should we restore interest in the aging brand without cutting prices further?",
+            "zh": "怎样在不进一步降价的情况下恢复消费者对老品牌的兴趣？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We should invest in brand revitalization rather than rely on deep discounts.",
+            "zh": "我们应投入资源推动品牌焕新，而不是依赖大幅降价。"
+          }
+        ]
+      },
+      "aliases": {
+        "before": [],
+        "after": [
+          "brand revitalisation",
+          "品牌复兴"
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "英式拼写也可用 revitalisation；不一定需要更换品牌名称。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈbrænd rɪˌvaɪtəlaɪˈzeɪʃən",
+        "after": "brænd ˌriːvaɪtəlaɪˈzeɪʃən"
+      },
+      "ipaUS": {
+        "before": "ˈbrænd rɪˌvaɪtəlɪˈzeɪʃən",
+        "after": "brænd ˌriːvaɪtələˈzeɪʃən"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT126",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand revitalization",
+      "zh": "品牌焕新",
+      "definition": "恢复成熟或衰退品牌活力的策略。",
+      "example": "We should invest in brand revitalization rather than deep discounts.",
+      "exampleZh": "我们应投入品牌焕新而非大幅折扣。",
+      "collocation": "invest in brand revitalization",
+      "collocationZh": "投入品牌焕新",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should we restore interest in the aging brand without cutting prices further?",
+          "zh": "怎样在不进一步降价的情况下恢复消费者对老品牌的兴趣？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should invest in brand revitalization rather than deep discounts.",
+          "zh": "我们应投入品牌焕新而非大幅折扣。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 126,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd rɪˌvaɪtəlaɪˈzeɪʃən",
+      "ipaUS": "ˈbrænd rɪˌvaɪtəlɪˈzeɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand revitalization",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT126",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand revitalization",
+      "zh": "品牌焕新",
+      "definition": "通过调整定位、产品或传播等方式恢复成熟或衰退品牌的市场活力。",
+      "example": "We should invest in brand revitalization rather than rely on deep discounts.",
+      "exampleZh": "我们应投入资源推动品牌焕新，而不是依赖大幅降价。",
+      "collocation": "invest in brand revitalization",
+      "collocationZh": "投入品牌焕新",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should we restore interest in the aging brand without cutting prices further?",
+          "zh": "怎样在不进一步降价的情况下恢复消费者对老品牌的兴趣？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should invest in brand revitalization rather than rely on deep discounts.",
+          "zh": "我们应投入资源推动品牌焕新，而不是依赖大幅降价。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 126,
+      "aliases": [
+        "brand revitalisation",
+        "品牌复兴"
+      ],
+      "distinction": "英式拼写也可用 revitalisation；不一定需要更换品牌名称。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˌriːvaɪtəlaɪˈzeɪʃən",
+      "ipaUS": "brænd ˌriːvaɪtələˈzeɪʃən",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand revitalization",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT127",
+    "term": "Brand licensing",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "允许第三方按约定使用品牌资产的商业安排。",
+        "after": "品牌权利人按约定范围、期限及条件许可第三方使用品牌资产的商业安排。"
+      },
+      "exampleZh": {
+        "before": "法务将协助谈判品牌授权协议。",
+        "after": "法务团队将协助洽谈品牌授权协议。"
+      },
+      "collocationZh": {
+        "before": "谈判品牌授权协议",
+        "after": "洽谈品牌授权协议"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "Who will help us agree on terms for another company to use our brand?",
+            "zh": "谁会协助我们商定其他公司使用品牌的条款？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Legal will help negotiate a brand licensing agreement.",
+            "zh": "法务将协助谈判品牌授权协议。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "Who will help us agree on terms for another company to use our brand?",
+            "zh": "谁会协助我们商定其他公司使用品牌的条款？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Legal will help negotiate a brand licensing agreement.",
+            "zh": "法务团队将协助洽谈品牌授权协议。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "licensing 是英美通用的动名词拼写；授权不等于转让所有权。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈbrænd ˈlaɪsənsɪŋ",
+        "after": "brænd ˈlaɪsənsɪŋ"
+      },
+      "ipaUS": {
+        "before": "ˈbrænd ˈlaɪsənsɪŋ",
+        "after": "brænd ˈlaɪsənsɪŋ"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT127",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand licensing",
+      "zh": "品牌授权",
+      "definition": "允许第三方按约定使用品牌资产的商业安排。",
+      "example": "Legal will help negotiate a brand licensing agreement.",
+      "exampleZh": "法务将协助谈判品牌授权协议。",
+      "collocation": "negotiate a brand licensing agreement",
+      "collocationZh": "谈判品牌授权协议",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who will help us agree on terms for another company to use our brand?",
+          "zh": "谁会协助我们商定其他公司使用品牌的条款？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Legal will help negotiate a brand licensing agreement.",
+          "zh": "法务将协助谈判品牌授权协议。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 127,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈlaɪsənsɪŋ",
+      "ipaUS": "ˈbrænd ˈlaɪsənsɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand licensing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT127",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand licensing",
+      "zh": "品牌授权",
+      "definition": "品牌权利人按约定范围、期限及条件许可第三方使用品牌资产的商业安排。",
+      "example": "Legal will help negotiate a brand licensing agreement.",
+      "exampleZh": "法务团队将协助洽谈品牌授权协议。",
+      "collocation": "negotiate a brand licensing agreement",
+      "collocationZh": "洽谈品牌授权协议",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who will help us agree on terms for another company to use our brand?",
+          "zh": "谁会协助我们商定其他公司使用品牌的条款？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Legal will help negotiate a brand licensing agreement.",
+          "zh": "法务团队将协助洽谈品牌授权协议。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 127,
+      "aliases": [],
+      "distinction": "licensing 是英美通用的动名词拼写；授权不等于转让所有权。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈlaɪsənsɪŋ",
+      "ipaUS": "brænd ˈlaɪsənsɪŋ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand licensing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT128",
+    "term": "Brand safety",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "避免广告出现在有损品牌声誉的内容环境中。",
+        "after": "在广告投放中避免与可能损害品牌声誉的有害内容或环境关联的实践。"
+      },
+      "exampleZh": {
+        "before": "媒介合作伙伴必须执行品牌安全标准。",
+        "after": "媒介合作伙伴必须落实品牌安全标准。"
+      },
+      "collocationZh": {
+        "before": "执行品牌安全标准",
+        "after": "落实品牌安全标准"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "What must our media partners do to prevent ads appearing alongside harmful content?",
+            "zh": "媒介合作伙伴必须怎样防止广告出现在有害内容旁边？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our media partners must enforce brand safety standards.",
+            "zh": "媒介合作伙伴必须执行品牌安全标准。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "What must our media partners do to prevent ads from appearing alongside harmful content?",
+            "zh": "媒介合作伙伴必须怎样防止广告出现在有害内容旁边？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our media partners must enforce brand safety standards.",
+            "zh": "媒介合作伙伴必须落实品牌安全标准。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "侧重规避有害环境；brand suitability 还考虑品牌自身偏好。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈbrænd ˈseɪfti",
+        "after": "brænd ˈseɪfti"
+      },
+      "ipaUS": {
+        "before": "ˈbrænd ˈseɪfti",
+        "after": "brænd ˈseɪfti"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT128",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand safety",
+      "zh": "品牌安全",
+      "definition": "避免广告出现在有损品牌声誉的内容环境中。",
+      "example": "Our media partners must enforce brand safety standards.",
+      "exampleZh": "媒介合作伙伴必须执行品牌安全标准。",
+      "collocation": "enforce brand safety standards",
+      "collocationZh": "执行品牌安全标准",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What must our media partners do to prevent ads appearing alongside harmful content?",
+          "zh": "媒介合作伙伴必须怎样防止广告出现在有害内容旁边？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our media partners must enforce brand safety standards.",
+          "zh": "媒介合作伙伴必须执行品牌安全标准。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 128,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈseɪfti",
+      "ipaUS": "ˈbrænd ˈseɪfti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand safety",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT128",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand safety",
+      "zh": "品牌安全",
+      "definition": "在广告投放中避免与可能损害品牌声誉的有害内容或环境关联的实践。",
+      "example": "Our media partners must enforce brand safety standards.",
+      "exampleZh": "媒介合作伙伴必须落实品牌安全标准。",
+      "collocation": "enforce brand safety standards",
+      "collocationZh": "落实品牌安全标准",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What must our media partners do to prevent ads from appearing alongside harmful content?",
+          "zh": "媒介合作伙伴必须怎样防止广告出现在有害内容旁边？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our media partners must enforce brand safety standards.",
+          "zh": "媒介合作伙伴必须落实品牌安全标准。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 128,
+      "aliases": [],
+      "distinction": "侧重规避有害环境；brand suitability 还考虑品牌自身偏好。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈseɪfti",
+      "ipaUS": "brænd ˈseɪfti",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand safety",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT129",
+    "term": "Brand suitability",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "广告内容环境与特定品牌价值和风险偏好的匹配程度。",
+        "after": "广告投放环境与特定品牌价值观、受众及风险容忍度的匹配程度。"
+      },
+      "exampleZh": {
+        "before": "我们在基本安全要求之外评估品牌适配性。",
+        "after": "除了满足基本安全要求，我们还会评估广告环境与品牌的适配性。"
+      },
+      "collocationZh": {
+        "before": "评估品牌适配性",
+        "after": "评估广告环境与品牌的适配性"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "Is avoiding harmful content enough when choosing ad placements?",
+            "zh": "选择广告展示位置时，仅避开有害内容就够了吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We assess brand suitability beyond basic safety requirements.",
+            "zh": "我们在基本安全要求之外评估品牌适配性。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "Is avoiding harmful content enough when choosing ad placements?",
+            "zh": "选择广告展示位置时，仅避开有害内容就够了吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We assess brand suitability beyond basic safety requirements.",
+            "zh": "除了满足基本安全要求，我们还会评估广告环境与品牌的适配性。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "适配性标准因品牌而异，不等同于通用安全底线。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈbrænd ˌsuːtəˈbɪlɪti",
+        "after": "brænd ˌsuːtəˈbɪləti"
+      },
+      "ipaUS": {
+        "before": "ˈbrænd ˌsuːtəˈbɪlɪti",
+        "after": "brænd ˌsuːtəˈbɪləti"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT129",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand suitability",
+      "zh": "品牌适配性",
+      "definition": "广告内容环境与特定品牌价值和风险偏好的匹配程度。",
+      "example": "We assess brand suitability beyond basic safety requirements.",
+      "exampleZh": "我们在基本安全要求之外评估品牌适配性。",
+      "collocation": "assess brand suitability",
+      "collocationZh": "评估品牌适配性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Is avoiding harmful content enough when choosing ad placements?",
+          "zh": "选择广告展示位置时，仅避开有害内容就够了吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We assess brand suitability beyond basic safety requirements.",
+          "zh": "我们在基本安全要求之外评估品牌适配性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 129,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˌsuːtəˈbɪlɪti",
+      "ipaUS": "ˈbrænd ˌsuːtəˈbɪlɪti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand suitability",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT129",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand suitability",
+      "zh": "品牌适配性",
+      "definition": "广告投放环境与特定品牌价值观、受众及风险容忍度的匹配程度。",
+      "example": "We assess brand suitability beyond basic safety requirements.",
+      "exampleZh": "除了满足基本安全要求，我们还会评估广告环境与品牌的适配性。",
+      "collocation": "assess brand suitability",
+      "collocationZh": "评估广告环境与品牌的适配性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Is avoiding harmful content enough when choosing ad placements?",
+          "zh": "选择广告展示位置时，仅避开有害内容就够了吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We assess brand suitability beyond basic safety requirements.",
+          "zh": "除了满足基本安全要求，我们还会评估广告环境与品牌的适配性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 129,
+      "aliases": [],
+      "distinction": "适配性标准因品牌而异，不等同于通用安全底线。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˌsuːtəˈbɪləti",
+      "ipaUS": "brænd ˌsuːtəˈbɪləti",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand suitability",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT130",
+    "term": "Need state",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "消费者在特定情境下产生的需求与动机。",
+        "after": "消费者在特定情境下希望满足的功能性、情感性或社会性需求及动机。"
+      },
+      "example": {
+        "before": "Interviews helped us identify need states for weekday meals.",
+        "after": "Interviews helped us identify need states for weekday dinners."
+      },
+      "exampleZh": {
+        "before": "访谈帮助我们识别工作日用餐的需求状态。",
+        "after": "访谈帮助我们识别消费者在工作日晚餐场景中的不同需求。"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "What do customers actually need when they buy dinner on a busy workday?",
+            "zh": "顾客在忙碌的工作日购买晚餐时真正需要什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Interviews helped us identify need states for weekday meals.",
+            "zh": "访谈帮助我们识别工作日用餐的需求状态。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "What do customers actually need when they buy dinner on a busy workday?",
+            "zh": "顾客在忙碌的工作日购买晚餐时真正需要什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Interviews helped us identify need states for weekday dinners.",
+            "zh": "访谈帮助我们识别消费者在工作日晚餐场景中的不同需求。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "强调情境中的需求，不是固定的人群属性。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈniːd ˈsteɪt",
+        "after": "ˈniːd steɪt"
+      },
+      "ipaUS": {
+        "before": "ˈniːd ˈsteɪt",
+        "after": "ˈniːd steɪt"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT130",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Need state",
+      "zh": "需求状态",
+      "definition": "消费者在特定情境下产生的需求与动机。",
+      "example": "Interviews helped us identify need states for weekday meals.",
+      "exampleZh": "访谈帮助我们识别工作日用餐的需求状态。",
+      "collocation": "identify need states",
+      "collocationZh": "识别需求状态",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What do customers actually need when they buy dinner on a busy workday?",
+          "zh": "顾客在忙碌的工作日购买晚餐时真正需要什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Interviews helped us identify need states for weekday meals.",
+          "zh": "访谈帮助我们识别工作日用餐的需求状态。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 130,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈniːd ˈsteɪt",
+      "ipaUS": "ˈniːd ˈsteɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Need state",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT130",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Need state",
+      "zh": "需求状态",
+      "definition": "消费者在特定情境下希望满足的功能性、情感性或社会性需求及动机。",
+      "example": "Interviews helped us identify need states for weekday dinners.",
+      "exampleZh": "访谈帮助我们识别消费者在工作日晚餐场景中的不同需求。",
+      "collocation": "identify need states",
+      "collocationZh": "识别需求状态",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What do customers actually need when they buy dinner on a busy workday?",
+          "zh": "顾客在忙碌的工作日购买晚餐时真正需要什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Interviews helped us identify need states for weekday dinners.",
+          "zh": "访谈帮助我们识别消费者在工作日晚餐场景中的不同需求。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 130,
+      "aliases": [],
+      "distinction": "强调情境中的需求，不是固定的人群属性。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈniːd steɪt",
+      "ipaUS": "ˈniːd steɪt",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Need state",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT131",
+    "term": "Consumption occasion",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "zh": {
+        "before": "消费场合",
+        "after": "消费场景"
+      },
+      "definition": {
+        "before": "产品被消费的具体时间、地点或情境。",
+        "after": "消费者实际使用或消费产品的具体场景，包括时间、地点、活动或社交背景。"
+      },
+      "exampleZh": {
+        "before": "规划产品系列前需要梳理消费场合。",
+        "after": "规划产品系列前，我们需要梳理不同的消费场景。"
+      },
+      "collocationZh": {
+        "before": "梳理消费场合",
+        "after": "梳理消费场景"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "How should we decide which products belong in the new range?",
+            "zh": "我们应该如何决定新品系列包含哪些产品？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We need to map consumption occasions before planning the range.",
+            "zh": "规划产品系列前需要梳理消费场合。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "How should we decide which products belong in the new range?",
+            "zh": "我们应该如何决定新品系列包含哪些产品？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We need to map consumption occasions before planning the range.",
+            "zh": "规划产品系列前，我们需要梳理不同的消费场景。"
+          }
+        ]
+      },
+      "aliases": {
+        "before": [],
+        "after": [
+          "消费场合"
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "消费场景与购买场景可能不同。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT131",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Consumption occasion",
+      "zh": "消费场合",
+      "definition": "产品被消费的具体时间、地点或情境。",
+      "example": "We need to map consumption occasions before planning the range.",
+      "exampleZh": "规划产品系列前需要梳理消费场合。",
+      "collocation": "map consumption occasions",
+      "collocationZh": "梳理消费场合",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should we decide which products belong in the new range?",
+          "zh": "我们应该如何决定新品系列包含哪些产品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to map consumption occasions before planning the range.",
+          "zh": "规划产品系列前需要梳理消费场合。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 131,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kənˈsʌmpʃən əˈkeɪʒən",
+      "ipaUS": "kənˈsʌmpʃən əˈkeɪʒən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Consumption occasion",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT131",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Consumption occasion",
+      "zh": "消费场景",
+      "definition": "消费者实际使用或消费产品的具体场景，包括时间、地点、活动或社交背景。",
+      "example": "We need to map consumption occasions before planning the range.",
+      "exampleZh": "规划产品系列前，我们需要梳理不同的消费场景。",
+      "collocation": "map consumption occasions",
+      "collocationZh": "梳理消费场景",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should we decide which products belong in the new range?",
+          "zh": "我们应该如何决定新品系列包含哪些产品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to map consumption occasions before planning the range.",
+          "zh": "规划产品系列前，我们需要梳理不同的消费场景。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 131,
+      "aliases": [
+        "消费场合"
+      ],
+      "distinction": "消费场景与购买场景可能不同。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kənˈsʌmpʃən əˈkeɪʒən",
+      "ipaUS": "kənˈsʌmpʃən əˈkeɪʒən",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Consumption occasion",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT132",
+    "term": "Purchase trigger",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "促使消费者开始或完成购买的事件或刺激。",
+        "after": "促使消费者启动购买决策或采取购买行动的事件、需求或刺激。"
+      },
+      "exampleZh": {
+        "before": "访谈揭示了几个意想不到的购买触发因素。",
+        "after": "访谈揭示了几个出乎意料的购买触发因素。"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "What prompted shoppers to buy sooner than they had planned?",
+            "zh": "是什么促使购物者比原计划更早购买？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The interviews revealed several unexpected purchase triggers.",
+            "zh": "访谈揭示了几个意想不到的购买触发因素。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "What prompted shoppers to buy sooner than they had planned?",
+            "zh": "是什么促使消费者比原计划更早购买？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The interviews revealed several unexpected purchase triggers.",
+            "zh": "访谈揭示了几个出乎意料的购买触发因素。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "触发因素不一定最终导致成交。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈpɜːtʃɪs ˈtrɪɡə",
+        "after": "ˈpɜːtʃəs ˈtrɪɡə"
+      },
+      "ipaUS": {
+        "before": "ˈpɜːtʃɪs ˈtrɪɡɚ",
+        "after": "ˈpɝːtʃəs ˈtrɪɡər"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT132",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Purchase trigger",
+      "zh": "购买触发因素",
+      "definition": "促使消费者开始或完成购买的事件或刺激。",
+      "example": "The interviews revealed several unexpected purchase triggers.",
+      "exampleZh": "访谈揭示了几个意想不到的购买触发因素。",
+      "collocation": "identify purchase triggers",
+      "collocationZh": "识别购买触发因素",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What prompted shoppers to buy sooner than they had planned?",
+          "zh": "是什么促使购物者比原计划更早购买？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The interviews revealed several unexpected purchase triggers.",
+          "zh": "访谈揭示了几个意想不到的购买触发因素。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 132,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpɜːtʃɪs ˈtrɪɡə",
+      "ipaUS": "ˈpɜːtʃɪs ˈtrɪɡɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Purchase trigger",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT132",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Purchase trigger",
+      "zh": "购买触发因素",
+      "definition": "促使消费者启动购买决策或采取购买行动的事件、需求或刺激。",
+      "example": "The interviews revealed several unexpected purchase triggers.",
+      "exampleZh": "访谈揭示了几个出乎意料的购买触发因素。",
+      "collocation": "identify purchase triggers",
+      "collocationZh": "识别购买触发因素",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What prompted shoppers to buy sooner than they had planned?",
+          "zh": "是什么促使消费者比原计划更早购买？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The interviews revealed several unexpected purchase triggers.",
+          "zh": "访谈揭示了几个出乎意料的购买触发因素。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 132,
+      "aliases": [],
+      "distinction": "触发因素不一定最终导致成交。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈpɜːtʃəs ˈtrɪɡə",
+      "ipaUS": "ˈpɝːtʃəs ˈtrɪɡər",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Purchase trigger",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT133",
+    "term": "Purchase barrier",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "阻碍消费者完成购买的因素。",
+        "after": "使消费者推迟、放弃或难以完成购买的因素，例如价格、风险或流程摩擦。"
+      },
+      "example": {
+        "before": "Clear delivery information can remove purchase barriers.",
+        "after": "Clear delivery information can help remove purchase barriers."
+      },
+      "exampleZh": {
+        "before": "清晰的配送信息可以消除购买障碍。",
+        "after": "清晰的配送信息有助于减少购买障碍。"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why are shoppers abandoning orders when shipping details are unclear?",
+            "zh": "为什么配送信息不明确时购物者会放弃订单？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Clear delivery information can remove purchase barriers.",
+            "zh": "清晰的配送信息可以消除购买障碍。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we reduce order abandonment caused by unclear shipping details?",
+            "zh": "如何减少因配送信息不明确而放弃订单的情况？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Clear delivery information can help remove purchase barriers.",
+            "zh": "清晰的配送信息有助于减少购买障碍。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "与 purchase trigger 的促进作用相对。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈpɜːtʃɪs ˈbæriə",
+        "after": "ˈpɜːtʃəs ˈbæriə"
+      },
+      "ipaUS": {
+        "before": "ˈpɜːtʃɪs ˈbærɪɚ",
+        "after": "ˈpɝːtʃəs ˈbæriər"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT133",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Purchase barrier",
+      "zh": "购买障碍",
+      "definition": "阻碍消费者完成购买的因素。",
+      "example": "Clear delivery information can remove purchase barriers.",
+      "exampleZh": "清晰的配送信息可以消除购买障碍。",
+      "collocation": "remove purchase barriers",
+      "collocationZh": "消除购买障碍",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why are shoppers abandoning orders when shipping details are unclear?",
+          "zh": "为什么配送信息不明确时购物者会放弃订单？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Clear delivery information can remove purchase barriers.",
+          "zh": "清晰的配送信息可以消除购买障碍。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 133,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpɜːtʃɪs ˈbæriə",
+      "ipaUS": "ˈpɜːtʃɪs ˈbærɪɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Purchase barrier",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT133",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Purchase barrier",
+      "zh": "购买障碍",
+      "definition": "使消费者推迟、放弃或难以完成购买的因素，例如价格、风险或流程摩擦。",
+      "example": "Clear delivery information can help remove purchase barriers.",
+      "exampleZh": "清晰的配送信息有助于减少购买障碍。",
+      "collocation": "remove purchase barriers",
+      "collocationZh": "消除购买障碍",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we reduce order abandonment caused by unclear shipping details?",
+          "zh": "如何减少因配送信息不明确而放弃订单的情况？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Clear delivery information can help remove purchase barriers.",
+          "zh": "清晰的配送信息有助于减少购买障碍。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 133,
+      "aliases": [],
+      "distinction": "与 purchase trigger 的促进作用相对。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈpɜːtʃəs ˈbæriə",
+      "ipaUS": "ˈpɝːtʃəs ˈbæriər",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Purchase barrier",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT134",
+    "term": "Decision-making process",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "消费者从识别需求到选择方案的过程。",
+        "after": "消费者识别需求、搜集信息、评估选项并作出决定的过程，广义模型还包括购后评价。"
+      },
+      "example": {
+        "before": "We interviewed families to understand the decision-making process.",
+        "after": "We interviewed families to understand their purchase decision-making process."
+      },
+      "exampleZh": {
+        "before": "我们访谈家庭以理解决策过程。",
+        "after": "我们访谈了多个家庭，以了解他们的购买决策过程。"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we find out who influences household purchases?",
+            "zh": "我们如何了解谁会影响家庭采购决策？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We interviewed families to understand the decision-making process.",
+            "zh": "我们访谈家庭以理解决策过程。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we find out who influences household purchases?",
+            "zh": "我们如何了解谁会影响家庭采购决策？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We interviewed families to understand their purchase decision-making process.",
+            "zh": "我们访谈了多个家庭，以了解他们的购买决策过程。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "实际决策不一定按固定顺序进行。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "dɪˈsɪʒənˌmeɪkɪŋ ˈprəʊses",
+        "after": "dɪˈsɪʒən ˌmeɪkɪŋ ˈprəʊses"
+      },
+      "ipaUS": {
+        "before": "dɪˈsɪʒənˌmeɪkɪŋ ˈprɑːses",
+        "after": "dɪˈsɪʒən ˌmeɪkɪŋ ˈprɑːses"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT134",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Decision-making process",
+      "zh": "决策过程",
+      "definition": "消费者从识别需求到选择方案的过程。",
+      "example": "We interviewed families to understand the decision-making process.",
+      "exampleZh": "我们访谈家庭以理解决策过程。",
+      "collocation": "understand the decision-making process",
+      "collocationZh": "理解决策过程",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we find out who influences household purchases?",
+          "zh": "我们如何了解谁会影响家庭采购决策？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We interviewed families to understand the decision-making process.",
+          "zh": "我们访谈家庭以理解决策过程。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 134,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "dɪˈsɪʒənˌmeɪkɪŋ ˈprəʊses",
+      "ipaUS": "dɪˈsɪʒənˌmeɪkɪŋ ˈprɑːses",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Decision-making process",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT134",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Decision-making process",
+      "zh": "决策过程",
+      "definition": "消费者识别需求、搜集信息、评估选项并作出决定的过程，广义模型还包括购后评价。",
+      "example": "We interviewed families to understand their purchase decision-making process.",
+      "exampleZh": "我们访谈了多个家庭，以了解他们的购买决策过程。",
+      "collocation": "understand the decision-making process",
+      "collocationZh": "理解决策过程",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we find out who influences household purchases?",
+          "zh": "我们如何了解谁会影响家庭采购决策？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We interviewed families to understand their purchase decision-making process.",
+          "zh": "我们访谈了多个家庭，以了解他们的购买决策过程。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 134,
+      "aliases": [],
+      "distinction": "实际决策不一定按固定顺序进行。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "dɪˈsɪʒən ˌmeɪkɪŋ ˈprəʊses",
+      "ipaUS": "dɪˈsɪʒən ˌmeɪkɪŋ ˈprɑːses",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Decision-making process",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT135",
+    "term": "Consideration set",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "zh": {
+        "before": "考虑集合",
+        "after": "购买备选集合"
+      },
+      "definition": {
+        "before": "消费者购买时认真考虑的品牌或产品集合。",
+        "after": "消费者在某次购买决策中认真考虑的品牌或产品备选集合。"
+      },
+      "example": {
+        "before": "Our goal is to enter the consideration set of first-time buyers.",
+        "after": "Our goal is to get our brand into the consideration set of first-time buyers."
+      },
+      "exampleZh": {
+        "before": "我们的目标是进入首次购买者的考虑集合。",
+        "after": "我们的目标是让品牌进入首次购买者的备选范围。"
+      },
+      "collocationZh": {
+        "before": "进入考虑集合",
+        "after": "进入购买备选范围"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "What is our first hurdle before new buyers compare us with rivals?",
+            "zh": "新买家将我们与竞争对手比较之前，我们首先要跨过什么门槛？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our goal is to enter the consideration set of first-time buyers.",
+            "zh": "我们的目标是进入首次购买者的考虑集合。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "What is our first hurdle before new buyers compare us with rivals?",
+            "zh": "新买家将我们与竞争对手比较之前，我们首先要跨过什么门槛？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our goal is to get our brand into the consideration set of first-time buyers.",
+            "zh": "我们的目标是让品牌进入首次购买者的备选范围。"
+          }
+        ]
+      },
+      "aliases": {
+        "before": [],
+        "after": [
+          "考虑集合",
+          "备选品牌集合"
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "不同于消费者知道的所有品牌。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "kənˌsɪdəˈreɪʃən ˈset",
+        "after": "kənˌsɪdəˈreɪʃən set"
+      },
+      "ipaUS": {
+        "before": "kənˌsɪdɚˈreɪʃən ˈset",
+        "after": "kənˌsɪdəˈreɪʃən set"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT135",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Consideration set",
+      "zh": "考虑集合",
+      "definition": "消费者购买时认真考虑的品牌或产品集合。",
+      "example": "Our goal is to enter the consideration set of first-time buyers.",
+      "exampleZh": "我们的目标是进入首次购买者的考虑集合。",
+      "collocation": "enter the consideration set",
+      "collocationZh": "进入考虑集合",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What is our first hurdle before new buyers compare us with rivals?",
+          "zh": "新买家将我们与竞争对手比较之前，我们首先要跨过什么门槛？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our goal is to enter the consideration set of first-time buyers.",
+          "zh": "我们的目标是进入首次购买者的考虑集合。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 135,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kənˌsɪdəˈreɪʃən ˈset",
+      "ipaUS": "kənˌsɪdɚˈreɪʃən ˈset",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Consideration set",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT135",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Consideration set",
+      "zh": "购买备选集合",
+      "definition": "消费者在某次购买决策中认真考虑的品牌或产品备选集合。",
+      "example": "Our goal is to get our brand into the consideration set of first-time buyers.",
+      "exampleZh": "我们的目标是让品牌进入首次购买者的备选范围。",
+      "collocation": "enter the consideration set",
+      "collocationZh": "进入购买备选范围",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What is our first hurdle before new buyers compare us with rivals?",
+          "zh": "新买家将我们与竞争对手比较之前，我们首先要跨过什么门槛？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our goal is to get our brand into the consideration set of first-time buyers.",
+          "zh": "我们的目标是让品牌进入首次购买者的备选范围。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 135,
+      "aliases": [
+        "考虑集合",
+        "备选品牌集合"
+      ],
+      "distinction": "不同于消费者知道的所有品牌。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kənˌsɪdəˈreɪʃən set",
+      "ipaUS": "kənˌsɪdəˈreɪʃən set",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Consideration set",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT136",
+    "term": "Perceived value",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "消费者对获得利益与付出成本的主观评价。",
+        "after": "消费者对产品预期或实际收益与金钱、时间、精力等付出之间权衡的主观评价。"
+      },
+      "exampleZh": {
+        "before": "更好的包装可能在不改变配方的情况下提升感知价值。",
+        "after": "更好的包装可能在不改变配方的情况下提升消费者的感知价值。"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "Can we make the product feel more premium without reformulating it?",
+            "zh": "不改变配方，能否让产品显得更高端？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Better packaging may increase perceived value without changing the formula.",
+            "zh": "更好的包装可能在不改变配方的情况下提升感知价值。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "Can we make the product feel more premium without reformulating it?",
+            "zh": "不改变配方，能否让产品显得更高端？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Better packaging may increase perceived value without changing the formula.",
+            "zh": "更好的包装可能在不改变配方的情况下提升消费者的感知价值。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "不等同于客观成本或标价。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUS": {
+        "before": "pɚˈsiːvd ˈvæljuː",
+        "after": "pərˈsiːvd ˈvæljuː"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT136",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Perceived value",
+      "zh": "感知价值",
+      "definition": "消费者对获得利益与付出成本的主观评价。",
+      "example": "Better packaging may increase perceived value without changing the formula.",
+      "exampleZh": "更好的包装可能在不改变配方的情况下提升感知价值。",
+      "collocation": "increase perceived value",
+      "collocationZh": "提升感知价值",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can we make the product feel more premium without reformulating it?",
+          "zh": "不改变配方，能否让产品显得更高端？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Better packaging may increase perceived value without changing the formula.",
+          "zh": "更好的包装可能在不改变配方的情况下提升感知价值。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 136,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "pəˈsiːvd ˈvæljuː",
+      "ipaUS": "pɚˈsiːvd ˈvæljuː",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Perceived value",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT136",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Perceived value",
+      "zh": "感知价值",
+      "definition": "消费者对产品预期或实际收益与金钱、时间、精力等付出之间权衡的主观评价。",
+      "example": "Better packaging may increase perceived value without changing the formula.",
+      "exampleZh": "更好的包装可能在不改变配方的情况下提升消费者的感知价值。",
+      "collocation": "increase perceived value",
+      "collocationZh": "提升感知价值",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can we make the product feel more premium without reformulating it?",
+          "zh": "不改变配方，能否让产品显得更高端？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Better packaging may increase perceived value without changing the formula.",
+          "zh": "更好的包装可能在不改变配方的情况下提升消费者的感知价值。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 136,
+      "aliases": [],
+      "distinction": "不等同于客观成本或标价。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "pəˈsiːvd ˈvæljuː",
+      "ipaUS": "pərˈsiːvd ˈvæljuː",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Perceived value",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT137",
+    "term": "Perceived risk",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "消费者对购买潜在损失或不确定性的主观判断。",
+        "after": "消费者对购买或使用产品可能产生的不确定性及负面后果的主观判断。"
+      },
+      "exampleZh": {
+        "before": "免费试用可以降低新用户的感知风险。",
+        "after": "免费试用有助于降低新用户感受到的风险。"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we reassure people who are reluctant to subscribe?",
+            "zh": "如何让不愿订阅的用户更放心？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "A free trial can reduce perceived risk for new users.",
+            "zh": "免费试用可以降低新用户的感知风险。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we reassure people who are reluctant to subscribe?",
+            "zh": "如何让对订阅仍有顾虑的用户更放心？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "A free trial can reduce perceived risk for new users.",
+            "zh": "免费试用有助于降低新用户感受到的风险。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "可包括财务、功能、时间或社会风险。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "pəˈsiːvd ˈrɪsk",
+        "after": "pəˈsiːvd rɪsk"
+      },
+      "ipaUS": {
+        "before": "pɚˈsiːvd ˈrɪsk",
+        "after": "pərˈsiːvd rɪsk"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT137",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Perceived risk",
+      "zh": "感知风险",
+      "definition": "消费者对购买潜在损失或不确定性的主观判断。",
+      "example": "A free trial can reduce perceived risk for new users.",
+      "exampleZh": "免费试用可以降低新用户的感知风险。",
+      "collocation": "reduce perceived risk",
+      "collocationZh": "降低感知风险",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we reassure people who are reluctant to subscribe?",
+          "zh": "如何让不愿订阅的用户更放心？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A free trial can reduce perceived risk for new users.",
+          "zh": "免费试用可以降低新用户的感知风险。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 137,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "pəˈsiːvd ˈrɪsk",
+      "ipaUS": "pɚˈsiːvd ˈrɪsk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Perceived risk",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT137",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Perceived risk",
+      "zh": "感知风险",
+      "definition": "消费者对购买或使用产品可能产生的不确定性及负面后果的主观判断。",
+      "example": "A free trial can reduce perceived risk for new users.",
+      "exampleZh": "免费试用有助于降低新用户感受到的风险。",
+      "collocation": "reduce perceived risk",
+      "collocationZh": "降低感知风险",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we reassure people who are reluctant to subscribe?",
+          "zh": "如何让对订阅仍有顾虑的用户更放心？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A free trial can reduce perceived risk for new users.",
+          "zh": "免费试用有助于降低新用户感受到的风险。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 137,
+      "aliases": [],
+      "distinction": "可包括财务、功能、时间或社会风险。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "pəˈsiːvd rɪsk",
+      "ipaUS": "pərˈsiːvd rɪsk",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Perceived risk",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT138",
+    "term": "Price sensitivity",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "消费者需求或选择对价格变化的敏感程度。",
+        "after": "消费者的购买意愿、需求量或选择对价格及其变化的敏感程度。"
+      },
+      "example": {
+        "before": "We should assess price sensitivity before raising prices.",
+        "after": "We should assess price sensitivity before raising subscription prices."
+      },
+      "exampleZh": {
+        "before": "提价前应评估价格敏感度。",
+        "after": "提高订阅价格前，我们应评估消费者的价格敏感度。"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "What should we investigate before increasing the subscription fee?",
+            "zh": "提高订阅费之前应该调查什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We should assess price sensitivity before raising prices.",
+            "zh": "提价前应评估价格敏感度。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "What should we investigate before increasing the subscription fee?",
+            "zh": "提高订阅费之前应该调查什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We should assess price sensitivity before raising subscription prices.",
+            "zh": "提高订阅价格前，我们应评估消费者的价格敏感度。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "价格弹性是衡量价格敏感度的一种定量指标。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈpraɪs ˌsensɪˈtɪvɪti",
+        "after": "praɪs ˌsensəˈtɪvəti"
+      },
+      "ipaUS": {
+        "before": "ˈpraɪs ˌsensɪˈtɪvɪti",
+        "after": "praɪs ˌsensəˈtɪvəti"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT138",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Price sensitivity",
+      "zh": "价格敏感度",
+      "definition": "消费者需求或选择对价格变化的敏感程度。",
+      "example": "We should assess price sensitivity before raising prices.",
+      "exampleZh": "提价前应评估价格敏感度。",
+      "collocation": "assess price sensitivity",
+      "collocationZh": "评估价格敏感度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we investigate before increasing the subscription fee?",
+          "zh": "提高订阅费之前应该调查什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should assess price sensitivity before raising prices.",
+          "zh": "提价前应评估价格敏感度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 138,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpraɪs ˌsensɪˈtɪvɪti",
+      "ipaUS": "ˈpraɪs ˌsensɪˈtɪvɪti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Price sensitivity",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT138",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Price sensitivity",
+      "zh": "价格敏感度",
+      "definition": "消费者的购买意愿、需求量或选择对价格及其变化的敏感程度。",
+      "example": "We should assess price sensitivity before raising subscription prices.",
+      "exampleZh": "提高订阅价格前，我们应评估消费者的价格敏感度。",
+      "collocation": "assess price sensitivity",
+      "collocationZh": "评估价格敏感度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we investigate before increasing the subscription fee?",
+          "zh": "提高订阅费之前应该调查什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should assess price sensitivity before raising subscription prices.",
+          "zh": "提高订阅价格前，我们应评估消费者的价格敏感度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 138,
+      "aliases": [],
+      "distinction": "价格弹性是衡量价格敏感度的一种定量指标。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "praɪs ˌsensəˈtɪvəti",
+      "ipaUS": "praɪs ˌsensəˈtɪvəti",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Price sensitivity",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT139",
+    "term": "Reference price",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "消费者用于判断当前价格是否合理的基准。",
+        "after": "消费者用于比较当前价格的内部心理基准或外部价格参照。"
+      },
+      "exampleZh": {
+        "before": "频繁折扣可能降低客户心中的参考价格。",
+        "after": "频繁打折可能降低消费者心中的参考价格。"
+      },
+      "collocationZh": {
+        "before": "建立参考价格",
+        "after": "建立参考价格基准"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why might constant promotions make full-price sales harder?",
+            "zh": "为什么持续促销可能让原价销售变得更困难？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Frequent discounts can lower the reference price in customers' minds.",
+            "zh": "频繁折扣可能降低客户心中的参考价格。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why might constant promotions make full-price sales harder?",
+            "zh": "为什么持续促销可能让原价销售变得更困难？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Frequent discounts can lower the reference price in customers' minds.",
+            "zh": "频繁打折可能降低消费者心中的参考价格。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "可来自历史价格、竞争产品价格或展示的比较价格。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈrefrəns ˈpraɪs",
+        "after": "ˈrefrəns praɪs"
+      },
+      "ipaUS": {
+        "before": "ˈrefrəns ˈpraɪs",
+        "after": "ˈrefrəns praɪs"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT139",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Reference price",
+      "zh": "参考价格",
+      "definition": "消费者用于判断当前价格是否合理的基准。",
+      "example": "Frequent discounts can lower the reference price in customers' minds.",
+      "exampleZh": "频繁折扣可能降低客户心中的参考价格。",
+      "collocation": "establish a reference price",
+      "collocationZh": "建立参考价格",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why might constant promotions make full-price sales harder?",
+          "zh": "为什么持续促销可能让原价销售变得更困难？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Frequent discounts can lower the reference price in customers' minds.",
+          "zh": "频繁折扣可能降低客户心中的参考价格。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 139,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈrefrəns ˈpraɪs",
+      "ipaUS": "ˈrefrəns ˈpraɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Reference price",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT139",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Reference price",
+      "zh": "参考价格",
+      "definition": "消费者用于比较当前价格的内部心理基准或外部价格参照。",
+      "example": "Frequent discounts can lower the reference price in customers' minds.",
+      "exampleZh": "频繁打折可能降低消费者心中的参考价格。",
+      "collocation": "establish a reference price",
+      "collocationZh": "建立参考价格基准",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why might constant promotions make full-price sales harder?",
+          "zh": "为什么持续促销可能让原价销售变得更困难？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Frequent discounts can lower the reference price in customers' minds.",
+          "zh": "频繁打折可能降低消费者心中的参考价格。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 139,
+      "aliases": [],
+      "distinction": "可来自历史价格、竞争产品价格或展示的比较价格。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈrefrəns praɪs",
+      "ipaUS": "ˈrefrəns praɪs",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Reference price",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  },
+  {
+    "id": "MKT140",
+    "term": "Anchoring effect",
+    "reviewed_fields": [
+      "term",
+      "zh",
+      "definition",
+      "ipaUK",
+      "ipaUS",
+      "collocation",
+      "collocationZh",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction"
+    ],
+    "dictionary_verified": false,
+    "changes": {
+      "definition": {
+        "before": "初始信息对后续判断产生过度影响的现象。",
+        "after": "判断或估计受到先前接触的参考信息过度影响的认知偏差。"
+      },
+      "example": {
+        "before": "Randomize the price order to account for the anchoring effect.",
+        "after": "Randomize the order in which prices are shown to reduce anchoring bias."
+      },
+      "exampleZh": {
+        "before": "随机排列价格顺序以考虑锚定效应。",
+        "after": "随机调整价格的展示顺序，以减少锚定效应造成的偏差。"
+      },
+      "collocation": {
+        "before": "account for the anchoring effect",
+        "after": "reduce the anchoring effect"
+      },
+      "collocationZh": {
+        "before": "考虑锚定效应",
+        "after": "减轻锚定效应"
+      },
+      "dialogue": {
+        "before": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we prevent the first price shown from influencing survey responses?",
+            "zh": "如何防止首先展示的价格影响问卷回答？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Randomize the price order to account for the anchoring effect.",
+            "zh": "随机排列价格顺序以考虑锚定效应。"
+          }
+        ],
+        "after": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we reduce the influence of the first price shown on survey responses?",
+            "zh": "如何减少首先展示的价格对问卷回答的影响？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Randomize the order in which prices are shown to reduce anchoring bias.",
+            "zh": "随机调整价格的展示顺序，以减少锚定效应造成的偏差。"
+          }
+        ]
+      },
+      "distinction": {
+        "before": "",
+        "after": "随机化可减少系统性顺序偏差，但不能保证消除个体锚定。"
+      },
+      "collocationReview": {
+        "before": "初稿",
+        "after": "编辑复核"
+      },
+      "ipaUK": {
+        "before": "ˈænkərɪŋ ɪˈfekt",
+        "after": "ˈæŋkərɪŋ ɪˈfekt"
+      },
+      "ipaUS": {
+        "before": "ˈænkɚrɪŋ ɪˈfekt",
+        "after": "ˈæŋkərɪŋ ɪˈfekt"
+      },
+      "ipaSource": {
+        "before": "音标格式已规范 · 读音待核验",
+        "after": "宽式 IPA 编辑复核 · 待词典核验"
+      },
+      "ipaReview": {
+        "before": "待词典核验",
+        "after": "编辑复核"
+      },
+      "ipaNote": {
+        "before": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+        "after": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      }
+    },
+    "before": {
+      "id": "MKT140",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Anchoring effect",
+      "zh": "锚定效应",
+      "definition": "初始信息对后续判断产生过度影响的现象。",
+      "example": "Randomize the price order to account for the anchoring effect.",
+      "exampleZh": "随机排列价格顺序以考虑锚定效应。",
+      "collocation": "account for the anchoring effect",
+      "collocationZh": "考虑锚定效应",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we prevent the first price shown from influencing survey responses?",
+          "zh": "如何防止首先展示的价格影响问卷回答？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Randomize the price order to account for the anchoring effect.",
+          "zh": "随机排列价格顺序以考虑锚定效应。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 140,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈænkərɪŋ ɪˈfekt",
+      "ipaUS": "ˈænkɚrɪŋ ɪˈfekt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Anchoring effect",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT140",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Anchoring effect",
+      "zh": "锚定效应",
+      "definition": "判断或估计受到先前接触的参考信息过度影响的认知偏差。",
+      "example": "Randomize the order in which prices are shown to reduce anchoring bias.",
+      "exampleZh": "随机调整价格的展示顺序，以减少锚定效应造成的偏差。",
+      "collocation": "reduce the anchoring effect",
+      "collocationZh": "减轻锚定效应",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we reduce the influence of the first price shown on survey responses?",
+          "zh": "如何减少首先展示的价格对问卷回答的影响？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Randomize the order in which prices are shown to reduce anchoring bias.",
+          "zh": "随机调整价格的展示顺序，以减少锚定效应造成的偏差。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 140,
+      "aliases": [],
+      "distinction": "随机化可减少系统性顺序偏差，但不能保证消除个体锚定。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈæŋkərɪŋ ɪˈfekt",
+      "ipaUS": "ˈæŋkərɪŋ ɪˈfekt",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Anchoring effect",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+    }
+  }
+]

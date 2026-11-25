@@ -1,0 +1,1530 @@
+[
+  {
+    "id": "MKT221",
+    "before": {
+      "id": "MKT221",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Message consistency",
+      "zh": "信息一致性",
+      "definition": "不同传播接触点保持核心信息统一的程度",
+      "example": "Message consistency matters when several agencies create assets.",
+      "exampleZh": "当多家代理商制作素材时，信息一致性十分重要。",
+      "collocation": "ensure message consistency",
+      "collocationZh": "确保信息一致性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we protect when multiple agencies produce campaign materials?",
+          "zh": "多家代理商制作活动物料时，应确保什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Message consistency matters when several agencies create assets.",
+          "zh": "当多家代理商制作素材时，信息一致性十分重要。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 221,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmesɪdʒ kənˈsɪstənsi",
+      "ipaUS": "ˈmesɪdʒ kənˈsɪstənsi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Message consistency",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT221",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Message consistency",
+      "zh": "信息一致性",
+      "definition": "不同传播触点传达的核心主张保持一致的程度。",
+      "example": "We need to ensure message consistency across all campaign assets.",
+      "exampleZh": "我们需要确保所有活动素材的核心信息一致。",
+      "collocation": "ensure message consistency",
+      "collocationZh": "确保信息一致性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we keep consistent across agencies?",
+          "zh": "多家代理商之间应保持什么一致？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to ensure message consistency across all campaign assets.",
+          "zh": "我们需要确保所有活动素材的核心信息一致。"
+        }
+      ],
+      "usage": "一致性不要求各渠道逐字使用相同文案。",
+      "new": true,
+      "order": 221,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmesɪdʒ kənˈsɪstənsi",
+      "ipaUS": "ˈmesɪdʒ kənˈsɪstənsi",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Message consistency",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT222",
+    "before": {
+      "id": "MKT222",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Creative concept",
+      "zh": "创意概念",
+      "definition": "将传播策略转化为可执行表现形式的构想",
+      "example": "The team presented a creative concept based on everyday routines.",
+      "exampleZh": "团队展示了一个基于日常生活的创意概念。",
+      "collocation": "present a creative concept",
+      "collocationZh": "展示创意概念",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What creative direction did the team propose for the new campaign?",
+          "zh": "团队为新活动提出了什么创意方向？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The team presented a creative concept based on everyday routines.",
+          "zh": "团队展示了一个基于日常生活的创意概念。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 222,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kriːˈeɪtɪv ˈkɒnsept",
+      "ipaUS": "kriːˈeɪtɪv ˈkɑːnsept",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Creative concept",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT222",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Creative concept",
+      "zh": "创意概念",
+      "definition": "将传播策略转化为具体创意表达的构想。",
+      "example": "The team presented a creative concept inspired by everyday routines.",
+      "exampleZh": "团队展示了一个从日常生活习惯中获得灵感的创意概念。",
+      "collocation": "present a creative concept",
+      "collocationZh": "展示创意概念",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What inspired the creative concept?",
+          "zh": "创意概念的灵感来自哪里？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The team presented a creative concept inspired by everyday routines.",
+          "zh": "团队展示了一个从日常生活习惯中获得灵感的创意概念。"
+        }
+      ],
+      "usage": "区别于最终制作完成的广告素材。",
+      "new": true,
+      "order": 222,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kriˈeɪtɪv ˈkɒnsept",
+      "ipaUS": "kriˈeɪtɪv ˈkɑːnsept",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Creative concept",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT223",
+    "before": {
+      "id": "MKT223",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign toolkit",
+      "zh": "活动执行工具包",
+      "definition": "供各团队执行活动的素材、规范及操作指南集合",
+      "example": "Regional teams received the campaign toolkit on Monday.",
+      "exampleZh": "区域团队周一收到了活动执行工具包。",
+      "collocation": "distribute the campaign toolkit",
+      "collocationZh": "分发活动执行工具包",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What materials were distributed to local teams to support execution?",
+          "zh": "向本地团队发放了哪些支持执行的材料？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Regional teams received the campaign toolkit on Monday.",
+          "zh": "区域团队周一收到了活动执行工具包。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 223,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kæmˈpeɪn ˈtuːlkɪt",
+      "ipaUS": "kæmˈpeɪn ˈtuːlkɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Campaign toolkit",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT223",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign toolkit",
+      "zh": "活动执行工具包",
+      "definition": "供执行团队使用的活动素材、模板、规范和操作指南集合。",
+      "example": "They received the campaign toolkit, including templates and brand guidelines.",
+      "exampleZh": "他们收到了活动执行工具包，其中包括模板和品牌指南。",
+      "collocation": "distribute the campaign toolkit",
+      "collocationZh": "分发活动执行工具包",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did the regional teams receive?",
+          "zh": "区域团队收到了什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "They received the campaign toolkit, including templates and brand guidelines.",
+          "zh": "他们收到了活动执行工具包，其中包括模板和品牌指南。"
+        }
+      ],
+      "usage": "toolkit 可以是数字资料包，并非实体工具。",
+      "new": true,
+      "order": 223,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kæmˈpeɪn ˈtuːlkɪt",
+      "ipaUS": "kæmˈpeɪn ˈtuːlkɪt",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Campaign toolkit",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT224",
+    "before": {
+      "id": "MKT224",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign governance",
+      "zh": "活动治理",
+      "definition": "明确活动决策权、审批流程和执行规范的机制",
+      "example": "Campaign governance prevents conflicting offers across regions.",
+      "exampleZh": "活动治理可以防止不同区域的优惠相互冲突。",
+      "collocation": "establish campaign governance",
+      "collocationZh": "建立活动治理机制",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we stop regional teams from launching contradictory promotions?",
+          "zh": "如何避免区域团队推出相互冲突的促销？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Campaign governance prevents conflicting offers across regions.",
+          "zh": "活动治理可以防止不同区域的优惠相互冲突。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 224,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kæmˈpeɪn ˈɡʌvənəns",
+      "ipaUS": "kæmˈpeɪn ˈɡʌvɚnəns",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Campaign governance",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT224",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign governance",
+      "zh": "活动治理",
+      "definition": "明确营销活动决策权、审批职责和执行规范的管理机制。",
+      "example": "Clear campaign governance can help prevent conflicting offers across regions.",
+      "exampleZh": "明确的活动治理机制有助于避免不同区域的优惠相互冲突。",
+      "collocation": "establish campaign governance",
+      "collocationZh": "建立活动治理机制",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we reduce conflicting regional offers?",
+          "zh": "如何减少不同区域优惠相互冲突的情况？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Clear campaign governance can help prevent conflicting offers across regions.",
+          "zh": "明确的活动治理机制有助于避免不同区域的优惠相互冲突。"
+        }
+      ],
+      "usage": "治理机制有助于降低冲突风险，但不能保证完全避免冲突。",
+      "new": true,
+      "order": 224,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kæmˈpeɪn ˈɡʌvənəns",
+      "ipaUS": "kæmˈpeɪn ˈɡʌvərnəns",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Campaign governance",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT225",
+    "before": {
+      "id": "MKT225",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Post-campaign review",
+      "zh": "活动复盘",
+      "definition": "活动结束后评估成果、问题和经验的过程",
+      "example": "The post-campaign review revealed delays in asset approval.",
+      "exampleZh": "活动复盘发现了素材审批延迟的问题。",
+      "collocation": "conduct a post-campaign review",
+      "collocationZh": "开展活动复盘",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we identify the bottleneck in the approval process?",
+          "zh": "我们如何发现审批流程中的瓶颈？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The post-campaign review revealed delays in asset approval.",
+          "zh": "活动复盘发现了素材审批延迟的问题。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 225,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpəʊstkæmˈpeɪn rɪˈvjuː",
+      "ipaUS": "ˈpoʊstkæmˈpeɪn rɪˈvjuː",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Post-campaign review",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT225",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Post-campaign review",
+      "zh": "活动复盘",
+      "definition": "活动结束后对目标达成情况、执行问题和经验进行评估的过程。",
+      "example": "The post-campaign review revealed delays in asset approval.",
+      "exampleZh": "活动复盘发现了素材审批延迟的问题。",
+      "collocation": "conduct a post-campaign review",
+      "collocationZh": "开展活动复盘",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we identify the approval bottleneck?",
+          "zh": "我们如何发现审批瓶颈？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The post-campaign review revealed delays in asset approval.",
+          "zh": "活动复盘发现了素材审批延迟的问题。"
+        }
+      ],
+      "usage": "复盘不仅是汇报结果，还应形成后续改进建议。",
+      "new": true,
+      "order": 225,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌpəʊst kæmˈpeɪn rɪˈvjuː",
+      "ipaUS": "ˌpoʊst kæmˈpeɪn rɪˈvjuː",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Post-campaign review",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT226",
+    "before": {
+      "id": "MKT226",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Performance marketing",
+      "zh": "效果营销",
+      "definition": "以可衡量行动和效果为优化重点的营销方式",
+      "example": "We will scale performance marketing only if acquisition costs remain stable.",
+      "exampleZh": "只有获客成本保持稳定，我们才会扩大效果营销规模。",
+      "collocation": "scale performance marketing",
+      "collocationZh": "扩大效果营销规模",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Under what condition should we increase spending on measurable acquisition campaigns?",
+          "zh": "在什么条件下应该增加可衡量获客活动的投入？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will scale performance marketing only if acquisition costs remain stable.",
+          "zh": "只有获客成本保持稳定，我们才会扩大效果营销规模。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 226,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "pəˈfɔːməns ˈmɑːkɪtɪŋ",
+      "ipaUS": "pɚˈfoːrməns ˈmɑːrkɪtɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Performance marketing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT226",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Performance marketing",
+      "zh": "效果营销",
+      "definition": "以可衡量的业务行动和结果为优化重点的营销方式。",
+      "example": "We will scale performance marketing only if acquisition costs remain stable.",
+      "exampleZh": "只有获客成本保持稳定，我们才会扩大效果营销规模。",
+      "collocation": "scale performance marketing",
+      "collocationZh": "扩大效果营销规模",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When should we increase spending on performance marketing?",
+          "zh": "什么时候应该增加效果营销投入？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will scale performance marketing only if acquisition costs remain stable.",
+          "zh": "只有获客成本保持稳定，我们才会扩大效果营销规模。"
+        }
+      ],
+      "usage": "并非所有效果营销都按转化付费，也可采用点击或展示计费。",
+      "new": true,
+      "order": 226,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "pəˈfɔːməns ˈmɑːkɪtɪŋ",
+      "ipaUS": "pərˈfɔːrməns ˈmɑːrkɪtɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Performance marketing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT227",
+    "before": {
+      "id": "MKT227",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Paid social",
+      "zh": "付费社交广告",
+      "definition": "在社交平台购买的广告投放",
+      "example": "Paid social drove more product trials than expected.",
+      "exampleZh": "付费社交广告带来的产品试用超出预期。",
+      "collocation": "test paid social",
+      "collocationZh": "测试付费社交广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which advertising channel exceeded our expectations for product trials?",
+          "zh": "哪个广告渠道带来的产品试用超出预期？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Paid social drove more product trials than expected.",
+          "zh": "付费社交广告带来的产品试用超出预期。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 227,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpeɪd ˈsəʊʃəl",
+      "ipaUS": "ˈpeɪd ˈsoʊʃəl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Paid social",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT227",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Paid social",
+      "zh": "付费社交广告",
+      "definition": "通过付费方式在社交媒体平台投放的广告。",
+      "example": "Paid social drove more product trials than expected.",
+      "exampleZh": "付费社交广告带来的产品试用次数超出预期。",
+      "collocation": "test paid social ads",
+      "collocationZh": "测试付费社交广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which channel generated more trials than expected?",
+          "zh": "哪个渠道带来的试用超出预期？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Paid social drove more product trials than expected.",
+          "zh": "付费社交广告带来的产品试用次数超出预期。"
+        }
+      ],
+      "usage": "paid social 是 paid social media advertising 的常用简称，与 organic social 相对。",
+      "new": true,
+      "order": 227,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "peɪd ˈsəʊʃəl",
+      "ipaUS": "peɪd ˈsoʊʃəl",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Paid social",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT228",
+    "before": {
+      "id": "MKT228",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Display advertising",
+      "zh": "展示广告",
+      "definition": "以图片、视频或其他视觉形式展示的线上广告",
+      "example": "Display advertising helped us reach shoppers outside search results.",
+      "exampleZh": "展示广告帮助我们触达搜索结果之外的消费者。",
+      "collocation": "run display advertising",
+      "collocationZh": "开展展示广告投放",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we reach potential customers who were not actively searching?",
+          "zh": "我们如何触达没有主动搜索的潜在客户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Display advertising helped us reach shoppers outside search results.",
+          "zh": "展示广告帮助我们触达搜索结果之外的消费者。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 228,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "dɪˈspleɪ ˈædvəˌtaɪzɪŋ",
+      "ipaUS": "dɪˈspleɪ ˈædvɚˌtaɪzɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Display advertising",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT228",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Display advertising",
+      "zh": "展示广告",
+      "definition": "在网站、应用等数字媒体版位展示的视觉广告形式，如横幅或富媒体广告。",
+      "example": "Display advertising helped us reach potential customers beyond search results.",
+      "exampleZh": "展示广告帮助我们触达搜索结果之外的潜在客户。",
+      "collocation": "run display ads",
+      "collocationZh": "投放展示广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we reach people who were not actively searching?",
+          "zh": "我们如何触达没有主动搜索的用户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Display advertising helped us reach potential customers beyond search results.",
+          "zh": "展示广告帮助我们触达搜索结果之外的潜在客户。"
+        }
+      ],
+      "usage": "并非所有视频广告都归为展示广告，分类取决于平台。",
+      "new": true,
+      "order": 228,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "dɪˈspleɪ ˈædvətaɪzɪŋ",
+      "ipaUS": "dɪˈspleɪ ˈædvərtaɪzɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Display advertising",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT229",
+    "before": {
+      "id": "MKT229",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Programmatic advertising",
+      "zh": "程序化广告",
+      "definition": "借助自动化技术购买和管理广告资源的方式",
+      "example": "We use programmatic advertising to manage placements at scale.",
+      "exampleZh": "我们使用程序化广告规模化管理广告版位。",
+      "collocation": "use programmatic advertising",
+      "collocationZh": "使用程序化广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we handle a large number of digital ad placements efficiently?",
+          "zh": "如何高效管理大量数字广告版位？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We use programmatic advertising to manage placements at scale.",
+          "zh": "我们使用程序化广告规模化管理广告版位。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 229,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌprəʊɡrəˈmætɪk ˈædvəˌtaɪzɪŋ",
+      "ipaUS": "ˌproʊɡrəˈmætɪk ˈædvɚˌtaɪzɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Programmatic advertising",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT229",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Programmatic advertising",
+      "zh": "程序化广告",
+      "definition": "利用自动化技术购买、出售或管理数字广告库存的方式。",
+      "example": "We use programmatic advertising to manage placements at scale.",
+      "exampleZh": "我们利用程序化广告大规模管理广告版位。",
+      "collocation": "use programmatic advertising",
+      "collocationZh": "使用程序化广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we manage many ad placements efficiently?",
+          "zh": "如何高效管理大量广告版位？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We use programmatic advertising to manage placements at scale.",
+          "zh": "我们利用程序化广告大规模管理广告版位。"
+        }
+      ],
+      "usage": "程序化广告不等于实时竞价；也包括程序化保量交易等方式。",
+      "new": true,
+      "order": 229,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌprəʊɡrəˈmætɪk ˈædvətaɪzɪŋ",
+      "ipaUS": "ˌproʊɡrəˈmætɪk ˈædvərtaɪzɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Programmatic advertising",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT230",
+    "before": {
+      "id": "MKT230",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Search intent",
+      "zh": "搜索意图",
+      "definition": "用户发起搜索时希望完成的任务或满足的需求",
+      "example": "Search intent should guide the structure of each landing page.",
+      "exampleZh": "搜索意图应指导每个落地页的结构。",
+      "collocation": "identify search intent",
+      "collocationZh": "识别搜索意图",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should determine the content of pages that receive search traffic?",
+          "zh": "接收搜索流量的页面内容应由什么决定？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Search intent should guide the structure of each landing page.",
+          "zh": "搜索意图应指导每个落地页的结构。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 230,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsɜːtʃ ɪnˈtent",
+      "ipaUS": "ˈsɜːtʃ ɪnˈtent",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Search intent",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT230",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Search intent",
+      "zh": "搜索意图",
+      "definition": "用户发起搜索时希望实现的目标或满足的需求。",
+      "example": "Search intent should guide both the content and structure of each landing page.",
+      "exampleZh": "每个落地页的内容和结构都应以搜索意图为指导。",
+      "collocation": "identify search intent",
+      "collocationZh": "识别搜索意图",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should guide the content and structure of our landing pages?",
+          "zh": "什么应指导落地页的内容和结构？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Search intent should guide both the content and structure of each landing page.",
+          "zh": "每个落地页的内容和结构都应以搜索意图为指导。"
+        }
+      ],
+      "usage": "常见意图包括信息查询、导航、商业调查和交易；分类并非互斥。",
+      "new": true,
+      "order": 230,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "sɜːtʃ ɪnˈtent",
+      "ipaUS": "sɝːtʃ ɪnˈtent",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Search intent",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT231",
+    "before": {
+      "id": "MKT231",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Negative keyword",
+      "zh": "否定关键词",
+      "definition": "用于阻止广告匹配不相关搜索的关键词",
+      "example": "Add negative keywords to reduce irrelevant clicks.",
+      "exampleZh": "添加否定关键词以减少无关点击。",
+      "collocation": "add negative keywords",
+      "collocationZh": "添加否定关键词",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we stop paying for searches unrelated to our products?",
+          "zh": "怎样避免为与产品无关的搜索付费？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Add negative keywords to reduce irrelevant clicks.",
+          "zh": "添加否定关键词以减少无关点击。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 231,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈneɡəˌtɪv ˈkiːwɜːd",
+      "ipaUS": "ˈneɡəˌtɪv ˈkiːwɜːd",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Negative keyword",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT231",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Negative keyword",
+      "zh": "否定关键词",
+      "definition": "根据平台匹配规则排除特定搜索查询、限制广告展示的关键词。",
+      "example": "Add negative keywords to reduce irrelevant clicks.",
+      "exampleZh": "添加否定关键词以减少无关点击。",
+      "collocation": "add negative keywords",
+      "collocationZh": "添加否定关键词",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we reduce irrelevant paid search clicks?",
+          "zh": "如何减少无关的付费搜索点击？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Add negative keywords to reduce irrelevant clicks.",
+          "zh": "添加否定关键词以减少无关点击。"
+        }
+      ],
+      "usage": "否定关键词不能保证排除所有无关流量。",
+      "new": true,
+      "order": 231,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈneɡətɪv ˈkiːwɜːd",
+      "ipaUS": "ˈneɡətɪv ˈkiːwɝːd",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Negative keyword",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT232",
+    "before": {
+      "id": "MKT232",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Keyword match type",
+      "zh": "关键词匹配类型",
+      "definition": "控制搜索词与广告关键词匹配范围的设置",
+      "example": "We adjusted keyword match types to improve traffic quality.",
+      "exampleZh": "我们调整了关键词匹配类型以提高流量质量。",
+      "collocation": "adjust keyword match types",
+      "collocationZh": "调整关键词匹配类型",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did you change to attract more relevant visitors?",
+          "zh": "你们做了什么调整来吸引更相关的访客？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We adjusted keyword match types to improve traffic quality.",
+          "zh": "我们调整了关键词匹配类型以提高流量质量。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 232,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkiːwɜːd ˈmætʃ ˈtaɪp",
+      "ipaUS": "ˈkiːwɜːd ˈmætʃ ˈtaɪp",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Keyword match type",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT232",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Keyword match type",
+      "zh": "关键词匹配类型",
+      "definition": "控制搜索查询与广告关键词匹配范围的设置。",
+      "example": "We adjusted keyword match types to improve traffic quality.",
+      "exampleZh": "我们调整了关键词匹配类型，以提高流量质量。",
+      "collocation": "adjust keyword match types",
+      "collocationZh": "调整关键词匹配类型",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did you change to attract more relevant visitors?",
+          "zh": "你们做了什么调整来吸引更符合目标的访客？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We adjusted keyword match types to improve traffic quality.",
+          "zh": "我们调整了关键词匹配类型，以提高流量质量。"
+        }
+      ],
+      "usage": "广泛、词组和完全匹配的具体规则取决于平台；完全匹配不一定逐字相同。",
+      "new": true,
+      "order": 232,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkiːwɜːd mætʃ taɪp",
+      "ipaUS": "ˈkiːwɝːd mætʃ taɪp",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Keyword match type",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT233",
+    "before": {
+      "id": "MKT233",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Quality score",
+      "zh": "质量得分",
+      "definition": "搜索广告平台用于诊断广告相关性和体验的评分",
+      "example": "A more relevant landing page may improve our quality score.",
+      "exampleZh": "更相关的落地页可能改善我们的质量得分。",
+      "collocation": "improve quality score",
+      "collocationZh": "改善质量得分",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Could improving the relevance of the destination page help our ads?",
+          "zh": "提高目标页面的相关性对广告有帮助吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A more relevant landing page may improve our quality score.",
+          "zh": "更相关的落地页可能改善我们的质量得分。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 233,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkwɒlɪti ˈskɔː",
+      "ipaUS": "ˈkwɑːlɪti ˈskoːr",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Quality score",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT233",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Quality score",
+      "zh": "质量得分",
+      "definition": "以 Google Ads 为例，用于诊断关键词相关广告质量的1至10分评分。",
+      "example": "A more relevant landing page may improve our Quality Score.",
+      "exampleZh": "相关性更高的落地页可能提高我们的质量得分。",
+      "collocation": "improve Quality Score",
+      "collocationZh": "提高质量得分",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Could a better landing page help our Quality Score?",
+          "zh": "改善落地页能提高质量得分吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A more relevant landing page may improve our Quality Score.",
+          "zh": "相关性更高的落地页可能提高我们的质量得分。"
+        }
+      ],
+      "usage": "Google Ads 的质量得分是诊断指标，并非直接用于竞价的输入；关注预期点击率、广告相关性和落地页体验。",
+      "new": true,
+      "order": 233,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkwɒləti skɔː",
+      "ipaUS": "ˈkwɑːləti skɔːr",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Quality score",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT234",
+    "before": {
+      "id": "MKT234",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Ad rank",
+      "zh": "广告排名",
+      "definition": "广告系统用于决定广告是否展示及展示位置的计算结果",
+      "example": "A higher bid alone does not guarantee a better ad rank.",
+      "exampleZh": "仅提高出价并不能保证更好的广告排名。",
+      "collocation": "monitor ad rank",
+      "collocationZh": "监测广告排名",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Will increasing our bid automatically improve our placement?",
+          "zh": "提高出价就一定能改善广告位置吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A higher bid alone does not guarantee a better ad rank.",
+          "zh": "仅提高出价并不能保证更好的广告排名。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 234,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈæd ˈræŋk",
+      "ipaUS": "ˈæd ˈræŋk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Ad rank",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT234",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Ad rank",
+      "zh": "广告排名",
+      "definition": "广告竞价系统用于确定广告是否有资格展示及其相对展示位置的计算结果。",
+      "example": "A higher bid alone does not guarantee a better ad rank.",
+      "exampleZh": "仅提高出价并不能保证获得更好的广告排名。",
+      "collocation": "monitor ad rank",
+      "collocationZh": "监测广告排名",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Will increasing our bid guarantee a better placement?",
+          "zh": "提高出价一定能获得更好的广告位置吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A higher bid alone does not guarantee a better ad rank.",
+          "zh": "仅提高出价并不能保证获得更好的广告排名。"
+        }
+      ],
+      "usage": "出价、竞价时的广告质量及其他因素均可能影响广告排名；不等同于质量得分。",
+      "new": true,
+      "order": 234,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "æd ræŋk",
+      "ipaUS": "æd ræŋk",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Ad rank",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT235",
+    "before": {
+      "id": "MKT235",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Bid strategy",
+      "zh": "出价策略",
+      "definition": "广告系统用于决定出价的规则或优化目标",
+      "example": "Choose a bid strategy that reflects our conversion goals.",
+      "exampleZh": "选择符合转化目标的出价策略。",
+      "collocation": "choose a bid strategy",
+      "collocationZh": "选择出价策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should we decide how the platform bids for us?",
+          "zh": "我们应该如何决定平台的出价方式？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Choose a bid strategy that reflects our conversion goals.",
+          "zh": "选择符合转化目标的出价策略。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 235,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbɪd ˈstrætədʒi",
+      "ipaUS": "ˈbɪd ˈstrætədʒi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Bid strategy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT235",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Bid strategy",
+      "zh": "出价策略",
+      "definition": "决定广告出价方式及优化目标的规则或策略。",
+      "example": "Choose a bid strategy that reflects our conversion goals.",
+      "exampleZh": "选择符合我们转化目标的出价策略。",
+      "collocation": "choose a bid strategy",
+      "collocationZh": "选择出价策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should we choose a bidding approach?",
+          "zh": "我们应该如何选择出价方式？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Choose a bid strategy that reflects our conversion goals.",
+          "zh": "选择符合我们转化目标的出价策略。"
+        }
+      ],
+      "usage": "可包括手动出价和自动出价，并非所有策略都以转化为目标。",
+      "new": true,
+      "order": 235,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "bɪd ˈstrætədʒi",
+      "ipaUS": "bɪd ˈstrætədʒi",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Bid strategy",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT236",
+    "before": {
+      "id": "MKT236",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Target CPA",
+      "zh": "目标单次转化成本",
+      "definition": "广告出价优化所追求的平均单次转化成本",
+      "example": "We raised the target CPA to allow more conversions during launch.",
+      "exampleZh": "我们提高了目标单次转化成本，以便上市期间获得更多转化。",
+      "collocation": "set a target CPA",
+      "collocationZh": "设定目标单次转化成本",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did we relax our acquisition cost goal during launch?",
+          "zh": "为什么上市期间放宽了获客成本目标？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We raised the target CPA to allow more conversions during launch.",
+          "zh": "我们提高了目标单次转化成本，以便上市期间获得更多转化。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 236,
+      "aliases": [
+        "tCPA"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtɑːɡɪt ˌsiːˌpiːˈeɪ",
+      "ipaUS": "ˈtɑːrɡɪt ˌsiːˌpiːˈeɪ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Target CPA",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT236",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Target CPA",
+      "zh": "目标单次转化成本",
+      "definition": "自动出价优化所追求的平均单次转化成本目标。",
+      "example": "We raised the target CPA to give the campaign more room to generate conversions.",
+      "exampleZh": "我们提高了目标单次转化成本，为活动获取更多转化留出空间。",
+      "collocation": "set a target CPA",
+      "collocationZh": "设定目标单次转化成本",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did we raise our target cost per conversion during launch?",
+          "zh": "为什么上市期间提高了目标单次转化成本？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We raised the target CPA to give the campaign more room to generate conversions.",
+          "zh": "我们提高了目标单次转化成本，为活动获取更多转化留出空间。"
+        }
+      ],
+      "usage": "目标CPA不是每次转化的成本上限，也不保证获得更多转化。",
+      "new": true,
+      "order": 236,
+      "aliases": [
+        "tCPA"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtɑːɡɪt ˌsiː piː ˈeɪ",
+      "ipaUS": "ˈtɑːrɡɪt ˌsiː piː ˈeɪ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Target C P A",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT237",
+    "before": {
+      "id": "MKT237",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Target ROAS",
+      "zh": "目标广告支出回报率",
+      "definition": "广告出价优化所追求的转化价值与广告成本之比",
+      "example": "A lower target ROAS may give the campaign more room to scale.",
+      "exampleZh": "较低的目标广告支出回报率可能给活动更多扩量空间。",
+      "collocation": "adjust target ROAS",
+      "collocationZh": "调整目标广告支出回报率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How could we give the campaign more room to grow?",
+          "zh": "如何给活动更多扩量空间？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A lower target ROAS may give the campaign more room to scale.",
+          "zh": "较低的目标广告支出回报率可能给活动更多扩量空间。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 237,
+      "aliases": [
+        "tROAS"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtɑːɡɪt ˌɑːr əʊ eɪ ˈes",
+      "ipaUS": "ˈtɑːrɡɪt ˌɑr oʊ eɪ ˈes",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Target R O A S",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT237",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Target ROAS",
+      "zh": "目标广告支出回报率",
+      "definition": "自动出价优化所追求的转化价值与广告支出之比。",
+      "example": "A lower target ROAS may give the campaign more room to scale.",
+      "exampleZh": "较低的目标广告支出回报率可能为活动扩大投放留出更多空间。",
+      "collocation": "adjust target ROAS",
+      "collocationZh": "调整目标广告支出回报率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How could we give the campaign more room to scale?",
+          "zh": "如何为活动扩大投放留出更多空间？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A lower target ROAS may give the campaign more room to scale.",
+          "zh": "较低的目标广告支出回报率可能为活动扩大投放留出更多空间。"
+        }
+      ],
+      "usage": "目标ROAS并非保证值，也不等于利润率；ROAS亦可作为单词读作 /ˈrəʊæs/（英）或 /ˈroʊæs/（美）。",
+      "new": true,
+      "order": 237,
+      "aliases": [
+        "tROAS"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtɑːɡɪt ˌɑː əʊ eɪ ˈes",
+      "ipaUS": "ˈtɑːrɡɪt ˌɑːr oʊ eɪ ˈes",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Target R O A S",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT238",
+    "before": {
+      "id": "MKT238",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Conversion tracking",
+      "zh": "转化追踪",
+      "definition": "记录广告或访问后发生的目标行动的机制",
+      "example": "We must implement conversion tracking before optimizing bids.",
+      "exampleZh": "我们必须先实施转化追踪，再优化出价。",
+      "collocation": "implement conversion tracking",
+      "collocationZh": "实施转化追踪",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What must be in place before automated bid optimization?",
+          "zh": "自动优化出价前必须先做好什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We must implement conversion tracking before optimizing bids.",
+          "zh": "我们必须先实施转化追踪，再优化出价。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 238,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kənˈvɜːʃən ˈtrækɪŋ",
+      "ipaUS": "kənˈvɜːʒən ˈtrækɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Conversion tracking",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT238",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Conversion tracking",
+      "zh": "转化追踪",
+      "definition": "记录预先定义的转化事件并在适用条件下将其关联至营销互动的机制。",
+      "example": "We need to implement conversion tracking before optimizing bids for conversions.",
+      "exampleZh": "在按转化目标优化出价之前，我们需要先设置转化追踪。",
+      "collocation": "implement conversion tracking",
+      "collocationZh": "实施转化追踪",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should be in place before optimizing bids for conversions?",
+          "zh": "按转化目标优化出价前应先做好什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to implement conversion tracking before optimizing bids for conversions.",
+          "zh": "在按转化目标优化出价之前，我们需要先设置转化追踪。"
+        }
+      ],
+      "usage": "追踪记录并不等同于因果归因；应注意同意、去重及归因窗口。",
+      "new": true,
+      "order": 238,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kənˈvɜːʃən ˈtrækɪŋ",
+      "ipaUS": "kənˈvɝːʒən ˈtrækɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Conversion tracking",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT239",
+    "before": {
+      "id": "MKT239",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Tracking pixel",
+      "zh": "追踪像素",
+      "definition": "用于记录页面访问或事件的追踪技术",
+      "example": "The tracking pixel should fire only after the required consent.",
+      "exampleZh": "追踪像素应在获得必要同意后才触发。",
+      "collocation": "install a tracking pixel",
+      "collocationZh": "安装追踪像素",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When is it appropriate to activate the tracking code?",
+          "zh": "什么时候才适合激活追踪代码？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The tracking pixel should fire only after the required consent.",
+          "zh": "追踪像素应在获得必要同意后才触发。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 239,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtrækɪŋ ˈpɪksəl",
+      "ipaUS": "ˈtrækɪŋ ˈpɪksəl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Tracking pixel",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT239",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "Tracking pixel",
+      "zh": "追踪像素",
+      "definition": "通过像素请求或相关代码记录页面访问及事件的追踪技术。",
+      "example": "The tracking pixel should fire only after the required consent has been obtained.",
+      "exampleZh": "追踪像素应在获得所需同意后才触发。",
+      "collocation": "install a tracking pixel",
+      "collocationZh": "安装追踪像素",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When should a pixel that requires consent fire?",
+          "zh": "需要用户同意的追踪像素应何时触发？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The tracking pixel should fire only after the required consent has been obtained.",
+          "zh": "追踪像素应在获得所需同意后才触发。"
+        }
+      ],
+      "usage": "fire 在此指触发追踪请求；是否需要同意取决于适用法规和用途。",
+      "new": true,
+      "order": 239,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtrækɪŋ ˈpɪksəl",
+      "ipaUS": "ˈtrækɪŋ ˈpɪksəl",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Tracking pixel",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  },
+  {
+    "id": "MKT240",
+    "before": {
+      "id": "MKT240",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "UTM parameter",
+      "zh": "UTM追踪参数",
+      "definition": "附加在网址上用于标记流量来源等信息的参数",
+      "example": "Append UTM parameters so analytics can distinguish the email campaign.",
+      "exampleZh": "添加UTM参数，以便分析系统区分邮件活动。",
+      "collocation": "append UTM parameters",
+      "collocationZh": "添加UTM参数",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we distinguish email visits in our reports?",
+          "zh": "如何在报告中区分邮件带来的访问？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Append UTM parameters so analytics can distinguish the email campaign.",
+          "zh": "添加UTM参数，以便分析系统区分邮件活动。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 240,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌjuːˌtiːˈem pəˈræmɪtə",
+      "ipaUS": "ˌjuːˌtiːˈem pɚˈræmɪtɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "UTM parameter",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT240",
+      "moduleId": "m3",
+      "module": "数字营销",
+      "term": "UTM parameter",
+      "zh": "UTM追踪参数",
+      "definition": "附加在网址查询字符串中、用于标记营销流量来源等信息的参数。",
+      "example": "Append UTM parameters to the links so our analytics reports can identify email campaign traffic.",
+      "exampleZh": "在链接中添加UTM参数，以便分析报告识别邮件营销活动带来的流量。",
+      "collocation": "append UTM parameters",
+      "collocationZh": "添加UTM参数",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we identify email campaign traffic in our reports?",
+          "zh": "如何在报告中识别邮件营销活动带来的流量？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Append UTM parameters to the links so our analytics reports can identify email campaign traffic.",
+          "zh": "在链接中添加UTM参数，以便分析报告识别邮件营销活动带来的流量。"
+        }
+      ],
+      "usage": "常见字段包括 utm_source、utm_medium 和 utm_campaign；避免在参数中放入个人敏感信息。",
+      "new": true,
+      "order": 240,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌjuː tiː ˈem pəˈræmɪtə",
+      "ipaUS": "ˌjuː tiː ˈem pəˈræmətər",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "U T M parameter",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "review": "逐条编辑复核；未独立核验词典或平台文档"
+  }
+]

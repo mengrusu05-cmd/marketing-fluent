@@ -1,0 +1,1721 @@
+[
+  {
+    "id": "MKT521",
+    "before": {
+      "id": "MKT521",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Leading indicator",
+      "zh": "领先指标",
+      "definition": "用于提前反映未来业务结果变化的指标",
+      "example": "Qualified inquiries are a leading indicator of pipeline growth.",
+      "exampleZh": "合格咨询量是销售管道增长的领先指标。",
+      "collocation": "monitor leading indicators",
+      "collocationZh": "监测领先指标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Qualified inquiries are a ____ of pipeline growth.",
+          "zh": "补全职场表达：合格咨询量是销售管道增长的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Qualified inquiries are a leading indicator of pipeline growth.",
+          "zh": "合格咨询量是销售管道增长的领先指标。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 521,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈliːdɪŋ ˈɪndɪˌkeɪtə",
+      "ipaUS": "ˈliːdɪŋ ˈɪndɪˌkeɪtɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Leading indicator",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT521",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Leading indicator",
+      "zh": "领先指标",
+      "definition": "可为未来业务结果提供提前信号的指标，预测能力需经数据验证",
+      "example": "Qualified inquiries can be a leading indicator of sales pipeline growth.",
+      "exampleZh": "合格咨询线索数量可以成为销售机会储备增长的领先指标。",
+      "collocation": "monitor leading indicators",
+      "collocationZh": "监测领先指标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which metric could signal future pipeline growth?",
+          "zh": "哪个指标可以提前反映销售机会储备的增长？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Qualified inquiries can be a leading indicator of sales pipeline growth.",
+          "zh": "合格咨询线索数量可以成为销售机会储备增长的领先指标。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 521,
+      "aliases": [],
+      "distinction": "领先指标提供提前信号；滞后指标反映已发生结果。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈliːdɪŋ ˈɪndɪkeɪtə",
+      "ipaUS": "ˈliːdɪŋ ˈɪndɪkeɪtər",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Leading indicator",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT522",
+    "before": {
+      "id": "MKT522",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Lagging indicator",
+      "zh": "滞后指标",
+      "definition": "反映已经发生的业务结果的指标",
+      "example": "Revenue is a lagging indicator in our reporting framework.",
+      "exampleZh": "收入在我们的汇报框架中属于滞后指标。",
+      "collocation": "review lagging indicators",
+      "collocationZh": "复盘滞后指标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Revenue is a ____ in our reporting framework.",
+          "zh": "补全职场表达：收入在我们的汇报框架中属于____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Revenue is a lagging indicator in our reporting framework.",
+          "zh": "收入在我们的汇报框架中属于滞后指标。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 522,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlæɡɪŋ ˈɪndɪˌkeɪtə",
+      "ipaUS": "ˈlæɡɪŋ ˈɪndɪˌkeɪtɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Lagging indicator",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT522",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Lagging indicator",
+      "zh": "滞后指标",
+      "definition": "反映已经发生的业务结果的指标，其属性取决于具体目标和时间范围",
+      "example": "Revenue is a lagging indicator in our reporting framework.",
+      "exampleZh": "在我们的报告框架中，收入属于滞后指标。",
+      "collocation": "review lagging indicators",
+      "collocationZh": "回顾滞后指标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which metric reflects results already achieved?",
+          "zh": "哪个指标反映已经取得的结果？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Revenue is a lagging indicator in our reporting framework.",
+          "zh": "在我们的报告框架中，收入属于滞后指标。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 522,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈlæɡɪŋ ˈɪndɪkeɪtə",
+      "ipaUS": "ˈlæɡɪŋ ˈɪndɪkeɪtər",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Lagging indicator",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT523",
+    "before": {
+      "id": "MKT523",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Data latency",
+      "zh": "数据延迟",
+      "definition": "事件发生到数据可供使用之间的时间差",
+      "example": "Data latency prevents us from comparing today's figures fairly.",
+      "exampleZh": "数据延迟使我们无法公平比较今天的数据。",
+      "collocation": "reduce data latency",
+      "collocationZh": "降低数据延迟",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ prevents us from comparing today's figures fairly.",
+          "zh": "补全职场表达：____使我们无法公平比较今天的数据。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Data latency prevents us from comparing today's figures fairly.",
+          "zh": "数据延迟使我们无法公平比较今天的数据。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 523,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈdeɪtə ˈleɪtənsi",
+      "ipaUS": "ˈdeɪtə ˈleɪtənsi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Data latency",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT523",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Data latency",
+      "zh": "数据延迟",
+      "definition": "事件发生至相关数据可供使用之间的时间差",
+      "example": "Data latency makes it difficult to compare today's figures reliably.",
+      "exampleZh": "数据延迟使我们难以可靠地比较今天的数据。",
+      "collocation": "reduce data latency",
+      "collocationZh": "降低数据延迟",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why should we wait before comparing today's results?",
+          "zh": "为什么要等一等再比较今天的结果？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Data latency makes it difficult to compare today's figures reliably.",
+          "zh": "数据延迟使我们难以可靠地比较今天的数据。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 523,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈdeɪtə ˈleɪtənsi",
+      "ipaUS": "ˈdeɪtə ˈleɪtənsi",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Data latency",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT524",
+    "before": {
+      "id": "MKT524",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Anomaly detection",
+      "zh": "异常检测",
+      "definition": "识别明显偏离预期模式的数据点或变化",
+      "example": "Anomaly detection flagged an unexpected traffic spike.",
+      "exampleZh": "异常检测标记了意外的流量峰值。",
+      "collocation": "automate anomaly detection",
+      "collocationZh": "自动化异常检测",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ flagged an unexpected traffic spike.",
+          "zh": "补全职场表达：____标记了意外的流量峰值。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Anomaly detection flagged an unexpected traffic spike.",
+          "zh": "异常检测标记了意外的流量峰值。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 524,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "əˈnɒməli dɪˈtekʃən",
+      "ipaUS": "əˈnɑːməli dɪˈtekʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Anomaly detection",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT524",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Anomaly detection",
+      "zh": "异常检测",
+      "definition": "识别偏离预期模式的数据点或变化，异常信号不一定代表错误",
+      "example": "Anomaly detection flagged an unexpected traffic spike.",
+      "exampleZh": "异常检测发现了意外的流量激增。",
+      "collocation": "automate anomaly detection",
+      "collocationZh": "自动化异常检测",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we spot the unusual increase in visits?",
+          "zh": "我们如何发现访问量异常增长的？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Anomaly detection flagged an unexpected traffic spike.",
+          "zh": "异常检测发现了意外的流量激增。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 524,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "əˈnɒməli dɪˈtekʃən",
+      "ipaUS": "əˈnɑːməli dɪˈtekʃən",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Anomaly detection",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT525",
+    "before": {
+      "id": "MKT525",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Sensitivity analysis",
+      "zh": "敏感性分析",
+      "definition": "评估假设或输入变化对结果的影响",
+      "example": "Sensitivity analysis showed that the forecast depends heavily on retention.",
+      "exampleZh": "敏感性分析显示预测高度依赖留存率。",
+      "collocation": "conduct sensitivity analysis",
+      "collocationZh": "开展敏感性分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ showed that the forecast depends heavily on retention.",
+          "zh": "补全职场表达：____显示预测高度依赖留存率。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Sensitivity analysis showed that the forecast depends heavily on retention.",
+          "zh": "敏感性分析显示预测高度依赖留存率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 525,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌsensɪˈtɪvɪti əˈnæləˌsɪs",
+      "ipaUS": "ˌsensɪˈtɪvɪti əˈnæləˌsɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Sensitivity analysis",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT525",
+      "moduleId": "m4",
+      "module": "营销分析",
+      "term": "Sensitivity analysis",
+      "zh": "敏感性分析",
+      "definition": "评估模型输入或假设变化对输出结果的影响",
+      "example": "Sensitivity analysis showed that the forecast depends heavily on retention.",
+      "exampleZh": "敏感性分析表明，预测结果很大程度上取决于留存率。",
+      "collocation": "conduct sensitivity analysis",
+      "collocationZh": "开展敏感性分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which assumption has the greatest influence on the forecast?",
+          "zh": "哪个假设对预测影响最大？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Sensitivity analysis showed that the forecast depends heavily on retention.",
+          "zh": "敏感性分析表明，预测结果很大程度上取决于留存率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 525,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌsensɪˈtɪvəti əˈnæləsɪs",
+      "ipaUS": "ˌsensəˈtɪvəti əˈnæləsɪs",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Sensitivity analysis",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT526",
+    "before": {
+      "id": "MKT526",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global brand strategy",
+      "zh": "全球品牌战略",
+      "definition": "协调不同国家品牌目标与核心定位的战略",
+      "example": "We aligned global brand strategy before briefing regional teams.",
+      "exampleZh": "我们在向区域团队简报前统一了全球品牌战略。",
+      "collocation": "align global brand strategy",
+      "collocationZh": "统一全球品牌战略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We aligned ____ before briefing regional teams.",
+          "zh": "补全职场表达：我们在向区域团队简报前统一了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We aligned global brand strategy before briefing regional teams.",
+          "zh": "我们在向区域团队简报前统一了全球品牌战略。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 526,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡləʊbəl ˈbrænd ˈstrætədʒi",
+      "ipaUS": "ˈɡloʊbəl ˈbrænd ˈstrætədʒi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Global brand strategy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT526",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global brand strategy",
+      "zh": "全球品牌战略",
+      "definition": "协调跨国品牌定位、目标及本地适配原则的战略",
+      "example": "We agreed on our global brand strategy before briefing regional teams.",
+      "exampleZh": "我们在向区域团队介绍情况前就全球品牌战略达成一致。",
+      "collocation": "agree on a global brand strategy",
+      "collocationZh": "就全球品牌战略达成一致",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did we agree on before the regional briefings?",
+          "zh": "在向区域团队介绍情况前，我们确定了什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We agreed on our global brand strategy before briefing regional teams.",
+          "zh": "我们在向区域团队介绍情况前就全球品牌战略达成一致。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 526,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɡləʊbəl brænd ˈstrætədʒi",
+      "ipaUS": "ˈɡloʊbəl brænd ˈstrætədʒi",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Global brand strategy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocation",
+      "collocationZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT527",
+    "before": {
+      "id": "MKT527",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global campaign",
+      "zh": "全球营销活动",
+      "definition": "跨多个国家或地区协调实施的营销活动",
+      "example": "The global campaign launches in six markets next month.",
+      "exampleZh": "全球营销活动下月将在六个市场启动。",
+      "collocation": "launch a global campaign",
+      "collocationZh": "推出全球营销活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ launches in six markets next month.",
+          "zh": "补全职场表达：____下月将在六个市场启动。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The global campaign launches in six markets next month.",
+          "zh": "全球营销活动下月将在六个市场启动。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 527,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡləʊbəl kæmˈpeɪn",
+      "ipaUS": "ˈɡloʊbəl kæmˈpeɪn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Global campaign",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT527",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global campaign",
+      "zh": "全球营销活动",
+      "definition": "在多个国家或地区协调实施的营销活动，可采用不同本地执行方案",
+      "example": "The global campaign launches in six markets next month.",
+      "exampleZh": "全球营销活动将于下月在六个市场启动。",
+      "collocation": "launch a global campaign",
+      "collocationZh": "推出全球营销活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When will the international campaign go live?",
+          "zh": "跨国营销活动何时上线？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The global campaign launches in six markets next month.",
+          "zh": "全球营销活动将于下月在六个市场启动。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 527,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɡləʊbəl kæmˈpeɪn",
+      "ipaUS": "ˈɡloʊbəl kæmˈpeɪn",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Global campaign",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT528",
+    "before": {
+      "id": "MKT528",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Regional marketing",
+      "zh": "区域营销",
+      "definition": "针对特定地理区域制定和执行的营销活动",
+      "example": "Regional marketing teams adapted the launch schedule.",
+      "exampleZh": "区域营销团队调整了上市日程。",
+      "collocation": "coordinate regional marketing",
+      "collocationZh": "协调区域营销",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ teams adapted the launch schedule.",
+          "zh": "补全职场表达：____团队调整了上市日程。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Regional marketing teams adapted the launch schedule.",
+          "zh": "区域营销团队调整了上市日程。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 528,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈriːdʒənəl ˈmɑːkɪtɪŋ",
+      "ipaUS": "ˈriːdʒənəl ˈmɑːrkɪtɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Regional marketing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT528",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Regional marketing",
+      "zh": "区域营销",
+      "definition": "针对特定地理区域的市场需求制定并执行营销策略",
+      "example": "Regional marketing teams adapted the launch schedule.",
+      "exampleZh": "区域营销团队调整了上市时间安排。",
+      "collocation": "coordinate regional marketing",
+      "collocationZh": "协调区域营销",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who adjusted the launch schedule to suit local needs?",
+          "zh": "谁根据当地需求调整了上市安排？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Regional marketing teams adapted the launch schedule.",
+          "zh": "区域营销团队调整了上市时间安排。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 528,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈriːdʒənəl ˈmɑːkɪtɪŋ",
+      "ipaUS": "ˈriːdʒənəl ˈmɑːrkɪtɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Regional marketing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT529",
+    "before": {
+      "id": "MKT529",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global brand consistency",
+      "zh": "全球品牌一致性",
+      "definition": "不同市场保持核心品牌识别与承诺一致的程度",
+      "example": "We maintain global brand consistency while adapting local visuals.",
+      "exampleZh": "我们在调整当地视觉素材的同时保持全球品牌一致性。",
+      "collocation": "maintain global brand consistency",
+      "collocationZh": "保持全球品牌一致性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We maintain ____ while adapting local visuals.",
+          "zh": "补全职场表达：我们在调整当地视觉素材的同时保持____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintain global brand consistency while adapting local visuals.",
+          "zh": "我们在调整当地视觉素材的同时保持全球品牌一致性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 529,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡləʊbəl ˈbrænd kənˈsɪstənsi",
+      "ipaUS": "ˈɡloʊbəl ˈbrænd kənˈsɪstənsi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Global brand consistency",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT529",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global brand consistency",
+      "zh": "全球品牌一致性",
+      "definition": "不同市场保持核心品牌识别与承诺一致的程度，不要求所有素材完全相同",
+      "example": "We maintain global brand consistency while adapting visuals for local markets.",
+      "exampleZh": "我们在针对本地市场调整视觉素材的同时保持全球品牌一致性。",
+      "collocation": "maintain global brand consistency",
+      "collocationZh": "保持全球品牌一致性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we balance localization with brand standards?",
+          "zh": "我们如何平衡本地化与品牌标准？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We maintain global brand consistency while adapting visuals for local markets.",
+          "zh": "我们在针对本地市场调整视觉素材的同时保持全球品牌一致性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 529,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɡləʊbəl brænd kənˈsɪstənsi",
+      "ipaUS": "ˈɡloʊbəl brænd kənˈsɪstənsi",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Global brand consistency",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT530",
+    "before": {
+      "id": "MKT530",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global marketing playbook",
+      "zh": "全球营销手册",
+      "definition": "供各市场复用的营销原则、流程和执行指南",
+      "example": "The global marketing playbook now includes approval workflows.",
+      "exampleZh": "全球营销手册现已包含审批流程。",
+      "collocation": "update the global marketing playbook",
+      "collocationZh": "更新全球营销手册",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ now includes approval workflows.",
+          "zh": "补全职场表达：____现已包含审批流程。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The global marketing playbook now includes approval workflows.",
+          "zh": "全球营销手册现已包含审批流程。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 530,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡləʊbəl ˈmɑːkɪtɪŋ ˈpleɪbʊk",
+      "ipaUS": "ˈɡloʊbəl ˈmɑːrkɪtɪŋ ˈpleɪbʊk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Global marketing playbook",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT530",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global marketing playbook",
+      "zh": "全球营销手册",
+      "definition": "供各市场复用的营销原则、流程、模板及执行指南",
+      "example": "The global marketing playbook now includes approval workflows.",
+      "exampleZh": "全球营销手册现已包含审批流程。",
+      "collocation": "update the global marketing playbook",
+      "collocationZh": "更新全球营销手册",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where can local teams find the approval procedures?",
+          "zh": "本地团队在哪里可以找到审批流程？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The global marketing playbook now includes approval workflows.",
+          "zh": "全球营销手册现已包含审批流程。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 530,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɡləʊbəl ˈmɑːkɪtɪŋ ˈpleɪbʊk",
+      "ipaUS": "ˈɡloʊbəl ˈmɑːrkɪtɪŋ ˈpleɪbʊk",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Global marketing playbook",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "collocationReview",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT531",
+    "before": {
+      "id": "MKT531",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Center of excellence",
+      "zh": "卓越中心",
+      "definition": "集中专业能力并向各业务或区域提供支持的组织",
+      "example": "We established a center of excellence for media measurement.",
+      "exampleZh": "我们建立了媒介衡量卓越中心。",
+      "collocation": "establish a center of excellence",
+      "collocationZh": "建立卓越中心",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We established a ____ for media measurement.",
+          "zh": "补全职场表达：我们建立了媒介衡量____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We established a center of excellence for media measurement.",
+          "zh": "我们建立了媒介衡量卓越中心。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 531,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsentər ɒv ˈeksələns",
+      "ipaUS": "ˈsentɚr ʌv ˈeksələns",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Center of excellence",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT531",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Center of excellence",
+      "zh": "卓越中心",
+      "definition": "集中专业能力、制定实践标准并向其他团队提供支持的组织单元",
+      "example": "We established a center of excellence for media measurement.",
+      "exampleZh": "我们成立了专注于媒介效果衡量的卓越中心。",
+      "collocation": "establish a center of excellence",
+      "collocationZh": "建立卓越中心",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we building shared expertise in media measurement?",
+          "zh": "我们如何建立共享的媒介衡量专业能力？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We established a center of excellence for media measurement.",
+          "zh": "我们成立了专注于媒介效果衡量的卓越中心。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 531,
+      "aliases": [
+        "Centre of excellence",
+        "CoE"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsentər əv ˈeksələns",
+      "ipaUS": "ˈsentər əv ˈeksələns",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Center of excellence",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT532",
+    "before": {
+      "id": "MKT532",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global-local alignment",
+      "zh": "全球与本地协同",
+      "definition": "全球团队与本地团队在目标和执行上的协调",
+      "example": "Weekly reviews improved global-local alignment.",
+      "exampleZh": "每周复盘改善了全球与本地协同。",
+      "collocation": "improve global-local alignment",
+      "collocationZh": "改善全球与本地协同",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Weekly reviews improved ____.",
+          "zh": "补全职场表达：每周复盘改善了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Weekly reviews improved global-local alignment.",
+          "zh": "每周复盘改善了全球与本地协同。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 532,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡləʊbəlˈləʊkəl əˈlaɪnmənt",
+      "ipaUS": "ˈɡloʊbəlˈloʊkəl əˈlaɪnmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Global-local alignment",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT532",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global-local alignment",
+      "zh": "全球与本地协同",
+      "definition": "全球团队与本地团队在目标、职责和执行上的协调",
+      "example": "Weekly reviews improved global-local alignment.",
+      "exampleZh": "每周复盘加强了全球团队与本地团队之间的协同。",
+      "collocation": "improve global-local alignment",
+      "collocationZh": "改善全球与本地协同",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What helped headquarters and local teams work together?",
+          "zh": "什么帮助总部与本地团队更好地协作？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Weekly reviews improved global-local alignment.",
+          "zh": "每周复盘加强了全球团队与本地团队之间的协同。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 532,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɡləʊbəl ˈləʊkəl əˈlaɪnmənt",
+      "ipaUS": "ˈɡloʊbəl ˈloʊkəl əˈlaɪnmənt",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Global-local alignment",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT533",
+    "before": {
+      "id": "MKT533",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Market cluster",
+      "zh": "市场集群",
+      "definition": "按相似特征或运营需求归组的国家或区域市场",
+      "example": "We defined market clusters based on consumer behavior.",
+      "exampleZh": "我们依据消费者行为划分市场集群。",
+      "collocation": "define market clusters",
+      "collocationZh": "划分市场集群",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We defined ____ based on consumer behavior.",
+          "zh": "补全职场表达：我们依据消费者行为划分____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We defined market clusters based on consumer behavior.",
+          "zh": "我们依据消费者行为划分市场集群。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 533,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmɑːkɪt ˈklʌstə",
+      "ipaUS": "ˈmɑːrkɪt ˈklʌstɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Market cluster",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT533",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Market cluster",
+      "zh": "市场集群",
+      "definition": "按相似市场特征或运营需求归组的国家或区域市场",
+      "example": "We defined market clusters based on consumer behavior.",
+      "exampleZh": "我们依据消费者行为划分市场集群。",
+      "collocation": "define market clusters",
+      "collocationZh": "划分市场集群",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we decide which markets to group together?",
+          "zh": "我们如何决定将哪些市场归为一组？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We defined market clusters based on consumer behavior.",
+          "zh": "我们依据消费者行为划分市场集群。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 533,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmɑːkɪt ˈklʌstə",
+      "ipaUS": "ˈmɑːrkɪt ˈklʌstər",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Market cluster",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT534",
+    "before": {
+      "id": "MKT534",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Regional hub",
+      "zh": "区域枢纽",
+      "definition": "为多个邻近市场提供协调和共享服务的中心",
+      "example": "Singapore serves as our regional hub for Southeast Asia.",
+      "exampleZh": "新加坡是我们东南亚业务的区域枢纽。",
+      "collocation": "set up a regional hub",
+      "collocationZh": "设立区域枢纽",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Singapore serves as our ____ for Southeast Asia.",
+          "zh": "补全职场表达：新加坡是我们东南亚业务的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Singapore serves as our regional hub for Southeast Asia.",
+          "zh": "新加坡是我们东南亚业务的区域枢纽。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 534,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈriːdʒənəl ˈhʌb",
+      "ipaUS": "ˈriːdʒənəl ˈhʌb",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Regional hub",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT534",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Regional hub",
+      "zh": "区域枢纽",
+      "definition": "为一个区域内多个市场提供协调或共享服务的运营中心",
+      "example": "Singapore serves as our regional hub for Southeast Asia.",
+      "exampleZh": "新加坡是我们东南亚业务的区域运营中心。",
+      "collocation": "set up a regional hub",
+      "collocationZh": "设立区域枢纽",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where is our Southeast Asian coordination team based?",
+          "zh": "我们的东南亚协调团队设在哪里？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Singapore serves as our regional hub for Southeast Asia.",
+          "zh": "新加坡是我们东南亚业务的区域运营中心。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 534,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈriːdʒənəl hʌb",
+      "ipaUS": "ˈriːdʒənəl hʌb",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Regional hub",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT535",
+    "before": {
+      "id": "MKT535",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global asset library",
+      "zh": "全球素材库",
+      "definition": "跨市场共享的品牌与营销素材集合",
+      "example": "Local teams can access the global asset library directly.",
+      "exampleZh": "本地团队可以直接访问全球素材库。",
+      "collocation": "maintain a global asset library",
+      "collocationZh": "维护全球素材库",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Local teams can access the ____ directly.",
+          "zh": "补全职场表达：本地团队可以直接访问____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Local teams can access the global asset library directly.",
+          "zh": "本地团队可以直接访问全球素材库。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 535,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡləʊbəl ˈæset ˈlaɪbrəri",
+      "ipaUS": "ˈɡloʊbəl ˈæset ˈlaɪbreri",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Global asset library",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT535",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global asset library",
+      "zh": "全球素材库",
+      "definition": "供多个市场共享的品牌和营销素材集合，使用受授权范围约束",
+      "example": "Local teams can access approved materials in the global asset library.",
+      "exampleZh": "本地团队可以访问全球素材库中已获批准的素材。",
+      "collocation": "maintain a global asset library",
+      "collocationZh": "维护全球素材库",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where can local teams find approved campaign visuals?",
+          "zh": "本地团队在哪里可以找到已获批准的活动视觉素材？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Local teams can access approved materials in the global asset library.",
+          "zh": "本地团队可以访问全球素材库中已获批准的素材。"
+        }
+      ],
+      "usage": "可访问素材不代表拥有所有地区或渠道的使用授权。",
+      "new": true,
+      "order": 535,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɡləʊbəl ˈæset ˈlaɪbrəri",
+      "ipaUS": "ˈɡloʊbəl ˈæset ˈlaɪbreri",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Global asset library",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT536",
+    "before": {
+      "id": "MKT536",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Cross-market benchmarking",
+      "zh": "跨市场对标",
+      "definition": "使用可比指标比较不同市场的表现",
+      "example": "Cross-market benchmarking requires consistent metric definitions.",
+      "exampleZh": "跨市场对标需要一致的指标定义。",
+      "collocation": "conduct cross-market benchmarking",
+      "collocationZh": "开展跨市场对标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ requires consistent metric definitions.",
+          "zh": "补全职场表达：____需要一致的指标定义。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Cross-market benchmarking requires consistent metric definitions.",
+          "zh": "跨市场对标需要一致的指标定义。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 536,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkrɒˈsmɑːkɪt ˈbentʃmɑːkɪŋ",
+      "ipaUS": "ˈkrɔˈsmɑːrkɪt ˈbentʃmɑːrkɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Cross-market benchmarking",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT536",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Cross-market benchmarking",
+      "zh": "跨市场对标",
+      "definition": "采用可比指标和统计口径比较不同市场的表现",
+      "example": "Cross-market benchmarking requires consistent metric definitions.",
+      "exampleZh": "跨市场对标要求统一指标定义。",
+      "collocation": "conduct cross-market benchmarking",
+      "collocationZh": "开展跨市场对标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What must we standardize before comparing regional performance?",
+          "zh": "比较区域表现前必须统一什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Cross-market benchmarking requires consistent metric definitions.",
+          "zh": "跨市场对标要求统一指标定义。"
+        }
+      ],
+      "usage": "比较时统一指标、周期和币种，并考虑市场规模与成熟度。",
+      "new": true,
+      "order": 536,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌkrɒs ˈmɑːkɪt ˈbentʃmɑːkɪŋ",
+      "ipaUS": "ˌkrɔːs ˈmɑːrkɪt ˈbentʃmɑːrkɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Cross-market benchmarking",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT537",
+    "before": {
+      "id": "MKT537",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global account management",
+      "zh": "全球客户管理",
+      "definition": "跨地区协调同一国际客户的关系与服务",
+      "example": "Global account management prevents conflicting proposals.",
+      "exampleZh": "全球客户管理可避免相互冲突的提案。",
+      "collocation": "coordinate global account management",
+      "collocationZh": "协调全球客户管理",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ prevents conflicting proposals.",
+          "zh": "补全职场表达：____可避免相互冲突的提案。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Global account management prevents conflicting proposals.",
+          "zh": "全球客户管理可避免相互冲突的提案。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 537,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡləʊbəl əˈkaʊnt ˈmænɪdʒmənt",
+      "ipaUS": "ˈɡloʊbəl əˈkaʊnt ˈmænɪdʒmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Global account management",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT537",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global account management",
+      "zh": "全球客户管理",
+      "definition": "跨地区协调同一国际客户的关系、商业方案及服务",
+      "example": "Global account management helps prevent conflicting proposals across regions.",
+      "exampleZh": "全球客户管理有助于避免不同区域提出相互冲突的商业方案。",
+      "collocation": "coordinate global account management",
+      "collocationZh": "协调全球客户管理",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we reduce conflicting proposals to the same client?",
+          "zh": "如何减少向同一客户提出相互冲突的方案？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Global account management helps prevent conflicting proposals across regions.",
+          "zh": "全球客户管理有助于避免不同区域提出相互冲突的商业方案。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 537,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɡləʊbəl əˈkaʊnt ˈmænɪdʒmənt",
+      "ipaUS": "ˈɡloʊbəl əˈkaʊnt ˈmænɪdʒmənt",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Global account management",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT538",
+    "before": {
+      "id": "MKT538",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Regional autonomy",
+      "zh": "区域自主权",
+      "definition": "区域团队在规定范围内独立决策的权限",
+      "example": "We grant regional autonomy over channel selection.",
+      "exampleZh": "我们授予区域团队渠道选择自主权。",
+      "collocation": "grant regional autonomy",
+      "collocationZh": "授予区域自主权",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We grant ____ over channel selection.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We grant regional autonomy over channel selection.",
+          "zh": "我们授予区域团队渠道选择自主权。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 538,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈriːdʒənəl ɔːˈtɒnəmi",
+      "ipaUS": "ˈriːdʒənəl ɔːˈtɑːnəmi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Regional autonomy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT538",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Regional autonomy",
+      "zh": "区域自主权",
+      "definition": "区域团队在授权范围内独立决策的权限",
+      "example": "We grant regional teams autonomy over channel selection.",
+      "exampleZh": "我们允许区域团队自主选择渠道。",
+      "collocation": "grant regional teams autonomy",
+      "collocationZh": "授予区域团队自主权",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who decides which channels to use locally?",
+          "zh": "谁决定本地使用哪些渠道？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We grant regional teams autonomy over channel selection.",
+          "zh": "我们允许区域团队自主选择渠道。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 538,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈriːdʒənəl ɔːˈtɒnəmi",
+      "ipaUS": "ˈriːdʒənəl ɔːˈtɑːnəmi",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Regional autonomy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocation",
+      "collocationZh",
+      "dialogue",
+      "collocationReview",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT539",
+    "before": {
+      "id": "MKT539",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global rollout",
+      "zh": "全球分阶段推广",
+      "definition": "将产品或活动逐步推广至多个国家的过程",
+      "example": "The global rollout begins with three pilot markets.",
+      "exampleZh": "全球推广从三个试点市场开始。",
+      "collocation": "plan a global rollout",
+      "collocationZh": "规划全球推广",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ begins with three pilot markets.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The global rollout begins with three pilot markets.",
+          "zh": "全球推广从三个试点市场开始。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 539,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡləʊbəl ˈrəʊlaʊt",
+      "ipaUS": "ˈɡloʊbəl ˈroʊlaʊt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Global rollout",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT539",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Global rollout",
+      "zh": "全球分阶段推广",
+      "definition": "将产品或活动推广至多个国家或地区的过程，可分阶段进行",
+      "example": "The global rollout begins with three pilot markets.",
+      "exampleZh": "全球推广从三个试点市场开始。",
+      "collocation": "plan a global rollout",
+      "collocationZh": "规划全球推广",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which markets will be included in the first phase?",
+          "zh": "第一阶段将覆盖哪些市场？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The global rollout begins with three pilot markets.",
+          "zh": "全球推广从三个试点市场开始。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 539,
+      "aliases": [
+        "全球推广"
+      ],
+      "distinction": "Rollout 是名词；roll out 是动词短语。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɡləʊbəl ˈrəʊlaʊt",
+      "ipaUS": "ˈɡloʊbəl ˈroʊlaʊt",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Global rollout",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "aliases",
+      "distinction",
+      "collocationReview",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  },
+  {
+    "id": "MKT540",
+    "before": {
+      "id": "MKT540",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Market readiness",
+      "zh": "市场准备度",
+      "definition": "市场具备上市所需渠道、资源和运营条件的程度",
+      "example": "We assess market readiness before confirming launch dates.",
+      "exampleZh": "我们在确认上市日期前评估市场准备度。",
+      "collocation": "assess market readiness",
+      "collocationZh": "评估市场准备度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We assess ____ before confirming launch dates.",
+          "zh": "补全职场表达：我们在确认上市日期前评估____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We assess market readiness before confirming launch dates.",
+          "zh": "我们在确认上市日期前评估市场准备度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 540,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmɑːkɪt ˈredinəs",
+      "ipaUS": "ˈmɑːrkɪt ˈredɪnəs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Market readiness",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT540",
+      "moduleId": "m20",
+      "module": "全球化营销",
+      "term": "Market readiness",
+      "zh": "市场准备度",
+      "definition": "市场具备上市所需需求验证、渠道、资源及合规运营条件的程度",
+      "example": "We assess market readiness before confirming launch dates.",
+      "exampleZh": "我们在确认上市日期前评估市场准备度。",
+      "collocation": "assess market readiness",
+      "collocationZh": "评估市场准备度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What do we assess before committing to launch dates?",
+          "zh": "确定上市日期前我们评估什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We assess market readiness before confirming launch dates.",
+          "zh": "我们在确认上市日期前评估市场准备度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 540,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmɑːkɪt ˈredinəs",
+      "ipaUS": "ˈmɑːrkɪt ˈredinəs",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Market readiness",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaNote"
+    ],
+    "verification": "编辑校订，未独立词典核验"
+  }
+]

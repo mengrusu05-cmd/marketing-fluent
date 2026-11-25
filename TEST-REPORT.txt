@@ -1,3 +1,13 @@
-V1.0.27
-PASS: JavaScript syntax, service worker syntax, 24 unique SVG definitions, version entry routing static check, original vocabulary/scenario files and app icons byte-identical.
-Not tested: browser interactions, iPhone rendering, live PWA update.
+PASS JS syntax
+PASS embedded and JSON data, 600 words, 24 modules, 40 scenarios
+PASS 12000 quiz cases
+PASS backup structure, transfer roundtrip and oversized export rejection
+PASS install precaches seven assets with reload
+PASS activation removes only old app caches
+PASS online navigation and offline fallback
+PASS offline static asset
+PASS HTTP error fallback
+PASS update preflight, unrelated URLs and POST bypass
+PASS update timeout/retry, staged deployment, save failure guard, concurrent refresh and stalled worker registration (VM simulation)
+PASS unchanged vocabulary except version, scenarios, IPA database and storage key
+NOT TESTED: real browser, live GitHub Pages, device speech, independent IPA verification. Worker and update tests use mocks.

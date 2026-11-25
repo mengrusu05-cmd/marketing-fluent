@@ -1,0 +1,5242 @@
+{
+  "version": "1.0.65",
+  "changes": [
+    {
+      "id": "MKT028",
+      "before": {
+        "id": "MKT028",
+        "moduleId": "m1",
+        "module": "市场战略",
+        "term": "First-mover advantage",
+        "zh": "先发优势",
+        "definition": "率先进入市场可能获得的竞争优势，如品牌认知、渠道资源或学习效应。",
+        "example": "Our first-mover advantage may disappear once competitors match our delivery speed.",
+        "exampleZh": "一旦竞争对手达到我们的配送速度，先发优势可能消失。",
+        "collocation": "leverage our first-mover advantage",
+        "collocationZh": "利用我们的先发优势",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Can we rely on being first to market indefinitely?",
+            "zh": "我们能一直依靠率先进入市场的优势吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our first-mover advantage may disappear once competitors match our delivery speed.",
+            "zh": "一旦竞争对手达到我们的配送速度，先发优势可能消失。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 28,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌfɜːst ˈmuːvər ədˈvɑːntɪdʒ",
+        "ipaUS": "ˌfɝːst ˈmuːvər ədˈvæntɪdʒ",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "First-mover advantage",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT028",
+        "moduleId": "m1",
+        "module": "市场战略",
+        "term": "First-mover advantage",
+        "zh": "先发优势",
+        "definition": "率先进入市场可能获得的竞争优势，如品牌认知、渠道资源或学习效应。",
+        "example": "Our first-mover advantage may disappear once competitors match our delivery speed.",
+        "exampleZh": "一旦竞争对手达到我们的配送速度，先发优势可能消失。",
+        "collocation": "leverage our first-mover advantage",
+        "collocationZh": "利用我们的先发优势",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Can we rely on being first to market indefinitely?",
+            "zh": "我们能一直依靠率先进入市场的优势吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our first-mover advantage may disappear once competitors match our delivery speed.",
+            "zh": "一旦竞争对手达到我们的配送速度，先发优势可能消失。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 28,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌfɜːst ˈmuːvə(r) ədˈvɑːntɪdʒ",
+        "ipaUS": "ˌfɝːst ˈmuːvər ədˈvæntɪdʒ",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "First-mover advantage",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。 英式连接音或音节边界显示规范化（编辑校订）。"
+      }
+    },
+    {
+      "id": "MKT070",
+      "before": {
+        "id": "MKT070",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Go-to-market strategy",
+        "zh": "上市策略",
+        "definition": "将产品推向目标市场的整体方案，通常包括目标客户、价值主张、定价、渠道和销售安排。",
+        "example": "Our go-to-market strategy specifies the target buyers, channels and launch sequence.",
+        "exampleZh": "我们的上市策略明确了目标客户、渠道和上市顺序。",
+        "collocation": "develop a go-to-market strategy",
+        "collocationZh": "制定上市策略",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What does our plan for reaching the first customers specify?",
+            "zh": "我们触达首批客户的计划明确了哪些内容？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our go-to-market strategy specifies the target buyers, channels and launch sequence.",
+            "zh": "我们的上市策略明确了目标客户、渠道和上市顺序。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 70,
+        "aliases": [
+          "GTM"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌɡəʊ tə ˈmɑːkɪt ˈstrætədʒi",
+        "ipaUS": "ˌɡoʊ tə ˈmɑːrkɪt ˈstrætədʒi",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Go-to-market strategy",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT070",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Go-to-market strategy",
+        "zh": "上市策略",
+        "definition": "将产品推向目标市场的整体方案，通常包括目标客户、价值主张、定价、渠道和销售安排。",
+        "example": "Our go-to-market strategy specifies the target buyers, channels and launch sequence.",
+        "exampleZh": "我们的上市策略明确了目标客户、渠道和上市顺序。",
+        "collocation": "develop a go-to-market strategy",
+        "collocationZh": "制定上市策略",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What does our plan for reaching the first customers specify?",
+            "zh": "我们触达首批客户的计划明确了哪些内容？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our go-to-market strategy specifies the target buyers, channels and launch sequence.",
+            "zh": "我们的上市策略明确了目标客户、渠道和上市顺序。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 70,
+        "aliases": [
+          "GTM"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌɡəʊ tə ˈmɑːkɪt ˈstrætədʒi",
+        "ipaUS": "ˌɡoʊ tə ˈmɑːrkɪt ˈstrætədʒi",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Go-to-market strategy",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT074",
+      "before": {
+        "id": "MKT074",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Product-market fit",
+        "zh": "产品市场契合度",
+        "definition": "产品能够满足明确市场的真实需求，并获得持续市场接受的程度。",
+        "example": "High repeat usage is one indicator of product-market fit.",
+        "exampleZh": "较高的重复使用率是产品市场契合度的一个指标。",
+        "collocation": "validate product-market fit",
+        "collocationZh": "验证产品市场契合度",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What evidence suggests customers continue to find value in the product?",
+            "zh": "什么证据表明客户持续从产品中获得价值？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "High repeat usage is one indicator of product-market fit.",
+            "zh": "较高的重复使用率是产品市场契合度的一个指标。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 74,
+        "aliases": [
+          "PMF"
+        ],
+        "distinction": "重复使用是信号之一，并非单独证明。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈprɒdʌkt ˈmɑːkɪt fɪt",
+        "ipaUS": "ˈprɑːdʌkt ˈmɑːrkɪt fɪt",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Product-market fit",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT074",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Product-market fit",
+        "zh": "产品市场契合度",
+        "definition": "产品能够满足明确市场的真实需求，并获得持续市场接受的程度。",
+        "example": "High repeat usage is one indicator of product-market fit.",
+        "exampleZh": "较高的重复使用率是产品市场契合度的一个指标。",
+        "collocation": "validate product-market fit",
+        "collocationZh": "验证产品市场契合度",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What evidence suggests customers continue to find value in the product?",
+            "zh": "什么证据表明客户持续从产品中获得价值？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "High repeat usage is one indicator of product-market fit.",
+            "zh": "较高的重复使用率是产品市场契合度的一个指标。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 74,
+        "aliases": [
+          "PMF"
+        ],
+        "distinction": "重复使用是信号之一，并非单独证明。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈprɒdʌkt ˈmɑːkɪt fɪt",
+        "ipaUS": "ˈprɑːdʌkt ˈmɑːrkɪt fɪt",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Product-market fit",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT080",
+      "before": {
+        "id": "MKT080",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Value-based pricing",
+        "zh": "价值定价",
+        "definition": "主要依据客户感知价值及支付意愿，而非仅依据成本制定价格的方法。",
+        "example": "To support value-based pricing, we can quantify the savings our software delivers.",
+        "exampleZh": "为支持价值定价，我们可以量化软件为客户带来的成本节约。",
+        "collocation": "adopt value-based pricing",
+        "collocationZh": "采用价值定价",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we demonstrate the value behind our proposed price?",
+            "zh": "我们如何证明拟定价格背后的客户价值？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "To support value-based pricing, we can quantify the savings our software delivers.",
+            "zh": "为支持价值定价，我们可以量化软件为客户带来的成本节约。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 80,
+        "aliases": [],
+        "distinction": "成本节约只是客户价值的一种来源。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈvæljuː beɪst ˈpraɪsɪŋ",
+        "ipaUS": "ˈvæljuː beɪst ˈpraɪsɪŋ",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Value-based pricing",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT080",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Value-based pricing",
+        "zh": "价值定价",
+        "definition": "主要依据客户感知价值及支付意愿，而非仅依据成本制定价格的方法。",
+        "example": "To support value-based pricing, we can quantify the savings our software delivers.",
+        "exampleZh": "为支持价值定价，我们可以量化软件为客户带来的成本节约。",
+        "collocation": "adopt value-based pricing",
+        "collocationZh": "采用价值定价",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we demonstrate the value behind our proposed price?",
+            "zh": "我们如何证明拟定价格背后的客户价值？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "To support value-based pricing, we can quantify the savings our software delivers.",
+            "zh": "为支持价值定价，我们可以量化软件为客户带来的成本节约。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 80,
+        "aliases": [],
+        "distinction": "成本节约只是客户价值的一种来源。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈvæljuː beɪst ˈpraɪsɪŋ",
+        "ipaUS": "ˈvæljuː beɪst ˈpraɪsɪŋ",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Value-based pricing",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT086",
+      "before": {
+        "id": "MKT086",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "Click-through rate",
+        "zh": "点击率",
+        "definition": "点击次数除以展示次数，通常以百分比表示。",
+        "example": "The new headline improved the click-through rate from 2% to 3%.",
+        "exampleZh": "新标题将点击率从2%提高到3%。",
+        "collocation": "improve the click-through rate",
+        "collocationZh": "提高点击率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Did the new headline encourage more people to click?",
+            "zh": "新标题是否促使更多人点击？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The new headline improved the click-through rate from 2% to 3%.",
+            "zh": "新标题将点击率从2%提高到3%。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 86,
+        "aliases": [
+          "CTR"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈklɪkθruː reɪt",
+        "ipaUS": "ˈklɪkθruː reɪt",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Click-through rate",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT086",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "Click-through rate",
+        "zh": "点击率",
+        "definition": "点击次数除以展示次数，通常以百分比表示。",
+        "example": "The new headline improved the click-through rate from 2% to 3%.",
+        "exampleZh": "新标题将点击率从2%提高到3%。",
+        "collocation": "improve the click-through rate",
+        "collocationZh": "提高点击率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Did the new headline encourage more people to click?",
+            "zh": "新标题是否促使更多人点击？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The new headline improved the click-through rate from 2% to 3%.",
+            "zh": "新标题将点击率从2%提高到3%。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 86,
+        "aliases": [
+          "CTR"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈklɪkθruː reɪt",
+        "ipaUS": "ˈklɪkθruː reɪt",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Click-through rate",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT097",
+      "before": {
+        "id": "MKT097",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Marketing-qualified lead",
+        "zh": "营销合格线索",
+        "definition": "达到营销团队预先约定的匹配度及互动等资格标准的潜在客户线索。",
+        "example": "A marketing-qualified lead meets our agreed engagement and fit criteria.",
+        "exampleZh": "营销合格线索符合我们约定的互动及匹配标准。",
+        "collocation": "identify marketing-qualified leads",
+        "collocationZh": "识别营销合格线索",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "When do we classify a prospect as qualified by marketing?",
+            "zh": "我们何时将潜在客户归为营销合格线索？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "A marketing-qualified lead meets our agreed engagement and fit criteria.",
+            "zh": "营销合格线索符合我们约定的互动及匹配标准。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 97,
+        "aliases": [
+          "Marketing qualified lead",
+          "MQL"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmɑːkɪtɪŋ ˈkwɒlɪfaɪd liːd",
+        "ipaUS": "ˈmɑːrkɪtɪŋ ˈkwɑːləfaɪd liːd",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Marketing-qualified lead",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT097",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Marketing-qualified lead",
+        "zh": "营销合格线索",
+        "definition": "达到营销团队预先约定的匹配度及互动等资格标准的潜在客户线索。",
+        "example": "A marketing-qualified lead meets our agreed engagement and fit criteria.",
+        "exampleZh": "营销合格线索符合我们约定的互动及匹配标准。",
+        "collocation": "identify marketing-qualified leads",
+        "collocationZh": "识别营销合格线索",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "When do we classify a prospect as qualified by marketing?",
+            "zh": "我们何时将潜在客户归为营销合格线索？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "A marketing-qualified lead meets our agreed engagement and fit criteria.",
+            "zh": "营销合格线索符合我们约定的互动及匹配标准。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 97,
+        "aliases": [
+          "Marketing qualified lead",
+          "MQL"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmɑːkɪtɪŋ ˈkwɒlɪfaɪd liːd",
+        "ipaUS": "ˈmɑːrkɪtɪŋ ˈkwɑːləfaɪd liːd",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Marketing-qualified lead",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT098",
+      "before": {
+        "id": "MKT098",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Sales-qualified lead",
+        "zh": "销售合格线索",
+        "definition": "经销售资格评估后适合进一步销售跟进的潜在客户线索。",
+        "example": "Sales-qualified leads are ready for direct follow-up by the sales team.",
+        "exampleZh": "销售合格线索已适合由销售团队直接跟进。",
+        "collocation": "prioritize sales-qualified leads",
+        "collocationZh": "优先跟进销售合格线索",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Which prospects are ready for direct sales follow-up?",
+            "zh": "哪些潜在客户已适合由销售直接跟进？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Sales-qualified leads are ready for direct follow-up by the sales team.",
+            "zh": "销售合格线索已适合由销售团队直接跟进。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 98,
+        "aliases": [
+          "Sales qualified lead",
+          "SQL"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "seɪlz ˈkwɒlɪfaɪd liːd",
+        "ipaUS": "seɪlz ˈkwɑːləfaɪd liːd",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Sales-qualified lead",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT098",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Sales-qualified lead",
+        "zh": "销售合格线索",
+        "definition": "经销售资格评估后适合进一步销售跟进的潜在客户线索。",
+        "example": "Sales-qualified leads are ready for direct follow-up by the sales team.",
+        "exampleZh": "销售合格线索已适合由销售团队直接跟进。",
+        "collocation": "prioritize sales-qualified leads",
+        "collocationZh": "优先跟进销售合格线索",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Which prospects are ready for direct sales follow-up?",
+            "zh": "哪些潜在客户已适合由销售直接跟进？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Sales-qualified leads are ready for direct follow-up by the sales team.",
+            "zh": "销售合格线索已适合由销售团队直接跟进。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 98,
+        "aliases": [
+          "Sales qualified lead",
+          "SQL"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "seɪlz ˈkwɒlɪfaɪd liːd",
+        "ipaUS": "seɪlz ˈkwɑːləfaɪd liːd",
+        "ipaSource": "编辑复核 · 未经词典独立核验",
+        "speakTerm": "Sales-qualified lead",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT120",
+      "before": {
+        "id": "MKT120",
+        "moduleId": "m2",
+        "module": "品牌管理",
+        "term": "Sub-brand",
+        "zh": "子品牌",
+        "definition": "与主品牌存在明确关联、同时具有自身名称或定位的品牌。",
+        "example": "We may launch a sub-brand for premium customers.",
+        "exampleZh": "我们可能为高端客户推出一个子品牌。",
+        "collocation": "launch a sub-brand",
+        "collocationZh": "推出子品牌",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How could we distinguish the premium offer from our mainstream range?",
+            "zh": "如何将高端产品与主流产品系列区分开？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We may launch a sub-brand for premium customers.",
+            "zh": "我们可能为高端客户推出一个子品牌。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 120,
+        "aliases": [
+          "subbrand"
+        ],
+        "distinction": "也写作 subbrand；区别于完全独立的品牌。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈsʌbbrænd",
+        "ipaUS": "ˈsʌbbrænd",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Sub-brand",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT120",
+        "moduleId": "m2",
+        "module": "品牌管理",
+        "term": "Sub-brand",
+        "zh": "子品牌",
+        "definition": "与主品牌存在明确关联、同时具有自身名称或定位的品牌。",
+        "example": "We may launch a sub-brand for premium customers.",
+        "exampleZh": "我们可能为高端客户推出一个子品牌。",
+        "collocation": "launch a sub-brand",
+        "collocationZh": "推出子品牌",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How could we distinguish the premium offer from our mainstream range?",
+            "zh": "如何将高端产品与主流产品系列区分开？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We may launch a sub-brand for premium customers.",
+            "zh": "我们可能为高端客户推出一个子品牌。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 120,
+        "aliases": [
+          "subbrand"
+        ],
+        "distinction": "也写作 subbrand；区别于完全独立的品牌。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈsʌbbrænd",
+        "ipaUS": "ˈsʌbbrænd",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Sub-brand",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT124",
+      "before": {
+        "id": "MKT124",
+        "moduleId": "m2",
+        "module": "品牌管理",
+        "term": "Co-branding",
+        "zh": "联合品牌",
+        "definition": "两个或多个品牌共同参与产品、服务或营销活动，并借助彼此品牌资产的合作方式。",
+        "example": "Let's explore co-branding opportunities with a travel partner.",
+        "exampleZh": "我们来探索与旅游行业合作伙伴开展品牌联名的机会吧。",
+        "collocation": "explore co-branding opportunities",
+        "collocationZh": "探索品牌联名机会",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How might we collaborate with another brand to reach travelers?",
+            "zh": "如何与其他品牌合作触达旅行者？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Let's explore co-branding opportunities with a travel partner.",
+            "zh": "我们来探索与旅游行业合作伙伴开展品牌联名的机会吧。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 124,
+        "aliases": [
+          "品牌联名",
+          "品牌联合"
+        ],
+        "distinction": "联名是常见形式，不等于单纯的渠道合作。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkəʊˈbrændɪŋ",
+        "ipaUS": "ˌkoʊˈbrændɪŋ",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Co-branding",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT124",
+        "moduleId": "m2",
+        "module": "品牌管理",
+        "term": "Co-branding",
+        "zh": "联合品牌",
+        "definition": "两个或多个品牌共同参与产品、服务或营销活动，并借助彼此品牌资产的合作方式。",
+        "example": "Let's explore co-branding opportunities with a travel partner.",
+        "exampleZh": "我们来探索与旅游行业合作伙伴开展品牌联名的机会吧。",
+        "collocation": "explore co-branding opportunities",
+        "collocationZh": "探索品牌联名机会",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How might we collaborate with another brand to reach travelers?",
+            "zh": "如何与其他品牌合作触达旅行者？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Let's explore co-branding opportunities with a travel partner.",
+            "zh": "我们来探索与旅游行业合作伙伴开展品牌联名的机会吧。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 124,
+        "aliases": [
+          "品牌联名",
+          "品牌联合"
+        ],
+        "distinction": "联名是常见形式，不等于单纯的渠道合作。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkəʊˈbrændɪŋ",
+        "ipaUS": "ˌkoʊˈbrændɪŋ",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Co-branding",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT134",
+      "before": {
+        "id": "MKT134",
+        "moduleId": "m6",
+        "module": "消费者洞察",
+        "term": "Decision-making process",
+        "zh": "决策过程",
+        "definition": "消费者识别需求、搜集信息、评估选项并作出决定的过程，广义模型还包括购后评价。",
+        "example": "We interviewed families to understand their purchase decision-making process.",
+        "exampleZh": "我们访谈了多个家庭，以了解他们的购买决策过程。",
+        "collocation": "understand the decision-making process",
+        "collocationZh": "理解决策过程",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we find out who influences household purchases?",
+            "zh": "我们如何了解谁会影响家庭采购决策？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We interviewed families to understand their purchase decision-making process.",
+            "zh": "我们访谈了多个家庭，以了解他们的购买决策过程。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 134,
+        "aliases": [],
+        "distinction": "实际决策不一定按固定顺序进行。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "dɪˈsɪʒən ˌmeɪkɪŋ ˈprəʊses",
+        "ipaUS": "dɪˈsɪʒən ˌmeɪkɪŋ ˈprɑːses",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Decision-making process",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT134",
+        "moduleId": "m6",
+        "module": "消费者洞察",
+        "term": "Decision-making process",
+        "zh": "决策过程",
+        "definition": "消费者识别需求、搜集信息、评估选项并作出决定的过程，广义模型还包括购后评价。",
+        "example": "We interviewed families to understand their purchase decision-making process.",
+        "exampleZh": "我们访谈了多个家庭，以了解他们的购买决策过程。",
+        "collocation": "understand the decision-making process",
+        "collocationZh": "理解决策过程",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we find out who influences household purchases?",
+            "zh": "我们如何了解谁会影响家庭采购决策？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We interviewed families to understand their purchase decision-making process.",
+            "zh": "我们访谈了多个家庭，以了解他们的购买决策过程。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 134,
+        "aliases": [],
+        "distinction": "实际决策不一定按固定顺序进行。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "dɪˈsɪʒən ˌmeɪkɪŋ ˈprəʊses",
+        "ipaUS": "dɪˈsɪʒən ˌmeɪkɪŋ ˈprɑːses",
+        "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+        "speakTerm": "Decision-making process",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT165",
+      "before": {
+        "id": "MKT165",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Feature-benefit mapping",
+        "zh": "功能利益映射",
+        "definition": "将产品功能逐项对应到客户能够获得的实际好处或价值。",
+        "example": "Let's create a feature-benefit map for the sales team.",
+        "exampleZh": "我们为销售团队制作一份功能与客户收益的对应表吧。",
+        "collocation": "create a feature-benefit map",
+        "collocationZh": "制作功能与客户收益对应表",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can sales explain why each technical capability matters to customers?",
+            "zh": "销售如何解释每项技术能力对客户的价值？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Let's create a feature-benefit map for the sales team.",
+            "zh": "我们为销售团队制作一份功能与客户收益的对应表吧。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 165,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈfiːtʃə ˈbenɪfɪt ˈmæpɪŋ",
+        "ipaUS": "ˈfiːtʃər ˈbenəfɪt ˈmæpɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Feature-benefit mapping",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT165",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Feature-benefit mapping",
+        "zh": "功能利益映射",
+        "definition": "将产品功能逐项对应到客户能够获得的实际好处或价值。",
+        "example": "Let's create a feature-benefit map for the sales team.",
+        "exampleZh": "我们为销售团队制作一份功能与客户收益的对应表吧。",
+        "collocation": "create a feature-benefit map",
+        "collocationZh": "制作功能与客户收益对应表",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can sales explain why each technical capability matters to customers?",
+            "zh": "销售如何解释每项技术能力对客户的价值？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Let's create a feature-benefit map for the sales team.",
+            "zh": "我们为销售团队制作一份功能与客户收益的对应表吧。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 165,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈfiːtʃə ˈbenɪfɪt ˈmæpɪŋ",
+        "ipaUS": "ˈfiːtʃər ˈbenəfɪt ˈmæpɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Feature-benefit mapping",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT169",
+      "before": {
+        "id": "MKT169",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Win-loss analysis",
+        "zh": "赢单输单分析",
+        "definition": "研究已赢得和已失去的销售机会及其决策原因，以改进销售和产品策略。",
+        "example": "Let’s conduct win-loss analysis by interviewing recent prospects who have made a purchase decision.",
+        "exampleZh": "我们来访谈近期已作出购买决定的潜在客户，开展赢单与失单分析吧。",
+        "collocation": "conduct win-loss analysis",
+        "collocationZh": "开展赢单输单分析",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we learn why prospects chose us or went with a competitor?",
+            "zh": "如何了解潜在客户选择我们或竞争对手的原因？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Let’s conduct win-loss analysis by interviewing recent prospects who have made a purchase decision.",
+            "zh": "我们来访谈近期已作出购买决定的潜在客户，开展赢单与失单分析吧。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 169,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈwɪn lɒs əˈnæləsɪs",
+        "ipaUS": "ˈwɪn lɑːs əˈnæləsɪs",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Win-loss analysis",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT169",
+        "moduleId": "m7",
+        "module": "产品营销",
+        "term": "Win-loss analysis",
+        "zh": "赢单输单分析",
+        "definition": "研究已赢得和已失去的销售机会及其决策原因，以改进销售和产品策略。",
+        "example": "Let’s conduct win-loss analysis by interviewing recent prospects who have made a purchase decision.",
+        "exampleZh": "我们来访谈近期已作出购买决定的潜在客户，开展赢单与失单分析吧。",
+        "collocation": "conduct win-loss analysis",
+        "collocationZh": "开展赢单输单分析",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we learn why prospects chose us or went with a competitor?",
+            "zh": "如何了解潜在客户选择我们或竞争对手的原因？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Let’s conduct win-loss analysis by interviewing recent prospects who have made a purchase decision.",
+            "zh": "我们来访谈近期已作出购买决定的潜在客户，开展赢单与失单分析吧。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 169,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈwɪn lɒs əˈnæləsɪs",
+        "ipaUS": "ˈwɪn lɑːs əˈnæləsɪs",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Win-loss analysis",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT215",
+      "before": {
+        "id": "MKT215",
+        "moduleId": "m8",
+        "module": "整合营销传播",
+        "term": "Cross-channel marketing",
+        "zh": "跨渠道营销",
+        "definition": "协调多个渠道的营销活动，使其相互配合并支持共同目标。",
+        "example": "Cross-channel marketing helps us coordinate promotions across email and retail.",
+        "exampleZh": "跨渠道营销帮助我们协调邮件与零售渠道的促销活动。",
+        "collocation": "coordinate cross-channel marketing",
+        "collocationZh": "协调跨渠道营销",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we coordinate our email and in-store promotions?",
+            "zh": "如何协调邮件与门店促销？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cross-channel marketing helps us coordinate promotions across email and retail.",
+            "zh": "跨渠道营销帮助我们协调邮件与零售渠道的促销活动。"
+          }
+        ],
+        "usage": "各渠道优惠不必完全相同，但规则应清晰协调。",
+        "new": true,
+        "order": 215,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkrɒs ˈtʃænəl ˈmɑːkɪtɪŋ",
+        "ipaUS": "ˌkrɔːs ˈtʃænəl ˈmɑːrkɪtɪŋ",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Cross-channel marketing",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT215",
+        "moduleId": "m8",
+        "module": "整合营销传播",
+        "term": "Cross-channel marketing",
+        "zh": "跨渠道营销",
+        "definition": "协调多个渠道的营销活动，使其相互配合并支持共同目标。",
+        "example": "Cross-channel marketing helps us coordinate promotions across email and retail.",
+        "exampleZh": "跨渠道营销帮助我们协调邮件与零售渠道的促销活动。",
+        "collocation": "coordinate cross-channel marketing",
+        "collocationZh": "协调跨渠道营销",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we coordinate our email and in-store promotions?",
+            "zh": "如何协调邮件与门店促销？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cross-channel marketing helps us coordinate promotions across email and retail.",
+            "zh": "跨渠道营销帮助我们协调邮件与零售渠道的促销活动。"
+          }
+        ],
+        "usage": "各渠道优惠不必完全相同，但规则应清晰协调。",
+        "new": true,
+        "order": 215,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkrɒs ˈtʃænəl ˈmɑːkɪtɪŋ",
+        "ipaUS": "ˌkrɔːs ˈtʃænəl ˈmɑːrkɪtɪŋ",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Cross-channel marketing",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT225",
+      "before": {
+        "id": "MKT225",
+        "moduleId": "m8",
+        "module": "整合营销传播",
+        "term": "Post-campaign review",
+        "zh": "活动复盘",
+        "definition": "活动结束后对目标达成情况、执行问题和经验进行评估的过程。",
+        "example": "The post-campaign review revealed delays in asset approval.",
+        "exampleZh": "活动复盘发现了素材审批延迟的问题。",
+        "collocation": "conduct a post-campaign review",
+        "collocationZh": "开展活动复盘",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify the approval bottleneck?",
+            "zh": "我们如何发现审批瓶颈？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The post-campaign review revealed delays in asset approval.",
+            "zh": "活动复盘发现了素材审批延迟的问题。"
+          }
+        ],
+        "usage": "复盘不仅是汇报结果，还应形成后续改进建议。",
+        "new": true,
+        "order": 225,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌpəʊst kæmˈpeɪn rɪˈvjuː",
+        "ipaUS": "ˌpoʊst kæmˈpeɪn rɪˈvjuː",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Post-campaign review",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT225",
+        "moduleId": "m8",
+        "module": "整合营销传播",
+        "term": "Post-campaign review",
+        "zh": "活动复盘",
+        "definition": "活动结束后对目标达成情况、执行问题和经验进行评估的过程。",
+        "example": "The post-campaign review revealed delays in asset approval.",
+        "exampleZh": "活动复盘发现了素材审批延迟的问题。",
+        "collocation": "conduct a post-campaign review",
+        "collocationZh": "开展活动复盘",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify the approval bottleneck?",
+            "zh": "我们如何发现审批瓶颈？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The post-campaign review revealed delays in asset approval.",
+            "zh": "活动复盘发现了素材审批延迟的问题。"
+          }
+        ],
+        "usage": "复盘不仅是汇报结果，还应形成后续改进建议。",
+        "new": true,
+        "order": 225,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌpəʊst kæmˈpeɪn rɪˈvjuː",
+        "ipaUS": "ˌpoʊst kæmˈpeɪn rɪˈvjuː",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Post-campaign review",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT236",
+      "before": {
+        "id": "MKT236",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "Target CPA",
+        "zh": "目标单次转化成本",
+        "definition": "自动出价优化所追求的平均单次转化成本目标。",
+        "example": "We raised the target CPA to give the campaign more room to generate conversions.",
+        "exampleZh": "我们提高了目标单次转化成本，为活动获取更多转化留出空间。",
+        "collocation": "set a target CPA",
+        "collocationZh": "设定目标单次转化成本",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did we raise our target cost per conversion during launch?",
+            "zh": "为什么上市期间提高了目标单次转化成本？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We raised the target CPA to give the campaign more room to generate conversions.",
+            "zh": "我们提高了目标单次转化成本，为活动获取更多转化留出空间。"
+          }
+        ],
+        "usage": "目标CPA不是每次转化的成本上限，也不保证获得更多转化。",
+        "new": true,
+        "order": 236,
+        "aliases": [
+          "tCPA"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈtɑːɡɪt ˌsiː piː ˈeɪ",
+        "ipaUS": "ˈtɑːrɡɪt ˌsiː piː ˈeɪ",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Target C P A",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT236",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "Target CPA",
+        "zh": "目标单次转化成本",
+        "definition": "自动出价优化所追求的平均单次转化成本目标。",
+        "example": "We raised the target CPA to give the campaign more room to generate conversions.",
+        "exampleZh": "我们提高了目标单次转化成本，为活动获取更多转化留出空间。",
+        "collocation": "set a target CPA",
+        "collocationZh": "设定目标单次转化成本",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did we raise our target cost per conversion during launch?",
+            "zh": "为什么上市期间提高了目标单次转化成本？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We raised the target CPA to give the campaign more room to generate conversions.",
+            "zh": "我们提高了目标单次转化成本，为活动获取更多转化留出空间。"
+          }
+        ],
+        "usage": "目标CPA不是每次转化的成本上限，也不保证获得更多转化。",
+        "new": true,
+        "order": 236,
+        "aliases": [
+          "tCPA"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈtɑːɡɪt ˌsiː piː ˈeɪ",
+        "ipaUS": "ˈtɑːrɡɪt ˌsiː piː ˈeɪ",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Target C P A",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      }
+    },
+    {
+      "id": "MKT237",
+      "before": {
+        "id": "MKT237",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "Target ROAS",
+        "zh": "目标广告支出回报率",
+        "definition": "自动出价优化所追求的转化价值与广告支出之比。",
+        "example": "A lower target ROAS may give the campaign more room to scale.",
+        "exampleZh": "较低的目标广告支出回报率可能为活动扩大投放留出更多空间。",
+        "collocation": "adjust target ROAS",
+        "collocationZh": "调整目标广告支出回报率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How could we give the campaign more room to scale?",
+            "zh": "如何为活动扩大投放留出更多空间？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "A lower target ROAS may give the campaign more room to scale.",
+            "zh": "较低的目标广告支出回报率可能为活动扩大投放留出更多空间。"
+          }
+        ],
+        "usage": "目标ROAS并非保证值，也不等于利润率；ROAS亦可作为单词读作 /ˈrəʊæs/（英）或 /ˈroʊæs/（美）。",
+        "new": true,
+        "order": 237,
+        "aliases": [
+          "tROAS"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈtɑːɡɪt ˌɑː əʊ eɪ ˈes",
+        "ipaUS": "ˈtɑːrɡɪt ˌɑːr oʊ eɪ ˈes",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Target R O A S",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT237",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "Target ROAS",
+        "zh": "目标广告支出回报率",
+        "definition": "自动出价优化所追求的转化价值与广告支出之比。",
+        "example": "A lower target ROAS may give the campaign more room to scale.",
+        "exampleZh": "较低的目标广告支出回报率可能为活动扩大投放留出更多空间。",
+        "collocation": "adjust target ROAS",
+        "collocationZh": "调整目标广告支出回报率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How could we give the campaign more room to scale?",
+            "zh": "如何为活动扩大投放留出更多空间？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "A lower target ROAS may give the campaign more room to scale.",
+            "zh": "较低的目标广告支出回报率可能为活动扩大投放留出更多空间。"
+          }
+        ],
+        "usage": "目标ROAS并非保证值，也不等于利润率；ROAS亦可作为单词读作 /ˈrəʊæs/（英）或 /ˈroʊæs/（美）。",
+        "new": true,
+        "order": 237,
+        "aliases": [
+          "tROAS"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈtɑːɡɪt ˌɑː əʊ eɪ ˈes",
+        "ipaUS": "ˈtɑːrɡɪt ˌɑːr oʊ eɪ ˈes",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Target R O A S",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 逐字母朗读字段检查通过；设备语音实际效果未测试。 本应用采用逐字母读法；行业亦有单词式读法，暂不提供未经词典核验的变体音标。"
+      }
+    },
+    {
+      "id": "MKT240",
+      "before": {
+        "id": "MKT240",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "UTM parameter",
+        "zh": "UTM追踪参数",
+        "definition": "附加在网址查询字符串中、用于标记营销流量来源等信息的参数。",
+        "example": "Append UTM parameters to the links so our analytics reports can identify email campaign traffic.",
+        "exampleZh": "在链接中添加UTM参数，以便分析报告识别邮件营销活动带来的流量。",
+        "collocation": "append UTM parameters",
+        "collocationZh": "添加UTM参数",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we identify email campaign traffic in our reports?",
+            "zh": "如何在报告中识别邮件营销活动带来的流量？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Append UTM parameters to the links so our analytics reports can identify email campaign traffic.",
+            "zh": "在链接中添加UTM参数，以便分析报告识别邮件营销活动带来的流量。"
+          }
+        ],
+        "usage": "常见字段包括 utm_source、utm_medium 和 utm_campaign；避免在参数中放入个人敏感信息。",
+        "new": true,
+        "order": 240,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌjuː tiː ˈem pəˈræmɪtə",
+        "ipaUS": "ˌjuː tiː ˈem pəˈræmətər",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "U T M parameter",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT240",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "UTM parameter",
+        "zh": "UTM追踪参数",
+        "definition": "附加在网址查询字符串中、用于标记营销流量来源等信息的参数。",
+        "example": "Append UTM parameters to the links so our analytics reports can identify email campaign traffic.",
+        "exampleZh": "在链接中添加UTM参数，以便分析报告识别邮件营销活动带来的流量。",
+        "collocation": "append UTM parameters",
+        "collocationZh": "添加UTM参数",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we identify email campaign traffic in our reports?",
+            "zh": "如何在报告中识别邮件营销活动带来的流量？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Append UTM parameters to the links so our analytics reports can identify email campaign traffic.",
+            "zh": "在链接中添加UTM参数，以便分析报告识别邮件营销活动带来的流量。"
+          }
+        ],
+        "usage": "常见字段包括 utm_source、utm_medium 和 utm_campaign；避免在参数中放入个人敏感信息。",
+        "new": true,
+        "order": 240,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌjuː tiː ˈem pəˈræmɪtə",
+        "ipaUS": "ˌjuː tiː ˈem pəˈræmətər",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "U T M parameter",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      }
+    },
+    {
+      "id": "MKT241",
+      "before": {
+        "id": "MKT241",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "First-party data",
+        "zh": "第一方数据",
+        "definition": "组织通过与客户或用户的直接互动获得的数据。",
+        "example": "We use first-party data collected with appropriate consent to build relevant audiences.",
+        "exampleZh": "我们利用在取得适当同意后收集的第一方数据构建相关受众。",
+        "collocation": "use first-party data",
+        "collocationZh": "利用第一方数据",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What data do we use to build relevant audiences?",
+            "zh": "我们使用什么数据构建相关受众？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We use first-party data collected with appropriate consent to build relevant audiences.",
+            "zh": "我们利用在取得适当同意后收集的第一方数据构建相关受众。"
+          }
+        ],
+        "usage": "第一方数据不等于可以任意使用的数据；须遵守适用的隐私规则。",
+        "new": true,
+        "order": 241,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌfɜːst ˈpɑːti ˈdeɪtə",
+        "ipaUS": "ˌfɝːst ˈpɑːrti ˈdeɪtə",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "First-party data",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT241",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "First-party data",
+        "zh": "第一方数据",
+        "definition": "组织通过与客户或用户的直接互动获得的数据。",
+        "example": "We use first-party data collected with appropriate consent to build relevant audiences.",
+        "exampleZh": "我们利用在取得适当同意后收集的第一方数据构建相关受众。",
+        "collocation": "use first-party data",
+        "collocationZh": "利用第一方数据",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What data do we use to build relevant audiences?",
+            "zh": "我们使用什么数据构建相关受众？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We use first-party data collected with appropriate consent to build relevant audiences.",
+            "zh": "我们利用在取得适当同意后收集的第一方数据构建相关受众。"
+          }
+        ],
+        "usage": "第一方数据不等于可以任意使用的数据；须遵守适用的隐私规则。",
+        "new": true,
+        "order": 241,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌfɜːst ˈpɑːti ˈdeɪtə",
+        "ipaUS": "ˌfɝːst ˈpɑːrti ˈdeɪtə",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "First-party data",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT251",
+      "before": {
+        "id": "MKT251",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "Technical SEO",
+        "zh": "技术搜索引擎优化",
+        "definition": "通过改善网站抓取、索引、技术结构等条件支持自然搜索表现。",
+        "example": "The technical SEO audit identified indexing problems.",
+        "exampleZh": "技术 SEO 审查发现了索引问题。",
+        "collocation": "conduct a technical SEO audit",
+        "collocationZh": "开展技术 SEO 审查",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify the indexing problems?",
+            "zh": "我们是如何发现索引问题的？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The technical SEO audit identified indexing problems.",
+            "zh": "技术 SEO 审查发现了索引问题。"
+          }
+        ],
+        "usage": "SEO 逐字母朗读；技术优化不保证排名。",
+        "new": true,
+        "order": 251,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈteknɪkəl ˌes iː ˈəʊ",
+        "ipaUS": "ˈteknɪkəl ˌes iː ˈoʊ",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Technical S E O",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT251",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "Technical SEO",
+        "zh": "技术搜索引擎优化",
+        "definition": "通过改善网站抓取、索引、技术结构等条件支持自然搜索表现。",
+        "example": "The technical SEO audit identified indexing problems.",
+        "exampleZh": "技术 SEO 审查发现了索引问题。",
+        "collocation": "conduct a technical SEO audit",
+        "collocationZh": "开展技术 SEO 审查",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify the indexing problems?",
+            "zh": "我们是如何发现索引问题的？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The technical SEO audit identified indexing problems.",
+            "zh": "技术 SEO 审查发现了索引问题。"
+          }
+        ],
+        "usage": "SEO 逐字母朗读；技术优化不保证排名。",
+        "new": true,
+        "order": 251,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈteknɪkəl ˌes iː ˈəʊ",
+        "ipaUS": "ˈteknɪkəl ˌes iː ˈoʊ",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Technical S E O",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      }
+    },
+    {
+      "id": "MKT252",
+      "before": {
+        "id": "MKT252",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "On-page SEO",
+        "zh": "页面内搜索优化",
+        "definition": "优化网页内容、标题及内部链接等页面因素，以改善搜索相关性和用户体验。",
+        "example": "We improved on-page SEO by rewriting category descriptions.",
+        "exampleZh": "我们通过重写商品分类描述改善了页面内 SEO。",
+        "collocation": "improve on-page SEO",
+        "collocationZh": "改善页面内 SEO",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we improve the category pages for organic search?",
+            "zh": "我们如何针对自然搜索优化商品分类页？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We improved on-page SEO by rewriting category descriptions.",
+            "zh": "我们通过重写商品分类描述改善了页面内 SEO。"
+          }
+        ],
+        "usage": "区别于 off-page SEO；与技术 SEO 有交叉。",
+        "new": true,
+        "order": 252,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌɒn ˈpeɪdʒ ˌes iː ˈəʊ",
+        "ipaUS": "ˌɑːn ˈpeɪdʒ ˌes iː ˈoʊ",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "On-page S E O",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT252",
+        "moduleId": "m3",
+        "module": "数字营销",
+        "term": "On-page SEO",
+        "zh": "页面内搜索优化",
+        "definition": "优化网页内容、标题及内部链接等页面因素，以改善搜索相关性和用户体验。",
+        "example": "We improved on-page SEO by rewriting category descriptions.",
+        "exampleZh": "我们通过重写商品分类描述改善了页面内 SEO。",
+        "collocation": "improve on-page SEO",
+        "collocationZh": "改善页面内 SEO",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we improve the category pages for organic search?",
+            "zh": "我们如何针对自然搜索优化商品分类页？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We improved on-page SEO by rewriting category descriptions.",
+            "zh": "我们通过重写商品分类描述改善了页面内 SEO。"
+          }
+        ],
+        "usage": "区别于 off-page SEO；与技术 SEO 有交叉。",
+        "new": true,
+        "order": 252,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌɒn ˈpeɪdʒ ˌes iː ˈəʊ",
+        "ipaUS": "ˌɑːn ˈpeɪdʒ ˌes iː ˈoʊ",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "On-page S E O",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 逐字母朗读字段检查通过；设备语音实际效果未测试。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT275",
+      "before": {
+        "id": "MKT275",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Under-delivery",
+        "zh": "投放不足",
+        "definition": "实际广告交付量低于约定或计划交付量的情况。",
+        "example": "The publisher proposed additional placements to address under-delivery.",
+        "exampleZh": "媒体方建议增加广告版位，以弥补投放不足。",
+        "collocation": "address under-delivery",
+        "collocationZh": "处理投放不足",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What solution did the publisher offer for the shortfall?",
+            "zh": "媒体方针对交付不足提出了什么解决方案？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The publisher proposed additional placements to address under-delivery.",
+            "zh": "媒体方建议增加广告版位，以弥补投放不足。"
+          }
+        ],
+        "usage": "需区分截至当前的进度落后与最终交付不足。",
+        "new": true,
+        "order": 275,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌʌndədɪˈlɪvəri",
+        "ipaUS": "ˌʌndərdɪˈlɪvəri",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Under-delivery",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT275",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Under-delivery",
+        "zh": "投放不足",
+        "definition": "实际广告交付量低于约定或计划交付量的情况。",
+        "example": "The publisher proposed additional placements to address under-delivery.",
+        "exampleZh": "媒体方建议增加广告版位，以弥补投放不足。",
+        "collocation": "address under-delivery",
+        "collocationZh": "处理投放不足",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What solution did the publisher offer for the shortfall?",
+            "zh": "媒体方针对交付不足提出了什么解决方案？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The publisher proposed additional placements to address under-delivery.",
+            "zh": "媒体方建议增加广告版位，以弥补投放不足。"
+          }
+        ],
+        "usage": "需区分截至当前的进度落后与最终交付不足。",
+        "new": true,
+        "order": 275,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌʌndədɪˈlɪvəri",
+        "ipaUS": "ˌʌndərdɪˈlɪvəri",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Under-delivery",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT278",
+      "before": {
+        "id": "MKT278",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Demand-side platform",
+        "zh": "需求方平台",
+        "definition": "帮助广告主或代理商通过自动化方式购买和优化数字广告资源的平台。",
+        "example": "The demand-side platform supports the audience targeting we need.",
+        "exampleZh": "该需求方平台支持我们所需的受众定向功能。",
+        "collocation": "select a demand-side platform",
+        "collocationZh": "选择需求方平台",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did we choose this buying platform?",
+            "zh": "我们为什么选择这个广告采购平台？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The demand-side platform supports the audience targeting we need.",
+            "zh": "该需求方平台支持我们所需的受众定向功能。"
+          }
+        ],
+        "usage": "DSP 主要服务广告采购方。",
+        "new": true,
+        "order": 278,
+        "aliases": [
+          "DSP"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "dɪˈmɑːnd saɪd ˈplætfɔːm",
+        "ipaUS": "dɪˈmænd saɪd ˈplætfɔːrm",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Demand-side platform",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT278",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Demand-side platform",
+        "zh": "需求方平台",
+        "definition": "帮助广告主或代理商通过自动化方式购买和优化数字广告资源的平台。",
+        "example": "The demand-side platform supports the audience targeting we need.",
+        "exampleZh": "该需求方平台支持我们所需的受众定向功能。",
+        "collocation": "select a demand-side platform",
+        "collocationZh": "选择需求方平台",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did we choose this buying platform?",
+            "zh": "我们为什么选择这个广告采购平台？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The demand-side platform supports the audience targeting we need.",
+            "zh": "该需求方平台支持我们所需的受众定向功能。"
+          }
+        ],
+        "usage": "DSP 主要服务广告采购方。",
+        "new": true,
+        "order": 278,
+        "aliases": [
+          "DSP"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "dɪˈmɑːnd saɪd ˈplætfɔːm",
+        "ipaUS": "dɪˈmænd saɪd ˈplætfɔːrm",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Demand-side platform",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT279",
+      "before": {
+        "id": "MKT279",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Supply-side platform",
+        "zh": "供应方平台",
+        "definition": "帮助媒体方管理、销售及优化数字广告资源的平台。",
+        "example": "The publisher integrated a supply-side platform to manage its ad inventory.",
+        "exampleZh": "媒体方接入了供应方平台来管理其广告资源。",
+        "collocation": "integrate a supply-side platform",
+        "collocationZh": "集成供应方平台",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How does the publisher manage its programmatic ad inventory?",
+            "zh": "媒体方如何管理程序化广告资源？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The publisher integrated a supply-side platform to manage its ad inventory.",
+            "zh": "媒体方接入了供应方平台来管理其广告资源。"
+          }
+        ],
+        "usage": "SSP 主要服务广告资源供应方，也称 sell-side platform。",
+        "new": true,
+        "order": 279,
+        "aliases": [
+          "SSP",
+          "sell-side platform"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "səˈplaɪ saɪd ˈplætfɔːm",
+        "ipaUS": "səˈplaɪ saɪd ˈplætfɔːrm",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Supply-side platform",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT279",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Supply-side platform",
+        "zh": "供应方平台",
+        "definition": "帮助媒体方管理、销售及优化数字广告资源的平台。",
+        "example": "The publisher integrated a supply-side platform to manage its ad inventory.",
+        "exampleZh": "媒体方接入了供应方平台来管理其广告资源。",
+        "collocation": "integrate a supply-side platform",
+        "collocationZh": "集成供应方平台",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How does the publisher manage its programmatic ad inventory?",
+            "zh": "媒体方如何管理程序化广告资源？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The publisher integrated a supply-side platform to manage its ad inventory.",
+            "zh": "媒体方接入了供应方平台来管理其广告资源。"
+          }
+        ],
+        "usage": "SSP 主要服务广告资源供应方，也称 sell-side platform。",
+        "new": true,
+        "order": 279,
+        "aliases": [
+          "SSP",
+          "sell-side platform"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "səˈplaɪ saɪd ˈplætfɔːm",
+        "ipaUS": "səˈplaɪ saɪd ˈplætfɔːrm",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Supply-side platform",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT281",
+      "before": {
+        "id": "MKT281",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Real-time bidding",
+        "zh": "实时竞价",
+        "definition": "针对单次广告展示机会实时开展的自动竞价。",
+        "example": "Real-time bidding allows bids to vary by impression opportunity.",
+        "exampleZh": "实时竞价允许针对不同广告展示机会调整出价。",
+        "collocation": "use real-time bidding",
+        "collocationZh": "使用实时竞价",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why don't we bid the same amount for every impression?",
+            "zh": "为什么我们不对每次展示都采用相同出价？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Real-time bidding allows bids to vary by impression opportunity.",
+            "zh": "实时竞价允许针对不同广告展示机会调整出价。"
+          }
+        ],
+        "usage": "RTB 是程序化交易的一种，并非所有程序化交易都采用实时竞价。",
+        "new": true,
+        "order": 281,
+        "aliases": [
+          "RTB"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌrɪəl taɪm ˈbɪdɪŋ",
+        "ipaUS": "ˌriːəl taɪm ˈbɪdɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Real-time bidding",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT281",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Real-time bidding",
+        "zh": "实时竞价",
+        "definition": "针对单次广告展示机会实时开展的自动竞价。",
+        "example": "Real-time bidding allows bids to vary by impression opportunity.",
+        "exampleZh": "实时竞价允许针对不同广告展示机会调整出价。",
+        "collocation": "use real-time bidding",
+        "collocationZh": "使用实时竞价",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why don't we bid the same amount for every impression?",
+            "zh": "为什么我们不对每次展示都采用相同出价？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Real-time bidding allows bids to vary by impression opportunity.",
+            "zh": "实时竞价允许针对不同广告展示机会调整出价。"
+          }
+        ],
+        "usage": "RTB 是程序化交易的一种，并非所有程序化交易都采用实时竞价。",
+        "new": true,
+        "order": 281,
+        "aliases": [
+          "RTB"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌrɪəl taɪm ˈbɪdɪŋ",
+        "ipaUS": "ˌriːəl taɪm ˈbɪdɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Real-time bidding",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT285",
+      "before": {
+        "id": "MKT285",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Viewable CPM",
+        "zh": "可见千次曝光成本",
+        "definition": "每千次符合可见标准的广告展示所对应的成本。",
+        "example": "Compare viewable CPM across publishers using the same standard.",
+        "exampleZh": "采用相同标准比较各媒体的可见千次曝光成本。",
+        "collocation": "compare viewable CPM",
+        "collocationZh": "比较可见千次曝光成本",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How should we compare the cost of viewable impressions across publishers?",
+            "zh": "如何比较不同媒体的可见曝光成本？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Compare viewable CPM across publishers using the same standard.",
+            "zh": "采用相同标准比较各媒体的可见千次曝光成本。"
+          }
+        ],
+        "usage": "vCPM＝广告支出÷可见展示次数×1000；分母为零时不可计算。",
+        "new": true,
+        "order": 285,
+        "aliases": [
+          "vCPM"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈvjuːəbəl ˌsiː piː ˈem",
+        "ipaUS": "ˈvjuːəbəl ˌsiː piː ˈem",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Viewable C P M",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT285",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Viewable CPM",
+        "zh": "可见千次曝光成本",
+        "definition": "每千次符合可见标准的广告展示所对应的成本。",
+        "example": "Compare viewable CPM across publishers using the same standard.",
+        "exampleZh": "采用相同标准比较各媒体的可见千次曝光成本。",
+        "collocation": "compare viewable CPM",
+        "collocationZh": "比较可见千次曝光成本",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How should we compare the cost of viewable impressions across publishers?",
+            "zh": "如何比较不同媒体的可见曝光成本？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Compare viewable CPM across publishers using the same standard.",
+            "zh": "采用相同标准比较各媒体的可见千次曝光成本。"
+          }
+        ],
+        "usage": "vCPM＝广告支出÷可见展示次数×1000；分母为零时不可计算。",
+        "new": true,
+        "order": 285,
+        "aliases": [
+          "vCPM"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈvjuːəbəl ˌsiː piː ˈem",
+        "ipaUS": "ˈvjuːəbəl ˌsiː piː ˈem",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Viewable C P M",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      }
+    },
+    {
+      "id": "MKT292",
+      "before": {
+        "id": "MKT292",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Connected TV",
+        "zh": "联网电视",
+        "definition": "可通过互联网播放视频的电视设备，包括智能电视及连接流媒体设备的电视；营销中也指相关广告环境。",
+        "example": "Connected TV gives us another way to reach streaming audiences.",
+        "exampleZh": "联网电视为我们提供了触达流媒体受众的另一种方式。",
+        "collocation": "invest in connected TV advertising",
+        "collocationZh": "投资联网电视广告",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we reach streaming viewers on television screens?",
+            "zh": "如何触达电视屏幕上的流媒体观众？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Connected TV gives us another way to reach streaming audiences.",
+            "zh": "联网电视为我们提供了触达流媒体受众的另一种方式。"
+          }
+        ],
+        "usage": "CTV 指设备或广告环境，OTT 更侧重互联网内容分发方式。",
+        "new": true,
+        "order": 292,
+        "aliases": [
+          "CTV"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "kəˈnektɪd ˌtiː ˈviː",
+        "ipaUS": "kəˈnektɪd ˌtiː ˈviː",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Connected T V",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT292",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Connected TV",
+        "zh": "联网电视",
+        "definition": "可通过互联网播放视频的电视设备，包括智能电视及连接流媒体设备的电视；营销中也指相关广告环境。",
+        "example": "Connected TV gives us another way to reach streaming audiences.",
+        "exampleZh": "联网电视为我们提供了触达流媒体受众的另一种方式。",
+        "collocation": "invest in connected TV advertising",
+        "collocationZh": "投资联网电视广告",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we reach streaming viewers on television screens?",
+            "zh": "如何触达电视屏幕上的流媒体观众？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Connected TV gives us another way to reach streaming audiences.",
+            "zh": "联网电视为我们提供了触达流媒体受众的另一种方式。"
+          }
+        ],
+        "usage": "CTV 指设备或广告环境，OTT 更侧重互联网内容分发方式。",
+        "new": true,
+        "order": 292,
+        "aliases": [
+          "CTV"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "kəˈnektɪd ˌtiː ˈviː",
+        "ipaUS": "kəˈnektɪd ˌtiː ˈviː",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Connected T V",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      }
+    },
+    {
+      "id": "MKT293",
+      "before": {
+        "id": "MKT293",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Out-of-home advertising",
+        "zh": "户外广告",
+        "definition": "在家庭之外的公共场所或出行环境中展示的广告。",
+        "example": "Out-of-home advertising will support the store opening.",
+        "exampleZh": "户外广告将为门店开业提供宣传支持。",
+        "collocation": "plan out-of-home advertising",
+        "collocationZh": "规划户外广告",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Which offline media will support the store opening?",
+            "zh": "哪些线下媒体将为门店开业提供宣传支持？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Out-of-home advertising will support the store opening.",
+            "zh": "户外广告将为门店开业提供宣传支持。"
+          }
+        ],
+        "usage": "OOH 也包括商场、电梯等室内公共场所广告。",
+        "new": true,
+        "order": 293,
+        "aliases": [
+          "OOH"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌaʊt əv ˈhəʊm ˈædvətaɪzɪŋ",
+        "ipaUS": "ˌaʊt əv ˈhoʊm ˈædvərtaɪzɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Out-of-home advertising",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT293",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Out-of-home advertising",
+        "zh": "户外广告",
+        "definition": "在家庭之外的公共场所或出行环境中展示的广告。",
+        "example": "Out-of-home advertising will support the store opening.",
+        "exampleZh": "户外广告将为门店开业提供宣传支持。",
+        "collocation": "plan out-of-home advertising",
+        "collocationZh": "规划户外广告",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Which offline media will support the store opening?",
+            "zh": "哪些线下媒体将为门店开业提供宣传支持？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Out-of-home advertising will support the store opening.",
+            "zh": "户外广告将为门店开业提供宣传支持。"
+          }
+        ],
+        "usage": "OOH 也包括商场、电梯等室内公共场所广告。",
+        "new": true,
+        "order": 293,
+        "aliases": [
+          "OOH"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌaʊt əv ˈhəʊm ˈædvətaɪzɪŋ",
+        "ipaUS": "ˌaʊt əv ˈhoʊm ˈædvərtaɪzɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Out-of-home advertising",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT294",
+      "before": {
+        "id": "MKT294",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Digital out-of-home",
+        "zh": "数字户外广告",
+        "definition": "通过家庭之外的数字屏幕展示的户外广告。",
+        "example": "Digital out-of-home lets us change messages throughout the day.",
+        "exampleZh": "数字户外广告让我们可以在一天内更换广告信息。",
+        "collocation": "buy digital out-of-home inventory",
+        "collocationZh": "采购数字户外广告资源",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we change our outdoor messages during the day?",
+            "zh": "如何在一天内更换户外广告信息？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Digital out-of-home lets us change messages throughout the day.",
+            "zh": "数字户外广告让我们可以在一天内更换广告信息。"
+          }
+        ],
+        "usage": "DOOH 不一定采用程序化购买。",
+        "new": true,
+        "order": 294,
+        "aliases": [
+          "DOOH"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈdɪdʒɪtəl ˌaʊt əv ˈhəʊm",
+        "ipaUS": "ˈdɪdʒɪtəl ˌaʊt əv ˈhoʊm",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Digital out-of-home",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT294",
+        "moduleId": "m9",
+        "module": "广告与媒介投放",
+        "term": "Digital out-of-home",
+        "zh": "数字户外广告",
+        "definition": "通过家庭之外的数字屏幕展示的户外广告。",
+        "example": "Digital out-of-home lets us change messages throughout the day.",
+        "exampleZh": "数字户外广告让我们可以在一天内更换广告信息。",
+        "collocation": "buy digital out-of-home inventory",
+        "collocationZh": "采购数字户外广告资源",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we change our outdoor messages during the day?",
+            "zh": "如何在一天内更换户外广告信息？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Digital out-of-home lets us change messages throughout the day.",
+            "zh": "数字户外广告让我们可以在一天内更换广告信息。"
+          }
+        ],
+        "usage": "DOOH 不一定采用程序化购买。",
+        "new": true,
+        "order": 294,
+        "aliases": [
+          "DOOH"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈdɪdʒɪtəl ˌaʊt əv ˈhəʊm",
+        "ipaUS": "ˈdɪdʒɪtəl ˌaʊt əv ˈhoʊm",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Digital out-of-home",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT315",
+      "before": {
+        "id": "MKT315",
+        "moduleId": "m10",
+        "module": "社交媒体营销",
+        "term": "User-generated content",
+        "zh": "用户生成内容",
+        "definition": "由用户创作而非品牌官方制作的内容，如评论、照片和视频。",
+        "example": "Obtain permission before reposting user-generated content.",
+        "exampleZh": "转发用户生成内容前应取得许可。",
+        "collocation": "curate user-generated content",
+        "collocationZh": "精选用户生成内容",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Can we repost a customer's photo on our brand account?",
+            "zh": "我们可以在品牌账号上转发客户照片吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Obtain permission before reposting user-generated content.",
+            "zh": "转发用户生成内容前应取得许可。"
+          }
+        ],
+        "usage": "UGC；公开发布不等于授权品牌用于营销。",
+        "new": true,
+        "order": 315,
+        "aliases": [
+          "UGC"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈjuːzə ˈdʒenəreɪtɪd ˈkɒntent",
+        "ipaUS": "ˈjuːzər ˈdʒenəreɪtɪd ˈkɑːntent",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "User-generated content",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT315",
+        "moduleId": "m10",
+        "module": "社交媒体营销",
+        "term": "User-generated content",
+        "zh": "用户生成内容",
+        "definition": "由用户创作而非品牌官方制作的内容，如评论、照片和视频。",
+        "example": "Obtain permission before reposting user-generated content.",
+        "exampleZh": "转发用户生成内容前应取得许可。",
+        "collocation": "curate user-generated content",
+        "collocationZh": "精选用户生成内容",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Can we repost a customer's photo on our brand account?",
+            "zh": "我们可以在品牌账号上转发客户照片吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Obtain permission before reposting user-generated content.",
+            "zh": "转发用户生成内容前应取得许可。"
+          }
+        ],
+        "usage": "UGC；公开发布不等于授权品牌用于营销。",
+        "new": true,
+        "order": 315,
+        "aliases": [
+          "UGC"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈjuːzə ˈdʒenəreɪtɪd ˈkɒntent",
+        "ipaUS": "ˈjuːzər ˈdʒenəreɪtɪd ˈkɑːntent",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "User-generated content",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT323",
+      "before": {
+        "id": "MKT323",
+        "moduleId": "m10",
+        "module": "社交媒体营销",
+        "term": "Short-form video",
+        "zh": "短视频",
+        "definition": "时长较短的视频内容，具体时长标准因平台和用途而异。",
+        "example": "We produce short-form videos for product education.",
+        "exampleZh": "我们制作短视频，帮助客户了解产品。",
+        "collocation": "produce short-form videos",
+        "collocationZh": "制作短视频",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What format should we use to teach customers about the product?",
+            "zh": "我们应该用什么形式帮助客户了解产品？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We produce short-form videos for product education.",
+            "zh": "我们制作短视频，帮助客户了解产品。"
+          }
+        ],
+        "usage": "short-form 作前置定语时通常加连字符。",
+        "new": true,
+        "order": 323,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌʃɔːt ˈfɔːm ˈvɪdiəʊ",
+        "ipaUS": "ˌʃɔːrt ˈfɔːrm ˈvɪdioʊ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Short-form video",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT323",
+        "moduleId": "m10",
+        "module": "社交媒体营销",
+        "term": "Short-form video",
+        "zh": "短视频",
+        "definition": "时长较短的视频内容，具体时长标准因平台和用途而异。",
+        "example": "We produce short-form videos for product education.",
+        "exampleZh": "我们制作短视频，帮助客户了解产品。",
+        "collocation": "produce short-form videos",
+        "collocationZh": "制作短视频",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What format should we use to teach customers about the product?",
+            "zh": "我们应该用什么形式帮助客户了解产品？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We produce short-form videos for product education.",
+            "zh": "我们制作短视频，帮助客户了解产品。"
+          }
+        ],
+        "usage": "short-form 作前置定语时通常加连字符。",
+        "new": true,
+        "order": 323,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌʃɔːt ˈfɔːm ˈvɪdiəʊ",
+        "ipaUS": "ˌʃɔːrt ˈfɔːrm ˈvɪdioʊ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Short-form video",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT352",
+      "before": {
+        "id": "MKT352",
+        "moduleId": "m12",
+        "module": "达人营销",
+        "term": "Micro-influencer",
+        "zh": "微型达人",
+        "definition": "受众规模相对较小、常聚焦特定领域的影响力创作者。",
+        "example": "We partnered with micro-influencers who specialize in running.",
+        "exampleZh": "我们与专注跑步领域的微型达人合作。",
+        "collocation": "partner with micro-influencers",
+        "collocationZh": "与微型达人合作",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Which creators did we choose for the running campaign?",
+            "zh": "跑步营销活动选择了哪些创作者？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We partnered with micro-influencers who specialize in running.",
+            "zh": "我们与专注跑步领域的微型达人合作。"
+          }
+        ],
+        "usage": "粉丝数量分级没有跨平台统一阈值。",
+        "new": true,
+        "order": 352,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌmaɪkrəʊˈɪnfluənsə",
+        "ipaUS": "ˌmaɪkroʊˈɪnfluənsər",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Micro-influencer",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT352",
+        "moduleId": "m12",
+        "module": "达人营销",
+        "term": "Micro-influencer",
+        "zh": "微型达人",
+        "definition": "受众规模相对较小、常聚焦特定领域的影响力创作者。",
+        "example": "We partnered with micro-influencers who specialize in running.",
+        "exampleZh": "我们与专注跑步领域的微型达人合作。",
+        "collocation": "partner with micro-influencers",
+        "collocationZh": "与微型达人合作",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Which creators did we choose for the running campaign?",
+            "zh": "跑步营销活动选择了哪些创作者？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We partnered with micro-influencers who specialize in running.",
+            "zh": "我们与专注跑步领域的微型达人合作。"
+          }
+        ],
+        "usage": "粉丝数量分级没有跨平台统一阈值。",
+        "new": true,
+        "order": 352,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌmaɪkrəʊˈɪnfluənsə",
+        "ipaUS": "ˌmaɪkroʊˈɪnfluənsər",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Micro-influencer",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT353",
+      "before": {
+        "id": "MKT353",
+        "moduleId": "m12",
+        "module": "达人营销",
+        "term": "Nano-influencer",
+        "zh": "纳米级达人",
+        "definition": "受众规模通常比微型达人更小的影响力创作者。",
+        "example": "We recruited nano-influencers from local fitness groups.",
+        "exampleZh": "我们从本地健身群体招募了纳米级达人。",
+        "collocation": "recruit nano-influencers",
+        "collocationZh": "招募纳米级达人",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Where did we find creators for the local campaign?",
+            "zh": "我们在哪里找到本地活动的创作者？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We recruited nano-influencers from local fitness groups.",
+            "zh": "我们从本地健身群体招募了纳米级达人。"
+          }
+        ],
+        "usage": "粉丝少不必然意味着互动率高；分级阈值因机构而异。",
+        "new": true,
+        "order": 353,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌnænəʊˈɪnfluənsə",
+        "ipaUS": "ˌnænoʊˈɪnfluənsər",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Nano-influencer",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT353",
+        "moduleId": "m12",
+        "module": "达人营销",
+        "term": "Nano-influencer",
+        "zh": "纳米级达人",
+        "definition": "受众规模通常比微型达人更小的影响力创作者。",
+        "example": "We recruited nano-influencers from local fitness groups.",
+        "exampleZh": "我们从本地健身群体招募了纳米级达人。",
+        "collocation": "recruit nano-influencers",
+        "collocationZh": "招募纳米级达人",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Where did we find creators for the local campaign?",
+            "zh": "我们在哪里找到本地活动的创作者？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We recruited nano-influencers from local fitness groups.",
+            "zh": "我们从本地健身群体招募了纳米级达人。"
+          }
+        ],
+        "usage": "粉丝少不必然意味着互动率高；分级阈值因机构而异。",
+        "new": true,
+        "order": 353,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌnænəʊˈɪnfluənsə",
+        "ipaUS": "ˌnænoʊˈɪnfluənsər",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Nano-influencer",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT381",
+      "before": {
+        "id": "MKT381",
+        "moduleId": "m13",
+        "module": "公共关系",
+        "term": "Message pull-through",
+        "zh": "核心信息传达率",
+        "definition": "媒体报道中出现预定核心信息的程度。",
+        "example": "We measure message pull-through across relevant articles.",
+        "exampleZh": "我们衡量相关报道中的核心信息传达率。",
+        "collocation": "measure message pull-through",
+        "collocationZh": "衡量核心信息传达率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How do we know whether the coverage reflects our key messages?",
+            "zh": "如何判断媒体报道是否体现了我们的核心信息？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We measure message pull-through across relevant articles.",
+            "zh": "我们衡量相关报道中的核心信息传达率。"
+          }
+        ],
+        "usage": "若以报道为单位计算比例，应明确符合条件的报道数及核心信息判定规则。",
+        "new": true,
+        "order": 381,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmesɪdʒ ˈpʊl θruː",
+        "ipaUS": "ˈmesɪdʒ ˈpʊl θruː",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Message pull-through",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT381",
+        "moduleId": "m13",
+        "module": "公共关系",
+        "term": "Message pull-through",
+        "zh": "核心信息传达率",
+        "definition": "媒体报道中出现预定核心信息的程度。",
+        "example": "We measure message pull-through across relevant articles.",
+        "exampleZh": "我们衡量相关报道中的核心信息传达率。",
+        "collocation": "measure message pull-through",
+        "collocationZh": "衡量核心信息传达率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How do we know whether the coverage reflects our key messages?",
+            "zh": "如何判断媒体报道是否体现了我们的核心信息？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We measure message pull-through across relevant articles.",
+            "zh": "我们衡量相关报道中的核心信息传达率。"
+          }
+        ],
+        "usage": "若以报道为单位计算比例，应明确符合条件的报道数及核心信息判定规则。",
+        "new": true,
+        "order": 381,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmesɪdʒ ˈpʊl θruː",
+        "ipaUS": "ˈmesɪdʒ ˈpʊl θruː",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Message pull-through",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT394",
+      "before": {
+        "id": "MKT394",
+        "moduleId": "m14",
+        "module": "活动营销",
+        "term": "No-show rate",
+        "zh": "缺席率",
+        "definition": "已报名或确认参加但未到场者占相应有效人群的比例。",
+        "example": "Reminder emails helped reduce the no-show rate.",
+        "exampleZh": "提醒邮件帮助降低了缺席率。",
+        "collocation": "reduce the no-show rate",
+        "collocationZh": "降低缺席率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What helped reduce the number of registered guests who did not attend?",
+            "zh": "什么措施有助于减少报名后未到场的人数？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Reminder emails helped reduce the no-show rate.",
+            "zh": "提醒邮件帮助降低了缺席率。"
+          }
+        ],
+        "usage": "明确是否排除取消报名者；只有口径一致时才与到场率互补。",
+        "new": true,
+        "order": 394,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈnəʊʃəʊ reɪt",
+        "ipaUS": "ˈnoʊʃoʊ reɪt",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "No-show rate",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT394",
+        "moduleId": "m14",
+        "module": "活动营销",
+        "term": "No-show rate",
+        "zh": "缺席率",
+        "definition": "已报名或确认参加但未到场者占相应有效人群的比例。",
+        "example": "Reminder emails helped reduce the no-show rate.",
+        "exampleZh": "提醒邮件帮助降低了缺席率。",
+        "collocation": "reduce the no-show rate",
+        "collocationZh": "降低缺席率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What helped reduce the number of registered guests who did not attend?",
+            "zh": "什么措施有助于减少报名后未到场的人数？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Reminder emails helped reduce the no-show rate.",
+            "zh": "提醒邮件帮助降低了缺席率。"
+          }
+        ],
+        "usage": "明确是否排除取消报名者；只有口径一致时才与到场率互补。",
+        "new": true,
+        "order": 394,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈnəʊʃəʊ reɪt",
+        "ipaUS": "ˈnoʊʃoʊ reɪt",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "No-show rate",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT399",
+      "before": {
+        "id": "MKT399",
+        "moduleId": "m14",
+        "module": "活动营销",
+        "term": "Post-event follow-up",
+        "zh": "活动后跟进",
+        "definition": "活动结束后联系参与者、回应需求并推进后续行动的工作。",
+        "example": "We should schedule post-event follow-up within two business days.",
+        "exampleZh": "我们应在两个工作日内安排活动后跟进。",
+        "collocation": "schedule post-event follow-up",
+        "collocationZh": "安排活动后跟进",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "When should we contact the leads from the event?",
+            "zh": "我们应何时联系活动获得的潜客？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We should schedule post-event follow-up within two business days.",
+            "zh": "我们应在两个工作日内安排活动后跟进。"
+          }
+        ],
+        "usage": "follow-up 为名词或形容词；follow up 为动词短语。",
+        "new": true,
+        "order": 399,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌpəʊst ɪˈvent ˈfɒləʊ ʌp",
+        "ipaUS": "ˌpoʊst ɪˈvent ˈfɑːloʊ ʌp",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Post-event follow-up",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      },
+      "after": {
+        "id": "MKT399",
+        "moduleId": "m14",
+        "module": "活动营销",
+        "term": "Post-event follow-up",
+        "zh": "活动后跟进",
+        "definition": "活动结束后联系参与者、回应需求并推进后续行动的工作。",
+        "example": "We should schedule post-event follow-up within two business days.",
+        "exampleZh": "我们应在两个工作日内安排活动后跟进。",
+        "collocation": "schedule post-event follow-up",
+        "collocationZh": "安排活动后跟进",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "When should we contact the leads from the event?",
+            "zh": "我们应何时联系活动获得的潜客？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We should schedule post-event follow-up within two business days.",
+            "zh": "我们应在两个工作日内安排活动后跟进。"
+          }
+        ],
+        "usage": "follow-up 为名词或形容词；follow up 为动词短语。",
+        "new": true,
+        "order": 399,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌpəʊst ɪˈvent ˈfɒləʊ ʌp",
+        "ipaUS": "ˌpoʊst ɪˈvent ˈfɑːloʊ ʌp",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Post-event follow-up",
+        "ipaReview": "编辑复核",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT404",
+      "before": {
+        "id": "MKT404",
+        "moduleId": "m15",
+        "module": "渠道营销",
+        "term": "Sell-in",
+        "zh": "渠道进货",
+        "definition": "品牌或供应商向渠道伙伴销售商品的情况。",
+        "example": "Sell-in exceeded the forecast before the holiday.",
+        "exampleZh": "节前向渠道伙伴的销售量超过预测。",
+        "collocation": "track sell-in",
+        "collocationZh": "追踪渠道进货",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did shipments to our retail partners compare with the forecast?",
+            "zh": "向零售伙伴的销售情况与预测相比如何？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Sell-in exceeded the forecast before the holiday.",
+            "zh": "节前向渠道伙伴的销售量超过预测。"
+          }
+        ],
+        "usage": "不等于终端消费者实际购买量。",
+        "new": true,
+        "order": 404,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈsel ɪn",
+        "ipaUS": "ˈsel ɪn",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Sell-in",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT404",
+        "moduleId": "m15",
+        "module": "渠道营销",
+        "term": "Sell-in",
+        "zh": "渠道进货",
+        "definition": "品牌或供应商向渠道伙伴销售商品的情况。",
+        "example": "Sell-in exceeded the forecast before the holiday.",
+        "exampleZh": "节前向渠道伙伴的销售量超过预测。",
+        "collocation": "track sell-in",
+        "collocationZh": "追踪渠道进货",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did shipments to our retail partners compare with the forecast?",
+            "zh": "向零售伙伴的销售情况与预测相比如何？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Sell-in exceeded the forecast before the holiday.",
+            "zh": "节前向渠道伙伴的销售量超过预测。"
+          }
+        ],
+        "usage": "不等于终端消费者实际购买量。",
+        "new": true,
+        "order": 404,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈsel ɪn",
+        "ipaUS": "ˈsel ɪn",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Sell-in",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT405",
+      "before": {
+        "id": "MKT405",
+        "moduleId": "m15",
+        "module": "渠道营销",
+        "term": "Sell-through",
+        "zh": "终端售出",
+        "definition": "商品通过零售渠道售给终端客户的情况，可用销量或售出率衡量。",
+        "example": "We monitor sell-through before replenishing stock.",
+        "exampleZh": "补货前我们监控终端售出情况。",
+        "collocation": "monitor sell-through",
+        "collocationZh": "监控终端售出",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What do we check before ordering more stock?",
+            "zh": "补货前我们会检查什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We monitor sell-through before replenishing stock.",
+            "zh": "补货前我们监控终端售出情况。"
+          }
+        ],
+        "usage": "售出率须明确期间及可售库存分母。",
+        "new": true,
+        "order": 405,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈsel θruː",
+        "ipaUS": "ˈsel θruː",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Sell-through",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT405",
+        "moduleId": "m15",
+        "module": "渠道营销",
+        "term": "Sell-through",
+        "zh": "终端售出",
+        "definition": "商品通过零售渠道售给终端客户的情况，可用销量或售出率衡量。",
+        "example": "We monitor sell-through before replenishing stock.",
+        "exampleZh": "补货前我们监控终端售出情况。",
+        "collocation": "monitor sell-through",
+        "collocationZh": "监控终端售出",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What do we check before ordering more stock?",
+            "zh": "补货前我们会检查什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We monitor sell-through before replenishing stock.",
+            "zh": "补货前我们监控终端售出情况。"
+          }
+        ],
+        "usage": "售出率须明确期间及可售库存分母。",
+        "new": true,
+        "order": 405,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈsel θruː",
+        "ipaUS": "ˈsel θruː",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Sell-through",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT410",
+      "before": {
+        "id": "MKT410",
+        "moduleId": "m15",
+        "module": "渠道营销",
+        "term": "Co-op advertising",
+        "zh": "合作广告",
+        "definition": "供应商与渠道伙伴按约定分担广告费用的合作方式。",
+        "example": "The distributor applied for co-op advertising funds.",
+        "exampleZh": "经销商申请了合作广告资金。",
+        "collocation": "allocate co-op advertising funds",
+        "collocationZh": "分配合作广告资金",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How does the distributor plan to fund its local ads?",
+            "zh": "经销商打算如何筹措当地广告费用？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The distributor applied for co-op advertising funds.",
+            "zh": "经销商申请了合作广告资金。"
+          }
+        ],
+        "usage": "费用报销比例和合格活动由协议规定。",
+        "new": true,
+        "order": 410,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkəʊɒp ˈædvətaɪzɪŋ",
+        "ipaUS": "ˈkoʊɑːp ˈædvərtaɪzɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Co-op advertising",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT410",
+        "moduleId": "m15",
+        "module": "渠道营销",
+        "term": "Co-op advertising",
+        "zh": "合作广告",
+        "definition": "供应商与渠道伙伴按约定分担广告费用的合作方式。",
+        "example": "The distributor applied for co-op advertising funds.",
+        "exampleZh": "经销商申请了合作广告资金。",
+        "collocation": "allocate co-op advertising funds",
+        "collocationZh": "分配合作广告资金",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How does the distributor plan to fund its local ads?",
+            "zh": "经销商打算如何筹措当地广告费用？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The distributor applied for co-op advertising funds.",
+            "zh": "经销商申请了合作广告资金。"
+          }
+        ],
+        "usage": "费用报销比例和合格活动由协议规定。",
+        "new": true,
+        "order": 410,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkəʊ.ɒp ˈædvətaɪzɪŋ",
+        "ipaUS": "ˈkoʊɑːp ˈædvərtaɪzɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Co-op advertising",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。 英式连接音或音节边界显示规范化（编辑校订）。"
+      }
+    },
+    {
+      "id": "MKT425",
+      "before": {
+        "id": "MKT425",
+        "moduleId": "m16",
+        "module": "零售营销",
+        "term": "Point-of-sale material",
+        "zh": "销售点宣传物料",
+        "definition": "在销售现场用于展示、介绍或推广商品的宣传物料。",
+        "example": "The agency will distribute point-of-sale materials next week.",
+        "exampleZh": "代理商下周将分发销售点宣传物料。",
+        "collocation": "distribute point-of-sale materials",
+        "collocationZh": "分发销售点宣传物料",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "When will the stores receive the promotional signs?",
+            "zh": "门店什么时候收到宣传标牌？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The agency will distribute the point-of-sale materials next week.",
+            "zh": "代理商下周将分发销售点宣传物料。"
+          }
+        ],
+        "usage": "常用复数 materials；POSM 为行业简称。",
+        "new": true,
+        "order": 425,
+        "aliases": [
+          "POSM",
+          "point-of-sale materials"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌpɔɪnt əv ˈseɪl məˈtɪəriəl",
+        "ipaUS": "ˌpɔɪnt əv ˈseɪl məˈtɪriəl",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Point-of-sale material",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT425",
+        "moduleId": "m16",
+        "module": "零售营销",
+        "term": "Point-of-sale material",
+        "zh": "销售点宣传物料",
+        "definition": "在销售现场用于展示、介绍或推广商品的宣传物料。",
+        "example": "The agency will distribute point-of-sale materials next week.",
+        "exampleZh": "代理商下周将分发销售点宣传物料。",
+        "collocation": "distribute point-of-sale materials",
+        "collocationZh": "分发销售点宣传物料",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "When will the stores receive the promotional signs?",
+            "zh": "门店什么时候收到宣传标牌？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The agency will distribute the point-of-sale materials next week.",
+            "zh": "代理商下周将分发销售点宣传物料。"
+          }
+        ],
+        "usage": "常用复数 materials；POSM 为行业简称。",
+        "new": true,
+        "order": 425,
+        "aliases": [
+          "POSM",
+          "point-of-sale materials"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌpɔɪnt əv ˈseɪl məˈtɪəriəl",
+        "ipaUS": "ˌpɔɪnt əv ˈseɪl məˈtɪriəl",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Point-of-sale material",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT430",
+      "before": {
+        "id": "MKT430",
+        "moduleId": "m16",
+        "module": "零售营销",
+        "term": "Same-store sales",
+        "zh": "同店销售额",
+        "definition": "按一致的可比门店范围统计的销售额，用于跨期比较。",
+        "example": "Same-store sales grew despite fewer promotions.",
+        "exampleZh": "尽管促销减少，同店销售额仍增长。",
+        "collocation": "compare same-store sales",
+        "collocationZh": "比较同店销售额",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Did growth come only from new stores?",
+            "zh": "增长是否仅来自新开门店？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "No, same-store sales also grew this quarter.",
+            "zh": "不是，本季度同店销售额也有所增长。"
+          }
+        ],
+        "usage": "可比门店的营业期限等纳入标准因企业而异。",
+        "new": true,
+        "order": 430,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌseɪm stɔː seɪlz",
+        "ipaUS": "ˌseɪm stɔːr seɪlz",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Same-store sales",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT430",
+        "moduleId": "m16",
+        "module": "零售营销",
+        "term": "Same-store sales",
+        "zh": "同店销售额",
+        "definition": "按一致的可比门店范围统计的销售额，用于跨期比较。",
+        "example": "Same-store sales grew despite fewer promotions.",
+        "exampleZh": "尽管促销减少，同店销售额仍增长。",
+        "collocation": "compare same-store sales",
+        "collocationZh": "比较同店销售额",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Did growth come only from new stores?",
+            "zh": "增长是否仅来自新开门店？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "No, same-store sales also grew this quarter.",
+            "zh": "不是，本季度同店销售额也有所增长。"
+          }
+        ],
+        "usage": "可比门店的营业期限等纳入标准因企业而异。",
+        "new": true,
+        "order": 430,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌseɪm stɔː seɪlz",
+        "ipaUS": "ˌseɪm stɔːr seɪlz",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Same-store sales",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT450",
+      "before": {
+        "id": "MKT450",
+        "moduleId": "m17",
+        "module": "用户增长",
+        "term": "Drop-off rate",
+        "zh": "步骤流失率",
+        "definition": "进入某步骤但在规定窗口内未进入下一步骤的用户比例。",
+        "example": "Removing optional fields reduced the drop-off rate.",
+        "exampleZh": "删除非必填字段降低了步骤流失率。",
+        "collocation": "reduce the drop-off rate",
+        "collocationZh": "降低步骤流失率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Did removing optional fields help?",
+            "zh": "删除非必填字段有效果吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Removing optional fields reduced the drop-off rate.",
+            "zh": "删除非必填字段降低了步骤流失率。"
+          }
+        ],
+        "usage": "区别于客户流失率；drop off 为动词短语。",
+        "new": true,
+        "order": 450,
+        "aliases": [
+          "流失率（步骤）"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈdrɒpɒf reɪt",
+        "ipaUS": "ˈdrɑːpɔːf reɪt",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Drop-off rate",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT450",
+        "moduleId": "m17",
+        "module": "用户增长",
+        "term": "Drop-off rate",
+        "zh": "步骤流失率",
+        "definition": "进入某步骤但在规定窗口内未进入下一步骤的用户比例。",
+        "example": "Removing optional fields reduced the drop-off rate.",
+        "exampleZh": "删除非必填字段降低了步骤流失率。",
+        "collocation": "reduce the drop-off rate",
+        "collocationZh": "降低步骤流失率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Did removing optional fields help?",
+            "zh": "删除非必填字段有效果吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Removing optional fields reduced the drop-off rate.",
+            "zh": "删除非必填字段降低了步骤流失率。"
+          }
+        ],
+        "usage": "区别于客户流失率；drop off 为动词短语。",
+        "new": true,
+        "order": 450,
+        "aliases": [
+          "流失率（步骤）"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈdrɒpɒf reɪt",
+        "ipaUS": "ˈdrɑːpɔːf reɪt",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Drop-off rate",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT460",
+      "before": {
+        "id": "MKT460",
+        "moduleId": "m17",
+        "module": "用户增长",
+        "term": "Product-led growth",
+        "zh": "产品驱动增长",
+        "definition": "主要依靠产品体验推动获客、激活、留存和扩张的增长模式。",
+        "example": "The company adopted product-led growth for its self-service offering.",
+        "exampleZh": "公司为自助服务产品采用了产品驱动增长模式。",
+        "collocation": "adopt product-led growth",
+        "collocationZh": "采用产品驱动增长模式",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Which growth model did the company choose?",
+            "zh": "公司选择了哪种增长模式？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The company adopted product-led growth for its self-service offering.",
+            "zh": "公司为自助服务产品采用了产品驱动增长模式。"
+          }
+        ],
+        "usage": "PLG 不排斥销售团队参与。",
+        "new": true,
+        "order": 460,
+        "aliases": [
+          "PLG"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈprɒdʌkt led ɡrəʊθ",
+        "ipaUS": "ˈprɑːdʌkt led ɡroʊθ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Product-led growth",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT460",
+        "moduleId": "m17",
+        "module": "用户增长",
+        "term": "Product-led growth",
+        "zh": "产品驱动增长",
+        "definition": "主要依靠产品体验推动获客、激活、留存和扩张的增长模式。",
+        "example": "The company adopted product-led growth for its self-service offering.",
+        "exampleZh": "公司为自助服务产品采用了产品驱动增长模式。",
+        "collocation": "adopt product-led growth",
+        "collocationZh": "采用产品驱动增长模式",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Which growth model did the company choose?",
+            "zh": "公司选择了哪种增长模式？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The company adopted product-led growth for its self-service offering.",
+            "zh": "公司为自助服务产品采用了产品驱动增长模式。"
+          }
+        ],
+        "usage": "PLG 不排斥销售团队参与。",
+        "new": true,
+        "order": 460,
+        "aliases": [
+          "PLG"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈprɒdʌkt led ɡrəʊθ",
+        "ipaUS": "ˈprɑːdʌkt led ɡroʊθ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Product-led growth",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT463",
+      "before": {
+        "id": "MKT463",
+        "moduleId": "m18",
+        "module": "客户关系管理",
+        "term": "RFM analysis",
+        "zh": "RFM分析",
+        "definition": "依据距最近购买的时间、指定期间购买频次及消费金额分析客户",
+        "example": "We conducted RFM analysis to identify customers with high historical transaction value.",
+        "exampleZh": "我们开展RFM分析，以识别历史交易价值较高的客户。",
+        "collocation": "conduct RFM analysis",
+        "collocationZh": "开展RFM分析",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify customers with strong purchase histories?",
+            "zh": "我们如何识别历史购买表现较好的客户？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We conducted RFM analysis to identify customers with high historical transaction value.",
+            "zh": "我们开展RFM分析，以识别历史交易价值较高的客户。"
+          }
+        ],
+        "usage": "R=Recency，F=Frequency，M=Monetary value；历史表现不等于未来价值。",
+        "new": true,
+        "order": 463,
+        "aliases": [
+          "RFM"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌɑː ef ˈem əˈnæləsɪs",
+        "ipaUS": "ˌɑːr ef ˈem əˈnæləsɪs",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "R F M analysis",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT463",
+        "moduleId": "m18",
+        "module": "客户关系管理",
+        "term": "RFM analysis",
+        "zh": "RFM分析",
+        "definition": "依据距最近购买的时间、指定期间购买频次及消费金额分析客户",
+        "example": "We conducted RFM analysis to identify customers with high historical transaction value.",
+        "exampleZh": "我们开展RFM分析，以识别历史交易价值较高的客户。",
+        "collocation": "conduct RFM analysis",
+        "collocationZh": "开展RFM分析",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify customers with strong purchase histories?",
+            "zh": "我们如何识别历史购买表现较好的客户？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We conducted RFM analysis to identify customers with high historical transaction value.",
+            "zh": "我们开展RFM分析，以识别历史交易价值较高的客户。"
+          }
+        ],
+        "usage": "R=Recency，F=Frequency，M=Monetary value；历史表现不等于未来价值。",
+        "new": true,
+        "order": 463,
+        "aliases": [
+          "RFM"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌɑː ef ˈem əˈnæləsɪs",
+        "ipaUS": "ˌɑːr ef ˈem əˈnæləsɪs",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "R F M analysis",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      }
+    },
+    {
+      "id": "MKT486",
+      "before": {
+        "id": "MKT486",
+        "moduleId": "m19",
+        "module": "会员与生命周期运营",
+        "term": "Member-exclusive offer",
+        "zh": "会员专属优惠",
+        "definition": "仅向符合条件的会员提供的优惠。",
+        "example": "We created member-exclusive offers for the anniversary sale.",
+        "exampleZh": "我们为周年促销设计了会员专属优惠。",
+        "collocation": "create member-exclusive offers",
+        "collocationZh": "设计会员专属优惠",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What special benefits did we prepare for the anniversary sale?",
+            "zh": "我们为周年促销准备了哪些特别权益？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We created member-exclusive offers for the anniversary sale.",
+            "zh": "我们为周年促销设计了会员专属优惠。"
+          }
+        ],
+        "usage": "member-exclusive 作前置修饰语时使用连字符。",
+        "new": true,
+        "order": 486,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmembər ɪkˈskluːsɪv ˈɒfə",
+        "ipaUS": "ˈmembər ɪkˈskluːsɪv ˈɑːfər",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Member-exclusive offer",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT486",
+        "moduleId": "m19",
+        "module": "会员与生命周期运营",
+        "term": "Member-exclusive offer",
+        "zh": "会员专属优惠",
+        "definition": "仅向符合条件的会员提供的优惠。",
+        "example": "We created member-exclusive offers for the anniversary sale.",
+        "exampleZh": "我们为周年促销设计了会员专属优惠。",
+        "collocation": "create member-exclusive offers",
+        "collocationZh": "设计会员专属优惠",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What special benefits did we prepare for the anniversary sale?",
+            "zh": "我们为周年促销准备了哪些特别权益？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We created member-exclusive offers for the anniversary sale.",
+            "zh": "我们为周年促销设计了会员专属优惠。"
+          }
+        ],
+        "usage": "member-exclusive 作前置修饰语时使用连字符。",
+        "new": true,
+        "order": 486,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmembə(r) ɪkˈskluːsɪv ˈɒfə",
+        "ipaUS": "ˈmembər ɪkˈskluːsɪv ˈɑːfər",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Member-exclusive offer",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。 英式连接音或音节边界显示规范化（编辑校订）。"
+      }
+    },
+    {
+      "id": "MKT492",
+      "before": {
+        "id": "MKT492",
+        "moduleId": "m19",
+        "module": "会员与生命周期运营",
+        "term": "Win-back campaign",
+        "zh": "客户挽回活动",
+        "definition": "旨在吸引已流失或停止购买的客户重新购买或订阅的营销活动。",
+        "example": "We launched a win-back campaign for former subscribers.",
+        "exampleZh": "我们针对曾经订阅的用户推出了客户挽回活动。",
+        "collocation": "launch a win-back campaign",
+        "collocationZh": "推出客户挽回活动",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How are we trying to bring former subscribers back?",
+            "zh": "我们如何尝试挽回曾经订阅的用户？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We launched a win-back campaign for former subscribers.",
+            "zh": "我们针对曾经订阅的用户推出了客户挽回活动。"
+          }
+        ],
+        "usage": "win back customers 为动词短语。",
+        "new": true,
+        "order": 492,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈwɪnbæk kæmˈpeɪn",
+        "ipaUS": "ˈwɪnbæk kæmˈpeɪn",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Win-back campaign",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT492",
+        "moduleId": "m19",
+        "module": "会员与生命周期运营",
+        "term": "Win-back campaign",
+        "zh": "客户挽回活动",
+        "definition": "旨在吸引已流失或停止购买的客户重新购买或订阅的营销活动。",
+        "example": "We launched a win-back campaign for former subscribers.",
+        "exampleZh": "我们针对曾经订阅的用户推出了客户挽回活动。",
+        "collocation": "launch a win-back campaign",
+        "collocationZh": "推出客户挽回活动",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How are we trying to bring former subscribers back?",
+            "zh": "我们如何尝试挽回曾经订阅的用户？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We launched a win-back campaign for former subscribers.",
+            "zh": "我们针对曾经订阅的用户推出了客户挽回活动。"
+          }
+        ],
+        "usage": "win back customers 为动词短语。",
+        "new": true,
+        "order": 492,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈwɪnbæk kæmˈpeɪn",
+        "ipaUS": "ˈwɪnbæk kæmˈpeɪn",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Win-back campaign",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT497",
+      "before": {
+        "id": "MKT497",
+        "moduleId": "m19",
+        "module": "会员与生命周期运营",
+        "term": "Cross-selling",
+        "zh": "交叉销售",
+        "definition": "向客户推荐与当前或既往购买相关的互补商品或服务。",
+        "example": "Purchase history revealed cross-selling opportunities.",
+        "exampleZh": "购买记录帮助我们发现交叉销售机会。",
+        "collocation": "identify cross-selling opportunities",
+        "collocationZh": "识别交叉销售机会",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify relevant add-on products?",
+            "zh": "我们如何找到合适的配套商品？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Purchase history revealed cross-selling opportunities.",
+            "zh": "购买记录帮助我们发现交叉销售机会。"
+          }
+        ],
+        "usage": "区别于推荐更高档版本的 upselling。",
+        "new": true,
+        "order": 497,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkrɒsˌselɪŋ",
+        "ipaUS": "ˈkrɔːsˌselɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Cross-selling",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT497",
+        "moduleId": "m19",
+        "module": "会员与生命周期运营",
+        "term": "Cross-selling",
+        "zh": "交叉销售",
+        "definition": "向客户推荐与当前或既往购买相关的互补商品或服务。",
+        "example": "Purchase history revealed cross-selling opportunities.",
+        "exampleZh": "购买记录帮助我们发现交叉销售机会。",
+        "collocation": "identify cross-selling opportunities",
+        "collocationZh": "识别交叉销售机会",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we identify relevant add-on products?",
+            "zh": "我们如何找到合适的配套商品？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Purchase history revealed cross-selling opportunities.",
+            "zh": "购买记录帮助我们发现交叉销售机会。"
+          }
+        ],
+        "usage": "区别于推荐更高档版本的 upselling。",
+        "new": true,
+        "order": 497,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkrɒsˌselɪŋ",
+        "ipaUS": "ˈkrɔːsˌselɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Cross-selling",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT502",
+      "before": {
+        "id": "MKT502",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Multi-touch attribution",
+        "zh": "多触点归因",
+        "definition": "将转化贡献按规则或模型分配给多个可观测触点。",
+        "example": "Multi-touch attribution assigns credit across the observed journey.",
+        "exampleZh": "多触点归因在可观测的客户旅程中分配转化贡献。",
+        "collocation": "compare multi-touch attribution models",
+        "collocationZh": "比较多触点归因模型",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How do we credit channels earlier in the journey?",
+            "zh": "我们如何衡量客户旅程前期渠道的贡献？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Multi-touch attribution assigns credit across the observed journey.",
+            "zh": "多触点归因在可观测的客户旅程中分配转化贡献。"
+          }
+        ],
+        "usage": "归因贡献不等于因果增量。",
+        "new": true,
+        "order": 502,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌmʌlti tʌtʃ ˌætrɪˈbjuːʃən",
+        "ipaUS": "ˌmʌlti tʌtʃ ˌætrɪˈbjuːʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Multi-touch attribution",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT502",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Multi-touch attribution",
+        "zh": "多触点归因",
+        "definition": "将转化贡献按规则或模型分配给多个可观测触点。",
+        "example": "Multi-touch attribution assigns credit across the observed journey.",
+        "exampleZh": "多触点归因在可观测的客户旅程中分配转化贡献。",
+        "collocation": "compare multi-touch attribution models",
+        "collocationZh": "比较多触点归因模型",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How do we credit channels earlier in the journey?",
+            "zh": "我们如何衡量客户旅程前期渠道的贡献？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Multi-touch attribution assigns credit across the observed journey.",
+            "zh": "多触点归因在可观测的客户旅程中分配转化贡献。"
+          }
+        ],
+        "usage": "归因贡献不等于因果增量。",
+        "new": true,
+        "order": 502,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌmʌlti tʌtʃ ˌætrɪˈbjuːʃən",
+        "ipaUS": "ˌmʌlti tʌtʃ ˌætrɪˈbjuːʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Multi-touch attribution",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT503",
+      "before": {
+        "id": "MKT503",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Last-click attribution",
+        "zh": "末次点击归因",
+        "definition": "将全部转化贡献分配给最后一次符合规则的点击。",
+        "example": "Last-click attribution may undervalue awareness campaigns.",
+        "exampleZh": "末次点击归因可能低估品牌认知活动的价值。",
+        "collocation": "use last-click attribution",
+        "collocationZh": "使用末次点击归因",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why might our awareness ads receive little credit?",
+            "zh": "为什么品牌认知广告获得的归因贡献可能很少？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Last-click attribution may undervalue awareness campaigns.",
+            "zh": "末次点击归因可能低估品牌认知活动的价值。"
+          }
+        ],
+        "usage": "具体点击资格取决于平台规则。",
+        "new": true,
+        "order": 503,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌlɑːst klɪk ˌætrɪˈbjuːʃən",
+        "ipaUS": "ˌlæst klɪk ˌætrɪˈbjuːʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Last-click attribution",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT503",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Last-click attribution",
+        "zh": "末次点击归因",
+        "definition": "将全部转化贡献分配给最后一次符合规则的点击。",
+        "example": "Last-click attribution may undervalue awareness campaigns.",
+        "exampleZh": "末次点击归因可能低估品牌认知活动的价值。",
+        "collocation": "use last-click attribution",
+        "collocationZh": "使用末次点击归因",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why might our awareness ads receive little credit?",
+            "zh": "为什么品牌认知广告获得的归因贡献可能很少？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Last-click attribution may undervalue awareness campaigns.",
+            "zh": "末次点击归因可能低估品牌认知活动的价值。"
+          }
+        ],
+        "usage": "具体点击资格取决于平台规则。",
+        "new": true,
+        "order": 503,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌlɑːst klɪk ˌætrɪˈbjuːʃən",
+        "ipaUS": "ˌlæst klɪk ˌætrɪˈbjuːʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Last-click attribution",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT507",
+      "before": {
+        "id": "MKT507",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Incremental ROAS",
+        "zh": "增量广告支出回报率",
+        "definition": "指定广告干预带来的增量收入除以对应广告支出。",
+        "example": "We calculated incremental ROAS using the experiment results.",
+        "exampleZh": "我们利用实验结果计算增量广告支出回报率。",
+        "collocation": "calculate incremental ROAS",
+        "collocationZh": "计算增量广告支出回报率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we measure the causal return on ad spend?",
+            "zh": "我们如何衡量广告投入的因果回报？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We calculated incremental ROAS using the experiment results.",
+            "zh": "我们利用实验结果计算增量广告支出回报率。"
+          }
+        ],
+        "usage": "明确实验基准与支出范围；ROAS也常作为一个词朗读。",
+        "new": true,
+        "order": 507,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌɪŋkrɪˈmentəl ˌɑː əʊ eɪ ˈes",
+        "ipaUS": "ˌɪŋkrəˈmentəl ˌɑːr oʊ eɪ ˈes",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Incremental R O A S",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT507",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Incremental ROAS",
+        "zh": "增量广告支出回报率",
+        "definition": "指定广告干预带来的增量收入除以对应广告支出。",
+        "example": "We calculated incremental ROAS using the experiment results.",
+        "exampleZh": "我们利用实验结果计算增量广告支出回报率。",
+        "collocation": "calculate incremental ROAS",
+        "collocationZh": "计算增量广告支出回报率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we measure the causal return on ad spend?",
+            "zh": "我们如何衡量广告投入的因果回报？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We calculated incremental ROAS using the experiment results.",
+            "zh": "我们利用实验结果计算增量广告支出回报率。"
+          }
+        ],
+        "usage": "明确实验基准与支出范围；ROAS也常作为一个词朗读。",
+        "new": true,
+        "order": 507,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌɪŋkrɪˈmentəl ˌɑː əʊ eɪ ˈes",
+        "ipaUS": "ˌɪŋkrəˈmentəl ˌɑːr oʊ eɪ ˈes",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Incremental R O A S",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 逐字母朗读字段检查通过；设备语音实际效果未测试。 本应用采用逐字母读法；行业亦有单词式读法，暂不提供未经词典核验的变体音标。"
+      }
+    },
+    {
+      "id": "MKT508",
+      "before": {
+        "id": "MKT508",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Marginal ROAS",
+        "zh": "边际广告支出回报率",
+        "definition": "额外广告支出带来的额外收入与额外支出之比。",
+        "example": "Marginal ROAS declined as we increased spending.",
+        "exampleZh": "随着投入增加，边际广告支出回报率下降。",
+        "collocation": "estimate marginal ROAS",
+        "collocationZh": "估算边际广告支出回报率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to the return on additional spending?",
+            "zh": "额外投入的回报发生了什么变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Marginal ROAS declined as we increased spending.",
+            "zh": "随着投入增加，边际广告支出回报率下降。"
+          }
+        ],
+        "usage": "区别于平均ROAS；此处采用逐字母读法。",
+        "new": true,
+        "order": 508,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmɑːdʒɪnəl ˌɑː əʊ eɪ ˈes",
+        "ipaUS": "ˈmɑːrdʒɪnəl ˌɑːr oʊ eɪ ˈes",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Marginal R O A S",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT508",
+        "moduleId": "m4",
+        "module": "营销分析",
+        "term": "Marginal ROAS",
+        "zh": "边际广告支出回报率",
+        "definition": "额外广告支出带来的额外收入与额外支出之比。",
+        "example": "Marginal ROAS declined as we increased spending.",
+        "exampleZh": "随着投入增加，边际广告支出回报率下降。",
+        "collocation": "estimate marginal ROAS",
+        "collocationZh": "估算边际广告支出回报率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to the return on additional spending?",
+            "zh": "额外投入的回报发生了什么变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Marginal ROAS declined as we increased spending.",
+            "zh": "随着投入增加，边际广告支出回报率下降。"
+          }
+        ],
+        "usage": "区别于平均ROAS；此处采用逐字母读法。",
+        "new": true,
+        "order": 508,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmɑːdʒɪnəl ˌɑː əʊ eɪ ˈes",
+        "ipaUS": "ˈmɑːrdʒɪnəl ˌɑːr oʊ eɪ ˈes",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Marginal R O A S",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 逐字母朗读字段检查通过；设备语音实际效果未测试。 本应用采用逐字母读法；行业亦有单词式读法，暂不提供未经词典核验的变体音标。"
+      }
+    },
+    {
+      "id": "MKT532",
+      "before": {
+        "id": "MKT532",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Global-local alignment",
+        "zh": "全球与本地协同",
+        "definition": "全球团队与本地团队在目标、职责和执行上的协调",
+        "example": "Weekly reviews improved global-local alignment.",
+        "exampleZh": "每周复盘加强了全球团队与本地团队之间的协同。",
+        "collocation": "improve global-local alignment",
+        "collocationZh": "改善全球与本地协同",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What helped headquarters and local teams work together?",
+            "zh": "什么帮助总部与本地团队更好地协作？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Weekly reviews improved global-local alignment.",
+            "zh": "每周复盘加强了全球团队与本地团队之间的协同。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 532,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈɡləʊbəl ˈləʊkəl əˈlaɪnmənt",
+        "ipaUS": "ˈɡloʊbəl ˈloʊkəl əˈlaɪnmənt",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Global-local alignment",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT532",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Global-local alignment",
+        "zh": "全球与本地协同",
+        "definition": "全球团队与本地团队在目标、职责和执行上的协调",
+        "example": "Weekly reviews improved global-local alignment.",
+        "exampleZh": "每周复盘加强了全球团队与本地团队之间的协同。",
+        "collocation": "improve global-local alignment",
+        "collocationZh": "改善全球与本地协同",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What helped headquarters and local teams work together?",
+            "zh": "什么帮助总部与本地团队更好地协作？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Weekly reviews improved global-local alignment.",
+            "zh": "每周复盘加强了全球团队与本地团队之间的协同。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 532,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈɡləʊbəl ˈləʊkəl əˈlaɪnmənt",
+        "ipaUS": "ˈɡloʊbəl ˈloʊkəl əˈlaɪnmənt",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Global-local alignment",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT536",
+      "before": {
+        "id": "MKT536",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Cross-market benchmarking",
+        "zh": "跨市场对标",
+        "definition": "采用可比指标和统计口径比较不同市场的表现",
+        "example": "Cross-market benchmarking requires consistent metric definitions.",
+        "exampleZh": "跨市场对标要求统一指标定义。",
+        "collocation": "conduct cross-market benchmarking",
+        "collocationZh": "开展跨市场对标",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What must we standardize before comparing regional performance?",
+            "zh": "比较区域表现前必须统一什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cross-market benchmarking requires consistent metric definitions.",
+            "zh": "跨市场对标要求统一指标定义。"
+          }
+        ],
+        "usage": "比较时统一指标、周期和币种，并考虑市场规模与成熟度。",
+        "new": true,
+        "order": 536,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkrɒs ˈmɑːkɪt ˈbentʃmɑːkɪŋ",
+        "ipaUS": "ˌkrɔːs ˈmɑːrkɪt ˈbentʃmɑːrkɪŋ",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Cross-market benchmarking",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT536",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Cross-market benchmarking",
+        "zh": "跨市场对标",
+        "definition": "采用可比指标和统计口径比较不同市场的表现",
+        "example": "Cross-market benchmarking requires consistent metric definitions.",
+        "exampleZh": "跨市场对标要求统一指标定义。",
+        "collocation": "conduct cross-market benchmarking",
+        "collocationZh": "开展跨市场对标",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What must we standardize before comparing regional performance?",
+            "zh": "比较区域表现前必须统一什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cross-market benchmarking requires consistent metric definitions.",
+            "zh": "跨市场对标要求统一指标定义。"
+          }
+        ],
+        "usage": "比较时统一指标、周期和币种，并考虑市场规模与成熟度。",
+        "new": true,
+        "order": 536,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkrɒs ˈmɑːkɪt ˈbentʃmɑːkɪŋ",
+        "ipaUS": "ˌkrɔːs ˈmɑːrkɪt ˈbentʃmɑːrkɪŋ",
+        "ipaSource": "编辑校订 · 待词典核验",
+        "speakTerm": "Cross-market benchmarking",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT541",
+      "before": {
+        "id": "MKT541",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Cross-border campaign",
+        "zh": "跨境营销活动",
+        "definition": "面向多个国家或地区的受众、促进跨境交易或品牌传播的营销活动。",
+        "example": "Our cross-border campaign explains shipping options for each destination.",
+        "exampleZh": "我们的跨境营销活动针对各目的地说明配送选项。",
+        "collocation": "coordinate a cross-border campaign",
+        "collocationZh": "协调跨境营销活动",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why do the ads differ by destination?",
+            "zh": "为什么不同目的地的广告有所不同？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our cross-border campaign explains shipping options for each destination.",
+            "zh": "我们的跨境营销活动针对各目的地说明配送选项。"
+          }
+        ],
+        "usage": "配送、税费和宣传要求可能因市场而异。",
+        "new": true,
+        "order": 541,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkrɒs ˈbɔːdə kæmˈpeɪn",
+        "ipaUS": "ˌkrɔːs ˈbɔːrdər kæmˈpeɪn",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Cross-border campaign",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT541",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Cross-border campaign",
+        "zh": "跨境营销活动",
+        "definition": "面向多个国家或地区的受众、促进跨境交易或品牌传播的营销活动。",
+        "example": "Our cross-border campaign explains shipping options for each destination.",
+        "exampleZh": "我们的跨境营销活动针对各目的地说明配送选项。",
+        "collocation": "coordinate a cross-border campaign",
+        "collocationZh": "协调跨境营销活动",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why do the ads differ by destination?",
+            "zh": "为什么不同目的地的广告有所不同？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our cross-border campaign explains shipping options for each destination.",
+            "zh": "我们的跨境营销活动针对各目的地说明配送选项。"
+          }
+        ],
+        "usage": "配送、税费和宣传要求可能因市场而异。",
+        "new": true,
+        "order": 541,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkrɒs ˈbɔːdə kæmˈpeɪn",
+        "ipaUS": "ˌkrɔːs ˈbɔːrdər kæmˈpeɪn",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Cross-border campaign",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT556",
+      "before": {
+        "id": "MKT556",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Cross-border e-commerce",
+        "zh": "跨境电商",
+        "definition": "买卖双方位于不同国家或地区，通过电子商务渠道开展商品或服务交易。",
+        "example": "Cross-border e-commerce lets us test demand before opening stores.",
+        "exampleZh": "跨境电商让我们能够在开设门店前测试市场需求。",
+        "collocation": "expand cross-border e-commerce",
+        "collocationZh": "拓展跨境电商业务",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Can we test demand before opening stores?",
+            "zh": "开设门店前能否测试市场需求？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cross-border e-commerce lets us test demand before opening stores.",
+            "zh": "跨境电商让我们能够在开设门店前测试市场需求。"
+          }
+        ],
+        "usage": "需考虑跨境配送、税费及售后服务。",
+        "new": true,
+        "order": 556,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkrɒs ˈbɔːdər ˈiːkɒmɜːs",
+        "ipaUS": "ˌkrɔːs ˈbɔːrdər ˈiːkɑːmɝːs",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Cross-border e-commerce",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT556",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Cross-border e-commerce",
+        "zh": "跨境电商",
+        "definition": "买卖双方位于不同国家或地区，通过电子商务渠道开展商品或服务交易。",
+        "example": "Cross-border e-commerce lets us test demand before opening stores.",
+        "exampleZh": "跨境电商让我们能够在开设门店前测试市场需求。",
+        "collocation": "expand cross-border e-commerce",
+        "collocationZh": "拓展跨境电商业务",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Can we test demand before opening stores?",
+            "zh": "开设门店前能否测试市场需求？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cross-border e-commerce lets us test demand before opening stores.",
+            "zh": "跨境电商让我们能够在开设门店前测试市场需求。"
+          }
+        ],
+        "usage": "需考虑跨境配送、税费及售后服务。",
+        "new": true,
+        "order": 556,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkrɒs ˈbɔːdə(r) ˈiːkɒmɜːs",
+        "ipaUS": "ˌkrɔːs ˈbɔːrdər ˈiːkɑːmɝːs",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Cross-border e-commerce",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。 英式连接音或音节边界显示规范化（编辑校订）。"
+      }
+    },
+    {
+      "id": "MKT570",
+      "before": {
+        "id": "MKT570",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "In-market review",
+        "zh": "当地市场审核",
+        "definition": "由熟悉目标市场的人员评估内容的语言、文化及业务适配性。",
+        "example": "We requested an in-market review of the landing page.",
+        "exampleZh": "我们请当地市场团队审核落地页。",
+        "collocation": "request an in-market review",
+        "collocationZh": "请求当地市场审核",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Who should assess whether the landing page works locally?",
+            "zh": "谁应评估落地页是否适合当地市场？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We requested an in-market review of the landing page.",
+            "zh": "我们请当地市场团队审核落地页。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 570,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌɪn ˈmɑːkɪt rɪˈvjuː",
+        "ipaUS": "ˌɪn ˈmɑːrkɪt rɪˈvjuː",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "In-market review",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT570",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "In-market review",
+        "zh": "当地市场审核",
+        "definition": "由熟悉目标市场的人员评估内容的语言、文化及业务适配性。",
+        "example": "We requested an in-market review of the landing page.",
+        "exampleZh": "我们请当地市场团队审核落地页。",
+        "collocation": "request an in-market review",
+        "collocationZh": "请求当地市场审核",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Who should assess whether the landing page works locally?",
+            "zh": "谁应评估落地页是否适合当地市场？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We requested an in-market review of the landing page.",
+            "zh": "我们请当地市场团队审核落地页。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 570,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌɪn ˈmɑːkɪt rɪˈvjuː",
+        "ipaUS": "ˌɪn ˈmɑːrkɪt rɪˈvjuː",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "In-market review",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT578",
+      "before": {
+        "id": "MKT578",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Zero-based budgeting",
+        "zh": "零基预算",
+        "definition": "不默认沿用上期预算，而是从零基准重新论证各项支出的预算方法。",
+        "example": "Zero-based budgeting challenged our recurring sponsorship costs.",
+        "exampleZh": "零基预算促使我们重新审视经常性赞助成本。",
+        "collocation": "adopt zero-based budgeting",
+        "collocationZh": "采用零基预算",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did we reassess recurring sponsorship costs?",
+            "zh": "为什么重新评估经常性赞助成本？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Zero-based budgeting challenged our recurring sponsorship costs.",
+            "zh": "零基预算促使我们重新审视经常性赞助成本。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 578,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌzɪərəʊ ˈbeɪst ˈbʌdʒɪtɪŋ",
+        "ipaUS": "ˌzɪroʊ ˈbeɪst ˈbʌdʒɪtɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Zero-based budgeting",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT578",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Zero-based budgeting",
+        "zh": "零基预算",
+        "definition": "不默认沿用上期预算，而是从零基准重新论证各项支出的预算方法。",
+        "example": "Zero-based budgeting challenged our recurring sponsorship costs.",
+        "exampleZh": "零基预算促使我们重新审视经常性赞助成本。",
+        "collocation": "adopt zero-based budgeting",
+        "collocationZh": "采用零基预算",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did we reassess recurring sponsorship costs?",
+            "zh": "为什么重新评估经常性赞助成本？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Zero-based budgeting challenged our recurring sponsorship costs.",
+            "zh": "零基预算促使我们重新审视经常性赞助成本。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 578,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌzɪərəʊ ˈbeɪst ˈbʌdʒɪtɪŋ",
+        "ipaUS": "ˌzɪroʊ ˈbeɪst ˈbʌdʒɪtɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Zero-based budgeting",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT588",
+      "before": {
+        "id": "MKT588",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Year-over-year growth",
+        "zh": "同比增长",
+        "definition": "与上年同期相比的增长率，通常以百分比表示。",
+        "example": "Year-over-year revenue growth reached eight percent in October.",
+        "exampleZh": "十月收入同比增长达到8%。",
+        "collocation": "report year-over-year growth",
+        "collocationZh": "汇报同比增长",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did October revenue compare with last October?",
+            "zh": "十月收入与去年十月相比如何？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Year-over-year revenue growth reached eight percent in October.",
+            "zh": "十月收入同比增长达到8%。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 588,
+        "aliases": [
+          "YoY"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "jɪər ˌəʊvə ˈjɪə ɡrəʊθ",
+        "ipaUS": "jɪr ˌoʊvər ˈjɪr ɡroʊθ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Year-over-year growth",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT588",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Year-over-year growth",
+        "zh": "同比增长",
+        "definition": "与上年同期相比的增长率，通常以百分比表示。",
+        "example": "Year-over-year revenue growth reached eight percent in October.",
+        "exampleZh": "十月收入同比增长达到8%。",
+        "collocation": "report year-over-year growth",
+        "collocationZh": "汇报同比增长",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did October revenue compare with last October?",
+            "zh": "十月收入与去年十月相比如何？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Year-over-year revenue growth reached eight percent in October.",
+            "zh": "十月收入同比增长达到8%。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 588,
+        "aliases": [
+          "YoY"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "jɪə(r) ˌəʊvə ˈjɪə ɡrəʊθ",
+        "ipaUS": "jɪr ˌoʊvər ˈjɪr ɡroʊθ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Year-over-year growth",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。 英式连接音或音节边界显示规范化（编辑校订）。"
+      }
+    },
+    {
+      "id": "MKT589",
+      "before": {
+        "id": "MKT589",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Quarter-over-quarter growth",
+        "zh": "季度环比增长",
+        "definition": "与紧邻的上一季度相比的增长率，通常以百分比表示。",
+        "example": "Quarter-over-quarter growth slowed after the launch peak.",
+        "exampleZh": "上市高峰过后季度环比增长放缓。",
+        "collocation": "track quarter-over-quarter growth",
+        "collocationZh": "追踪季度环比增长",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to quarterly growth after the launch peak?",
+            "zh": "上市高峰过后，季度增长发生了什么变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Quarter-over-quarter growth slowed after the launch peak.",
+            "zh": "上市高峰过后季度环比增长放缓。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 589,
+        "aliases": [
+          "环比季度增长",
+          "QoQ"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkwɔːtər ˌəʊvə ˈkwɔːtə ɡrəʊθ",
+        "ipaUS": "ˈkwɔːrtər ˌoʊvər ˈkwɔːrtər ɡroʊθ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Quarter-over-quarter growth",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT589",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Quarter-over-quarter growth",
+        "zh": "季度环比增长",
+        "definition": "与紧邻的上一季度相比的增长率，通常以百分比表示。",
+        "example": "Quarter-over-quarter growth slowed after the launch peak.",
+        "exampleZh": "上市高峰过后季度环比增长放缓。",
+        "collocation": "track quarter-over-quarter growth",
+        "collocationZh": "追踪季度环比增长",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to quarterly growth after the launch peak?",
+            "zh": "上市高峰过后，季度增长发生了什么变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Quarter-over-quarter growth slowed after the launch peak.",
+            "zh": "上市高峰过后季度环比增长放缓。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 589,
+        "aliases": [
+          "环比季度增长",
+          "QoQ"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkwɔːtə(r) ˌəʊvə ˈkwɔːtə ɡrəʊθ",
+        "ipaUS": "ˈkwɔːrtər ˌoʊvər ˈkwɔːrtər ɡroʊθ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Quarter-over-quarter growth",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。 英式连接音或音节边界显示规范化（编辑校订）。"
+      }
+    },
+    {
+      "id": "MKT593",
+      "before": {
+        "id": "MKT593",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Break-even point",
+        "zh": "盈亏平衡点",
+        "definition": "总收入等于总成本、利润为零时的销售量或收入水平。",
+        "example": "We calculated the break-even point for the pop-up store.",
+        "exampleZh": "我们计算了快闪店的盈亏平衡点。",
+        "collocation": "calculate the break-even point",
+        "collocationZh": "计算盈亏平衡点",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we assess the minimum sales needed to cover pop-up costs?",
+            "zh": "我们如何评估快闪店覆盖成本所需的最低销量？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We calculated the break-even point for the pop-up store.",
+            "zh": "我们计算了快闪店的盈亏平衡点。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 593,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌbreɪkˈiːvən pɔɪnt",
+        "ipaUS": "ˌbreɪkˈiːvən pɔɪnt",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Break-even point",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT593",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Break-even point",
+        "zh": "盈亏平衡点",
+        "definition": "总收入等于总成本、利润为零时的销售量或收入水平。",
+        "example": "We calculated the break-even point for the pop-up store.",
+        "exampleZh": "我们计算了快闪店的盈亏平衡点。",
+        "collocation": "calculate the break-even point",
+        "collocationZh": "计算盈亏平衡点",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we assess the minimum sales needed to cover pop-up costs?",
+            "zh": "我们如何评估快闪店覆盖成本所需的最低销量？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We calculated the break-even point for the pop-up store.",
+            "zh": "我们计算了快闪店的盈亏平衡点。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 593,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌbreɪkˈiːvən pɔɪnt",
+        "ipaUS": "ˌbreɪkˈiːvən pɔɪnt",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Break-even point",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    },
+    {
+      "id": "MKT599",
+      "before": {
+        "id": "MKT599",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Strategic trade-off",
+        "zh": "战略取舍",
+        "definition": "在相互竞争的战略目标或资源用途之间权衡收益与代价。",
+        "example": "We explained the strategic trade-offs between reach and profitability.",
+        "exampleZh": "我们解释了触达与盈利能力之间的战略取舍。",
+        "collocation": "explain strategic trade-offs",
+        "collocationZh": "解释战略取舍",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What competing priorities did we explain to leadership?",
+            "zh": "我们向管理层解释了哪些相互竞争的优先目标？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We explained the strategic trade-offs between reach and profitability.",
+            "zh": "我们解释了触达与盈利能力之间的战略取舍。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 599,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "strəˈtiːdʒɪk ˈtreɪdɒf",
+        "ipaUS": "strəˈtiːdʒɪk ˈtreɪdɔːf",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Strategic trade-off",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT599",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Strategic trade-off",
+        "zh": "战略取舍",
+        "definition": "在相互竞争的战略目标或资源用途之间权衡收益与代价。",
+        "example": "We explained the strategic trade-offs between reach and profitability.",
+        "exampleZh": "我们解释了触达与盈利能力之间的战略取舍。",
+        "collocation": "explain strategic trade-offs",
+        "collocationZh": "解释战略取舍",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What competing priorities did we explain to leadership?",
+            "zh": "我们向管理层解释了哪些相互竞争的优先目标？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We explained the strategic trade-offs between reach and profitability.",
+            "zh": "我们解释了触达与盈利能力之间的战略取舍。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 599,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "strəˈtiːdʒɪk ˈtreɪdɒf",
+        "ipaUS": "strəˈtiːdʒɪk ˈtreɪdɔːf",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Strategic trade-off",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      }
+    }
+  ],
+  "review": [
+    {
+      "id": "MKT028",
+      "term": "First-mover advantage",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+        "英式连接音或音节边界显示规范化（编辑校订）。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT070",
+      "term": "Go-to-market strategy",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT074",
+      "term": "Product-market fit",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT080",
+      "term": "Value-based pricing",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT086",
+      "term": "Click-through rate",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT097",
+      "term": "Marketing-qualified lead",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT098",
+      "term": "Sales-qualified lead",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT120",
+      "term": "Sub-brand",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT124",
+      "term": "Co-branding",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT134",
+      "term": "Decision-making process",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT165",
+      "term": "Feature-benefit mapping",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT169",
+      "term": "Win-loss analysis",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT215",
+      "term": "Cross-channel marketing",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT225",
+      "term": "Post-campaign review",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT236",
+      "term": "Target CPA",
+      "abbreviations": [
+        "CPA"
+      ],
+      "hyphenated": false,
+      "notes": [
+        "逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT237",
+      "term": "Target ROAS",
+      "abbreviations": [
+        "ROAS"
+      ],
+      "hyphenated": false,
+      "notes": [
+        "逐字母朗读字段检查通过；设备语音实际效果未测试。",
+        "本应用采用逐字母读法；行业亦有单词式读法，暂不提供未经词典核验的变体音标。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT240",
+      "term": "UTM parameter",
+      "abbreviations": [
+        "UTM"
+      ],
+      "hyphenated": false,
+      "notes": [
+        "逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT241",
+      "term": "First-party data",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT251",
+      "term": "Technical SEO",
+      "abbreviations": [
+        "SEO"
+      ],
+      "hyphenated": false,
+      "notes": [
+        "逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT252",
+      "term": "On-page SEO",
+      "abbreviations": [
+        "SEO"
+      ],
+      "hyphenated": true,
+      "notes": [
+        "逐字母朗读字段检查通过；设备语音实际效果未测试。",
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT275",
+      "term": "Under-delivery",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT278",
+      "term": "Demand-side platform",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT279",
+      "term": "Supply-side platform",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT281",
+      "term": "Real-time bidding",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT285",
+      "term": "Viewable CPM",
+      "abbreviations": [
+        "CPM"
+      ],
+      "hyphenated": false,
+      "notes": [
+        "逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT292",
+      "term": "Connected TV",
+      "abbreviations": [
+        "TV"
+      ],
+      "hyphenated": false,
+      "notes": [
+        "逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT293",
+      "term": "Out-of-home advertising",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT294",
+      "term": "Digital out-of-home",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT315",
+      "term": "User-generated content",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT323",
+      "term": "Short-form video",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT352",
+      "term": "Micro-influencer",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT353",
+      "term": "Nano-influencer",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT381",
+      "term": "Message pull-through",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT394",
+      "term": "No-show rate",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT399",
+      "term": "Post-event follow-up",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT404",
+      "term": "Sell-in",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT405",
+      "term": "Sell-through",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT410",
+      "term": "Co-op advertising",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+        "英式连接音或音节边界显示规范化（编辑校订）。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT425",
+      "term": "Point-of-sale material",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT430",
+      "term": "Same-store sales",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT450",
+      "term": "Drop-off rate",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT460",
+      "term": "Product-led growth",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT463",
+      "term": "RFM analysis",
+      "abbreviations": [
+        "RFM"
+      ],
+      "hyphenated": false,
+      "notes": [
+        "逐字母朗读字段检查通过；设备语音实际效果未测试。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT486",
+      "term": "Member-exclusive offer",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+        "英式连接音或音节边界显示规范化（编辑校订）。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT492",
+      "term": "Win-back campaign",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT497",
+      "term": "Cross-selling",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT502",
+      "term": "Multi-touch attribution",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT503",
+      "term": "Last-click attribution",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT507",
+      "term": "Incremental ROAS",
+      "abbreviations": [
+        "ROAS"
+      ],
+      "hyphenated": false,
+      "notes": [
+        "逐字母朗读字段检查通过；设备语音实际效果未测试。",
+        "本应用采用逐字母读法；行业亦有单词式读法，暂不提供未经词典核验的变体音标。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT508",
+      "term": "Marginal ROAS",
+      "abbreviations": [
+        "ROAS"
+      ],
+      "hyphenated": false,
+      "notes": [
+        "逐字母朗读字段检查通过；设备语音实际效果未测试。",
+        "本应用采用逐字母读法；行业亦有单词式读法，暂不提供未经词典核验的变体音标。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT532",
+      "term": "Global-local alignment",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT536",
+      "term": "Cross-market benchmarking",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT541",
+      "term": "Cross-border campaign",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT556",
+      "term": "Cross-border e-commerce",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+        "英式连接音或音节边界显示规范化（编辑校订）。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT570",
+      "term": "In-market review",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT578",
+      "term": "Zero-based budgeting",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT588",
+      "term": "Year-over-year growth",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+        "英式连接音或音节边界显示规范化（编辑校订）。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT589",
+      "term": "Quarter-over-quarter growth",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+        "英式连接音或音节边界显示规范化（编辑校订）。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT593",
+      "term": "Break-even point",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    },
+    {
+      "id": "MKT599",
+      "term": "Strategic trade-off",
+      "abbreviations": [],
+      "hyphenated": true,
+      "notes": [
+        "复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      ],
+      "status": "editorial_review_only"
+    }
+  ],
+  "newDictionarySources": 0
+}

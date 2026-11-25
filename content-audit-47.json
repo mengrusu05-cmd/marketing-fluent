@@ -1,0 +1,1548 @@
+[
+  {
+    "id": "MKT361",
+    "before": {
+      "id": "MKT361",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Affiliate link",
+      "zh": "联盟推广链接",
+      "definition": "用于追踪推广来源及佣金归属的专属链接",
+      "example": "Each creator receives a unique affiliate link.",
+      "exampleZh": "每位创作者获得一个专属联盟推广链接。",
+      "collocation": "generate an affiliate link",
+      "collocationZh": "生成联盟推广链接",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Each creator receives a unique ____.",
+          "zh": "补全职场表达：每位创作者获得一个专属____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Each creator receives a unique affiliate link.",
+          "zh": "每位创作者获得一个专属联盟推广链接。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 361,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "əˈfɪlɪˌeɪt ˈlɪŋk",
+      "ipaUS": "əˈfɪlɪˌeɪt ˈlɪŋk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Affiliate link",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT361",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Affiliate link",
+      "zh": "联盟推广链接",
+      "definition": "带有推广追踪标识、用于记录推荐来源及按规则归属佣金的链接。",
+      "example": "Each creator receives a unique affiliate link.",
+      "exampleZh": "每位创作者获得一个专属联盟推广链接。",
+      "collocation": "generate an affiliate link",
+      "collocationZh": "生成联盟推广链接",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we attribute sales to each creator?",
+          "zh": "如何将销售归因到各位创作者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Give each creator a unique affiliate link.",
+          "zh": "为每位创作者提供专属联盟推广链接。"
+        }
+      ],
+      "usage": "affiliate 在此为名词修饰语，词尾读 /ət/，不是动词的 /eɪt/。",
+      "new": true,
+      "order": 361,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "əˈfɪliət lɪŋk",
+      "ipaUS": "əˈfɪliət lɪŋk",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Affiliate link",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：affiliate 在此为名词修饰语，词尾读 /ət/，不是动词的 /eɪt/。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT362",
+    "before": {
+      "id": "MKT362",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Affiliate commission",
+      "zh": "联盟佣金",
+      "definition": "按约定的交易或行动向推广伙伴支付的报酬",
+      "example": "We set affiliate commission based on net sales.",
+      "exampleZh": "我们根据净销售额设定联盟佣金。",
+      "collocation": "set affiliate commission",
+      "collocationZh": "设定联盟佣金",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We set ____ based on net sales.",
+          "zh": "补全职场表达：我们根据净销售额设定____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We set affiliate commission based on net sales.",
+          "zh": "我们根据净销售额设定联盟佣金。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 362,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "əˈfɪlɪˌeɪt kəˈmɪʃən",
+      "ipaUS": "əˈfɪlɪˌeɪt kəˈmɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Affiliate commission",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT362",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Affiliate commission",
+      "zh": "联盟佣金",
+      "definition": "按联盟合作协议就符合条件的销售或其他行动向推广伙伴支付的报酬。",
+      "example": "We calculate affiliate commission based on net sales.",
+      "exampleZh": "我们按净销售额计算联盟佣金。",
+      "collocation": "calculate affiliate commission",
+      "collocationZh": "计算联盟佣金",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Will refunded orders count toward the payout?",
+          "zh": "退款订单会计入报酬吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "No, affiliate commission is calculated on eligible net sales.",
+          "zh": "不会，联盟佣金按符合条件的净销售额计算。"
+        }
+      ],
+      "usage": "佣金可按比例或固定金额计算；需明确退款和取消订单的处理。",
+      "new": true,
+      "order": 362,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "əˈfɪliət kəˈmɪʃən",
+      "ipaUS": "əˈfɪliət kəˈmɪʃən",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Affiliate commission",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：佣金可按比例或固定金额计算；需明确退款和取消订单的处理。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT363",
+    "before": {
+      "id": "MKT363",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Usage rights",
+      "zh": "内容使用权",
+      "definition": "在约定期限、渠道及范围内使用内容的权利",
+      "example": "Negotiate usage rights before reusing the creator's video in ads.",
+      "exampleZh": "将创作者视频用于广告前先协商使用权。",
+      "collocation": "negotiate usage rights",
+      "collocationZh": "协商内容使用权",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Negotiate ____ before reusing the creator's video in ads.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Negotiate usage rights before reusing the creator's video in ads.",
+          "zh": "将创作者视频用于广告前先协商使用权。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 363,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈjuːsɪdʒ ˈraɪts",
+      "ipaUS": "ˈjuːsɪdʒ ˈraɪts",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Usage rights",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT363",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Usage rights",
+      "zh": "内容使用权",
+      "definition": "在约定期限、渠道、地域及用途范围内使用内容的权利。",
+      "example": "Negotiate usage rights before reusing the creator's video in ads.",
+      "exampleZh": "将创作者视频用于广告前先协商使用权。",
+      "collocation": "negotiate usage rights",
+      "collocationZh": "协商内容使用权",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can we use the creator’s video in paid ads?",
+          "zh": "我们可以把创作者的视频用于付费广告吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Only if our usage rights cover paid advertising.",
+          "zh": "只有内容使用权涵盖付费广告时才可以。"
+        }
+      ],
+      "usage": "内容使用权不等于版权所有权；付费广告用途应明确约定。",
+      "new": true,
+      "order": 363,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈjuːsɪdʒ raɪts",
+      "ipaUS": "ˈjuːsɪdʒ raɪts",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Usage rights",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：内容使用权不等于版权所有权；付费广告用途应明确约定。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT364",
+    "before": {
+      "id": "MKT364",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Exclusivity clause",
+      "zh": "排他条款",
+      "definition": "限制合作方在约定期间与竞争品牌合作的合同条款",
+      "example": "Legal reviewed the exclusivity clause for the campaign.",
+      "exampleZh": "法务审查了活动合同中的排他条款。",
+      "collocation": "review the exclusivity clause",
+      "collocationZh": "审查排他条款",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Legal reviewed the ____ for the campaign.",
+          "zh": "补全职场表达：法务审查了活动合同中的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Legal reviewed the exclusivity clause for the campaign.",
+          "zh": "法务审查了活动合同中的排他条款。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 364,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ekskluːˈsɪvɪti ˈklɔːz",
+      "ipaUS": "ekskluːˈsɪvɪti ˈklɔːz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Exclusivity clause",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT364",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Exclusivity clause",
+      "zh": "排他条款",
+      "definition": "限制合作方在约定范围和期限内开展其他合作的合同条款。",
+      "example": "Legal reviewed the exclusivity clause for the campaign.",
+      "exampleZh": "法务审查了活动合同中的排他条款。",
+      "collocation": "review the exclusivity clause",
+      "collocationZh": "审查排他条款",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can the creator promote a competing product next month?",
+          "zh": "创作者下个月可以推广竞品吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Check the exclusivity clause before approving the partnership.",
+          "zh": "批准合作前先查看排他条款。"
+        }
+      ],
+      "usage": "具体限制取决于合同，不一定禁止所有其他品牌合作。",
+      "new": true,
+      "order": 364,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌekskluːˈsɪvəti klɔːz",
+      "ipaUS": "ˌekskluːˈsɪvəti klɔːz",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Exclusivity clause",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：具体限制取决于合同，不一定禁止所有其他品牌合作。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT365",
+    "before": {
+      "id": "MKT365",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Creator deliverables",
+      "zh": "创作者交付物",
+      "definition": "合作中约定由创作者提供的内容及其他成果",
+      "example": "The creator deliverables include one video and two stories.",
+      "exampleZh": "创作者交付物包括一条视频和两条限时动态。",
+      "collocation": "confirm creator deliverables",
+      "collocationZh": "确认创作者交付物",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ include one video and two stories.",
+          "zh": "补全职场表达：____包括一条视频和两条限时动态。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The creator deliverables include one video and two stories.",
+          "zh": "创作者交付物包括一条视频和两条限时动态。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 365,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kriːˈeɪtə dɪˈlɪvərəbəlz",
+      "ipaUS": "kriːˈeɪtɚ dɪˈlɪvɚrəbəlz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Creator deliverables",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT365",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Creator deliverables",
+      "zh": "创作者交付物",
+      "definition": "合作协议中约定由创作者提交的内容及其他成果。",
+      "example": "The creator deliverables include one video and two stories.",
+      "exampleZh": "创作者交付物包括一条视频和两条限时动态。",
+      "collocation": "confirm creator deliverables",
+      "collocationZh": "确认创作者交付物",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What are we expecting from the creator this week?",
+          "zh": "本周我们希望创作者交付什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The creator deliverables include one video and two stories.",
+          "zh": "创作者需交付一条视频和两条限时动态。"
+        }
+      ],
+      "usage": "deliverables 通常用复数，可包括数量、格式、截止日期等要求。",
+      "new": true,
+      "order": 365,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kriˈeɪtə dɪˈlɪvərəbəlz",
+      "ipaUS": "kriˈeɪtər dɪˈlɪvərəbəlz",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Creator deliverables",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：deliverables 通常用复数，可包括数量、格式、截止日期等要求。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT366",
+    "before": {
+      "id": "MKT366",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Public relations",
+      "zh": "公共关系",
+      "definition": "管理组织与公众之间沟通和关系的职能",
+      "example": "Our public relations team coordinated the announcement.",
+      "exampleZh": "公关团队协调了此次公告。",
+      "collocation": "manage public relations",
+      "collocationZh": "管理公共关系",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Our ____ team coordinated the announcement.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our public relations team coordinated the announcement.",
+          "zh": "公关团队协调了此次公告。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 366,
+      "aliases": [
+        "PR"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpʌblɪk rɪˈleɪʃənz",
+      "ipaUS": "ˈpʌblɪk rɪˈleɪʃənz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Public relations",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT366",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Public relations",
+      "zh": "公共关系",
+      "definition": "通过战略沟通建立和维护组织与相关公众关系的职能。",
+      "example": "Our public relations team coordinated the announcement.",
+      "exampleZh": "公关团队协调了此次公告。",
+      "collocation": "manage public relations",
+      "collocationZh": "管理公共关系",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who will coordinate the public announcement?",
+          "zh": "谁负责协调对外公告？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our public relations team will handle it.",
+          "zh": "我们的公关团队会负责。"
+        }
+      ],
+      "usage": "PR 是常用缩写；公共关系不只包括媒体报道。",
+      "new": true,
+      "order": 366,
+      "aliases": [
+        "PR"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈpʌblɪk rɪˈleɪʃənz",
+      "ipaUS": "ˈpʌblɪk rɪˈleɪʃənz",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Public relations",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：PR 是常用缩写；公共关系不只包括媒体报道。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT367",
+    "before": {
+      "id": "MKT367",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media relations",
+      "zh": "媒体关系",
+      "definition": "与记者、编辑和媒体机构建立及维护关系的工作",
+      "example": "We build media relations through regular briefings.",
+      "exampleZh": "我们通过定期简报建立媒体关系。",
+      "collocation": "build media relations",
+      "collocationZh": "建立媒体关系",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We build ____ through regular briefings.",
+          "zh": "补全职场表达：我们通过定期简报建立____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We build media relations through regular briefings.",
+          "zh": "我们通过定期简报建立媒体关系。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 367,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmiːdiːə rɪˈleɪʃənz",
+      "ipaUS": "ˈmiːdiːɚ rɪˈleɪʃənz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Media relations",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT367",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media relations",
+      "zh": "媒体关系",
+      "definition": "与记者、编辑及媒体机构建立和维护专业关系的工作。",
+      "example": "We maintain good media relations through regular briefings.",
+      "exampleZh": "我们通过定期简报维护良好的媒体关系。",
+      "collocation": "maintain good media relations",
+      "collocationZh": "维护良好的媒体关系",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we keep journalists informed?",
+          "zh": "怎样让记者及时了解情况？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Regular briefings help us maintain good media relations.",
+          "zh": "定期简报有助于我们维护良好的媒体关系。"
+        }
+      ],
+      "usage": "媒体关系是公共关系的一部分，不保证获得正面报道。",
+      "new": true,
+      "order": 367,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmiːdiə rɪˈleɪʃənz",
+      "ipaUS": "ˈmiːdiə rɪˈleɪʃənz",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Media relations",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：媒体关系是公共关系的一部分，不保证获得正面报道。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT368",
+    "before": {
+      "id": "MKT368",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Press release",
+      "zh": "新闻稿",
+      "definition": "向媒体发布正式消息的书面材料",
+      "example": "We will issue a press release after regulatory approval.",
+      "exampleZh": "我们将在获得监管批准后发布新闻稿。",
+      "collocation": "issue a press release",
+      "collocationZh": "发布新闻稿",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We will issue a ____ after regulatory approval.",
+          "zh": "补全职场表达：我们将在获得监管批准后发布____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will issue a press release after regulatory approval.",
+          "zh": "我们将在获得监管批准后发布新闻稿。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 368,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpres rɪˈliːs",
+      "ipaUS": "ˈpres rɪˈliːs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Press release",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT368",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Press release",
+      "zh": "新闻稿",
+      "definition": "向媒体及其他公众发布正式消息的书面材料。",
+      "example": "We will issue a press release after regulatory approval.",
+      "exampleZh": "我们将在获得监管批准后发布新闻稿。",
+      "collocation": "issue a press release",
+      "collocationZh": "发布新闻稿",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When can we announce the launch publicly?",
+          "zh": "什么时候可以公开宣布上市消息？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will issue a press release after regulatory approval.",
+          "zh": "获得监管批准后，我们将发布新闻稿。"
+        }
+      ],
+      "usage": "issue a press release 是常见搭配；发布新闻稿不保证媒体刊登。",
+      "new": true,
+      "order": 368,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "pres rɪˈliːs",
+      "ipaUS": "pres rɪˈliːs",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Press release",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：issue a press release 是常见搭配；发布新闻稿不保证媒体刊登。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT369",
+    "before": {
+      "id": "MKT369",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media pitch",
+      "zh": "媒体选题推介",
+      "definition": "向记者提出具有报道价值的选题或故事",
+      "example": "The media pitch highlights the local employment impact.",
+      "exampleZh": "媒体选题推介强调了对当地就业的影响。",
+      "collocation": "craft a media pitch",
+      "collocationZh": "撰写媒体选题推介",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ highlights the local employment impact.",
+          "zh": "补全职场表达：____强调了对当地就业的影响。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The media pitch highlights the local employment impact.",
+          "zh": "媒体选题推介强调了对当地就业的影响。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 369,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmiːdiːə ˈpɪtʃ",
+      "ipaUS": "ˈmiːdiːə ˈpɪtʃ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Media pitch",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT369",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media pitch",
+      "zh": "媒体选题推介",
+      "definition": "向记者推介具有新闻价值且符合其报道方向的选题或故事。",
+      "example": "The media pitch highlights the local employment impact.",
+      "exampleZh": "媒体选题推介强调了对当地就业的影响。",
+      "collocation": "craft a media pitch",
+      "collocationZh": "撰写媒体选题推介",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What angle should we suggest to local reporters?",
+          "zh": "我们应该向当地记者推荐什么报道角度？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our media pitch focuses on the impact on local jobs.",
+          "zh": "我们的媒体选题推介聚焦对当地就业的影响。"
+        }
+      ],
+      "usage": "与新闻稿不同，media pitch 通常针对特定记者或媒体。",
+      "new": true,
+      "order": 369,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmiːdiə pɪtʃ",
+      "ipaUS": "ˈmiːdiə pɪtʃ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Media pitch",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：与新闻稿不同，media pitch 通常针对特定记者或媒体。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT370",
+    "before": {
+      "id": "MKT370",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Press kit",
+      "zh": "媒体资料包",
+      "definition": "为记者提供背景、图片和事实资料的材料集合",
+      "example": "The press kit includes executive biographies and product images.",
+      "exampleZh": "媒体资料包包含高管简介和产品图片。",
+      "collocation": "assemble a press kit",
+      "collocationZh": "整理媒体资料包",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ includes executive biographies and product images.",
+          "zh": "补全职场表达：____包含高管简介和产品图片。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The press kit includes executive biographies and product images.",
+          "zh": "媒体资料包包含高管简介和产品图片。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 370,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpres ˈkɪt",
+      "ipaUS": "ˈpres ˈkɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Press kit",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT370",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Press kit",
+      "zh": "媒体资料包",
+      "definition": "为媒体提供背景介绍、事实资料、图片等内容的资料集合。",
+      "example": "The press kit includes executive biographies and product images.",
+      "exampleZh": "媒体资料包包含高管简介和产品图片。",
+      "collocation": "assemble a press kit",
+      "collocationZh": "整理媒体资料包",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where can reporters find approved product images?",
+          "zh": "记者在哪里能找到获准使用的产品图片？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "They are included in the press kit.",
+          "zh": "媒体资料包里有这些图片。"
+        }
+      ],
+      "usage": "media kit 在公关语境中可作近义表达，但也可能指广告销售资料。",
+      "new": true,
+      "order": 370,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "pres kɪt",
+      "ipaUS": "pres kɪt",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Press kit",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：media kit 在公关语境中可作近义表达，但也可能指广告销售资料。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT371",
+    "before": {
+      "id": "MKT371",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media list",
+      "zh": "媒体名单",
+      "definition": "按传播目标整理的记者及媒体联系人清单",
+      "example": "Update the media list before sending invitations.",
+      "exampleZh": "发送邀请前更新媒体名单。",
+      "collocation": "update the media list",
+      "collocationZh": "更新媒体名单",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Update the ____ before sending invitations.",
+          "zh": "补全职场表达：发送邀请前更新____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Update the media list before sending invitations.",
+          "zh": "发送邀请前更新媒体名单。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 371,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmiːdiːə ˈlɪst",
+      "ipaUS": "ˈmiːdiːə ˈlɪst",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Media list",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT371",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media list",
+      "zh": "媒体联系人名单",
+      "definition": "根据传播目标整理的媒体机构及记者联系人清单。",
+      "example": "Update the media list before sending invitations.",
+      "exampleZh": "发送邀请前更新媒体联系人名单。",
+      "collocation": "update the media list",
+      "collocationZh": "更新媒体联系人名单",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Are the journalist contacts still current?",
+          "zh": "记者的联系信息还是最新的吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let’s update the media list before sending invitations.",
+          "zh": "发邀请前先更新媒体联系人名单。"
+        }
+      ],
+      "usage": "应定期核实联系人及报道领域，并遵守适用的数据保护要求。",
+      "new": true,
+      "order": 371,
+      "aliases": [
+        "媒体名单"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmiːdiə lɪst",
+      "ipaUS": "ˈmiːdiə lɪst",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Media list",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：应定期核实联系人及报道领域，并遵守适用的数据保护要求。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT372",
+    "before": {
+      "id": "MKT372",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Press conference",
+      "zh": "新闻发布会",
+      "definition": "面向媒体发布消息并回答提问的正式活动",
+      "example": "The company will hold a press conference on Monday.",
+      "exampleZh": "公司将于周一举行新闻发布会。",
+      "collocation": "hold a press conference",
+      "collocationZh": "举行新闻发布会",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The company will hold a ____ on Monday.",
+          "zh": "补全职场表达：公司将于周一举行____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The company will hold a press conference on Monday.",
+          "zh": "公司将于周一举行新闻发布会。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 372,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpres ˈkɒnfrəns",
+      "ipaUS": "ˈpres ˈkɑːnfrəns",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Press conference",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT372",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Press conference",
+      "zh": "新闻发布会",
+      "definition": "面向媒体正式发布消息、通常安排记者提问的活动。",
+      "example": "The company will hold a press conference on Monday.",
+      "exampleZh": "公司将于周一举行新闻发布会。",
+      "collocation": "hold a press conference",
+      "collocationZh": "举行新闻发布会",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we announce the results to reporters?",
+          "zh": "我们如何向记者公布结果？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will hold a press conference on Monday.",
+          "zh": "我们将在周一举行新闻发布会。"
+        }
+      ],
+      "usage": "hold a press conference 是常见搭配。",
+      "new": true,
+      "order": 372,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "pres ˈkɒnfrəns",
+      "ipaUS": "pres ˈkɑːnfrəns",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Press conference",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：hold a press conference 是常见搭配。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT373",
+    "before": {
+      "id": "MKT373",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media briefing",
+      "zh": "媒体简报会",
+      "definition": "向记者提供背景信息或解释特定议题的沟通活动",
+      "example": "We arranged a media briefing to explain the research findings.",
+      "exampleZh": "我们安排媒体简报会解释研究发现。",
+      "collocation": "arrange a media briefing",
+      "collocationZh": "安排媒体简报会",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We arranged a ____ to explain the research findings.",
+          "zh": "补全职场表达：我们安排____解释研究发现。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We arranged a media briefing to explain the research findings.",
+          "zh": "我们安排媒体简报会解释研究发现。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 373,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmiːdiːə ˈbriːfɪŋ",
+      "ipaUS": "ˈmiːdiːə ˈbriːfɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Media briefing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT373",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media briefing",
+      "zh": "媒体简报会",
+      "definition": "向媒体提供背景信息或解释特定议题的沟通活动。",
+      "example": "We arranged a media briefing to explain the research findings.",
+      "exampleZh": "我们安排媒体简报会解释研究发现。",
+      "collocation": "arrange a media briefing",
+      "collocationZh": "安排媒体简报会",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "The findings are quite technical. How can we explain them?",
+          "zh": "研究结果比较专业，我们如何解释？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We can arrange a media briefing for the reporters.",
+          "zh": "我们可以为记者安排一场媒体简报会。"
+        }
+      ],
+      "usage": "媒体简报会可规模较小，是否允许引用取决于事先约定。",
+      "new": true,
+      "order": 373,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmiːdiə ˈbriːfɪŋ",
+      "ipaUS": "ˈmiːdiə ˈbriːfɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Media briefing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：媒体简报会可规模较小，是否允许引用取决于事先约定。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT374",
+    "before": {
+      "id": "MKT374",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Spokesperson",
+      "zh": "发言人",
+      "definition": "获授权代表组织对外发表意见的人",
+      "example": "Designate a spokesperson before the interview requests arrive.",
+      "exampleZh": "在采访请求到来前指定发言人。",
+      "collocation": "designate a spokesperson",
+      "collocationZh": "指定发言人",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Designate a ____ before the interview requests arrive.",
+          "zh": "补全职场表达：在采访请求到来前指定____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Designate a spokesperson before the interview requests arrive.",
+          "zh": "在采访请求到来前指定发言人。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 374,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈspəʊkspəsən",
+      "ipaUS": "ˈspoʊkspɚsən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Spokesperson",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT374",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Spokesperson",
+      "zh": "发言人",
+      "definition": "经授权代表组织对外发表声明或回答问题的人。",
+      "example": "Designate a spokesperson before the interview requests arrive.",
+      "exampleZh": "在采访请求到来前指定发言人。",
+      "collocation": "designate a spokesperson",
+      "collocationZh": "指定发言人",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who is authorized to answer interview requests?",
+          "zh": "谁有权回应采访请求？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We have designated a spokesperson for this issue.",
+          "zh": "我们已为此事指定发言人。"
+        }
+      ],
+      "usage": "spokesperson 是性别中性的表达。",
+      "new": true,
+      "order": 374,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈspəʊkspɜːsən",
+      "ipaUS": "ˈspoʊkspɝːsən",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Spokesperson",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：spokesperson 是性别中性的表达。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT375",
+    "before": {
+      "id": "MKT375",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media training",
+      "zh": "媒体沟通培训",
+      "definition": "帮助发言人应对采访及准确传递信息的培训",
+      "example": "The new CEO received media training before the interview.",
+      "exampleZh": "新任CEO在采访前接受了媒体沟通培训。",
+      "collocation": "provide media training",
+      "collocationZh": "提供媒体沟通培训",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The new CEO received ____ before the interview.",
+          "zh": "补全职场表达：新任CEO在采访前接受了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The new CEO received media training before the interview.",
+          "zh": "新任CEO在采访前接受了媒体沟通培训。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 375,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmiːdiːə ˈtreɪnɪŋ",
+      "ipaUS": "ˈmiːdiːə ˈtreɪnɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Media training",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT375",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media training",
+      "zh": "媒体沟通培训",
+      "definition": "帮助发言人准确、清晰地传递信息并应对媒体采访的培训。",
+      "example": "The new CEO received media training before the interview.",
+      "exampleZh": "新任CEO在采访前接受了媒体沟通培训。",
+      "collocation": "provide media training",
+      "collocationZh": "提供媒体沟通培训",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Is the new CEO ready for the live interview?",
+          "zh": "新任首席执行官准备好接受直播采访了吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "She completed media training yesterday.",
+          "zh": "她昨天完成了媒体沟通培训。"
+        }
+      ],
+      "usage": "training 通常为不可数名词；可说 a media training session。",
+      "new": true,
+      "order": 375,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmiːdiə ˈtreɪnɪŋ",
+      "ipaUS": "ˈmiːdiə ˈtreɪnɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Media training",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：training 通常为不可数名词；可说 a media training session。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT376",
+    "before": {
+      "id": "MKT376",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Crisis communication",
+      "zh": "危机沟通",
+      "definition": "危机期间向利益相关方及时传递准确信息的工作",
+      "example": "We coordinated crisis communication with customer support.",
+      "exampleZh": "我们与客服团队协调了危机沟通。",
+      "collocation": "coordinate crisis communication",
+      "collocationZh": "协调危机沟通",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We coordinated ____ with customer support.",
+          "zh": "补全职场表达：我们与客服团队协调了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We coordinated crisis communication with customer support.",
+          "zh": "我们与客服团队协调了危机沟通。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 376,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkraɪsɪs kəˌmjuːnɪˈkeɪʃən",
+      "ipaUS": "ˈkraɪsɪs kəˌmjuːnɪˈkeɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Crisis communication",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT376",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Crisis communication",
+      "zh": "危机沟通",
+      "definition": "危机前、中、后与利益相关方进行准备、及时沟通和持续更新的工作。",
+      "example": "We coordinated crisis communication with customer support.",
+      "exampleZh": "我们与客服团队协调了危机沟通。",
+      "collocation": "coordinate crisis communication",
+      "collocationZh": "协调危机沟通",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we keep customers informed during the outage?",
+          "zh": "服务中断期间如何让客户及时了解情况？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will coordinate crisis communication with customer support.",
+          "zh": "我们将与客服团队协调危机沟通工作。"
+        }
+      ],
+      "usage": "crisis communications 也是常见表达；应区分已确认事实与待核实信息。",
+      "new": true,
+      "order": 376,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkraɪsɪs kəˌmjuːnɪˈkeɪʃən",
+      "ipaUS": "ˈkraɪsɪs kəˌmjuːnəˈkeɪʃən",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Crisis communication",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：crisis communications 也是常见表达；应区分已确认事实与待核实信息。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT377",
+    "before": {
+      "id": "MKT377",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Holding statement",
+      "zh": "初步声明",
+      "definition": "事实尚在核查时发布的临时正式回应",
+      "example": "Prepare a holding statement while the investigation is ongoing.",
+      "exampleZh": "调查进行期间准备一份初步声明。",
+      "collocation": "prepare a holding statement",
+      "collocationZh": "准备初步声明",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Prepare a ____ while the investigation is ongoing.",
+          "zh": "补全职场表达：调查进行期间准备一份____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Prepare a holding statement while the investigation is ongoing.",
+          "zh": "调查进行期间准备一份初步声明。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 377,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈhəʊldɪŋ ˈsteɪtmənt",
+      "ipaUS": "ˈhoʊldɪŋ ˈsteɪtmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Holding statement",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT377",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Holding statement",
+      "zh": "初步声明",
+      "definition": "在事实尚待核实时发布的临时正式回应，说明已知情况及后续安排。",
+      "example": "Prepare a holding statement while the investigation is ongoing.",
+      "exampleZh": "调查进行期间准备一份初步声明。",
+      "collocation": "prepare a holding statement",
+      "collocationZh": "准备初步声明",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "The investigation is not finished. What can we say now?",
+          "zh": "调查尚未结束，现在可以对外说什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Prepare a holding statement with the facts we have confirmed.",
+          "zh": "根据已确认的事实准备一份初步声明。"
+        }
+      ],
+      "usage": "初步声明不应猜测原因或承诺尚无法确认的结果。",
+      "new": true,
+      "order": 377,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈhəʊldɪŋ ˈsteɪtmənt",
+      "ipaUS": "ˈhoʊldɪŋ ˈsteɪtmənt",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Holding statement",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：初步声明不应猜测原因或承诺尚无法确认的结果。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT378",
+    "before": {
+      "id": "MKT378",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Reputation management",
+      "zh": "声誉管理",
+      "definition": "监测和维护组织公众评价的持续工作",
+      "example": "Reputation management requires consistent action, not just publicity.",
+      "exampleZh": "声誉管理需要持续行动，而非仅靠宣传。",
+      "collocation": "prioritize reputation management",
+      "collocationZh": "重视声誉管理",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ requires consistent action, not just publicity.",
+          "zh": "补全职场表达：____需要持续行动，而非仅靠宣传。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Reputation management requires consistent action, not just publicity.",
+          "zh": "声誉管理需要持续行动，而非仅靠宣传。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 378,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌrepjuːˈteɪʃən ˈmænɪdʒmənt",
+      "ipaUS": "ˌrepjuːˈteɪʃən ˈmænɪdʒmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Reputation management",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT378",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Reputation management",
+      "zh": "声誉管理",
+      "definition": "持续了解、维护和改善利益相关方对组织评价的工作。",
+      "example": "Reputation management requires consistent action, not just publicity.",
+      "exampleZh": "声誉管理需要持续行动，而非仅靠宣传。",
+      "collocation": "prioritize reputation management",
+      "collocationZh": "重视声誉管理",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Is positive publicity enough to rebuild trust?",
+          "zh": "正面宣传足以重建信任吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "No. Reputation management requires consistent action.",
+          "zh": "不够。声誉管理需要持续的实际行动。"
+        }
+      ],
+      "usage": "声誉管理不仅是宣传，也包括实际行为和问题整改。",
+      "new": true,
+      "order": 378,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌrepjəˈteɪʃən ˈmænɪdʒmənt",
+      "ipaUS": "ˌrepjəˈteɪʃən ˈmænɪdʒmənt",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Reputation management",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：声誉管理不仅是宣传，也包括实际行为和问题整改。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT379",
+    "before": {
+      "id": "MKT379",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media coverage",
+      "zh": "媒体报道",
+      "definition": "媒体对组织、产品或事件的报道",
+      "example": "We monitor media coverage for factual inaccuracies.",
+      "exampleZh": "我们监测媒体报道中的事实错误。",
+      "collocation": "monitor media coverage",
+      "collocationZh": "监测媒体报道",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We monitor ____ for factual inaccuracies.",
+          "zh": "补全职场表达：我们监测____中的事实错误。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We monitor media coverage for factual inaccuracies.",
+          "zh": "我们监测媒体报道中的事实错误。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 379,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmiːdiːə ˈkʌvərɪdʒ",
+      "ipaUS": "ˈmiːdiːə ˈkʌvɚrɪdʒ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Media coverage",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT379",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media coverage",
+      "zh": "媒体报道",
+      "definition": "媒体对组织、产品或事件所作的报道。",
+      "example": "We monitor media coverage for factual inaccuracies.",
+      "exampleZh": "我们检查媒体报道中是否存在事实错误。",
+      "collocation": "monitor media coverage",
+      "collocationZh": "监测媒体报道",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did any reports contain incorrect figures?",
+          "zh": "有报道引用了错误的数据吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We are reviewing media coverage for factual inaccuracies.",
+          "zh": "我们正在检查媒体报道中是否存在事实错误。"
+        }
+      ],
+      "usage": "coverage 通常不可数；可说 a piece of media coverage。",
+      "new": true,
+      "order": 379,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmiːdiə ˈkʌvərɪdʒ",
+      "ipaUS": "ˈmiːdiə ˈkʌvərɪdʒ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Media coverage",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：coverage 通常不可数；可说 a piece of media coverage。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  },
+  {
+    "id": "MKT380",
+    "before": {
+      "id": "MKT380",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media monitoring",
+      "zh": "媒体监测",
+      "definition": "持续收集和分析媒体提及及相关报道",
+      "example": "Set up media monitoring before the announcement goes live.",
+      "exampleZh": "公告发布前建立媒体监测。",
+      "collocation": "set up media monitoring",
+      "collocationZh": "建立媒体监测",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Set up ____ before the announcement goes live.",
+          "zh": "补全职场表达：公告发布前建立____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Set up media monitoring before the announcement goes live.",
+          "zh": "公告发布前建立媒体监测。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 380,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmiːdiːə ˈmɒnɪtərɪŋ",
+      "ipaUS": "ˈmiːdiːə ˈmɑːnɪtɚrɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Media monitoring",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT380",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Media monitoring",
+      "zh": "媒体监测",
+      "definition": "持续收集、追踪和分析相关媒体报道及提及的工作。",
+      "example": "Set up media monitoring before the announcement goes live.",
+      "exampleZh": "公告发布前建立媒体监测机制。",
+      "collocation": "set up media monitoring",
+      "collocationZh": "建立媒体监测",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we track reactions after the announcement?",
+          "zh": "公告发布后如何追踪外界反应？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Set up media monitoring before the announcement goes live.",
+          "zh": "在公告发布前建立媒体监测机制。"
+        }
+      ],
+      "usage": "监测结果受媒体覆盖范围、关键词和时间窗口影响。",
+      "new": true,
+      "order": 380,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmiːdiə ˈmɒnɪtərɪŋ",
+      "ipaUS": "ˈmiːdiə ˈmɑːnətərɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Media monitoring",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑复核：监测结果受媒体覆盖范围、关键词和时间窗口影响。；将填空对话改为业务问答，检查例句及搭配，保留准确表达。",
+    "source": "原始词库及编辑校订；未独立核验词典或行业资料"
+  }
+]

@@ -1,0 +1,1544 @@
+[
+  {
+    "id": "MKT381",
+    "before": {
+      "id": "MKT381",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Message pull-through",
+      "zh": "核心信息传达率",
+      "definition": "媒体报道中体现预定核心信息的程度",
+      "example": "We measure message pull-through across relevant articles.",
+      "exampleZh": "我们衡量相关报道中的核心信息传达率。",
+      "collocation": "measure message pull-through",
+      "collocationZh": "衡量核心信息传达率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We measure ____ across relevant articles.",
+          "zh": "补全职场表达：我们衡量相关报道中的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We measure message pull-through across relevant articles.",
+          "zh": "我们衡量相关报道中的核心信息传达率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 381,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmesɪdʒ ˈpʊlˈθruː",
+      "ipaUS": "ˈmesɪdʒ ˈpʊlˈθruː",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Message pull-through",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT381",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Message pull-through",
+      "zh": "核心信息传达率",
+      "definition": "媒体报道中出现预定核心信息的程度。",
+      "example": "We measure message pull-through across relevant articles.",
+      "exampleZh": "我们衡量相关报道中的核心信息传达率。",
+      "collocation": "measure message pull-through",
+      "collocationZh": "衡量核心信息传达率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we know whether the coverage reflects our key messages?",
+          "zh": "如何判断媒体报道是否体现了我们的核心信息？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We measure message pull-through across relevant articles.",
+          "zh": "我们衡量相关报道中的核心信息传达率。"
+        }
+      ],
+      "usage": "若以报道为单位计算比例，应明确符合条件的报道数及核心信息判定规则。",
+      "new": true,
+      "order": 381,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmesɪdʒ ˈpʊl θruː",
+      "ipaUS": "ˈmesɪdʒ ˈpʊl θruː",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Message pull-through",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT382",
+    "before": {
+      "id": "MKT382",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "News embargo",
+      "zh": "新闻禁发期",
+      "definition": "约定媒体不得提前公开消息的时间限制",
+      "example": "Journalists agreed to respect the news embargo until noon.",
+      "exampleZh": "记者同意遵守截至中午的新闻禁发期。",
+      "collocation": "respect the news embargo",
+      "collocationZh": "遵守新闻禁发期",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Journalists agreed to respect the ____ until noon.",
+          "zh": "补全职场表达：记者同意遵守截至中午的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Journalists agreed to respect the news embargo until noon.",
+          "zh": "记者同意遵守截至中午的新闻禁发期。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 382,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈnjuːz emˈbɑːɡəʊ",
+      "ipaUS": "ˈnuːz emˈbɑːrɡoʊ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "News embargo",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT382",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "News embargo",
+      "zh": "新闻禁发期",
+      "definition": "媒体与消息提供方约定在指定时间之前不公开消息的安排。",
+      "example": "Journalists agreed to respect the news embargo until noon.",
+      "exampleZh": "记者同意在中午解禁前不发布消息。",
+      "collocation": "respect the news embargo",
+      "collocationZh": "遵守新闻禁发期",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can journalists publish the announcement this morning?",
+          "zh": "记者今天上午可以发布这则消息吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Journalists agreed to respect the news embargo until noon.",
+          "zh": "记者同意在中午解禁前不发布消息。"
+        }
+      ],
+      "usage": "明确解禁日期、时间和时区；禁发安排需要媒体接受。",
+      "new": true,
+      "order": 382,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "njuːz ɪmˈbɑːɡəʊ",
+      "ipaUS": "nuːz ɪmˈbɑːrɡoʊ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "News embargo",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT383",
+    "before": {
+      "id": "MKT383",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Exclusive interview",
+      "zh": "独家采访",
+      "definition": "仅向特定媒体提供的采访机会",
+      "example": "We offered an exclusive interview to a trade publication.",
+      "exampleZh": "我们向一家行业媒体提供了独家采访。",
+      "collocation": "offer an exclusive interview",
+      "collocationZh": "提供独家采访",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We offered an ____ to a trade publication.",
+          "zh": "补全职场表达：我们向一家行业媒体提供了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We offered an exclusive interview to a trade publication.",
+          "zh": "我们向一家行业媒体提供了独家采访。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 383,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "eksˈkluːsɪv ˈɪntəˌvjuː",
+      "ipaUS": "eksˈkluːsɪv ˈɪntɚˌvjuː",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Exclusive interview",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT383",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Exclusive interview",
+      "zh": "独家采访",
+      "definition": "仅向特定媒体或记者提供的采访机会。",
+      "example": "We offered an exclusive interview to a trade publication.",
+      "exampleZh": "我们向一家行业媒体提供了独家采访机会。",
+      "collocation": "offer an exclusive interview",
+      "collocationZh": "提供独家采访",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we give the industry publication a unique story?",
+          "zh": "我们如何为这家行业媒体提供独家报道机会？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We offered an exclusive interview to a trade publication.",
+          "zh": "我们向一家行业媒体提供了独家采访机会。"
+        }
+      ],
+      "usage": "独家范围和期限应事先约定。",
+      "new": true,
+      "order": 383,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɪkˈskluːsɪv ˈɪntəvjuː",
+      "ipaUS": "ɪkˈskluːsɪv ˈɪntərvjuː",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Exclusive interview",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT384",
+    "before": {
+      "id": "MKT384",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Stakeholder communication",
+      "zh": "利益相关方沟通",
+      "definition": "向受组织决策影响的群体传递信息并收集反馈",
+      "example": "Stakeholder communication should include employees and distributors.",
+      "exampleZh": "利益相关方沟通应涵盖员工和经销商。",
+      "collocation": "plan stakeholder communication",
+      "collocationZh": "规划利益相关方沟通",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ should include employees and distributors.",
+          "zh": "补全职场表达：____应涵盖员工和经销商。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Stakeholder communication should include employees and distributors.",
+          "zh": "利益相关方沟通应涵盖员工和经销商。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 384,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsteɪkhəʊldə kəˌmjuːnɪˈkeɪʃən",
+      "ipaUS": "ˈsteɪkhoʊldɚ kəˌmjuːnɪˈkeɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Stakeholder communication",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT384",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Stakeholder communication",
+      "zh": "利益相关方沟通",
+      "definition": "与能够影响组织或受到组织影响的个人及群体交换信息和反馈的过程。",
+      "example": "Stakeholder communication should include employees and distributors.",
+      "exampleZh": "利益相关方沟通应涵盖员工和经销商。",
+      "collocation": "plan stakeholder communication",
+      "collocationZh": "规划利益相关方沟通",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who should be included in our communication plan?",
+          "zh": "我们的沟通计划应覆盖哪些人群？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Stakeholder communication should include employees and distributors.",
+          "zh": "利益相关方沟通应涵盖员工和经销商。"
+        }
+      ],
+      "usage": "不仅包括信息发布，也包括倾听和回应。",
+      "new": true,
+      "order": 384,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsteɪkhəʊldə kəˌmjuːnɪˈkeɪʃən",
+      "ipaUS": "ˈsteɪkhoʊldər kəˌmjuːnəˈkeɪʃən",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Stakeholder communication",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT385",
+    "before": {
+      "id": "MKT385",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Corporate communications",
+      "zh": "企业传播",
+      "definition": "统筹组织内部及外部正式沟通的职能",
+      "example": "Corporate communications approved the wording of the announcement.",
+      "exampleZh": "企业传播部门批准了公告措辞。",
+      "collocation": "align corporate communications",
+      "collocationZh": "协调企业传播",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ approved the wording of the announcement.",
+          "zh": "补全职场表达：____部门批准了公告措辞。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Corporate communications approved the wording of the announcement.",
+          "zh": "企业传播部门批准了公告措辞。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 385,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɔːpərət kəˌmjuːnɪˈkeɪʃənz",
+      "ipaUS": "ˈkɔːrpɚrət kəˌmjuːnɪˈkeɪʃənz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Corporate communications",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT385",
+      "moduleId": "m13",
+      "module": "公共关系",
+      "term": "Corporate communications",
+      "zh": "企业传播",
+      "definition": "统筹企业内部与外部沟通、组织形象及声誉的职能。",
+      "example": "Corporate communications approved the wording of the announcement.",
+      "exampleZh": "企业传播部门批准了公告措辞。",
+      "collocation": "align corporate communications",
+      "collocationZh": "协调企业传播",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who approved the announcement before publication?",
+          "zh": "公告发布前由谁批准了措辞？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Corporate communications approved the wording of the announcement.",
+          "zh": "企业传播部门批准了公告措辞。"
+        }
+      ],
+      "usage": "communications 可指传播职能或部门。",
+      "new": true,
+      "order": 385,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɔːpərət kəˌmjuːnɪˈkeɪʃənz",
+      "ipaUS": "ˈkɔːrpərət kəˌmjuːnəˈkeɪʃənz",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Corporate communications",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT386",
+    "before": {
+      "id": "MKT386",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Event marketing",
+      "zh": "活动营销",
+      "definition": "通过线上或线下活动实现传播、获客或关系维护目标",
+      "example": "Our event marketing focuses on qualified leads rather than attendance alone.",
+      "exampleZh": "我们的活动营销关注合格线索，而非仅看参与人数。",
+      "collocation": "plan event marketing",
+      "collocationZh": "规划活动营销",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Our ____ focuses on qualified leads rather than attendance alone.",
+          "zh": "补全职场表达：我们的____关注合格线索，而非仅看参与人数。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our event marketing focuses on qualified leads rather than attendance alone.",
+          "zh": "我们的活动营销关注合格线索，而非仅看参与人数。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 386,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ɪˈvent ˈmɑːkɪtɪŋ",
+      "ipaUS": "ɪˈvent ˈmɑːrkɪtɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Event marketing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT386",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Event marketing",
+      "zh": "活动营销",
+      "definition": "通过策划、举办或参与线上及线下活动实现营销目标。",
+      "example": "Our event marketing focuses on qualified leads rather than attendance alone.",
+      "exampleZh": "我们的活动营销关注合格线索，而非仅看参与人数。",
+      "collocation": "plan event marketing",
+      "collocationZh": "规划活动营销",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What is the main objective of our events this quarter?",
+          "zh": "本季度活动的主要目标是什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our event marketing focuses on qualified leads rather than attendance alone.",
+          "zh": "我们的活动营销关注合格线索，而非仅看参与人数。"
+        }
+      ],
+      "usage": "可按品牌认知、合格线索或客户关系等目标衡量。",
+      "new": true,
+      "order": 386,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɪˈvent ˈmɑːkɪtɪŋ",
+      "ipaUS": "ɪˈvent ˈmɑːrkɪtɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Event marketing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT387",
+    "before": {
+      "id": "MKT387",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Experiential marketing",
+      "zh": "体验营销",
+      "definition": "通过参与式体验让受众直接感知品牌价值",
+      "example": "Experiential marketing allowed visitors to test the product themselves.",
+      "exampleZh": "体验营销让访客亲自试用产品。",
+      "collocation": "design experiential marketing",
+      "collocationZh": "设计体验营销",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ allowed visitors to test the product themselves.",
+          "zh": "补全职场表达：____让访客亲自试用产品。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Experiential marketing allowed visitors to test the product themselves.",
+          "zh": "体验营销让访客亲自试用产品。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 387,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ekˌspiərɪˈenʃəl ˈmɑːkɪtɪŋ",
+      "ipaUS": "ekˌspiərɪˈenʃəl ˈmɑːrkɪtɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Experiential marketing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT387",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Experiential marketing",
+      "zh": "体验营销",
+      "definition": "通过互动和参与式体验促进受众与品牌建立联系的营销方式。",
+      "example": "Experiential marketing allowed visitors to test the product themselves.",
+      "exampleZh": "体验营销让访客亲自试用产品。",
+      "collocation": "design an experiential marketing campaign",
+      "collocationZh": "策划体验营销活动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did visitors get hands-on experience with the product?",
+          "zh": "访客如何获得亲身试用产品的体验？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Experiential marketing allowed visitors to test the product themselves.",
+          "zh": "体验营销让访客亲自试用产品。"
+        }
+      ],
+      "usage": "强调体验本身，不限于线下活动。",
+      "new": true,
+      "order": 387,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɪkˌspɪəriˈenʃəl ˈmɑːkɪtɪŋ",
+      "ipaUS": "ɪkˌspɪriˈenʃəl ˈmɑːrkɪtɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Experiential marketing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT388",
+    "before": {
+      "id": "MKT388",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Trade show",
+      "zh": "行业展会",
+      "definition": "面向行业买家和供应商展示产品及交流的活动",
+      "example": "We will exhibit at a trade show in Singapore.",
+      "exampleZh": "我们将在新加坡参加行业展会。",
+      "collocation": "exhibit at a trade show",
+      "collocationZh": "参加行业展会",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We will exhibit at a ____ in Singapore.",
+          "zh": "补全职场表达：我们将在新加坡参加____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will exhibit at a trade show in Singapore.",
+          "zh": "我们将在新加坡参加行业展会。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 388,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtreɪd ˈʃəʊ",
+      "ipaUS": "ˈtreɪd ˈʃoʊ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Trade show",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT388",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Trade show",
+      "zh": "行业展会",
+      "definition": "供特定行业企业展示产品、交流和开展商务活动的展会。",
+      "example": "We will exhibit at a trade show in Singapore.",
+      "exampleZh": "我们将在新加坡的行业展会上参展。",
+      "collocation": "exhibit at a trade show",
+      "collocationZh": "在行业展会上参展",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where will we showcase our products next month?",
+          "zh": "下个月我们将在哪里展示产品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will exhibit at a trade show in Singapore.",
+          "zh": "我们将在新加坡的行业展会上参展。"
+        }
+      ],
+      "usage": "exhibit at 表示参展；attend 表示参加，不一定设展位。",
+      "new": true,
+      "order": 388,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtreɪd ʃəʊ",
+      "ipaUS": "ˈtreɪd ʃoʊ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Trade show",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT389",
+    "before": {
+      "id": "MKT389",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Exhibition booth",
+      "zh": "展位",
+      "definition": "展会上供参展方展示和交流的空间",
+      "example": "The exhibition booth includes a live demonstration area.",
+      "exampleZh": "展位包含现场演示区。",
+      "collocation": "design an exhibition booth",
+      "collocationZh": "设计展位",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ includes a live demonstration area.",
+          "zh": "补全职场表达：____包含现场演示区。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The exhibition booth includes a live demonstration area.",
+          "zh": "展位包含现场演示区。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 389,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "eksɪˈbɪʃən ˈbuːθ",
+      "ipaUS": "eksɪˈbɪʃən ˈbuːθ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Exhibition booth",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT389",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Exhibition booth",
+      "zh": "展位",
+      "definition": "展会上供参展方展示产品及与访客交流的空间。",
+      "example": "The exhibition booth includes a live demonstration area.",
+      "exampleZh": "展位包含现场演示区。",
+      "collocation": "design an exhibition booth",
+      "collocationZh": "设计展位",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Will there be space for live demos at the exhibition?",
+          "zh": "展会上会有现场演示的空间吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The exhibition booth includes a live demonstration area.",
+          "zh": "展位包含现场演示区。"
+        }
+      ],
+      "usage": "英式英语也常用 exhibition stand。",
+      "new": true,
+      "order": 389,
+      "aliases": [
+        "exhibition stand"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌeksɪˈbɪʃən buːθ",
+      "ipaUS": "ˌeksəˈbɪʃən buːθ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Exhibition booth",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT390",
+    "before": {
+      "id": "MKT390",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Event sponsorship",
+      "zh": "活动赞助",
+      "definition": "以资金或资源支持活动以获得约定传播权益",
+      "example": "We secured event sponsorship from two industry partners.",
+      "exampleZh": "我们获得了两家行业合作伙伴的活动赞助。",
+      "collocation": "secure event sponsorship",
+      "collocationZh": "获得活动赞助",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We secured ____ from two industry partners.",
+          "zh": "补全职场表达：我们获得了两家行业合作伙伴的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We secured event sponsorship from two industry partners.",
+          "zh": "我们获得了两家行业合作伙伴的活动赞助。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 390,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ɪˈvent ˈspɒnsəˌʃɪp",
+      "ipaUS": "ɪˈvent ˈspɑːnsɚˌʃɪp",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Event sponsorship",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT390",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Event sponsorship",
+      "zh": "活动赞助",
+      "definition": "以资金或其他资源支持活动并获得约定权益的合作安排。",
+      "example": "We secured event sponsorship from two industry partners.",
+      "exampleZh": "我们获得了两家行业合作伙伴的活动赞助。",
+      "collocation": "secure event sponsorship",
+      "collocationZh": "获得活动赞助",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we obtain additional support for the conference?",
+          "zh": "我们如何为会议获得额外支持？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We secured event sponsorship from two industry partners.",
+          "zh": "我们获得了两家行业合作伙伴的活动赞助。"
+        }
+      ],
+      "usage": "赞助权益可能包括品牌展示、接待或推广机会。",
+      "new": true,
+      "order": 390,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɪˈvent ˈspɒnsəʃɪp",
+      "ipaUS": "ɪˈvent ˈspɑːnsərʃɪp",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Event sponsorship",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT391",
+    "before": {
+      "id": "MKT391",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Sponsorship activation",
+      "zh": "赞助权益激活",
+      "definition": "通过具体营销活动实现赞助权益价值",
+      "example": "Our sponsorship activation includes a fan experience zone.",
+      "exampleZh": "我们的赞助权益激活包括粉丝体验区。",
+      "collocation": "plan sponsorship activation",
+      "collocationZh": "规划赞助权益激活",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Our ____ includes a fan experience zone.",
+          "zh": "补全职场表达：我们的____包括粉丝体验区。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our sponsorship activation includes a fan experience zone.",
+          "zh": "我们的赞助权益激活包括粉丝体验区。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 391,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈspɒnsəˌʃɪp ˌæktɪˈveɪʃən",
+      "ipaUS": "ˈspɑːnsɚˌʃɪp ˌæktɪˈveɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Sponsorship activation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT391",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Sponsorship activation",
+      "zh": "赞助权益激活",
+      "definition": "通过具体营销活动利用已取得的赞助权益并创造品牌价值。",
+      "example": "Our sponsorship activation includes a fan experience zone.",
+      "exampleZh": "我们的赞助权益激活方案包括设置粉丝体验区。",
+      "collocation": "plan sponsorship activation",
+      "collocationZh": "规划赞助权益激活",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we make use of our sponsorship rights?",
+          "zh": "我们将如何利用赞助权益？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our sponsorship activation includes a fan experience zone.",
+          "zh": "我们的赞助权益激活方案包括设置粉丝体验区。"
+        }
+      ],
+      "usage": "购买赞助权益与执行激活活动是不同环节。",
+      "new": true,
+      "order": 391,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈspɒnsəʃɪp ˌæktɪˈveɪʃən",
+      "ipaUS": "ˈspɑːnsərʃɪp ˌæktəˈveɪʃən",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Sponsorship activation",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT392",
+    "before": {
+      "id": "MKT392",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Event registration",
+      "zh": "活动报名",
+      "definition": "参与者提交信息以获得活动参加资格的流程",
+      "example": "Event registration opens three weeks before the conference.",
+      "exampleZh": "活动报名在会议前三周开放。",
+      "collocation": "open event registration",
+      "collocationZh": "开放活动报名",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ opens three weeks before the conference.",
+          "zh": "补全职场表达：____在会议前三周开放。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Event registration opens three weeks before the conference.",
+          "zh": "活动报名在会议前三周开放。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 392,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ɪˈvent ˌredʒɪˈstreɪʃən",
+      "ipaUS": "ɪˈvent ˌredʒɪˈstreɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Event registration",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT392",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Event registration",
+      "zh": "活动报名",
+      "definition": "参与者登记信息并申请或确认参加活动的流程。",
+      "example": "Event registration opens three weeks before the conference.",
+      "exampleZh": "活动报名在会议前三周开放。",
+      "collocation": "open event registration",
+      "collocationZh": "开放活动报名",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When can attendees sign up for the conference?",
+          "zh": "参会者什么时候可以报名？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Event registration opens three weeks before the conference.",
+          "zh": "活动报名在会议前三周开放。"
+        }
+      ],
+      "usage": "报名不等于实际到场，也不一定代表审核通过。",
+      "new": true,
+      "order": 392,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɪˈvent ˌredʒɪˈstreɪʃən",
+      "ipaUS": "ɪˈvent ˌredʒəˈstreɪʃən",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Event registration",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT393",
+    "before": {
+      "id": "MKT393",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Attendance rate",
+      "zh": "到场率",
+      "definition": "实际到场人数占约定基数的比例，常以报名人数为分母",
+      "example": "The attendance rate reached 78 percent of registered guests.",
+      "exampleZh": "实际到场人数达到报名人数的78%。",
+      "collocation": "track attendance rate",
+      "collocationZh": "追踪到场率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ reached 78 percent of registered guests.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The attendance rate reached 78 percent of registered guests.",
+          "zh": "实际到场人数达到报名人数的78%。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 393,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "əˈtendəns ˈreɪt",
+      "ipaUS": "əˈtendəns ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Attendance rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT393",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Attendance rate",
+      "zh": "到场率",
+      "definition": "实际到场人数占指定基数的比例。",
+      "example": "The attendance rate was 78% among registered guests.",
+      "exampleZh": "报名人员的实际到场率为78%。",
+      "collocation": "track the attendance rate",
+      "collocationZh": "追踪到场率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What percentage of registered guests actually attended?",
+          "zh": "实际到场的报名人员占比是多少？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The attendance rate was 78% among registered guests.",
+          "zh": "报名人员的实际到场率为78%。"
+        }
+      ],
+      "usage": "以报名者为基数时，到场率=实际到场的报名者人数÷有效报名人数×100%。",
+      "new": true,
+      "order": 393,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "əˈtendəns reɪt",
+      "ipaUS": "əˈtendəns reɪt",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Attendance rate",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT394",
+    "before": {
+      "id": "MKT394",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "No-show rate",
+      "zh": "缺席率",
+      "definition": "已报名或确认但未到场者占相应人群的比例",
+      "example": "Reminder emails helped reduce the no-show rate.",
+      "exampleZh": "提醒邮件帮助降低了缺席率。",
+      "collocation": "reduce the no-show rate",
+      "collocationZh": "降低缺席率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Reminder emails helped reduce the ____.",
+          "zh": "补全职场表达：提醒邮件帮助降低了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Reminder emails helped reduce the no-show rate.",
+          "zh": "提醒邮件帮助降低了缺席率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 394,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈnəʊˈʃəʊ ˈreɪt",
+      "ipaUS": "ˈnoʊˈʃoʊ ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "No-show rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT394",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "No-show rate",
+      "zh": "缺席率",
+      "definition": "已报名或确认参加但未到场者占相应有效人群的比例。",
+      "example": "Reminder emails helped reduce the no-show rate.",
+      "exampleZh": "提醒邮件帮助降低了缺席率。",
+      "collocation": "reduce the no-show rate",
+      "collocationZh": "降低缺席率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What helped reduce the number of registered guests who did not attend?",
+          "zh": "什么措施有助于减少报名后未到场的人数？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Reminder emails helped reduce the no-show rate.",
+          "zh": "提醒邮件帮助降低了缺席率。"
+        }
+      ],
+      "usage": "明确是否排除取消报名者；只有口径一致时才与到场率互补。",
+      "new": true,
+      "order": 394,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈnəʊʃəʊ reɪt",
+      "ipaUS": "ˈnoʊʃoʊ reɪt",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "No-show rate",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT395",
+    "before": {
+      "id": "MKT395",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Run of show",
+      "zh": "活动执行流程表",
+      "definition": "按时间列出活动环节、责任人及执行提示的文件",
+      "example": "Finalize the run of show with the production team.",
+      "exampleZh": "与制作团队敲定活动执行流程表。",
+      "collocation": "finalize the run of show",
+      "collocationZh": "敲定活动执行流程表",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Finalize the ____ with the production team.",
+          "zh": "补全职场表达：与制作团队敲定____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Finalize the run of show with the production team.",
+          "zh": "与制作团队敲定活动执行流程表。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 395,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈrʌn ɒv ˈʃəʊ",
+      "ipaUS": "ˈrʌn ʌv ˈʃoʊ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Run of show",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT395",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Run of show",
+      "zh": "活动执行流程表",
+      "definition": "按时间列出活动环节、负责人、执行提示和衔接安排的文件。",
+      "example": "We need to finalize the run of show with the production team.",
+      "exampleZh": "我们需要与制作团队敲定活动执行流程表。",
+      "collocation": "finalize the run of show",
+      "collocationZh": "敲定活动执行流程表",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we finalize before the technical rehearsal?",
+          "zh": "技术彩排前我们应敲定什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to finalize the run of show with the production team.",
+          "zh": "我们需要与制作团队敲定活动执行流程表。"
+        }
+      ],
+      "usage": "与面向观众的 agenda 不同，通常供执行团队使用。",
+      "new": true,
+      "order": 395,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "rʌn əv ʃəʊ",
+      "ipaUS": "rʌn əv ʃoʊ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Run of show",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT396",
+    "before": {
+      "id": "MKT396",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Venue selection",
+      "zh": "场地选择",
+      "definition": "根据容量、位置、成本和活动需求筛选场地的过程",
+      "example": "Venue selection depends on accessibility and capacity.",
+      "exampleZh": "场地选择取决于交通便利性和容量。",
+      "collocation": "complete venue selection",
+      "collocationZh": "完成场地选择",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ depends on accessibility and capacity.",
+          "zh": "补全职场表达：____取决于交通便利性和容量。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Venue selection depends on accessibility and capacity.",
+          "zh": "场地选择取决于交通便利性和容量。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 396,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈvenjuː sɪˈlekʃən",
+      "ipaUS": "ˈvenjuː sɪˈlekʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Venue selection",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT396",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Venue selection",
+      "zh": "场地选择",
+      "definition": "根据容量、位置、成本、无障碍条件和活动需求选择场地的过程。",
+      "example": "Venue selection depends on accessibility and capacity.",
+      "exampleZh": "场地选择取决于可达性（包括无障碍条件）及容纳人数。",
+      "collocation": "complete venue selection",
+      "collocationZh": "完成场地选择",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What factors matter most when choosing a venue?",
+          "zh": "选择场地时哪些因素最重要？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Venue selection depends on accessibility and capacity.",
+          "zh": "场地选择取决于可达性（包括无障碍条件）及容纳人数。"
+        }
+      ],
+      "usage": "accessibility 可涉及交通可达性及无障碍设施。",
+      "new": true,
+      "order": 396,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈvenjuː sɪˈlekʃən",
+      "ipaUS": "ˈvenjuː sɪˈlekʃən",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Venue selection",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT397",
+    "before": {
+      "id": "MKT397",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Event logistics",
+      "zh": "活动后勤",
+      "definition": "协调运输、设备、人员及现场物资的工作",
+      "example": "The agency will coordinate event logistics with the venue.",
+      "exampleZh": "代理商将与场地方协调活动后勤。",
+      "collocation": "coordinate event logistics",
+      "collocationZh": "协调活动后勤",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The agency will coordinate ____ with the venue.",
+          "zh": "补全职场表达：代理商将与场地方协调____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency will coordinate event logistics with the venue.",
+          "zh": "代理商将与场地方协调活动后勤。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 397,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ɪˈvent ləˈdʒɪstɪks",
+      "ipaUS": "ɪˈvent ləˈdʒɪstɪks",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Event logistics",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT397",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Event logistics",
+      "zh": "活动后勤",
+      "definition": "协调活动所需运输、设备、人员、物资及现场安排的工作。",
+      "example": "The agency will coordinate event logistics with the venue.",
+      "exampleZh": "代理机构将与场地方协调活动后勤。",
+      "collocation": "coordinate event logistics",
+      "collocationZh": "协调活动后勤",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who will coordinate equipment deliveries and on-site arrangements?",
+          "zh": "谁负责协调设备运输和现场安排？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency will coordinate event logistics with the venue.",
+          "zh": "代理机构将与场地方协调活动后勤。"
+        }
+      ],
+      "usage": "logistics 在此通常作不可数名词使用。",
+      "new": true,
+      "order": 397,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɪˈvent ləˈdʒɪstɪks",
+      "ipaUS": "ɪˈvent ləˈdʒɪstɪks",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Event logistics",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT398",
+    "before": {
+      "id": "MKT398",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Lead capture",
+      "zh": "线索收集",
+      "definition": "记录潜在客户信息以便后续跟进的过程",
+      "example": "QR codes streamlined lead capture at the booth.",
+      "exampleZh": "二维码简化了展位的线索收集。",
+      "collocation": "streamline lead capture",
+      "collocationZh": "简化线索收集",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: QR codes streamlined ____ at the booth.",
+          "zh": "补全职场表达：二维码简化了展位的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "QR codes streamlined lead capture at the booth.",
+          "zh": "二维码简化了展位的线索收集。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 398,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈliːd ˈkæptʃə",
+      "ipaUS": "ˈliːd ˈkæptʃɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Lead capture",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT398",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Lead capture",
+      "zh": "线索收集",
+      "definition": "收集潜在客户联系信息及相关需求以便后续跟进的过程。",
+      "example": "QR codes streamlined lead capture at the booth.",
+      "exampleZh": "二维码简化了展位上的潜客信息收集流程。",
+      "collocation": "streamline lead capture",
+      "collocationZh": "简化线索收集",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we collect prospect details more efficiently at the booth?",
+          "zh": "我们如何更高效地在展位收集潜客信息？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "QR codes streamlined lead capture at the booth.",
+          "zh": "二维码简化了展位上的潜客信息收集流程。"
+        }
+      ],
+      "usage": "收集和使用个人信息须符合适用规则，并明确用途及必要授权。",
+      "new": true,
+      "order": 398,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "liːd ˈkæptʃə",
+      "ipaUS": "liːd ˈkæptʃər",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Lead capture",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT399",
+    "before": {
+      "id": "MKT399",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Post-event follow-up",
+      "zh": "活动后跟进",
+      "definition": "活动结束后联系参与者并推进后续行动的工作",
+      "example": "Schedule post-event follow-up within two business days.",
+      "exampleZh": "在两个工作日内安排活动后跟进。",
+      "collocation": "schedule post-event follow-up",
+      "collocationZh": "安排活动后跟进",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Schedule ____ within two business days.",
+          "zh": "补全职场表达：在两个工作日内安排____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Schedule post-event follow-up within two business days.",
+          "zh": "在两个工作日内安排活动后跟进。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 399,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpəʊstɪˈvent ˈfɒləʊˈʌp",
+      "ipaUS": "ˈpoʊstɪˈvent ˈfɑːloʊˈʌp",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Post-event follow-up",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT399",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Post-event follow-up",
+      "zh": "活动后跟进",
+      "definition": "活动结束后联系参与者、回应需求并推进后续行动的工作。",
+      "example": "We should schedule post-event follow-up within two business days.",
+      "exampleZh": "我们应在两个工作日内安排活动后跟进。",
+      "collocation": "schedule post-event follow-up",
+      "collocationZh": "安排活动后跟进",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When should we contact the leads from the event?",
+          "zh": "我们应何时联系活动获得的潜客？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should schedule post-event follow-up within two business days.",
+          "zh": "我们应在两个工作日内安排活动后跟进。"
+        }
+      ],
+      "usage": "follow-up 为名词或形容词；follow up 为动词短语。",
+      "new": true,
+      "order": 399,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌpəʊst ɪˈvent ˈfɒləʊ ʌp",
+      "ipaUS": "ˌpoʊst ɪˈvent ˈfɑːloʊ ʌp",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Post-event follow-up",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  },
+  {
+    "id": "MKT400",
+    "before": {
+      "id": "MKT400",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Event debrief",
+      "zh": "活动复盘",
+      "definition": "活动结束后总结成果、问题及改进措施的会议或过程",
+      "example": "The event debrief identified a bottleneck at check-in.",
+      "exampleZh": "活动复盘发现签到环节存在瓶颈。",
+      "collocation": "conduct an event debrief",
+      "collocationZh": "开展活动复盘",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ identified a bottleneck at check-in.",
+          "zh": "补全职场表达：____发现签到环节存在瓶颈。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The event debrief identified a bottleneck at check-in.",
+          "zh": "活动复盘发现签到环节存在瓶颈。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 400,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ɪˈvent diːˈbriːf",
+      "ipaUS": "ɪˈvent diːˈbriːf",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Event debrief",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT400",
+      "moduleId": "m14",
+      "module": "活动营销",
+      "term": "Event debrief",
+      "zh": "活动复盘",
+      "definition": "活动结束后评估成果、总结问题并确定改进措施的会议或过程。",
+      "example": "The event debrief identified a bottleneck at check-in.",
+      "exampleZh": "活动复盘发现签到环节存在瓶颈。",
+      "collocation": "conduct an event debrief",
+      "collocationZh": "开展活动复盘",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we identify the check-in problem?",
+          "zh": "我们如何发现签到环节的问题？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The event debrief identified a bottleneck at check-in.",
+          "zh": "活动复盘发现签到环节存在瓶颈。"
+        }
+      ],
+      "usage": "debrief 作名词可采用首音节重音；复盘应形成行动项。",
+      "new": true,
+      "order": 400,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɪˈvent ˈdiːbriːf",
+      "ipaUS": "ɪˈvent ˈdiːbriːf",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Event debrief",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条校订音标、专业定义、使用说明及业务问答；保留准确搭配和例句。",
+    "verification": "编辑校订，未外部词典核验"
+  }
+]

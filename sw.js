@@ -1,8 +1,8 @@
-// Marketing Fluent V1.0.27 - navigation network-first and recoverable manual update.
-const CACHE='marketing-fluent-v1-0-27-production-20261125';
+// Marketing Fluent V1.0.71 - navigation network-first and recoverable manual update.
+const CACHE='marketing-fluent-v1-0-71-production-20261125';
 const APP_FILES=['./','./index.html','./manifest.webmanifest','./marketing-fluent-icon.svg','./apple-touch-icon.png','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>event.waitUntil(
- caches.open(CACHE).then(c=>c.addAll(APP_FILES)).then(()=>self.skipWaiting())
+ caches.open(CACHE).then(c=>c.addAll(APP_FILES.map(file=>new Request(new URL(file,self.registration.scope),{cache:'reload'})))).then(()=>self.skipWaiting())
 ));
 self.addEventListener('activate',event=>event.waitUntil(
  caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('marketing-fluent-')&&k!==CACHE).map(k=>caches.delete(k))))

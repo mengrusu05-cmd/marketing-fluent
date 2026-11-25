@@ -1,0 +1,1512 @@
+{
+  "version": "1.0.58",
+  "records": [
+    {
+      "id": "MKT581",
+      "before": {
+        "id": "MKT581",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Discretionary spend",
+        "zh": "可酌情支出",
+        "definition": "管理者可根据优先级调整的非刚性支出",
+        "example": "We reduced discretionary spend to protect core campaigns.",
+        "exampleZh": "我们减少可酌情支出以保障核心活动。",
+        "collocation": "reduce discretionary spend",
+        "collocationZh": "减少可酌情支出",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We reduced ____ to protect core campaigns.",
+            "zh": "补全职场表达：我们减少____以保障核心活动。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We reduced discretionary spend to protect core campaigns.",
+            "zh": "我们减少可酌情支出以保障核心活动。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 581,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "dɪˈskreʃənəri ˈspend",
+        "ipaUS": "dɪˈskreʃəˌneri ˈspend",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Discretionary spend",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT581",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Discretionary spend",
+        "zh": "可酌情支出",
+        "definition": "在授权范围内可按优先级调整或取消的非刚性支出。",
+        "example": "We reduced discretionary spend to protect core campaigns.",
+        "exampleZh": "我们减少可酌情支出，以保障核心营销活动。",
+        "collocation": "reduce discretionary spend",
+        "collocationZh": "减少可酌情支出",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How can we protect our core campaigns within the reduced budget?",
+            "zh": "预算减少后，我们如何保障核心营销活动？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We reduced discretionary spend to protect core campaigns.",
+            "zh": "我们减少可酌情支出，以保障核心营销活动。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 581,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "dɪˈskreʃənəri spend",
+        "ipaUS": "dɪˈskreʃəneri spend",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Discretionary spend",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT582",
+      "before": {
+        "id": "MKT582",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Contingency budget",
+        "zh": "应急预算",
+        "definition": "为未预见的成本或风险预留的资金",
+        "example": "We reserved a contingency budget for venue changes.",
+        "exampleZh": "我们为场地变更预留了应急预算。",
+        "collocation": "reserve a contingency budget",
+        "collocationZh": "预留应急预算",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We reserved a ____ for venue changes.",
+            "zh": "补全职场表达：我们为场地变更预留了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We reserved a contingency budget for venue changes.",
+            "zh": "我们为场地变更预留了应急预算。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 582,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "kənˈtɪndʒənsi ˈbʌdʒɪt",
+        "ipaUS": "kənˈtɪndʒənsi ˈbʌdʒɪt",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Contingency budget",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT582",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Contingency budget",
+        "zh": "应急预算",
+        "definition": "为不确定事件或意外成本预留的预算。",
+        "example": "We reserved a contingency budget for venue changes.",
+        "exampleZh": "我们为场地变更预留了应急预算。",
+        "collocation": "reserve a contingency budget",
+        "collocationZh": "预留应急预算",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How will we cover unexpected venue costs?",
+            "zh": "我们如何应对意外的场地费用？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We reserved a contingency budget for venue changes.",
+            "zh": "我们为场地变更预留了应急预算。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 582,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "kənˈtɪndʒənsi ˈbʌdʒɪt",
+        "ipaUS": "kənˈtɪndʒənsi ˈbʌdʒɪt",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Contingency budget",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT583",
+      "before": {
+        "id": "MKT583",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Budget reallocation",
+        "zh": "预算重新分配",
+        "definition": "在现有预算总额内调整资金用途",
+        "example": "We proposed budget reallocation from print to search.",
+        "exampleZh": "我们提出将预算从印刷媒体转移至搜索广告。",
+        "collocation": "propose budget reallocation",
+        "collocationZh": "提出预算重新分配",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We proposed ____ from print to search.",
+            "zh": "请根据英文句子的语境补全缺失的术语。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We proposed budget reallocation from print to search.",
+            "zh": "我们提出将预算从印刷媒体转移至搜索广告。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 583,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈbʌdʒɪt ˌriːˌæləˈkeɪʃən",
+        "ipaUS": "ˈbʌdʒɪt ˌriːˌæləˈkeɪʃən",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Budget reallocation",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT583",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Budget reallocation",
+        "zh": "预算重新分配",
+        "definition": "在预算项目之间重新分配资金，通常须遵守审批规则。",
+        "example": "We proposed budget reallocation from print to search.",
+        "exampleZh": "我们提出将预算从印刷媒体转移至搜索广告。",
+        "collocation": "propose budget reallocation",
+        "collocationZh": "提出预算重新分配",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What change to the media budget did we propose?",
+            "zh": "我们提出了什么媒介预算调整方案？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We proposed budget reallocation from print to search.",
+            "zh": "我们提出将预算从印刷媒体转移至搜索广告。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 583,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈbʌdʒɪt ˌriːæləˈkeɪʃən",
+        "ipaUS": "ˈbʌdʒɪt ˌriːæləˈkeɪʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Budget reallocation",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT584",
+      "before": {
+        "id": "MKT584",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Spend forecast",
+        "zh": "支出预测",
+        "definition": "对未来期间预计支出金额的估计",
+        "example": "We revised the spend forecast after negotiating agency fees.",
+        "exampleZh": "我们在协商代理商费用后修订了支出预测。",
+        "collocation": "revise the spend forecast",
+        "collocationZh": "修订支出预测",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We revised the ____ after negotiating agency fees.",
+            "zh": "补全职场表达：我们在协商代理商费用后修订了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We revised the spend forecast after negotiating agency fees.",
+            "zh": "我们在协商代理商费用后修订了支出预测。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 584,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈspend ˈfɔːkæst",
+        "ipaUS": "ˈspend ˈfɔːrkæst",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Spend forecast",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT584",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Spend forecast",
+        "zh": "支出预测",
+        "definition": "根据已承诺支出、计划及假设估计未来期间的支出。",
+        "example": "We revised the spend forecast after negotiating agency fees.",
+        "exampleZh": "我们在协商代理商费用后修订了支出预测。",
+        "collocation": "revise the spend forecast",
+        "collocationZh": "修订支出预测",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did the agency negotiations affect our forecast?",
+            "zh": "代理商费用谈判如何影响我们的预测？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We revised the spend forecast after negotiating agency fees.",
+            "zh": "我们在协商代理商费用后修订了支出预测。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 584,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "spend ˈfɔːkɑːst",
+        "ipaUS": "spend ˈfɔːrkæst",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Spend forecast",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT585",
+      "before": {
+        "id": "MKT585",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Cost center",
+        "zh": "成本中心",
+        "definition": "用于归集和管理特定部门或职能成本的核算单位",
+        "example": "Finance assigned a cost center to the regional campaign.",
+        "exampleZh": "财务为区域营销活动指定了成本中心。",
+        "collocation": "assign a cost center",
+        "collocationZh": "指定成本中心",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: Finance assigned a ____ to the regional campaign.",
+            "zh": "补全职场表达：财务为区域营销活动指定了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Finance assigned a cost center to the regional campaign.",
+            "zh": "财务为区域营销活动指定了成本中心。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 585,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈkɒst ˈsentə",
+        "ipaUS": "ˈkɔst ˈsentɚ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Cost center",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT585",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Cost center",
+        "zh": "成本中心",
+        "definition": "用于归集、监控和管理成本的组织或会计核算单位。",
+        "example": "Finance assigned a cost center to the regional campaign.",
+        "exampleZh": "财务为区域营销活动指定了成本中心。",
+        "collocation": "assign a cost center",
+        "collocationZh": "指定成本中心",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How will Finance track the regional campaign costs?",
+            "zh": "财务将如何追踪区域营销活动的成本？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Finance assigned a cost center to the regional campaign.",
+            "zh": "财务为区域营销活动指定了成本中心。"
+          }
+        ],
+        "usage": "英式拼写：cost centre。",
+        "new": true,
+        "order": 585,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "kɒst ˈsentə",
+        "ipaUS": "kɑːst ˈsentər",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Cost center",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT586",
+      "before": {
+        "id": "MKT586",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Executive summary",
+        "zh": "执行摘要",
+        "definition": "面向决策者概述主要发现、结论和行动建议的简短内容",
+        "example": "The executive summary highlights the three biggest risks.",
+        "exampleZh": "执行摘要突出三个最大的风险。",
+        "collocation": "prepare an executive summary",
+        "collocationZh": "准备执行摘要",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: The ____ highlights the three biggest risks.",
+            "zh": "补全职场表达：____突出三个最大的风险。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The executive summary highlights the three biggest risks.",
+            "zh": "执行摘要突出三个最大的风险。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 586,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "eɡˈzekjuːˌtɪv ˈsʌməri",
+        "ipaUS": "eɡˈzekjuːˌtɪv ˈsʌmɚri",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Executive summary",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT586",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Executive summary",
+        "zh": "执行摘要",
+        "definition": "面向决策者简明概述关键发现、风险、结论及建议。",
+        "example": "The executive summary highlights the three biggest risks.",
+        "exampleZh": "执行摘要重点介绍了三项最大的风险。",
+        "collocation": "prepare an executive summary",
+        "collocationZh": "准备执行摘要",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Where can leadership find the main risks at a glance?",
+            "zh": "管理层在哪里可以快速了解主要风险？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The executive summary highlights the three biggest risks.",
+            "zh": "执行摘要重点介绍了三项最大的风险。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 586,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ɪɡˈzekjətɪv ˈsʌməri",
+        "ipaUS": "ɪɡˈzekjətɪv ˈsʌməri",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Executive summary",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT587",
+      "before": {
+        "id": "MKT587",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Business review",
+        "zh": "经营复盘",
+        "definition": "定期评估业务表现、原因及后续行动的过程",
+        "example": "We conduct a business review at the end of each quarter.",
+        "exampleZh": "我们在每季度末开展经营复盘。",
+        "collocation": "conduct a business review",
+        "collocationZh": "开展经营复盘",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We conduct a ____ at the end of each quarter.",
+            "zh": "补全职场表达：我们在每季度末开展____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We conduct a business review at the end of each quarter.",
+            "zh": "我们在每季度末开展经营复盘。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 587,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈbɪznəs rɪˈvjuː",
+        "ipaUS": "ˈbɪznəs rɪˈvjuː",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Business review",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT587",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Business review",
+        "zh": "经营复盘",
+        "definition": "评估经营表现、偏差原因及后续行动的管理活动。",
+        "example": "We conduct a business review at the end of each quarter.",
+        "exampleZh": "我们在每季度末开展经营复盘。",
+        "collocation": "conduct a business review",
+        "collocationZh": "开展经营复盘",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "When do we assess quarterly business performance?",
+            "zh": "我们何时评估季度经营表现？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We conduct a business review at the end of each quarter.",
+            "zh": "我们在每季度末开展经营复盘。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 587,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈbɪznəs rɪˈvjuː",
+        "ipaUS": "ˈbɪznəs rɪˈvjuː",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Business review",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT588",
+      "before": {
+        "id": "MKT588",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Year-over-year growth",
+        "zh": "同比增长",
+        "definition": "与上年同期相比的增长幅度",
+        "example": "Year-over-year growth reached eight percent in October.",
+        "exampleZh": "十月同比增长达到百分之八。",
+        "collocation": "report year-over-year growth",
+        "collocationZh": "汇报同比增长",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ reached eight percent in October.",
+            "zh": "补全职场表达：十月____达到百分之八。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Year-over-year growth reached eight percent in October.",
+            "zh": "十月同比增长达到百分之八。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 588,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈjiəˌrəʊvəˈjiə ˈɡrəʊθ",
+        "ipaUS": "ˈjɪˌroʊvɚˈjɪr ˈɡroʊθ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Year-over-year growth",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT588",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Year-over-year growth",
+        "zh": "同比增长",
+        "definition": "与上年同期相比的增长率，通常以百分比表示。",
+        "example": "Year-over-year revenue growth reached eight percent in October.",
+        "exampleZh": "十月收入同比增长达到8%。",
+        "collocation": "report year-over-year growth",
+        "collocationZh": "汇报同比增长",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did October revenue compare with last October?",
+            "zh": "十月收入与去年十月相比如何？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Year-over-year revenue growth reached eight percent in October.",
+            "zh": "十月收入同比增长达到8%。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 588,
+        "aliases": [
+          "YoY"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "jɪər ˌəʊvə ˈjɪə ɡrəʊθ",
+        "ipaUS": "jɪr ˌoʊvər ˈjɪr ɡroʊθ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Year-over-year growth",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT589",
+      "before": {
+        "id": "MKT589",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Quarter-over-quarter growth",
+        "zh": "环比季度增长",
+        "definition": "与上一季度相比的增长幅度",
+        "example": "Quarter-over-quarter growth slowed after the launch peak.",
+        "exampleZh": "上市高峰过后季度环比增长放缓。",
+        "collocation": "track quarter-over-quarter growth",
+        "collocationZh": "追踪季度环比增长",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ slowed after the launch peak.",
+            "zh": "请根据英文句子的语境补全缺失的术语。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Quarter-over-quarter growth slowed after the launch peak.",
+            "zh": "上市高峰过后季度环比增长放缓。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 589,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈkwɔːtəˌrəʊvəˈkwɔːtə ˈɡrəʊθ",
+        "ipaUS": "ˈkwɔːrtɚˌroʊvɚˈkwɔːrtɚ ˈɡroʊθ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Quarter-over-quarter growth",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT589",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Quarter-over-quarter growth",
+        "zh": "季度环比增长",
+        "definition": "与紧邻的上一季度相比的增长率，通常以百分比表示。",
+        "example": "Quarter-over-quarter growth slowed after the launch peak.",
+        "exampleZh": "上市高峰过后季度环比增长放缓。",
+        "collocation": "track quarter-over-quarter growth",
+        "collocationZh": "追踪季度环比增长",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What happened to quarterly growth after the launch peak?",
+            "zh": "上市高峰过后，季度增长发生了什么变化？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Quarter-over-quarter growth slowed after the launch peak.",
+            "zh": "上市高峰过后季度环比增长放缓。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 589,
+        "aliases": [
+          "环比季度增长",
+          "QoQ"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkwɔːtər ˌəʊvə ˈkwɔːtə ɡrəʊθ",
+        "ipaUS": "ˈkwɔːrtər ˌoʊvər ˈkwɔːrtər ɡroʊθ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Quarter-over-quarter growth",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT590",
+      "before": {
+        "id": "MKT590",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Revenue contribution",
+        "zh": "收入贡献",
+        "definition": "某业务、渠道或活动对总收入的贡献",
+        "example": "We quantified revenue contribution by acquisition channel.",
+        "exampleZh": "我们按获客渠道量化了收入贡献。",
+        "collocation": "quantify revenue contribution",
+        "collocationZh": "量化收入贡献",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We quantified ____ by acquisition channel.",
+            "zh": "补全职场表达：我们按获客渠道量化了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We quantified revenue contribution by acquisition channel.",
+            "zh": "我们按获客渠道量化了收入贡献。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 590,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈrevəˌnjuː ˌkɒntrɪˈbjuːʃən",
+        "ipaUS": "ˈrevəˌnuː ˌkɑːntrɪˈbjuːʃən",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Revenue contribution",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT590",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Revenue contribution",
+        "zh": "收入贡献",
+        "definition": "按明确归属规则衡量某业务、渠道或活动贡献的收入金额或占比。",
+        "example": "We quantified revenue contribution by acquisition channel.",
+        "exampleZh": "我们按获客渠道量化了收入贡献。",
+        "collocation": "quantify revenue contribution",
+        "collocationZh": "量化收入贡献",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we assess each acquisition channel’s revenue contribution?",
+            "zh": "我们如何评估各获客渠道的收入贡献？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We quantified revenue contribution by acquisition channel.",
+            "zh": "我们按获客渠道量化了收入贡献。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 590,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈrevənjuː ˌkɒntrɪˈbjuːʃən",
+        "ipaUS": "ˈrevənuː ˌkɑːntrɪˈbjuːʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Revenue contribution",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT591",
+      "before": {
+        "id": "MKT591",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Contribution margin",
+        "zh": "贡献毛利",
+        "definition": "收入减去变动成本后的贡献额；贡献毛利率则为贡献额除以收入。",
+        "example": "Higher shipping costs reduced contribution margin.",
+        "exampleZh": "更高的配送成本降低了贡献毛利。",
+        "collocation": "improve contribution margin",
+        "collocationZh": "提高贡献毛利",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: Higher shipping costs reduced ____.",
+            "zh": "补全职场表达：更高的配送成本降低了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Higher shipping costs reduced contribution margin.",
+            "zh": "更高的配送成本降低了贡献毛利。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 591,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˌkɒntrɪˈbjuːʃən ˈmɑːdʒɪn",
+        "ipaUS": "ˌkɑːntrɪˈbjuːʃən ˈmɑːrdʒɪn",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Contribution margin",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT591",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Contribution margin",
+        "zh": "边际贡献",
+        "definition": "销售收入减去变动成本后的金额；边际贡献率为该金额除以销售收入。",
+        "example": "Higher variable shipping costs reduced contribution margin.",
+        "exampleZh": "配送变动成本上升降低了边际贡献。",
+        "collocation": "improve contribution margin",
+        "collocationZh": "提高边际贡献",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did the contribution margin fall?",
+            "zh": "边际贡献为何下降？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Higher variable shipping costs reduced contribution margin.",
+            "zh": "配送变动成本上升降低了边际贡献。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 591,
+        "aliases": [
+          "贡献毛利"
+        ],
+        "distinction": "边际贡献扣除变动成本；毛利扣除销售成本，两者口径不同。",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkɒntrɪˈbjuːʃən ˈmɑːdʒɪn",
+        "ipaUS": "ˌkɑːntrɪˈbjuːʃən ˈmɑːrdʒɪn",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Contribution margin",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT592",
+      "before": {
+        "id": "MKT592",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Gross margin",
+        "zh": "毛利率",
+        "definition": "毛利除以收入的比例，其中毛利为收入减去销售成本。",
+        "example": "We limited discounts to protect gross margin.",
+        "exampleZh": "我们限制折扣以保护毛利率。",
+        "collocation": "protect gross margin",
+        "collocationZh": "保护毛利率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We limited discounts to protect ____.",
+            "zh": "补全职场表达：我们限制折扣以保护____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We limited discounts to protect gross margin.",
+            "zh": "我们限制折扣以保护毛利率。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 592,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈɡrəʊs ˈmɑːdʒɪn",
+        "ipaUS": "ˈɡroʊs ˈmɑːrdʒɪn",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Gross margin",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT592",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Gross margin",
+        "zh": "毛利率",
+        "definition": "毛利占销售收入的比例；毛利为销售收入减去销售成本。",
+        "example": "We limited discounts to protect gross margin.",
+        "exampleZh": "我们限制折扣力度，以维持毛利率。",
+        "collocation": "protect gross margin",
+        "collocationZh": "维持毛利率",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did we limit promotional discounts?",
+            "zh": "我们为何限制促销折扣？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We limited discounts to protect gross margin.",
+            "zh": "我们限制折扣力度，以维持毛利率。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 592,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ɡrəʊs ˈmɑːdʒɪn",
+        "ipaUS": "ɡroʊs ˈmɑːrdʒɪn",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Gross margin",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT593",
+      "before": {
+        "id": "MKT593",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Break-even point",
+        "zh": "盈亏平衡点",
+        "definition": "收入恰好覆盖总成本时的业务水平",
+        "example": "We calculated the break-even point for the pop-up store.",
+        "exampleZh": "我们计算了快闪店的盈亏平衡点。",
+        "collocation": "calculate the break-even point",
+        "collocationZh": "计算盈亏平衡点",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We calculated the ____ for the pop-up store.",
+            "zh": "补全职场表达：我们计算了快闪店的____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We calculated the break-even point for the pop-up store.",
+            "zh": "我们计算了快闪店的盈亏平衡点。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 593,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈbreɪˈkiːvən ˈpɔɪnt",
+        "ipaUS": "ˈbreɪˈkiːvən ˈpɔɪnt",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Break-even point",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT593",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Break-even point",
+        "zh": "盈亏平衡点",
+        "definition": "总收入等于总成本、利润为零时的销售量或收入水平。",
+        "example": "We calculated the break-even point for the pop-up store.",
+        "exampleZh": "我们计算了快闪店的盈亏平衡点。",
+        "collocation": "calculate the break-even point",
+        "collocationZh": "计算盈亏平衡点",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we assess the minimum sales needed to cover pop-up costs?",
+            "zh": "我们如何评估快闪店覆盖成本所需的最低销量？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We calculated the break-even point for the pop-up store.",
+            "zh": "我们计算了快闪店的盈亏平衡点。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 593,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌbreɪkˈiːvən pɔɪnt",
+        "ipaUS": "ˌbreɪkˈiːvən pɔɪnt",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Break-even point",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT594",
+      "before": {
+        "id": "MKT594",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Payback period",
+        "zh": "投资回收期",
+        "definition": "收回初始投资所需的时间",
+        "example": "Improved retention shortened the payback period.",
+        "exampleZh": "留存改善缩短了投资回收期。",
+        "collocation": "shorten the payback period",
+        "collocationZh": "缩短投资回收期",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: Improved retention shortened the ____.",
+            "zh": "补全职场表达：留存改善缩短了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Improved retention shortened the payback period.",
+            "zh": "留存改善缩短了投资回收期。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 594,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈpeɪbæk ˈpiərɪəd",
+        "ipaUS": "ˈpeɪbæk ˈpiərɪəd",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Payback period",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT594",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Payback period",
+        "zh": "投资回收期",
+        "definition": "累计净现金流收回初始投资所需的时间；普通回收期不考虑货币时间价值。",
+        "example": "Improved retention shortened the payback period.",
+        "exampleZh": "留存改善缩短了投资回收期。",
+        "collocation": "shorten the payback period",
+        "collocationZh": "缩短投资回收期",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did better retention affect investment recovery?",
+            "zh": "留存改善如何影响投资回收？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Improved retention shortened the payback period.",
+            "zh": "留存改善缩短了投资回收期。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 594,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈpeɪbæk ˈpɪəriəd",
+        "ipaUS": "ˈpeɪbæk ˈpɪriəd",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Payback period",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT595",
+      "before": {
+        "id": "MKT595",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Pipeline contribution",
+        "zh": "销售管道贡献",
+        "definition": "营销对潜在销售机会金额或数量的贡献",
+        "example": "We measure pipeline contribution separately from closed revenue.",
+        "exampleZh": "我们将销售管道贡献与已成交收入分开衡量。",
+        "collocation": "measure pipeline contribution",
+        "collocationZh": "衡量销售管道贡献",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We measure ____ separately from closed revenue.",
+            "zh": "补全职场表达：我们将____与已成交收入分开衡量。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We measure pipeline contribution separately from closed revenue.",
+            "zh": "我们将销售管道贡献与已成交收入分开衡量。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 595,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈpaɪplaɪn ˌkɒntrɪˈbjuːʃən",
+        "ipaUS": "ˈpaɪplaɪn ˌkɑːntrɪˈbjuːʃən",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Pipeline contribution",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT595",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Pipeline contribution",
+        "zh": "销售管道贡献",
+        "definition": "按明确归属规则衡量营销带来的或影响的销售商机数量或金额，不等于成交收入。",
+        "example": "We measure pipeline contribution separately from revenue from closed deals.",
+        "exampleZh": "我们将销售商机贡献与已成交业务收入分开衡量。",
+        "collocation": "measure pipeline contribution",
+        "collocationZh": "衡量销售管道贡献",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Do we treat open opportunities as closed revenue?",
+            "zh": "我们会将未成交商机视为已成交收入吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We measure pipeline contribution separately from revenue from closed deals.",
+            "zh": "我们将销售商机贡献与已成交业务收入分开衡量。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 595,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈpaɪplaɪn ˌkɒntrɪˈbjuːʃən",
+        "ipaUS": "ˈpaɪplaɪn ˌkɑːntrɪˈbjuːʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Pipeline contribution",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT596",
+      "before": {
+        "id": "MKT596",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Forecast accuracy",
+        "zh": "预测准确性",
+        "definition": "预测结果与实际结果的接近程度",
+        "example": "Weekly updates improved forecast accuracy.",
+        "exampleZh": "每周更新提高了预测准确性。",
+        "collocation": "improve forecast accuracy",
+        "collocationZh": "提高预测准确性",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: Weekly updates improved ____.",
+            "zh": "补全职场表达：每周更新提高了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Weekly updates improved forecast accuracy.",
+            "zh": "每周更新提高了预测准确性。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 596,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈfɔːkæst ˈækjʊrəsi",
+        "ipaUS": "ˈfɔːrkæst ˈækjʊrəsi",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Forecast accuracy",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT596",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Forecast accuracy",
+        "zh": "预测准确性",
+        "definition": "用指定评价指标衡量预测值与实际值的接近程度，须明确预测周期及计算口径。",
+        "example": "Weekly updates improved forecast accuracy.",
+        "exampleZh": "每周更新提高了预测准确性。",
+        "collocation": "improve forecast accuracy",
+        "collocationZh": "提高预测准确性",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What helped improve our forecasts?",
+            "zh": "什么措施帮助改善了预测？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Weekly updates improved forecast accuracy.",
+            "zh": "每周更新提高了预测准确性。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 596,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈfɔːkɑːst ˈækjərəsi",
+        "ipaUS": "ˈfɔːrkæst ˈækjərəsi",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Forecast accuracy",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT597",
+      "before": {
+        "id": "MKT597",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Variance analysis",
+        "zh": "差异分析",
+        "definition": "识别实际结果与计划或基准之间差异及原因的分析",
+        "example": "Variance analysis revealed higher acquisition costs.",
+        "exampleZh": "差异分析发现获客成本上升。",
+        "collocation": "perform variance analysis",
+        "collocationZh": "开展差异分析",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ revealed higher acquisition costs.",
+            "zh": "补全职场表达：____发现获客成本上升。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Variance analysis revealed higher acquisition costs.",
+            "zh": "差异分析发现获客成本上升。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 597,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈveəriəns əˈnæləˌsɪs",
+        "ipaUS": "ˈveriəns əˈnæləˌsɪs",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Variance analysis",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT597",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Variance analysis",
+        "zh": "差异分析",
+        "definition": "量化实际或预测结果与预算、计划或基准的差异，并调查原因。",
+        "example": "Variance analysis revealed higher acquisition costs.",
+        "exampleZh": "差异分析发现获客成本上升。",
+        "collocation": "perform variance analysis",
+        "collocationZh": "开展差异分析",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What did the review of budget deviations reveal?",
+            "zh": "预算偏差分析发现了什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Variance analysis revealed higher acquisition costs.",
+            "zh": "差异分析发现获客成本上升。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 597,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈveəriəns əˈnæləsɪs",
+        "ipaUS": "ˈveriəns əˈnæləsɪs",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Variance analysis",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT598",
+      "before": {
+        "id": "MKT598",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Scenario planning",
+        "zh": "情景规划",
+        "definition": "构建不同未来情景并制定相应行动方案的方法",
+        "example": "Scenario planning helped us prepare for weaker demand.",
+        "exampleZh": "情景规划帮助我们应对需求走弱。",
+        "collocation": "use scenario planning",
+        "collocationZh": "采用情景规划",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ helped us prepare for weaker demand.",
+            "zh": "补全职场表达：____帮助我们应对需求走弱。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Scenario planning helped us prepare for weaker demand.",
+            "zh": "情景规划帮助我们应对需求走弱。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 598,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "səˈnɑːriˌəʊ ˈplænɪŋ",
+        "ipaUS": "səˈnærɪˌoʊ ˈplænɪŋ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Scenario planning",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT598",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Scenario planning",
+        "zh": "情景规划",
+        "definition": "构建多个合理的未来情景，评估影响并准备应对方案，而非预测唯一结果。",
+        "example": "Scenario planning helped us prepare for weaker demand.",
+        "exampleZh": "情景规划帮助我们应对需求走弱。",
+        "collocation": "use scenario planning",
+        "collocationZh": "采用情景规划",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we prepare for a possible slowdown in demand?",
+            "zh": "我们如何为可能的需求放缓做好准备？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Scenario planning helped us prepare for weaker demand.",
+            "zh": "情景规划帮助我们应对需求走弱。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 598,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "səˈnɑːriəʊ ˈplænɪŋ",
+        "ipaUS": "səˈnærioʊ ˈplænɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Scenario planning",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT599",
+      "before": {
+        "id": "MKT599",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Strategic trade-off",
+        "zh": "战略取舍",
+        "definition": "在相互竞争的目标或资源用途之间作出的选择",
+        "example": "We explained the strategic trade-offs between reach and profitability.",
+        "exampleZh": "我们解释了触达与盈利能力之间的战略取舍。",
+        "collocation": "explain strategic trade-offs",
+        "collocationZh": "解释战略取舍",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We explained the ____ between reach and profitability.",
+            "zh": "补全职场表达：我们解释了触达与盈利能力之间的____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We explained the strategic trade-offs between reach and profitability.",
+            "zh": "我们解释了触达与盈利能力之间的战略取舍。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 599,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "strəˈtiːdʒɪk ˈtreɪˈdɒf",
+        "ipaUS": "strəˈtiːdʒɪk ˈtreɪˈdɔf",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Strategic trade-off",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT599",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Strategic trade-off",
+        "zh": "战略取舍",
+        "definition": "在相互竞争的战略目标或资源用途之间权衡收益与代价。",
+        "example": "We explained the strategic trade-offs between reach and profitability.",
+        "exampleZh": "我们解释了触达与盈利能力之间的战略取舍。",
+        "collocation": "explain strategic trade-offs",
+        "collocationZh": "解释战略取舍",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What competing priorities did we explain to leadership?",
+            "zh": "我们向管理层解释了哪些相互竞争的优先目标？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We explained the strategic trade-offs between reach and profitability.",
+            "zh": "我们解释了触达与盈利能力之间的战略取舍。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 599,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "strəˈtiːdʒɪk ˈtreɪdɒf",
+        "ipaUS": "strəˈtiːdʒɪk ˈtreɪdɔːf",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Strategic trade-off",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    },
+    {
+      "id": "MKT600",
+      "before": {
+        "id": "MKT600",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Action plan",
+        "zh": "行动计划",
+        "definition": "明确任务、责任人及时间节点的执行安排",
+        "example": "The leadership team agreed on an action plan for the next quarter.",
+        "exampleZh": "管理层商定了下一季度的行动计划。",
+        "collocation": "agree on an action plan",
+        "collocationZh": "商定行动计划",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: The leadership team agreed on an ____ for the next quarter.",
+            "zh": "补全职场表达：管理层商定了下一季度的____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The leadership team agreed on an action plan for the next quarter.",
+            "zh": "管理层商定了下一季度的行动计划。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 600,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈækʃən ˈplæn",
+        "ipaUS": "ˈækʃən ˈplæn",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Action plan",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT600",
+        "moduleId": "m24",
+        "module": "经营分析与管理层汇报",
+        "term": "Action plan",
+        "zh": "行动计划",
+        "definition": "明确具体行动、责任人、期限、交付成果及必要验收标准的执行安排。",
+        "example": "The leadership team agreed on an action plan for the next quarter.",
+        "exampleZh": "管理层商定了下一季度的行动计划。",
+        "collocation": "agree on an action plan",
+        "collocationZh": "商定行动计划",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What did leadership agree to do after the review?",
+            "zh": "复盘结束后，管理层商定了什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The leadership team agreed on an action plan for the next quarter.",
+            "zh": "管理层商定了下一季度的行动计划。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 600,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈækʃən plæn",
+        "ipaUS": "ˈækʃən plæn",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Action plan",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      }
+    }
+  ]
+}

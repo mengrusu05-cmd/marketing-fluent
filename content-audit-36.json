@@ -1,0 +1,1756 @@
+[
+  {
+    "id": "MKT141",
+    "before": {
+      "id": "MKT141",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Loss aversion",
+      "zh": "损失厌恶",
+      "definition": "相对于同等收益，人们往往更重视损失的倾向。",
+      "example": "We should consider loss aversion when testing cancellation messages.",
+      "exampleZh": "测试取消订阅文案时应考虑损失厌恶。",
+      "collocation": "consider loss aversion",
+      "collocationZh": "考虑损失厌恶",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why might customers react strongly to losing an existing benefit?",
+          "zh": "为什么客户可能对失去现有权益反应强烈？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should consider loss aversion when testing cancellation messages.",
+          "zh": "测试取消订阅文案时应考虑损失厌恶。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 141,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlɒs əˈvɜːʃən",
+      "ipaUS": "ˈlɔs əˈvɜːʒən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Loss aversion",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT141",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Loss aversion",
+      "zh": "损失厌恶",
+      "definition": "相对于获得同等收益，人们往往对损失更敏感的心理倾向。",
+      "example": "We should consider loss aversion when testing subscription cancellation messages.",
+      "exampleZh": "测试取消订阅提示文案时，我们应考虑损失厌恶。",
+      "collocation": "consider loss aversion",
+      "collocationZh": "考虑损失厌恶",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why might customers react strongly to losing an existing benefit?",
+          "zh": "为什么客户可能会对失去现有权益产生强烈反应？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should consider loss aversion when testing subscription cancellation messages.",
+          "zh": "测试取消订阅提示文案时，我们应考虑损失厌恶。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 141,
+      "aliases": [],
+      "distinction": "不意味着所有人都以相同程度厌恶损失。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "lɒs əˈvɜːʃən",
+      "ipaUS": "lɑːs əˈvɝːʒən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Loss aversion",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT142",
+    "before": {
+      "id": "MKT142",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Social proof",
+      "zh": "社会认同线索",
+      "definition": "消费者借助他人行为或评价判断选择的机制。",
+      "example": "Verified reviews provide social proof for hesitant shoppers.",
+      "exampleZh": "经核实的评价为犹豫的购物者提供社会认同线索。",
+      "collocation": "provide social proof",
+      "collocationZh": "提供社会认同线索",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What could reassure shoppers who are unsure about product quality?",
+          "zh": "什么能让对产品质量存疑的购物者放心？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Verified reviews provide social proof for hesitant shoppers.",
+          "zh": "经核实的评价为犹豫的购物者提供社会认同线索。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 142,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsəʊʃəl ˈpruːf",
+      "ipaUS": "ˈsoʊʃəl ˈpruːf",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Social proof",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT142",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Social proof",
+      "zh": "社会认同",
+      "definition": "人们参考他人的行为或评价来判断何种选择合适的心理现象。",
+      "example": "Verified customer reviews provide social proof for hesitant shoppers.",
+      "exampleZh": "经过核实的客户评价能为犹豫不决的购物者提供社会认同依据。",
+      "collocation": "provide social proof",
+      "collocationZh": "提供社会认同依据",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What could reassure shoppers who are unsure about product quality?",
+          "zh": "什么能让对产品质量存疑的购物者放心？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Verified customer reviews provide social proof for hesitant shoppers.",
+          "zh": "经过核实的客户评价能为犹豫不决的购物者提供社会认同依据。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 142,
+      "aliases": [
+        "社会认同线索"
+      ],
+      "distinction": "评价是社会认同的线索，不是产品质量的直接证明。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsəʊʃəl pruːf",
+      "ipaUS": "ˈsoʊʃəl pruːf",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Social proof",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "zh",
+      "definition",
+      "example",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "aliases",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT143",
+    "before": {
+      "id": "MKT143",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Choice overload",
+      "zh": "选择过载",
+      "definition": "过多选项可能增加决策困难的现象。",
+      "example": "Grouping similar plans may reduce choice overload.",
+      "exampleZh": "将类似套餐归类可能减少选择过载。",
+      "collocation": "reduce choice overload",
+      "collocationZh": "减少选择过载",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Customers struggle to choose among twelve similar plans. What could help?",
+          "zh": "客户难以在十二种相似套餐中选择，如何改善？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Grouping similar plans may reduce choice overload.",
+          "zh": "将类似套餐归类可能减少选择过载。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 143,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtʃɔɪs ˌəʊvəˈləʊd",
+      "ipaUS": "ˈtʃɔɪs ˌoʊvɚˈloʊd",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Choice overload",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT143",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Choice overload",
+      "zh": "选择过载",
+      "definition": "选项过多或过于复杂时，可能增加决策困难的现象。",
+      "example": "Grouping similar plans may reduce choice overload.",
+      "exampleZh": "将相似套餐归类可能缓解选择过载。",
+      "collocation": "reduce choice overload",
+      "collocationZh": "减少选择过载",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Customers struggle to choose among twelve similar plans. What could help?",
+          "zh": "客户难以在十二种相似套餐中选择，如何改善？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Grouping similar plans may reduce choice overload.",
+          "zh": "将相似套餐归类可能缓解选择过载。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 143,
+      "aliases": [],
+      "distinction": "选项多并不必然导致选择过载。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "tʃɔɪs ˈəʊvələʊd",
+      "ipaUS": "tʃɔɪs ˈoʊvərloʊd",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Choice overload",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT144",
+    "before": {
+      "id": "MKT144",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Habit formation",
+      "zh": "习惯形成",
+      "definition": "重复行为逐渐与情境线索建立自动联系的过程。",
+      "example": "Timely reminders can support habit formation.",
+      "exampleZh": "适时提醒可以支持习惯形成。",
+      "collocation": "support habit formation",
+      "collocationZh": "支持习惯形成",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we encourage customers to use the app regularly?",
+          "zh": "如何鼓励客户养成定期使用应用的习惯？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Timely reminders can support habit formation.",
+          "zh": "适时提醒可以支持习惯形成。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 144,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈhæbɪt fɔːˈmeɪʃən",
+      "ipaUS": "ˈhæbɪt fɔːrˈmeɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Habit formation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT144",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Habit formation",
+      "zh": "习惯形成",
+      "definition": "在相对稳定的情境中重复行为，使行为逐渐自动化的过程。",
+      "example": "Timely reminders can support habit formation.",
+      "exampleZh": "适时提醒有助于形成习惯。",
+      "collocation": "support habit formation",
+      "collocationZh": "支持习惯形成",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we encourage customers to use the app regularly?",
+          "zh": "如何鼓励客户养成定期使用应用的习惯？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Timely reminders can support habit formation.",
+          "zh": "适时提醒有助于形成习惯。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 144,
+      "aliases": [],
+      "distinction": "提醒本身不保证形成习惯。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈhæbɪt fɔːˈmeɪʃən",
+      "ipaUS": "ˈhæbɪt fɔːrˈmeɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Habit formation",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT145",
+    "before": {
+      "id": "MKT145",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Switching cost",
+      "zh": "转换成本",
+      "definition": "消费者更换品牌或服务时承担的金钱、时间或精力成本。",
+      "example": "Data migration tools can lower switching costs.",
+      "exampleZh": "数据迁移工具可以降低转换成本。",
+      "collocation": "lower switching costs",
+      "collocationZh": "降低转换成本",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Prospects worry about moving their records from another platform. How can we help?",
+          "zh": "潜在客户担心从其他平台迁移记录，我们能如何帮助？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Data migration tools can lower switching costs.",
+          "zh": "数据迁移工具可以降低转换成本。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 145,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈswɪtʃɪŋ ˈkɒst",
+      "ipaUS": "ˈswɪtʃɪŋ ˈkɔst",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Switching cost",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT145",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Switching cost",
+      "zh": "转换成本",
+      "definition": "客户更换供应商、品牌或服务时承担的金钱、时间、学习及其他成本。",
+      "example": "Data migration tools can lower switching costs.",
+      "exampleZh": "数据迁移工具可以降低转换成本。",
+      "collocation": "lower switching costs",
+      "collocationZh": "降低转换成本",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Prospects worry about moving their records from another platform. How can we help?",
+          "zh": "潜在客户担心从其他平台迁移数据记录，我们能怎样帮助他们？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Data migration tools can lower switching costs.",
+          "zh": "数据迁移工具可以降低转换成本。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 145,
+      "aliases": [],
+      "distinction": "实际商务表达中常用复数 switching costs。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈswɪtʃɪŋ kɒst",
+      "ipaUS": "ˈswɪtʃɪŋ kɑːst",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Switching cost",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT146",
+    "before": {
+      "id": "MKT146",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer expectation",
+      "zh": "客户期望",
+      "definition": "客户对产品或服务表现的预先判断。",
+      "example": "Accurate delivery estimates help manage customer expectations.",
+      "exampleZh": "准确的配送预估有助于管理客户期望。",
+      "collocation": "manage customer expectations",
+      "collocationZh": "管理客户期望",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we avoid disappointing shoppers waiting for their orders?",
+          "zh": "如何避免让等待订单的购物者失望？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Accurate delivery estimates help manage customer expectations.",
+          "zh": "准确的配送预估有助于管理客户期望。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 146,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmər ekspɪkˈteɪʃən",
+      "ipaUS": "ˈkʌstəmɚr ekspɪkˈteɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer expectation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT146",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer expectation",
+      "zh": "客户期望",
+      "definition": "客户对产品或服务表现预先形成的期望。",
+      "example": "Accurate delivery estimates help manage customer expectations.",
+      "exampleZh": "准确预估送达时间有助于管理客户预期。",
+      "collocation": "manage customer expectations",
+      "collocationZh": "管理客户期望",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we avoid disappointing shoppers waiting for their orders?",
+          "zh": "如何避免让等待订单的购物者失望？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Accurate delivery estimates help manage customer expectations.",
+          "zh": "准确预估送达时间有助于管理客户预期。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 146,
+      "aliases": [],
+      "distinction": "常用复数 customer expectations。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmər ˌekspekˈteɪʃən",
+      "ipaUS": "ˈkʌstəmər ˌekspekˈteɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Customer expectation",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT147",
+    "before": {
+      "id": "MKT147",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Moment of truth",
+      "zh": "关键体验时刻",
+      "definition": "显著影响客户对品牌判断的互动时刻。",
+      "example": "The first support call is a moment of truth for many customers.",
+      "exampleZh": "对许多客户而言，首次客服通话是关键体验时刻。",
+      "collocation": "identify moments of truth",
+      "collocationZh": "识别关键体验时刻",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which early service interaction could shape the entire customer relationship?",
+          "zh": "哪一次早期服务互动可能影响整个客户关系？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The first support call is a moment of truth for many customers.",
+          "zh": "对许多客户而言，首次客服通话是关键体验时刻。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 147,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈməʊmənt ɒv ˈtruːθ",
+      "ipaUS": "ˈmoʊmənt ʌv ˈtruːθ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Moment of truth",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT147",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Moment of truth",
+      "zh": "关键体验时刻",
+      "definition": "客户旅程中可能显著影响客户对品牌或服务评价的关键互动时刻。",
+      "example": "The first support call is a moment of truth for many customers.",
+      "exampleZh": "对许多客户而言，首次致电客服是一个关键体验时刻。",
+      "collocation": "identify moments of truth",
+      "collocationZh": "识别关键体验时刻",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which early service interaction could shape the entire customer relationship?",
+          "zh": "哪一次早期服务互动可能影响整个客户关系？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The first support call is a moment of truth for many customers.",
+          "zh": "对许多客户而言，首次致电客服是一个关键体验时刻。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 147,
+      "aliases": [],
+      "distinction": "复数为 moments of truth。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈməʊmənt əv truːθ",
+      "ipaUS": "ˈmoʊmənt əv truːθ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Moment of truth",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT148",
+    "before": {
+      "id": "MKT148",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer effort",
+      "zh": "客户付出",
+      "definition": "客户完成任务或解决问题所需的精力。",
+      "example": "A shorter checkout process can reduce customer effort.",
+      "exampleZh": "缩短结账流程可以减少客户付出。",
+      "collocation": "reduce customer effort",
+      "collocationZh": "减少客户付出",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What could make purchasing less demanding for shoppers?",
+          "zh": "怎样让购物者购买时更省力？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A shorter checkout process can reduce customer effort.",
+          "zh": "缩短结账流程可以减少客户付出。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 148,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmər ˈefət",
+      "ipaUS": "ˈkʌstəmɚr ˈefɚt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer effort",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT148",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer effort",
+      "zh": "客户付出",
+      "definition": "客户完成任务或解决问题所需投入的时间、精力或操作成本。",
+      "example": "A shorter checkout process can reduce customer effort.",
+      "exampleZh": "缩短结账流程可以让客户更省力。",
+      "collocation": "reduce customer effort",
+      "collocationZh": "降低客户费力度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What could make purchasing less demanding for shoppers?",
+          "zh": "怎样让购物者购买时更省力？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A shorter checkout process can reduce customer effort.",
+          "zh": "缩短结账流程可以让客户更省力。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 148,
+      "aliases": [],
+      "distinction": "Customer effort 是概念，CES 是调查指标。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmər ˈefət",
+      "ipaUS": "ˈkʌstəmər ˈefərt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Customer effort",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT149",
+    "before": {
+      "id": "MKT149",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer satisfaction",
+      "zh": "客户满意度",
+      "definition": "客户对实际体验满足期望程度的评价。",
+      "example": "We track customer satisfaction after each delivery.",
+      "exampleZh": "我们在每次配送后追踪客户满意度。",
+      "collocation": "track customer satisfaction",
+      "collocationZh": "追踪客户满意度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we find out whether customers are happy with their orders?",
+          "zh": "如何了解客户是否对订单满意？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We track customer satisfaction after each delivery.",
+          "zh": "我们在每次配送后追踪客户满意度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 149,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmə ˌsætɪsˈfækʃən",
+      "ipaUS": "ˈkʌstəmɚ ˌsætɪsˈfækʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer satisfaction",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT149",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer satisfaction",
+      "zh": "客户满意度",
+      "definition": "客户对产品、服务或体验的满意程度，通常受实际表现与期望影响。",
+      "example": "We track customer satisfaction after each delivery.",
+      "exampleZh": "我们在每次配送后跟踪客户满意度。",
+      "collocation": "track customer satisfaction",
+      "collocationZh": "追踪客户满意度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we find out whether customers are happy with their orders?",
+          "zh": "如何了解客户是否对订单满意？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We track customer satisfaction after each delivery.",
+          "zh": "我们在每次配送后跟踪客户满意度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 149,
+      "aliases": [],
+      "distinction": "满意度不等同于忠诚度。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmə ˌsætɪsˈfækʃən",
+      "ipaUS": "ˈkʌstəmər ˌsætɪsˈfækʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Customer satisfaction",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT150",
+    "before": {
+      "id": "MKT150",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Net promoter score",
+      "zh": "净推荐值",
+      "definition": "推荐者比例减去贬损者比例的调查指标。",
+      "example": "We calculate net promoter score using a zero-to-ten recommendation scale.",
+      "exampleZh": "我们使用零至十分的推荐量表计算净推荐值。",
+      "collocation": "calculate net promoter score",
+      "collocationZh": "计算净推荐值",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we quantify customers' willingness to recommend us?",
+          "zh": "如何量化客户推荐我们的意愿？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We calculate net promoter score using a zero-to-ten recommendation scale.",
+          "zh": "我们使用零至十分的推荐量表计算净推荐值。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 150,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈnet prəˈməʊtə ˈskɔː",
+      "ipaUS": "ˈnet prəˈmoʊtɚ ˈskoːr",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Net promoter score",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT150",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Net promoter score",
+      "zh": "净推荐值",
+      "definition": "净推荐值（NPS）为推荐者（9–10分）占比减去贬损者（0–6分）占比；7–8分为被动者，仍计入分母。",
+      "example": "We calculate Net Promoter Score using a 0–10 recommendation scale.",
+      "exampleZh": "我们使用0至10分的推荐意愿量表计算净推荐值。",
+      "collocation": "calculate Net Promoter Score",
+      "collocationZh": "计算净推荐值",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we quantify customers' willingness to recommend us?",
+          "zh": "如何量化客户推荐我们的意愿？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We calculate Net Promoter Score using a 0–10 recommendation scale.",
+          "zh": "我们使用0至10分的推荐意愿量表计算净推荐值。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 150,
+      "aliases": [
+        "NPS"
+      ],
+      "distinction": "取值范围为−100至100，不是普通百分比。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "net prəˈməʊtə skɔː",
+      "ipaUS": "net prəˈmoʊtər skɔːr",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Net promoter score",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocation",
+      "dialogue",
+      "aliases",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT151",
+    "before": {
+      "id": "MKT151",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer effort score",
+      "zh": "客户费力度评分",
+      "definition": "通过调查衡量客户完成任务难易程度的指标。",
+      "example": "We monitor customer effort score after support interactions.",
+      "exampleZh": "我们在客服互动后监测客户费力度评分。",
+      "collocation": "monitor customer effort score",
+      "collocationZh": "监测客户费力度评分",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which metric tells us how easy it was to resolve a support issue?",
+          "zh": "哪个指标能反映解决客服问题的难易程度？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We monitor customer effort score after support interactions.",
+          "zh": "我们在客服互动后监测客户费力度评分。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 151,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmər ˈefət ˈskɔː",
+      "ipaUS": "ˈkʌstəmɚr ˈefɚt ˈskoːr",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer effort score",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT151",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer effort score",
+      "zh": "客户费力度评分",
+      "definition": "通过调查衡量客户完成任务或解决问题所感知的费力程度的指标。",
+      "example": "We monitor the customer effort score after support interactions.",
+      "exampleZh": "我们在客服互动结束后监测客户费力度评分。",
+      "collocation": "monitor the customer effort score",
+      "collocationZh": "监测客户费力度评分",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which metric tells us how easy it was to resolve a support issue?",
+          "zh": "哪个指标能反映客户解决问题时的费力程度？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We monitor the customer effort score after support interactions.",
+          "zh": "我们在客服互动结束后监测客户费力度评分。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 151,
+      "aliases": [
+        "CES"
+      ],
+      "distinction": "CES 的高低方向取决于题目措辞和量表编码。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmər ˈefət skɔː",
+      "ipaUS": "ˈkʌstəmər ˈefərt skɔːr",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Customer effort score",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocation",
+      "dialogue",
+      "aliases",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT152",
+    "before": {
+      "id": "MKT152",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Sentiment analysis",
+      "zh": "情感分析",
+      "definition": "识别文本中态度或情绪倾向的方法。",
+      "example": "We perform sentiment analysis on product reviews.",
+      "exampleZh": "我们对产品评价开展情感分析。",
+      "collocation": "perform sentiment analysis",
+      "collocationZh": "开展情感分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we summarize positive and negative opinions across thousands of reviews?",
+          "zh": "如何汇总数千条评论中的正负面意见？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We perform sentiment analysis on product reviews.",
+          "zh": "我们对产品评价开展情感分析。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 152,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsentɪmənt əˈnæləˌsɪs",
+      "ipaUS": "ˈsentɪmənt əˈnæləˌsɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Sentiment analysis",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT152",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Sentiment analysis",
+      "zh": "情感分析",
+      "definition": "识别文本中正面、负面或中性等态度倾向的分析方法。",
+      "example": "We perform sentiment analysis on product reviews.",
+      "exampleZh": "我们对产品评论进行情感分析。",
+      "collocation": "perform sentiment analysis",
+      "collocationZh": "开展情感分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we summarize positive and negative opinions across thousands of reviews?",
+          "zh": "如何汇总数千条评论中的正负面意见？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We perform sentiment analysis on product reviews.",
+          "zh": "我们对产品评论进行情感分析。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 152,
+      "aliases": [],
+      "distinction": "讽刺和语境可能影响分类准确性。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsentɪmənt əˈnæləsɪs",
+      "ipaUS": "ˈsentɪmənt əˈnæləsɪs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Sentiment analysis",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT153",
+    "before": {
+      "id": "MKT153",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Social listening",
+      "zh": "社交聆听",
+      "definition": "监测并分析社交平台上有关品牌或话题的公开讨论。",
+      "example": "We use social listening to spot emerging concerns.",
+      "exampleZh": "我们利用社交聆听发现新出现的顾虑。",
+      "collocation": "use social listening",
+      "collocationZh": "利用社交聆听",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we detect complaints before they become widespread?",
+          "zh": "如何在投诉广泛传播之前发现它们？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We use social listening to spot emerging concerns.",
+          "zh": "我们利用社交聆听发现新出现的顾虑。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 153,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsəʊʃəl ˈlɪsənɪŋ",
+      "ipaUS": "ˈsoʊʃəl ˈlɪsənɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Social listening",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT153",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Social listening",
+      "zh": "社交聆听",
+      "definition": "收集并分析社交媒体上与品牌、行业或话题有关的讨论，以获得可行动的洞察。",
+      "example": "We use social listening to spot emerging concerns.",
+      "exampleZh": "我们通过社交媒体聆听发现新出现的客户顾虑。",
+      "collocation": "use social listening",
+      "collocationZh": "利用社交聆听",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we detect complaints before they become widespread?",
+          "zh": "我们如何在投诉大范围传播之前发现这些问题？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We use social listening to spot emerging concerns.",
+          "zh": "我们通过社交媒体聆听发现新出现的客户顾虑。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 153,
+      "aliases": [
+        "社交媒体聆听"
+      ],
+      "distinction": "不仅监测提及数量，还分析讨论内容。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsəʊʃəl ˈlɪsənɪŋ",
+      "ipaUS": "ˈsoʊʃəl ˈlɪsənɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Social listening",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "aliases",
+      "distinction",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT154",
+    "before": {
+      "id": "MKT154",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Ethnographic research",
+      "zh": "民族志研究",
+      "definition": "在真实生活环境中观察和理解人群行为的研究方法。",
+      "example": "We conducted ethnographic research in customers' homes.",
+      "exampleZh": "我们在客户家中开展了民族志研究。",
+      "collocation": "conduct ethnographic research",
+      "collocationZh": "开展民族志研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we observe what people actually do rather than rely on interviews alone?",
+          "zh": "我们如何观察人们的实际行为，而不是仅依赖访谈？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We conducted ethnographic research in customers' homes.",
+          "zh": "我们在客户家中开展了民族志研究。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 154,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌeθnəˈɡræfɪk rɪˈsɜːtʃ",
+      "ipaUS": "ˌeθnəˈɡræfɪk rɪˈsɜːtʃ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Ethnographic research",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT154",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Ethnographic research",
+      "zh": "民族志研究",
+      "definition": "通过情境观察、参与及访谈等方法理解人群的日常实践与文化背景。",
+      "example": "We conducted ethnographic research in customers’ homes.",
+      "exampleZh": "我们在客户家中开展了民族志研究。",
+      "collocation": "conduct ethnographic research",
+      "collocationZh": "开展民族志研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we observe what people actually do rather than rely on interviews alone?",
+          "zh": "我们如何观察人们的实际行为，而不是仅依赖访谈？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We conducted ethnographic research in customers’ homes.",
+          "zh": "我们在客户家中开展了民族志研究。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 154,
+      "aliases": [],
+      "distinction": "进入私人场所开展研究须取得同意。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌeθnəˈɡræfɪk rɪˈsɜːtʃ",
+      "ipaUS": "ˌeθnəˈɡræfɪk ˈriːsɝːtʃ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Ethnographic research",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "example",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT155",
+    "before": {
+      "id": "MKT155",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Diary study",
+      "zh": "日记研究",
+      "definition": "参与者在一段时间内持续记录自身体验的研究方法。",
+      "example": "Let's run a diary study to understand daily usage.",
+      "exampleZh": "我们开展日记研究来了解日常使用情况吧。",
+      "collocation": "run a diary study",
+      "collocationZh": "开展日记研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What research method could capture how customers use the product throughout the week?",
+          "zh": "哪种研究方法可以记录客户一周内的产品使用情况？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's run a diary study to understand daily usage.",
+          "zh": "我们开展日记研究来了解日常使用情况吧。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 155,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈdaɪəri ˈstʌdi",
+      "ipaUS": "ˈdaɪɚri ˈstʌdi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Diary study",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT155",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Diary study",
+      "zh": "日记研究",
+      "definition": "参与者在指定时期内持续记录行为、体验或感受的纵向研究方法。",
+      "example": "Let's run a diary study to understand daily usage.",
+      "exampleZh": "我们开展一项日记研究，了解日常使用情况吧。",
+      "collocation": "run a diary study",
+      "collocationZh": "开展日记研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What research method could capture how customers use the product throughout the week?",
+          "zh": "哪种研究方法可以记录客户一周内的产品使用情况？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Let's run a diary study to understand daily usage.",
+          "zh": "我们开展一项日记研究，了解日常使用情况吧。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 155,
+      "aliases": [],
+      "distinction": "区别于一次性回顾访谈。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈdaɪəri ˈstʌdi",
+      "ipaUS": "ˈdaɪəri ˈstʌdi",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Diary study",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT156",
+    "before": {
+      "id": "MKT156",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Behavioral segmentation",
+      "zh": "行为细分",
+      "definition": "依据使用、购买等实际行为划分消费者群体。",
+      "example": "We apply behavioral segmentation to personalize offers.",
+      "exampleZh": "我们应用行为细分来个性化优惠。",
+      "collocation": "apply behavioral segmentation",
+      "collocationZh": "应用行为细分",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we tailor promotions to what customers have actually purchased?",
+          "zh": "如何根据客户实际购买行为定制促销？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We apply behavioral segmentation to personalize offers.",
+          "zh": "我们应用行为细分来个性化优惠。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 156,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "bɪˈheɪvjərəl ˌseɡmənˈteɪʃən",
+      "ipaUS": "bɪˈheɪvjɚrəl ˌseɡmənˈteɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Behavioral segmentation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT156",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Behavioral segmentation",
+      "zh": "行为细分",
+      "definition": "依据购买、使用、互动等行为特征划分消费者群体。",
+      "example": "We use behavioral segmentation to personalize offers.",
+      "exampleZh": "我们利用行为细分为客户提供个性化优惠。",
+      "collocation": "use behavioral segmentation",
+      "collocationZh": "利用行为细分",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we tailor promotions to what customers have actually purchased?",
+          "zh": "如何根据客户实际购买行为定制促销？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We use behavioral segmentation to personalize offers.",
+          "zh": "我们利用行为细分为客户提供个性化优惠。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 156,
+      "aliases": [
+        "behavioural segmentation"
+      ],
+      "distinction": "英式拼写 behavioural segmentation。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "bɪˈheɪvjərəl ˌseɡmenˈteɪʃən",
+      "ipaUS": "bɪˈheɪvjərəl ˌseɡmenˈteɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Behavioral segmentation",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocation",
+      "collocationZh",
+      "dialogue",
+      "aliases",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT157",
+    "before": {
+      "id": "MKT157",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Psychographic segmentation",
+      "zh": "心理特征细分",
+      "definition": "依据价值观、兴趣和生活方式等划分群体。",
+      "example": "The team used psychographic segmentation to refine creative concepts.",
+      "exampleZh": "团队使用心理特征细分优化创意概念。",
+      "collocation": "use psychographic segmentation",
+      "collocationZh": "使用心理特征细分",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did the team account for differences in lifestyles and motivations?",
+          "zh": "团队如何考虑生活方式和动机的差异？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The team used psychographic segmentation to refine creative concepts.",
+          "zh": "团队使用心理特征细分优化创意概念。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 157,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌsaɪkəʊˈɡræfɪk ˌseɡmənˈteɪʃən",
+      "ipaUS": "ˌsaɪkoʊˈɡræfɪk ˌseɡmənˈteɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Psychographic segmentation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT157",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Psychographic segmentation",
+      "zh": "心理特征细分",
+      "definition": "依据价值观、态度、兴趣和生活方式等心理特征划分群体。",
+      "example": "The team used psychographic segmentation to refine creative concepts.",
+      "exampleZh": "团队利用心理特征细分优化广告创意构想。",
+      "collocation": "use psychographic segmentation",
+      "collocationZh": "使用心理特征细分",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did the team account for differences in lifestyles and motivations?",
+          "zh": "团队如何考虑生活方式和动机的差异？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The team used psychographic segmentation to refine creative concepts.",
+          "zh": "团队利用心理特征细分优化广告创意构想。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 157,
+      "aliases": [],
+      "distinction": "区别于基于实际行为的行为细分。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌsaɪkəʊˈɡræfɪk ˌseɡmenˈteɪʃən",
+      "ipaUS": "ˌsaɪkoʊˈɡræfɪk ˌseɡmenˈteɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Psychographic segmentation",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT158",
+    "before": {
+      "id": "MKT158",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Demographic segmentation",
+      "zh": "人口统计细分",
+      "definition": "依据年龄、收入等人口统计特征划分群体。",
+      "example": "We combine demographic segmentation with behavioral data.",
+      "exampleZh": "我们结合人口统计细分与行为数据。",
+      "collocation": "combine demographic segmentation with behavioral data",
+      "collocationZh": "结合人口统计细分与行为数据",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we account for age and household characteristics without ignoring actual behavior?",
+          "zh": "如何兼顾年龄、家庭特征和实际行为？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We combine demographic segmentation with behavioral data.",
+          "zh": "我们结合人口统计细分与行为数据。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 158,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌdeməˈɡræfɪk ˌseɡmənˈteɪʃən",
+      "ipaUS": "ˌdeməˈɡræfɪk ˌseɡmənˈteɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Demographic segmentation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT158",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Demographic segmentation",
+      "zh": "人口统计细分",
+      "definition": "依据年龄、收入、家庭结构等人口统计特征划分群体。",
+      "example": "We combine demographic segmentation with behavioral data.",
+      "exampleZh": "我们将人口统计细分与行为数据结合使用。",
+      "collocation": "combine demographic segmentation with behavioral data",
+      "collocationZh": "结合人口统计细分与行为数据",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we account for age and household characteristics without ignoring actual behavior?",
+          "zh": "如何兼顾年龄、家庭特征和实际行为？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We combine demographic segmentation with behavioral data.",
+          "zh": "我们将人口统计细分与行为数据结合使用。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 158,
+      "aliases": [],
+      "distinction": "人口特征不能直接代表个人偏好。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌdeməˈɡræfɪk ˌseɡmenˈteɪʃən",
+      "ipaUS": "ˌdeməˈɡræfɪk ˌseɡmenˈteɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Demographic segmentation",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT159",
+    "before": {
+      "id": "MKT159",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Usage frequency",
+      "zh": "使用频率",
+      "definition": "消费者在一定时期内使用产品的次数。",
+      "example": "We track usage frequency to distinguish regular and occasional users.",
+      "exampleZh": "我们追踪使用频率以区分常用和偶尔使用的用户。",
+      "collocation": "track usage frequency",
+      "collocationZh": "追踪使用频率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we distinguish habitual users from people who only visit occasionally?",
+          "zh": "如何区分习惯性用户和偶尔访问的用户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We track usage frequency to distinguish regular and occasional users.",
+          "zh": "我们追踪使用频率以区分常用和偶尔使用的用户。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 159,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈjuːsɪdʒ ˈfriːkwənsi",
+      "ipaUS": "ˈjuːsɪdʒ ˈfriːkwənsi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Usage frequency",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT159",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Usage frequency",
+      "zh": "使用频率",
+      "definition": "用户在指定时间窗口内使用产品或服务的次数或频率。",
+      "example": "We track usage frequency to distinguish regular and occasional users.",
+      "exampleZh": "我们跟踪使用频率，以区分经常使用和偶尔使用的用户。",
+      "collocation": "track usage frequency",
+      "collocationZh": "追踪使用频率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we distinguish habitual users from people who only visit occasionally?",
+          "zh": "我们如何区分经常使用的用户和偶尔访问的用户？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We track usage frequency to distinguish regular and occasional users.",
+          "zh": "我们跟踪使用频率，以区分经常使用和偶尔使用的用户。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 159,
+      "aliases": [],
+      "distinction": "统计时需明确时间窗口及有效使用事件。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈjuːsɪdʒ ˈfriːkwənsi",
+      "ipaUS": "ˈjuːsɪdʒ ˈfriːkwənsi",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Usage frequency",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  },
+  {
+    "id": "MKT160",
+    "before": {
+      "id": "MKT160",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product messaging",
+      "zh": "产品传播信息",
+      "definition": "用于传达产品价值、功能及差异化的核心表达。",
+      "example": "We need to refine product messaging for enterprise buyers.",
+      "exampleZh": "我们需要针对企业买家优化产品传播信息。",
+      "collocation": "refine product messaging",
+      "collocationZh": "优化产品传播信息",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Our sales deck speaks to consumers rather than procurement teams. What needs changing?",
+          "zh": "销售演示面向消费者而非采购团队，应该调整什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to refine product messaging for enterprise buyers.",
+          "zh": "我们需要针对企业买家优化产品传播信息。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 160,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌkt ˈmesɪdʒɪŋ",
+      "ipaUS": "ˈprɑːdʌkt ˈmesɪdʒɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product messaging",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT160",
+      "moduleId": "m7",
+      "module": "产品营销",
+      "term": "Product messaging",
+      "zh": "产品传播信息",
+      "definition": "面向目标受众传达产品价值、利益点和差异化优势的一套核心表达。",
+      "example": "We need to refine product messaging for enterprise buyers.",
+      "exampleZh": "我们需要针对企业采购者优化产品传播信息。",
+      "collocation": "refine product messaging",
+      "collocationZh": "优化产品传播信息",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Our sales deck speaks to consumers rather than procurement teams. What needs changing?",
+          "zh": "我们的销售演示材料面向消费者，而非采购团队。哪些内容需要调整？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to refine product messaging for enterprise buyers.",
+          "zh": "我们需要针对企业采购者优化产品传播信息。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 160,
+      "aliases": [],
+      "distinction": "Messaging 是对外表达，positioning 是希望产品占据的市场认知位置。",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt ˈmesɪdʒɪŋ",
+      "ipaUS": "ˈprɑːdʌkt ˈmesɪdʒɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Product messaging",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "distinction",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "status": "editorial review; dictionary verification pending"
+  }
+]

@@ -1,0 +1,1786 @@
+[
+  {
+    "id": "MKT321",
+    "before": {
+      "id": "MKT321",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Pinned post",
+      "zh": "置顶帖子",
+      "definition": "固定显示在账号显著位置的帖子",
+      "example": "Update the pinned post with the new store hours.",
+      "exampleZh": "请更新置顶帖子中的营业时间。",
+      "collocation": "update the pinned post",
+      "collocationZh": "更新置顶帖子",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Update the ____ with the new store hours.",
+          "zh": "补全职场表达：请更新____中的营业时间。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Update the pinned post with the new store hours.",
+          "zh": "请更新置顶帖子中的营业时间。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 321,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpɪnd ˈpəʊst",
+      "ipaUS": "ˈpɪnd ˈpoʊst",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Pinned post",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT321",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Pinned post",
+      "zh": "置顶帖子",
+      "definition": "在平台支持的情况下固定在账号或页面显著位置的帖子。",
+      "example": "Update the pinned post with the new store hours.",
+      "exampleZh": "请更新置顶帖子，注明新的营业时间。",
+      "collocation": "update the pinned post",
+      "collocationZh": "更新置顶帖子",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where should we announce the new store hours?",
+          "zh": "我们应该在哪里公布新的营业时间？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Update the pinned post with the new store hours.",
+          "zh": "请更新置顶帖子，注明新的营业时间。"
+        }
+      ],
+      "usage": "pin a post 是动词短语；pinned post 是名词短语。",
+      "new": true,
+      "order": 321,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "pɪnd pəʊst",
+      "ipaUS": "pɪnd poʊst",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Pinned post",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "pin a post 是动词短语；pinned post 是名词短语。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT322",
+    "before": {
+      "id": "MKT322",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Carousel post",
+      "zh": "轮播帖子",
+      "definition": "包含多张可滑动图片或视频的帖子",
+      "example": "A carousel post explains the five installation steps.",
+      "exampleZh": "一条轮播帖子解释了五个安装步骤。",
+      "collocation": "design a carousel post",
+      "collocationZh": "设计轮播帖子",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: A ____ explains the five installation steps.",
+          "zh": "补全职场表达：一条____解释了五个安装步骤。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A carousel post explains the five installation steps.",
+          "zh": "一条轮播帖子解释了五个安装步骤。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 322,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌkærəˈsel ˈpəʊst",
+      "ipaUS": "ˌkærəˈsel ˈpoʊst",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Carousel post",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT322",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Carousel post",
+      "zh": "轮播帖子",
+      "definition": "包含多张可依次滑动或浏览的图片或视频的帖子。",
+      "example": "A carousel post explains the five installation steps.",
+      "exampleZh": "一条轮播帖子介绍了五个安装步骤。",
+      "collocation": "design a carousel post",
+      "collocationZh": "设计轮播帖子",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we show all five steps in one post?",
+          "zh": "怎样在一条帖子中展示全部五个步骤？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A carousel post explains the five installation steps.",
+          "zh": "一条轮播帖子介绍了五个安装步骤。"
+        }
+      ],
+      "usage": "轮播帖子不一定是付费轮播广告。",
+      "new": true,
+      "order": 322,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌkærəˈsel pəʊst",
+      "ipaUS": "ˌkærəˈsel poʊst",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Carousel post",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "轮播帖子不一定是付费轮播广告。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT323",
+    "before": {
+      "id": "MKT323",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Short-form video",
+      "zh": "短视频",
+      "definition": "时长较短、适合快速观看的视频内容",
+      "example": "We produce short-form videos for product education.",
+      "exampleZh": "我们制作短视频进行产品教育。",
+      "collocation": "produce short-form videos",
+      "collocationZh": "制作短视频",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We produce ____ for product education.",
+          "zh": "补全职场表达：我们制作____进行产品教育。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We produce short-form videos for product education.",
+          "zh": "我们制作短视频进行产品教育。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 323,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈʃɔːtˈfɔːm ˈvɪdɪəʊ",
+      "ipaUS": "ˈʃɔːrtˈfɔːrm ˈvɪdɪoʊ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Short-form video",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT323",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Short-form video",
+      "zh": "短视频",
+      "definition": "时长较短的视频内容，具体时长标准因平台和用途而异。",
+      "example": "We produce short-form videos for product education.",
+      "exampleZh": "我们制作短视频，帮助客户了解产品。",
+      "collocation": "produce short-form videos",
+      "collocationZh": "制作短视频",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What format should we use to teach customers about the product?",
+          "zh": "我们应该用什么形式帮助客户了解产品？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We produce short-form videos for product education.",
+          "zh": "我们制作短视频，帮助客户了解产品。"
+        }
+      ],
+      "usage": "short-form 作前置定语时通常加连字符。",
+      "new": true,
+      "order": 323,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌʃɔːt ˈfɔːm ˈvɪdiəʊ",
+      "ipaUS": "ˌʃɔːrt ˈfɔːrm ˈvɪdioʊ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Short-form video",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "short-form 作前置定语时通常加连字符。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT324",
+    "before": {
+      "id": "MKT324",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Watch time",
+      "zh": "观看时长",
+      "definition": "用户观看视频所花费的时间",
+      "example": "Moving the demonstration earlier increased watch time.",
+      "exampleZh": "提前展示演示环节增加了观看时长。",
+      "collocation": "increase watch time",
+      "collocationZh": "增加观看时长",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Moving the demonstration earlier increased ____.",
+          "zh": "补全职场表达：提前展示演示环节增加了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Moving the demonstration earlier increased watch time.",
+          "zh": "提前展示演示环节增加了观看时长。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 324,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈwɒtʃ ˈtaɪm",
+      "ipaUS": "ˈwɑːtʃ ˈtaɪm",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Watch time",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT324",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Watch time",
+      "zh": "观看时长",
+      "definition": "观众观看视频的累计时长；平均观看时长是另一项指标。",
+      "example": "Moving the demonstration earlier increased watch time.",
+      "exampleZh": "将演示环节提前后，观看时长有所增加。",
+      "collocation": "increase watch time",
+      "collocationZh": "增加观看时长",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What changed after we moved the demonstration?",
+          "zh": "调整演示环节后有什么变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Moving the demonstration earlier increased watch time.",
+          "zh": "将演示环节提前后，观看时长有所增加。"
+        }
+      ],
+      "usage": "比较时应明确总观看时长还是平均观看时长。",
+      "new": true,
+      "order": 324,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "wɒtʃ taɪm",
+      "ipaUS": "wɑːtʃ taɪm",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Watch time",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "比较时应明确总观看时长还是平均观看时长。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT325",
+    "before": {
+      "id": "MKT325",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social engagement",
+      "zh": "社交互动",
+      "definition": "用户对社媒内容的点赞、评论、分享等行为",
+      "example": "The Q&A session drove social engagement without paid promotion.",
+      "exampleZh": "问答环节无需付费推广就促进了社交互动。",
+      "collocation": "drive social engagement",
+      "collocationZh": "促进社交互动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The Q&A session drove ____ without paid promotion.",
+          "zh": "补全职场表达：问答环节无需付费推广就促进了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The Q&A session drove social engagement without paid promotion.",
+          "zh": "问答环节无需付费推广就促进了社交互动。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 325,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈsəʊʃəl enˈɡeɪdʒmənt",
+      "ipaUS": "ˈsoʊʃəl enˈɡeɪdʒmənt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Social engagement",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT325",
+      "moduleId": "m10",
+      "module": "社交媒体营销",
+      "term": "Social engagement",
+      "zh": "社交互动",
+      "definition": "用户在社交媒体上的互动行为，如点赞、评论和分享。",
+      "example": "The Q&A session drove social engagement without paid promotion.",
+      "exampleZh": "问答环节在没有付费推广的情况下带动了社媒互动。",
+      "collocation": "drive social engagement",
+      "collocationZh": "促进社交互动",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did the Q&A session need paid promotion to generate interaction?",
+          "zh": "问答环节需要付费推广才能带动互动吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "No. The Q&A session drove social engagement without paid promotion.",
+          "zh": "不需要。问答环节在没有付费推广的情况下带动了社媒互动。"
+        }
+      ],
+      "usage": "互动行为与互动率不同，后者需要明确分母。",
+      "new": true,
+      "order": 325,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsəʊʃəl ɪnˈɡeɪdʒmənt",
+      "ipaUS": "ˈsoʊʃəl ɪnˈɡeɪdʒmənt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Social engagement",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "互动行为与互动率不同，后者需要明确分母。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT326",
+    "before": {
+      "id": "MKT326",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content strategy",
+      "zh": "内容策略",
+      "definition": "围绕业务目标规划内容的受众、主题及分发方式",
+      "example": "Our content strategy prioritizes customer education over product announcements.",
+      "exampleZh": "我们的内容策略优先考虑客户教育而非产品公告。",
+      "collocation": "develop a content strategy",
+      "collocationZh": "制定内容策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Our ____ prioritizes customer education over product announcements.",
+          "zh": "补全职场表达：我们的____优先考虑客户教育而非产品公告。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our content strategy prioritizes customer education over product announcements.",
+          "zh": "我们的内容策略优先考虑客户教育而非产品公告。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 326,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntent ˈstrætədʒi",
+      "ipaUS": "ˈkɑːntent ˈstrætədʒi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Content strategy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT326",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content strategy",
+      "zh": "内容策略",
+      "definition": "围绕业务与受众目标规划内容的创建、管理、分发和评估。",
+      "example": "Our content strategy prioritizes customer education over product announcements.",
+      "exampleZh": "我们的内容策略优先帮助客户了解产品，而非发布产品公告。",
+      "collocation": "develop a content strategy",
+      "collocationZh": "制定内容策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What is the main priority of our content strategy?",
+          "zh": "我们的内容策略首要任务是什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our content strategy prioritizes customer education over product announcements.",
+          "zh": "我们的内容策略优先帮助客户了解产品，而非发布产品公告。"
+        }
+      ],
+      "usage": "content 此处为名词，重音在第一音节。",
+      "new": true,
+      "order": 326,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntent ˈstrætədʒi",
+      "ipaUS": "ˈkɑːntent ˈstrætədʒi",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Content strategy",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "content 此处为名词，重音在第一音节。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT327",
+    "before": {
+      "id": "MKT327",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Editorial calendar",
+      "zh": "编辑日历",
+      "definition": "安排内容制作、审核及发布的时间表",
+      "example": "The editorial calendar includes two case studies this month.",
+      "exampleZh": "编辑日历包含本月两篇案例研究。",
+      "collocation": "maintain an editorial calendar",
+      "collocationZh": "维护编辑日历",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ includes two case studies this month.",
+          "zh": "补全职场表达：____包含本月两篇案例研究。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The editorial calendar includes two case studies this month.",
+          "zh": "编辑日历包含本月两篇案例研究。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 327,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌedɪˈtɔːrɪəl ˈkælendə",
+      "ipaUS": "ˌedɪˈtoːrɪəl ˈkælendɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Editorial calendar",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT327",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Editorial calendar",
+      "zh": "内容排期表",
+      "definition": "安排选题、制作、审核及发布时间的内容排期表。",
+      "example": "The editorial calendar includes two case studies this month.",
+      "exampleZh": "本月的内容排期包括两篇案例研究。",
+      "collocation": "maintain an editorial calendar",
+      "collocationZh": "维护内容排期表",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What case-study content is scheduled for this month?",
+          "zh": "本月安排了哪些案例研究内容？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The editorial calendar includes two case studies this month.",
+          "zh": "本月的内容排期包括两篇案例研究。"
+        }
+      ],
+      "usage": "editorial calendar 偏编辑排期，content calendar 范围可更广。",
+      "new": true,
+      "order": 327,
+      "aliases": [
+        "编辑日历"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌedɪˈtɔːriəl ˈkælɪndə",
+      "ipaUS": "ˌedɪˈtɔːriəl ˈkælɪndər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Editorial calendar",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "editorial calendar 偏编辑排期，content calendar 范围可更广。",
+    "changed_fields": [
+      "zh",
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT328",
+    "before": {
+      "id": "MKT328",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content pillar",
+      "zh": "内容支柱",
+      "definition": "长期内容规划中的核心主题",
+      "example": "Sustainability is one of our three content pillars.",
+      "exampleZh": "可持续发展是我们的三大内容支柱之一。",
+      "collocation": "define content pillars",
+      "collocationZh": "确定内容支柱",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Sustainability is one of our three ____.",
+          "zh": "补全职场表达：可持续发展是我们的三大____之一。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Sustainability is one of our three content pillars.",
+          "zh": "可持续发展是我们的三大内容支柱之一。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 328,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntent ˈpɪlə",
+      "ipaUS": "ˈkɑːntent ˈpɪlɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Content pillar",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT328",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content pillar",
+      "zh": "内容支柱",
+      "definition": "长期内容规划中反复围绕的核心主题类别。",
+      "example": "Sustainability is one of our three content pillars.",
+      "exampleZh": "可持续发展是我们的三大核心内容主题之一。",
+      "collocation": "define content pillars",
+      "collocationZh": "确定核心内容主题",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which of our core themes covers environmental issues?",
+          "zh": "我们的哪个核心主题涵盖环境议题？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Sustainability is one of our three content pillars.",
+          "zh": "可持续发展是我们的三大核心内容主题之一。"
+        }
+      ],
+      "usage": "content pillar 是主题类别，不等同于 pillar page。",
+      "new": true,
+      "order": 328,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntent ˈpɪlə",
+      "ipaUS": "ˈkɑːntent ˈpɪlər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Content pillar",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "content pillar 是主题类别，不等同于 pillar page。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT329",
+    "before": {
+      "id": "MKT329",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Topic cluster",
+      "zh": "主题集群",
+      "definition": "围绕核心主题组织并互相链接的一组内容",
+      "example": "Build a topic cluster around home energy savings.",
+      "exampleZh": "围绕家庭节能构建主题集群。",
+      "collocation": "build a topic cluster",
+      "collocationZh": "构建主题集群",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Build a ____ around home energy savings.",
+          "zh": "补全职场表达：围绕家庭节能构建____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Build a topic cluster around home energy savings.",
+          "zh": "围绕家庭节能构建主题集群。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 329,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtɒpɪk ˈklʌstə",
+      "ipaUS": "ˈtɑːpɪk ˈklʌstɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Topic cluster",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT329",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Topic cluster",
+      "zh": "主题集群",
+      "definition": "围绕核心主题组织的一组相关内容，通常通过内部链接建立关联。",
+      "example": "Build a topic cluster around home energy savings.",
+      "exampleZh": "围绕家庭节能构建主题集群。",
+      "collocation": "build a topic cluster",
+      "collocationZh": "构建主题集群",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should we organize our articles about home energy savings?",
+          "zh": "我们应该怎样组织家庭节能相关文章？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Build a topic cluster around home energy savings.",
+          "zh": "围绕家庭节能构建主题集群。"
+        }
+      ],
+      "usage": "内部链接有助于导航，但不保证搜索排名提升。",
+      "new": true,
+      "order": 329,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtɒpɪk ˈklʌstə",
+      "ipaUS": "ˈtɑːpɪk ˈklʌstər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Topic cluster",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "内部链接有助于导航，但不保证搜索排名提升。",
+    "changed_fields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT330",
+    "before": {
+      "id": "MKT330",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Pillar page",
+      "zh": "支柱页面",
+      "definition": "全面介绍核心主题并链接相关细分内容的页面",
+      "example": "The pillar page links to detailed buying guides.",
+      "exampleZh": "支柱页面链接到详细购买指南。",
+      "collocation": "create a pillar page",
+      "collocationZh": "创建支柱页面",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ links to detailed buying guides.",
+          "zh": "补全职场表达：____链接到详细购买指南。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The pillar page links to detailed buying guides.",
+          "zh": "支柱页面链接到详细购买指南。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 330,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpɪlə ˈpeɪdʒ",
+      "ipaUS": "ˈpɪlɚ ˈpeɪdʒ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Pillar page",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT330",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Pillar page",
+      "zh": "支柱页面",
+      "definition": "系统介绍核心主题并连接相关细分内容的中心页面。",
+      "example": "The pillar page links to detailed buying guides.",
+      "exampleZh": "核心主题页面链接到详细的选购指南。",
+      "collocation": "create a pillar page",
+      "collocationZh": "创建核心主题页面",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where can readers find the detailed buying guides?",
+          "zh": "读者在哪里能找到详细的选购指南？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The pillar page links to detailed buying guides.",
+          "zh": "核心主题页面链接到详细的选购指南。"
+        }
+      ],
+      "usage": "pillar page 是具体页面，而 topic cluster 是相关内容集合。",
+      "new": true,
+      "order": 330,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈpɪlə peɪdʒ",
+      "ipaUS": "ˈpɪlər peɪdʒ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Pillar page",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "pillar page 是具体页面，而 topic cluster 是相关内容集合。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT331",
+    "before": {
+      "id": "MKT331",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content audit",
+      "zh": "内容审计",
+      "definition": "盘点并评估现有内容的质量与表现",
+      "example": "The content audit identified outdated pricing articles.",
+      "exampleZh": "内容审计发现了过时的价格文章。",
+      "collocation": "perform a content audit",
+      "collocationZh": "开展内容审计",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ identified outdated pricing articles.",
+          "zh": "补全职场表达：____发现了过时的价格文章。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The content audit identified outdated pricing articles.",
+          "zh": "内容审计发现了过时的价格文章。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 331,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntent ˈɔːdɪt",
+      "ipaUS": "ˈkɑːntent ˈɔːdɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Content audit",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT331",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content audit",
+      "zh": "内容审计",
+      "definition": "系统盘点并评估现有内容的质量、相关性和表现。",
+      "example": "The content audit identified outdated pricing articles.",
+      "exampleZh": "内容审计发现了定价信息已经过时的文章。",
+      "collocation": "perform a content audit",
+      "collocationZh": "开展内容审计",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we find the articles that need updating?",
+          "zh": "我们是怎样找到需要更新的文章的？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The content audit identified outdated pricing articles.",
+          "zh": "内容审计发现了定价信息已经过时的文章。"
+        }
+      ],
+      "usage": "内容审计不只是统计文章数量。",
+      "new": true,
+      "order": 331,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntent ˈɔːdɪt",
+      "ipaUS": "ˈkɑːntent ˈɑːdɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Content audit",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "内容审计不只是统计文章数量。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT332",
+    "before": {
+      "id": "MKT332",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content gap",
+      "zh": "内容缺口",
+      "definition": "受众需求尚未被现有内容覆盖的主题",
+      "example": "Search queries helped us identify content gaps.",
+      "exampleZh": "搜索词帮助我们识别内容缺口。",
+      "collocation": "identify content gaps",
+      "collocationZh": "识别内容缺口",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Search queries helped us identify ____.",
+          "zh": "补全职场表达：搜索词帮助我们识别____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Search queries helped us identify content gaps.",
+          "zh": "搜索词帮助我们识别内容缺口。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 332,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntent ˈɡæp",
+      "ipaUS": "ˈkɑːntent ˈɡæp",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Content gap",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT332",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content gap",
+      "zh": "内容缺口",
+      "definition": "现有内容未充分满足的受众信息需求或主题。",
+      "example": "Search queries helped us identify content gaps.",
+      "exampleZh": "搜索查询词帮助我们识别内容缺口。",
+      "collocation": "identify content gaps",
+      "collocationZh": "识别内容缺口",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What helped us find topics we have not covered?",
+          "zh": "什么帮助我们发现尚未覆盖的主题？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Search queries helped us identify content gaps.",
+          "zh": "搜索查询词帮助我们识别内容缺口。"
+        }
+      ],
+      "usage": "内容缺口也可能是已有内容深度不足。",
+      "new": true,
+      "order": 332,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntent ɡæp",
+      "ipaUS": "ˈkɑːntent ɡæp",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Content gap",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "内容缺口也可能是已有内容深度不足。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT333",
+    "before": {
+      "id": "MKT333",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Evergreen content",
+      "zh": "常青内容",
+      "definition": "长期保持相关性和实用性的内容",
+      "example": "Evergreen content continues to attract visitors after the campaign ends.",
+      "exampleZh": "活动结束后常青内容仍能吸引访客。",
+      "collocation": "publish evergreen content",
+      "collocationZh": "发布常青内容",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ continues to attract visitors after the campaign ends.",
+          "zh": "补全职场表达：活动结束后____仍能吸引访客。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Evergreen content continues to attract visitors after the campaign ends.",
+          "zh": "活动结束后常青内容仍能吸引访客。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 333,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈevəˌɡriːn ˈkɒntent",
+      "ipaUS": "ˈevɚˌɡriːn ˈkɑːntent",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Evergreen content",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT333",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Evergreen content",
+      "zh": "常青内容",
+      "definition": "在较长时间内仍具有相关性和实用性的内容。",
+      "example": "Evergreen content continues to attract visitors after the campaign ends.",
+      "exampleZh": "活动结束后，常青内容仍能吸引访客。",
+      "collocation": "publish evergreen content",
+      "collocationZh": "发布常青内容",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What kind of content can attract visitors after the campaign?",
+          "zh": "什么内容能在活动结束后继续吸引访客？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Evergreen content continues to attract visitors after the campaign ends.",
+          "zh": "活动结束后，常青内容仍能吸引访客。"
+        }
+      ],
+      "usage": "常青内容仍可能需要定期更新。",
+      "new": true,
+      "order": 333,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈevəɡriːn ˈkɒntent",
+      "ipaUS": "ˈevərɡriːn ˈkɑːntent",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Evergreen content",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "常青内容仍可能需要定期更新。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT334",
+    "before": {
+      "id": "MKT334",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content repurposing",
+      "zh": "内容再利用",
+      "definition": "将已有内容改编为其他形式或渠道素材",
+      "example": "Content repurposing turned our webinar into six short clips.",
+      "exampleZh": "内容再利用将网络研讨会转化为六段短视频。",
+      "collocation": "prioritize content repurposing",
+      "collocationZh": "优先进行内容再利用",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ turned our webinar into six short clips.",
+          "zh": "补全职场表达：____将网络研讨会转化为六段短视频。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Content repurposing turned our webinar into six short clips.",
+          "zh": "内容再利用将网络研讨会转化为六段短视频。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 334,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntent rɪˈpɜːpəsɪŋ",
+      "ipaUS": "ˈkɑːntent rɪˈpɜːpəsɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Content repurposing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT334",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content repurposing",
+      "zh": "内容再利用",
+      "definition": "将已有内容改编为适合其他形式、受众或渠道的素材。",
+      "example": "Through content repurposing, we turned our webinar into six short clips.",
+      "exampleZh": "通过内容再利用，我们将网络研讨会改编成六段短视频。",
+      "collocation": "prioritize content repurposing",
+      "collocationZh": "优先进行内容再利用",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we reuse the webinar recording?",
+          "zh": "我们怎样再利用网络研讨会的录像？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Through content repurposing, we turned our webinar into six short clips.",
+          "zh": "通过内容再利用，我们将网络研讨会改编成六段短视频。"
+        }
+      ],
+      "usage": "区别于原样转载，repurposing 通常涉及改编。",
+      "new": true,
+      "order": 334,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntent ˌriːˈpɜːpəsɪŋ",
+      "ipaUS": "ˈkɑːntent ˌriːˈpɝːpəsɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Content repurposing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "区别于原样转载，repurposing 通常涉及改编。",
+    "changed_fields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT335",
+    "before": {
+      "id": "MKT335",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content distribution",
+      "zh": "内容分发",
+      "definition": "通过适当渠道将内容传递给目标受众",
+      "example": "Plan content distribution before commissioning the article.",
+      "exampleZh": "委托撰写文章前先规划内容分发。",
+      "collocation": "plan content distribution",
+      "collocationZh": "规划内容分发",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Plan ____ before commissioning the article.",
+          "zh": "补全职场表达：委托撰写文章前先规划____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Plan content distribution before commissioning the article.",
+          "zh": "委托撰写文章前先规划内容分发。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 335,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntent ˌdɪstrɪˈbjuːʃən",
+      "ipaUS": "ˈkɑːntent ˌdɪstrɪˈbjuːʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Content distribution",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT335",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content distribution",
+      "zh": "内容分发",
+      "definition": "通过自有、付费或第三方渠道向目标受众传播内容。",
+      "example": "Plan content distribution before commissioning the article.",
+      "exampleZh": "委托撰写文章前，先规划内容分发。",
+      "collocation": "plan content distribution",
+      "collocationZh": "规划内容分发",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we plan before commissioning the article?",
+          "zh": "委托撰写文章前应该先规划什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Plan content distribution before commissioning the article.",
+          "zh": "委托撰写文章前，先规划内容分发。"
+        }
+      ],
+      "usage": "distribution 不仅指发布，也包括推广和渠道安排。",
+      "new": true,
+      "order": 335,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntent ˌdɪstrɪˈbjuːʃən",
+      "ipaUS": "ˈkɑːntent ˌdɪstrɪˈbjuːʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Content distribution",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "distribution 不仅指发布，也包括推广和渠道安排。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT336",
+    "before": {
+      "id": "MKT336",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content syndication",
+      "zh": "内容联合分发",
+      "definition": "授权其他平台转载或分发已有内容",
+      "example": "We tested content syndication with an industry publication.",
+      "exampleZh": "我们与一家行业媒体测试了内容联合分发。",
+      "collocation": "test content syndication",
+      "collocationZh": "测试内容联合分发",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We tested ____ with an industry publication.",
+          "zh": "补全职场表达：我们与一家行业媒体测试了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We tested content syndication with an industry publication.",
+          "zh": "我们与一家行业媒体测试了内容联合分发。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 336,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntent ˌsɪndɪˈkeɪʃən",
+      "ipaUS": "ˈkɑːntent ˌsɪndɪˈkeɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Content syndication",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT336",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content syndication",
+      "zh": "内容联合分发",
+      "definition": "通过授权或合作安排在第三方渠道转载或分发已有内容。",
+      "example": "We tested content syndication with an industry publication.",
+      "exampleZh": "我们与一家行业媒体试行了内容联合分发。",
+      "collocation": "test content syndication",
+      "collocationZh": "测试内容联合分发",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we test distribution through a third party?",
+          "zh": "我们怎样测试第三方渠道的内容分发？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We tested content syndication with an industry publication.",
+          "zh": "我们与一家行业媒体试行了内容联合分发。"
+        }
+      ],
+      "usage": "应明确转载授权、署名和分发范围。",
+      "new": true,
+      "order": 336,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntent ˌsɪndɪˈkeɪʃən",
+      "ipaUS": "ˈkɑːntent ˌsɪndɪˈkeɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Content syndication",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "应明确转载授权、署名和分发范围。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT337",
+    "before": {
+      "id": "MKT337",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Gated content",
+      "zh": "门槛内容",
+      "definition": "要求用户提交信息或登录才能访问的内容",
+      "example": "The research report is gated content for registered users.",
+      "exampleZh": "研究报告是面向注册用户的门槛内容。",
+      "collocation": "offer gated content",
+      "collocationZh": "提供门槛内容",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The research report is ____ for registered users.",
+          "zh": "补全职场表达：研究报告是面向注册用户的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The research report is gated content for registered users.",
+          "zh": "研究报告是面向注册用户的门槛内容。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 337,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɡeɪtɪd ˈkɒntent",
+      "ipaUS": "ˈɡeɪtɪd ˈkɑːntent",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Gated content",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT337",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Gated content",
+      "zh": "受限访问内容",
+      "definition": "需要提交信息、注册或满足其他访问条件才能获取的内容。",
+      "example": "The research report is gated content available only to registered users.",
+      "exampleZh": "这份研究报告仅向注册用户开放。",
+      "collocation": "offer gated content",
+      "collocationZh": "提供受限访问内容",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can visitors download the research report without registering?",
+          "zh": "访客不注册就能下载研究报告吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "No. The research report is gated content available only to registered users.",
+          "zh": "不能。这份研究报告仅向注册用户开放。"
+        }
+      ],
+      "usage": "营销语境中常以表单换取内容访问权限，不一定收费。",
+      "new": true,
+      "order": 337,
+      "aliases": [
+        "门槛内容"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɡeɪtɪd ˈkɒntent",
+      "ipaUS": "ˈɡeɪtɪd ˈkɑːntent",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Gated content",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "营销语境中常以表单换取内容访问权限，不一定收费。",
+    "changed_fields": [
+      "zh",
+      "definition",
+      "example",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT338",
+    "before": {
+      "id": "MKT338",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Lead magnet",
+      "zh": "获客诱因",
+      "definition": "用于吸引潜在客户留下联系方式的有价值资源",
+      "example": "The free budget template serves as a lead magnet.",
+      "exampleZh": "免费预算模板用于吸引潜在客户留下信息。",
+      "collocation": "design a lead magnet",
+      "collocationZh": "设计获客诱因",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The free budget template serves as a ____.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The free budget template serves as a lead magnet.",
+          "zh": "免费预算模板用于吸引潜在客户留下信息。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 338,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈliːd ˈmæɡnɪt",
+      "ipaUS": "ˈliːd ˈmæɡnɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Lead magnet",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT338",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Lead magnet",
+      "zh": "获客诱因",
+      "definition": "用于吸引潜在客户自愿提供联系信息的资源或优惠。",
+      "example": "The free budget template serves as a lead magnet.",
+      "exampleZh": "免费预算模板是用于吸引潜在客户留下联系方式的资源。",
+      "collocation": "design a lead magnet",
+      "collocationZh": "设计获客引流资源",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What resource are we offering to attract new leads?",
+          "zh": "我们提供什么资源来吸引新的潜在客户线索？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The free budget template serves as a lead magnet.",
+          "zh": "免费预算模板是用于吸引潜在客户留下联系方式的资源。"
+        }
+      ],
+      "usage": "lead 在销售线索语境读 /liːd/，不是 /led/。",
+      "new": true,
+      "order": 338,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "liːd ˈmæɡnət",
+      "ipaUS": "liːd ˈmæɡnət",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Lead magnet",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "lead 在销售线索语境读 /liːd/，不是 /led/。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT339",
+    "before": {
+      "id": "MKT339",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Thought leadership",
+      "zh": "思想领导力",
+      "definition": "通过专业观点和原创洞察建立行业影响力",
+      "example": "Our engineers contribute to thought leadership through technical articles.",
+      "exampleZh": "工程师通过技术文章帮助建立行业思想领导力。",
+      "collocation": "build thought leadership",
+      "collocationZh": "建立思想领导力",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Our engineers contribute to ____ through technical articles.",
+          "zh": "补全职场表达：工程师通过技术文章帮助建立行业____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our engineers contribute to thought leadership through technical articles.",
+          "zh": "工程师通过技术文章帮助建立行业思想领导力。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 339,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈθɔːt ˈliːdəˌʃɪp",
+      "ipaUS": "ˈθɔːt ˈliːdɚˌʃɪp",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Thought leadership",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT339",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Thought leadership",
+      "zh": "思想领导力",
+      "definition": "通过专业见解、原创观点和可信知识建立行业影响力的实践。",
+      "example": "Our engineers contribute to thought leadership through technical articles.",
+      "exampleZh": "我们的工程师通过技术文章帮助建立行业思想领导力。",
+      "collocation": "build thought leadership",
+      "collocationZh": "建立行业思想领导力",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do our engineers help establish industry credibility?",
+          "zh": "我们的工程师怎样帮助建立行业公信力？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our engineers contribute to thought leadership through technical articles.",
+          "zh": "我们的工程师通过技术文章帮助建立行业思想领导力。"
+        }
+      ],
+      "usage": "thought leadership 通常为不可数名词，不等同于职位。",
+      "new": true,
+      "order": 339,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "θɔːt ˈliːdəʃɪp",
+      "ipaUS": "θɔːt ˈliːdərʃɪp",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Thought leadership",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "thought leadership 通常为不可数名词，不等同于职位。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  },
+  {
+    "id": "MKT340",
+    "before": {
+      "id": "MKT340",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "White paper",
+      "zh": "白皮书",
+      "definition": "深入解释行业问题、研究结果或解决方案的专业文档",
+      "example": "The white paper compares three approaches to packaging waste.",
+      "exampleZh": "白皮书比较了三种处理包装废弃物的方法。",
+      "collocation": "publish a white paper",
+      "collocationZh": "发布白皮书",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ compares three approaches to packaging waste.",
+          "zh": "补全职场表达：____比较了三种处理包装废弃物的方法。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The white paper compares three approaches to packaging waste.",
+          "zh": "白皮书比较了三种处理包装废弃物的方法。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 340,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈwaɪt ˈpeɪpə",
+      "ipaUS": "ˈwaɪt ˈpeɪpɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "White paper",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT340",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "White paper",
+      "zh": "白皮书",
+      "definition": "深入阐述问题、研究证据或解决方案的专业文档。",
+      "example": "The white paper compares three approaches to packaging waste.",
+      "exampleZh": "白皮书比较了三种应对包装废弃物的方法。",
+      "collocation": "publish a white paper",
+      "collocationZh": "发布白皮书",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What does the new white paper cover?",
+          "zh": "新白皮书主要介绍什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The white paper compares three approaches to packaging waste.",
+          "zh": "白皮书比较了三种应对包装废弃物的方法。"
+        }
+      ],
+      "usage": "white paper 可用于教育或营销，不必然是独立研究。",
+      "new": true,
+      "order": 340,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "waɪt ˈpeɪpə",
+      "ipaUS": "waɪt ˈpeɪpər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "White paper",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "white paper 可用于教育或营销，不必然是独立研究。",
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "verification": "editorial; no independent dictionary check"
+  }
+]

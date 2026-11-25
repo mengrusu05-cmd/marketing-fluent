@@ -1,0 +1,1727 @@
+[
+  {
+    "id": "MKT041",
+    "before": {
+      "id": "MKT041",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Selection bias",
+      "zh": "选择偏差",
+      "definition": "样本选择机制导致的系统性偏差",
+      "example": "Recruiting only loyal customers could introduce selection bias.",
+      "exampleZh": "仅招募忠诚客户可能引入选择偏差。",
+      "collocation": "minimize selection bias",
+      "collocationZh": "减少选择偏差",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Would recruiting exclusively from our loyalty program distort the findings?",
+          "zh": "如果只从会员计划中招募受访者，会使结果产生偏差吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Recruiting only loyal customers could introduce selection bias.",
+          "zh": "仅招募忠诚客户可能引入选择偏差。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 41,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "sɪˈlekʃən ˈbaɪəs",
+      "ipaUS": "sɪˈlekʃən ˈbaɪəs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Selection bias",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT041",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Selection bias",
+      "zh": "选择偏差",
+      "definition": "样本纳入或选择过程造成的系统性偏差，可能使研究结论偏离目标总体。",
+      "example": "Recruiting only loyal customers could introduce selection bias.",
+      "exampleZh": "仅招募忠诚客户可能引入选择偏差。",
+      "collocation": "minimize selection bias",
+      "collocationZh": "减少选择偏差",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Would recruiting exclusively from our loyalty program distort the findings?",
+          "zh": "如果只从会员计划中招募受访者，会使研究结果产生偏差吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Recruiting only loyal customers could introduce selection bias.",
+          "zh": "仅招募忠诚客户可能引入选择偏差。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 41,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "sɪˈlekʃən ˈbaɪəs",
+      "ipaUS": "sɪˈlekʃən ˈbaɪəs",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Selection bias",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "dialogue",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT042",
+    "before": {
+      "id": "MKT042",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Research hypothesis",
+      "zh": "研究假设",
+      "definition": "可通过数据检验的预期关系或判断",
+      "example": "Our research hypothesis is that convenience drives repeat purchases.",
+      "exampleZh": "我们的研究假设是便利性推动复购。",
+      "collocation": "test a research hypothesis",
+      "collocationZh": "检验研究假设",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What explanation for repeat purchases are we testing?",
+          "zh": "我们正在验证哪种关于复购的解释？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our research hypothesis is that convenience drives repeat purchases.",
+          "zh": "我们的研究假设是便利性推动复购。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 42,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "rɪˈsɜːtʃ haɪˈpɒθəˌsɪs",
+      "ipaUS": "rɪˈsɜːtʃ haɪˈpɑːθəˌsɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Research hypothesis",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT042",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Research hypothesis",
+      "zh": "研究假设",
+      "definition": "关于现象或变量关系的可检验命题。",
+      "example": "Our research hypothesis is that convenience drives repeat purchases.",
+      "exampleZh": "我们的研究假设是便利性促进复购。",
+      "collocation": "test a research hypothesis",
+      "collocationZh": "检验研究假设",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What explanation for repeat purchases are we testing?",
+          "zh": "我们正在检验关于复购的哪种解释？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our research hypothesis is that convenience drives repeat purchases.",
+          "zh": "我们的研究假设是便利性促进复购。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 42,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "rɪˈsɜːtʃ haɪˈpɒθəsɪs",
+      "ipaUS": "ˈriːsɝːtʃ haɪˈpɑːθəsɪs",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Research hypothesis",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT043",
+    "before": {
+      "id": "MKT043",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Qualitative research",
+      "zh": "定性研究",
+      "definition": "探索观点、动机及行为背后原因的研究",
+      "example": "Qualitative research helped explain the unexpected survey results.",
+      "exampleZh": "定性研究帮助解释了意外的问卷结果。",
+      "collocation": "conduct qualitative research",
+      "collocationZh": "开展定性研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we make sense of the surprising survey findings?",
+          "zh": "我们是如何理解令人意外的问卷结果的？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Qualitative research helped explain the unexpected survey results.",
+          "zh": "定性研究帮助解释了意外的问卷结果。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 43,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkwɒlɪˌteɪtɪv rɪˈsɜːtʃ",
+      "ipaUS": "ˈkwɑːlɪˌteɪtɪv rɪˈsɜːtʃ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Qualitative research",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT043",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Qualitative research",
+      "zh": "定性研究",
+      "definition": "主要通过访谈、观察等非数值资料理解观点、动机和行为的研究。",
+      "example": "Qualitative research helped explain the unexpected survey results.",
+      "exampleZh": "定性研究帮助我们解释了出乎意料的调查结果。",
+      "collocation": "conduct qualitative research",
+      "collocationZh": "开展定性研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we make sense of the surprising survey findings?",
+          "zh": "我们是如何解释令人意外的调查结果的？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Qualitative research helped explain the unexpected survey results.",
+          "zh": "定性研究帮助我们解释了出乎意料的调查结果。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 43,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkwɒlɪtətɪv rɪˈsɜːtʃ",
+      "ipaUS": "ˈkwɑːləteɪtɪv ˈriːsɝːtʃ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Qualitative research",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT044",
+    "before": {
+      "id": "MKT044",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Quantitative research",
+      "zh": "定量研究",
+      "definition": "通过数值数据测量和检验现象的研究",
+      "example": "Quantitative research will help us estimate how widespread this preference is.",
+      "exampleZh": "定量研究将帮助我们估算这一偏好的普遍程度。",
+      "collocation": "conduct quantitative research",
+      "collocationZh": "开展定量研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we tell whether this preference is common across the market?",
+          "zh": "怎样判断这种偏好在整个市场中是否普遍？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Quantitative research will help us estimate how widespread this preference is.",
+          "zh": "定量研究将帮助我们估算这一偏好的普遍程度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 44,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkwɒntɪˌteɪtɪv rɪˈsɜːtʃ",
+      "ipaUS": "ˈkwɑːntɪˌteɪtɪv rɪˈsɜːtʃ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Quantitative research",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT044",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Quantitative research",
+      "zh": "定量研究",
+      "definition": "通过数值数据和统计方法测量现象、估计规模或检验假设的研究。",
+      "example": "Quantitative research will help us estimate how widespread this preference is.",
+      "exampleZh": "定量研究将帮助我们估计这种偏好有多普遍。",
+      "collocation": "conduct quantitative research",
+      "collocationZh": "开展定量研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we tell whether this preference is common across the market?",
+          "zh": "怎样判断这种偏好在整个市场中是否普遍？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Quantitative research will help us estimate how widespread this preference is.",
+          "zh": "定量研究将帮助我们估计这种偏好有多普遍。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 44,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkwɒntɪtətɪv rɪˈsɜːtʃ",
+      "ipaUS": "ˈkwɑːntəteɪtɪv ˈriːsɝːtʃ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Quantitative research",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT045",
+    "before": {
+      "id": "MKT045",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Conjoint analysis",
+      "zh": "联合分析",
+      "definition": "通过属性组合选择估计消费者对属性的偏好",
+      "example": "Conjoint analysis revealed how shoppers trade off price against delivery speed.",
+      "exampleZh": "联合分析揭示了购物者如何权衡价格与配送速度。",
+      "collocation": "run conjoint analysis",
+      "collocationZh": "开展联合分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did the study tell us about the trade-off between price and speed?",
+          "zh": "研究揭示了价格与速度之间怎样的取舍？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Conjoint analysis revealed how shoppers trade off price against delivery speed.",
+          "zh": "联合分析揭示了购物者如何权衡价格与配送速度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 45,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kənˈdʒɔɪnt əˈnæləˌsɪs",
+      "ipaUS": "kənˈdʒɔɪnt əˈnæləˌsɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Conjoint analysis",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT045",
+      "moduleId": "m5",
+      "module": "市场调研",
+      "term": "Conjoint analysis",
+      "zh": "联合分析",
+      "definition": "通过评价、排序或选择不同属性组合，估计各属性的相对效用及取舍的研究方法。",
+      "example": "Conjoint analysis revealed how shoppers trade off price against delivery speed.",
+      "exampleZh": "联合分析揭示了购物者如何权衡价格与配送速度。",
+      "collocation": "run conjoint analysis",
+      "collocationZh": "开展联合分析",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did the study tell us about the trade-off between price and speed?",
+          "zh": "研究揭示了价格与配送速度之间怎样的取舍？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Conjoint analysis revealed how shoppers trade off price against delivery speed.",
+          "zh": "联合分析揭示了购物者如何权衡价格与配送速度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 45,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kənˈdʒɔɪnt əˈnæləsɪs",
+      "ipaUS": "kənˈdʒɔɪnt əˈnæləsɪs",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Conjoint analysis",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT046",
+    "before": {
+      "id": "MKT046",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Consumer insight",
+      "zh": "消费者洞察",
+      "definition": "对消费者行为背后需求或动机的可行动理解",
+      "example": "A key consumer insight was that buyers valued convenience more than variety.",
+      "exampleZh": "一项关键消费者洞察是买家更看重便利性而非多样性。",
+      "collocation": "uncover consumer insights",
+      "collocationZh": "挖掘消费者洞察",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What mattered most to buyers in the interviews?",
+          "zh": "访谈中购买者最看重什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A key consumer insight was that buyers valued convenience more than variety.",
+          "zh": "一项关键消费者洞察是买家更看重便利性而非多样性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 46,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kənˈsuːmər ˈɪnsaɪt",
+      "ipaUS": "kənˈsuːmɚr ˈɪnsaɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Consumer insight",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT046",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Consumer insight",
+      "zh": "消费者洞察",
+      "definition": "基于证据、能够指导营销决策的消费者需求、动机或行为理解。",
+      "example": "A key consumer insight was that buyers valued convenience more than variety.",
+      "exampleZh": "一项关键洞察是，购买者比起选择多样性更看重便利性。",
+      "collocation": "uncover consumer insights",
+      "collocationZh": "挖掘消费者洞察",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What mattered most to buyers in the interviews?",
+          "zh": "访谈中购买者最看重什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "A key consumer insight was that buyers valued convenience more than variety.",
+          "zh": "一项关键洞察是，购买者比起选择多样性更看重便利性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 46,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kənˈsjuːmə ˈɪnsaɪt",
+      "ipaUS": "kənˈsuːmər ˈɪnsaɪt",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Consumer insight",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT047",
+    "before": {
+      "id": "MKT047",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Buyer persona",
+      "zh": "买家画像",
+      "definition": "基于研究构建的典型购买者描述",
+      "example": "We updated our buyer personas using recent interview findings.",
+      "exampleZh": "我们依据近期访谈结果更新了买家画像。",
+      "collocation": "develop buyer personas",
+      "collocationZh": "构建买家画像",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did the latest interviews influence our customer profiles?",
+          "zh": "最新访谈如何影响我们的客户画像？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We updated our buyer personas using recent interview findings.",
+          "zh": "我们依据近期访谈结果更新了买家画像。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 47,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbaɪə pɜːˈsəʊnə",
+      "ipaUS": "ˈbaɪɚ pɜːˈsoʊnə",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Buyer persona",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT047",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Buyer persona",
+      "zh": "买家画像",
+      "definition": "基于研究构建的典型购买者模型，描述其目标、需求、行为及决策特点。",
+      "example": "We updated our buyer personas using recent interview findings.",
+      "exampleZh": "我们根据近期访谈结果更新了买家画像。",
+      "collocation": "develop buyer personas",
+      "collocationZh": "构建买家画像",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did the latest interviews influence our buyer personas?",
+          "zh": "最新访谈如何影响我们的买家画像？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We updated our buyer personas using recent interview findings.",
+          "zh": "我们根据近期访谈结果更新了买家画像。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 47,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈbaɪə pəˈsəʊnə",
+      "ipaUS": "ˈbaɪər pərˈsoʊnə",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Buyer persona",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT048",
+    "before": {
+      "id": "MKT048",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer journey",
+      "zh": "客户旅程",
+      "definition": "客户从认知到购买及后续使用的经历",
+      "example": "Mapping the customer journey exposed a gap between trial and purchase.",
+      "exampleZh": "梳理客户旅程发现了试用与购买之间的断点。",
+      "collocation": "map the customer journey",
+      "collocationZh": "绘制客户旅程",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where are customers dropping out after trying the product?",
+          "zh": "客户试用产品后在哪个环节流失？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Mapping the customer journey exposed a gap between trial and purchase.",
+          "zh": "梳理客户旅程发现了试用与购买之间的断点。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 48,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmə ˈdʒɜːni",
+      "ipaUS": "ˈkʌstəmɚ ˈdʒɜːni",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer journey",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT048",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer journey",
+      "zh": "客户旅程",
+      "definition": "客户在认知、考虑、购买、使用及售后等阶段与品牌互动的整体经历，不一定呈线性。",
+      "example": "Mapping the customer journey exposed a gap between trial and purchase.",
+      "exampleZh": "梳理客户旅程发现了试用与购买之间的断点。",
+      "collocation": "map the customer journey",
+      "collocationZh": "绘制客户旅程图",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where are customers dropping out after trying the product?",
+          "zh": "客户试用产品后在哪个环节流失？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Mapping the customer journey exposed a gap between trial and purchase.",
+          "zh": "梳理客户旅程发现了试用与购买之间的断点。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 48,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmə ˈdʒɜːni",
+      "ipaUS": "ˈkʌstəmər ˈdʒɝːni",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Customer journey",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "collocationZh",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT049",
+    "before": {
+      "id": "MKT049",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Touchpoint",
+      "zh": "触点",
+      "definition": "客户与品牌发生接触的环节",
+      "example": "The checkout page is a critical touchpoint for first-time buyers.",
+      "exampleZh": "结账页面是首次购买者的关键接触点。",
+      "collocation": "identify key touchpoints",
+      "collocationZh": "识别关键触点",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which part of the online experience deserves special attention for new buyers?",
+          "zh": "线上体验的哪个环节尤其值得关注首次购买者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The checkout page is a critical touchpoint for first-time buyers.",
+          "zh": "结账页面是首次购买者的关键接触点。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 49,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtʌtʃpɔɪnt",
+      "ipaUS": "ˈtʌtʃpɔɪnt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Touchpoint",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT049",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Touchpoint",
+      "zh": "触点",
+      "definition": "客户与品牌、产品或服务直接或间接发生互动的接触点。",
+      "example": "The checkout page is a critical touchpoint for first-time buyers.",
+      "exampleZh": "结账页面是首次购买者的关键触点。",
+      "collocation": "identify key touchpoints",
+      "collocationZh": "识别关键触点",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which part of the online experience deserves special attention when we design for first-time buyers?",
+          "zh": "对于首次购买者，线上体验的哪个环节尤其值得关注？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The checkout page is a critical touchpoint for first-time buyers.",
+          "zh": "结账页面是首次购买者的关键触点。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 49,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtʌtʃpɔɪnt",
+      "ipaUS": "ˈtʌtʃpɔɪnt",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Touchpoint",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT050",
+    "before": {
+      "id": "MKT050",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Pain point",
+      "zh": "痛点",
+      "definition": "客户在完成任务时遇到的具体困难",
+      "example": "Unclear return policies are a recurring customer pain point.",
+      "exampleZh": "不明确的退货政策是反复出现的客户痛点。",
+      "collocation": "address customer pain points",
+      "collocationZh": "解决客户痛点",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What complaint keeps coming up in customer interviews?",
+          "zh": "客户访谈中反复出现什么投诉？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Unclear return policies are a recurring customer pain point.",
+          "zh": "不明确的退货政策是反复出现的客户痛点。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 50,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpeɪn ˈpɔɪnt",
+      "ipaUS": "ˈpeɪn ˈpɔɪnt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Pain point",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT050",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Pain point",
+      "zh": "痛点",
+      "definition": "客户在购买、使用或完成任务过程中遇到的具体困难或不满。",
+      "example": "Unclear return policies are a recurring customer pain point.",
+      "exampleZh": "不明确的退货政策是客户反复提到的痛点。",
+      "collocation": "address customer pain points",
+      "collocationZh": "解决客户痛点",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What complaint keeps coming up in customer interviews?",
+          "zh": "客户访谈中反复出现什么投诉？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Unclear return policies are a recurring customer pain point.",
+          "zh": "不明确的退货政策是客户反复提到的痛点。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 50,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈpeɪn pɔɪnt",
+      "ipaUS": "ˈpeɪn pɔɪnt",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Pain point",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT051",
+    "before": {
+      "id": "MKT051",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Unmet need",
+      "zh": "未满足需求",
+      "definition": "现有解决方案尚未充分满足的需求",
+      "example": "The interviews revealed an unmet need for travel-sized products.",
+      "exampleZh": "访谈发现了对旅行装产品尚未满足的需求。",
+      "collocation": "identify unmet needs",
+      "collocationZh": "识别未满足需求",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did the interviews identify a gap in our product range?",
+          "zh": "访谈是否发现了产品组合中的缺口？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The interviews revealed an unmet need for travel-sized products.",
+          "zh": "访谈发现了对旅行装产品尚未满足的需求。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 51,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ʌnˈmet ˈniːd",
+      "ipaUS": "ʌnˈmet ˈniːd",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Unmet need",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT051",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Unmet need",
+      "zh": "未满足需求",
+      "definition": "现有解决方案尚未满足或未充分满足的客户需求。",
+      "example": "The interviews revealed an unmet need for travel-sized products.",
+      "exampleZh": "访谈发现消费者对旅行装产品的需求尚未得到满足。",
+      "collocation": "identify unmet needs",
+      "collocationZh": "识别未满足的需求",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did the interviews identify a gap in our product range?",
+          "zh": "访谈是否发现了产品组合中的缺口？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The interviews revealed an unmet need for travel-sized products.",
+          "zh": "访谈发现消费者对旅行装产品的需求尚未得到满足。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 51,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ʌnˈmet niːd",
+      "ipaUS": "ʌnˈmet niːd",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Unmet need",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT052",
+    "before": {
+      "id": "MKT052",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Purchase intent",
+      "zh": "购买意向",
+      "definition": "消费者未来购买某产品的意愿",
+      "example": "Purchase intent improved after participants saw the price.",
+      "exampleZh": "参与者看到价格后，购买意愿有所提高。",
+      "collocation": "measure purchase intent",
+      "collocationZh": "衡量购买意向",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did participants react when we revealed the price?",
+          "zh": "公布价格后受访者的反应如何？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Purchase intent improved after participants saw the price.",
+          "zh": "参与者看到价格后，购买意愿有所提高。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 52,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpɜːtʃɪs ɪnˈtent",
+      "ipaUS": "ˈpɜːtʃɪs ɪnˈtent",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Purchase intent",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT052",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Purchase intent",
+      "zh": "购买意向",
+      "definition": "消费者在特定条件下表示的未来购买意向，不等同于实际购买。",
+      "example": "Purchase intent increased after participants saw the price.",
+      "exampleZh": "受访者看到价格后，购买意向有所增强。",
+      "collocation": "measure purchase intent",
+      "collocationZh": "衡量购买意向",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did participants react when we revealed the price?",
+          "zh": "公布价格后受访者的反应如何？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Purchase intent increased after participants saw the price.",
+          "zh": "受访者看到价格后，购买意向有所增强。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 52,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈpɜːtʃəs ɪnˈtent",
+      "ipaUS": "ˈpɝːtʃəs ɪnˈtent",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Purchase intent",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT053",
+    "before": {
+      "id": "MKT053",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Willingness to pay",
+      "zh": "支付意愿",
+      "definition": "消费者愿意为产品支付的金额",
+      "example": "Willingness to pay varied considerably across income groups.",
+      "exampleZh": "不同收入群体的支付意愿差异显著。",
+      "collocation": "estimate willingness to pay",
+      "collocationZh": "估算支付意愿",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did customers with different incomes respond similarly to pricing?",
+          "zh": "不同收入的客户对价格的反应相似吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Willingness to pay varied considerably across income groups.",
+          "zh": "不同收入群体的支付意愿差异显著。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 53,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈwɪlɪŋnəs tə ˈpeɪ",
+      "ipaUS": "ˈwɪlɪŋnəs tə ˈpeɪ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Willingness to pay",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT053",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Willingness to pay",
+      "zh": "支付意愿",
+      "definition": "消费者在特定条件下愿意为某项产品或服务支付的最高金额。",
+      "example": "Willingness to pay varied considerably across income groups.",
+      "exampleZh": "不同收入群体的支付意愿差异很大。",
+      "collocation": "estimate willingness to pay",
+      "collocationZh": "估算最高支付意愿",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did customers with different incomes respond similarly to pricing?",
+          "zh": "不同收入的客户对价格的反应相似吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Willingness to pay varied considerably across income groups.",
+          "zh": "不同收入群体的支付意愿差异很大。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 53,
+      "aliases": [
+        "WTP"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈwɪlɪŋnəs tə peɪ",
+      "ipaUS": "ˈwɪlɪŋnəs tə peɪ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Willingness to pay",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT054",
+    "before": {
+      "id": "MKT054",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Buying behavior",
+      "zh": "购买行为",
+      "definition": "消费者选择和购买商品的行为模式",
+      "example": "Seasonal discounts have changed buying behavior in this category.",
+      "exampleZh": "季节性折扣改变了该品类的购买行为。",
+      "collocation": "analyze buying behavior",
+      "collocationZh": "分析购买行为",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How have our seasonal offers affected shopping habits?",
+          "zh": "季节性优惠如何影响购物习惯？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Seasonal discounts have changed buying behavior in this category.",
+          "zh": "季节性折扣改变了该品类的购买行为。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 54,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbaɪɪŋ bɪˈheɪvjə",
+      "ipaUS": "ˈbaɪɪŋ bɪˈheɪvjɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Buying behavior",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT054",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Buying behavior",
+      "zh": "购买行为",
+      "definition": "消费者在选择、评估和购买商品或服务时表现出的行为模式。",
+      "example": "Seasonal discounts have changed buying behavior in this category.",
+      "exampleZh": "季节性折扣改变了该品类的购买行为。",
+      "collocation": "analyze buying behavior",
+      "collocationZh": "分析购买行为",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How have our seasonal offers affected shopping habits?",
+          "zh": "我们的季节性优惠如何影响购物习惯？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Seasonal discounts have changed buying behavior in this category.",
+          "zh": "季节性折扣改变了该品类的购买行为。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 54,
+      "aliases": [
+        "Buying behaviour"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈbaɪɪŋ bɪˈheɪvjə",
+      "ipaUS": "ˈbaɪɪŋ bɪˈheɪvjər",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Buying behavior",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "dialogue",
+      "aliases",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT055",
+    "before": {
+      "id": "MKT055",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer feedback",
+      "zh": "客户反馈",
+      "definition": "客户对产品或服务提供的意见",
+      "example": "Customer feedback prompted us to simplify the instructions.",
+      "exampleZh": "客户反馈促使我们简化说明。",
+      "collocation": "collect customer feedback",
+      "collocationZh": "收集客户反馈",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did we rewrite the product instructions?",
+          "zh": "我们为什么重写产品说明？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Customer feedback prompted us to simplify the instructions.",
+          "zh": "客户反馈促使我们简化说明。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 55,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkʌstəmə ˈfiːdbæk",
+      "ipaUS": "ˈkʌstəmɚ ˈfiːdbæk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Customer feedback",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT055",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Customer feedback",
+      "zh": "客户反馈",
+      "definition": "客户就产品、服务或体验提供的意见、评价及建议。",
+      "example": "Customer feedback prompted us to simplify the instructions.",
+      "exampleZh": "客户反馈促使我们简化产品说明。",
+      "collocation": "collect customer feedback",
+      "collocationZh": "收集客户反馈",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did we rewrite the product instructions?",
+          "zh": "我们为什么重写产品说明？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Customer feedback prompted us to simplify the instructions.",
+          "zh": "客户反馈促使我们简化产品说明。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 55,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkʌstəmə ˈfiːdbæk",
+      "ipaUS": "ˈkʌstəmər ˈfiːdbæk",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Customer feedback",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT056",
+    "before": {
+      "id": "MKT056",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Voice of the customer",
+      "zh": "客户之声",
+      "definition": "系统收集的客户需求和体验表达",
+      "example": "We brought the voice of the customer into the product review.",
+      "exampleZh": "我们将客户声音纳入产品评审。",
+      "collocation": "capture the voice of the customer",
+      "collocationZh": "收集客户之声",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we ensure customer perspectives were represented in the review?",
+          "zh": "我们如何确保评审体现客户的观点？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We brought the voice of the customer into the product review.",
+          "zh": "我们将客户声音纳入产品评审。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 56,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈvɔɪs ɒvðə ˈkʌstəmə",
+      "ipaUS": "ˈvɔɪs ʌvðə ˈkʌstəmɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Voice of the customer",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT056",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Voice of the customer",
+      "zh": "客户之声",
+      "definition": "通过系统化收集和分析客户反馈，了解客户需求、期望和体验的实践及其结果。",
+      "example": "We brought the voice of the customer into the product review.",
+      "exampleZh": "我们在产品评审中纳入了客户之声。",
+      "collocation": "capture the voice of the customer",
+      "collocationZh": "收集客户之声",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we ensure customer perspectives were represented in the review?",
+          "zh": "我们如何确保评审体现客户的观点？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We brought the voice of the customer into the product review.",
+          "zh": "我们在产品评审中纳入了客户之声。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 56,
+      "aliases": [
+        "VoC",
+        "VOC"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "vɔɪs əv ðə ˈkʌstəmə",
+      "ipaUS": "vɔɪs əv ðə ˈkʌstəmər",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Voice of the customer",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT057",
+    "before": {
+      "id": "MKT057",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Jobs to be done",
+      "zh": "待完成任务",
+      "definition": "消费者借助产品希望实现的进展或任务",
+      "example": "The jobs to be done framework helped us understand why commuters choose our service.",
+      "exampleZh": "待完成任务框架帮助我们理解通勤者选择我们服务的原因。",
+      "collocation": "identify jobs to be done",
+      "collocationZh": "识别待完成任务",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we investigate what commuters actually want from the service?",
+          "zh": "我们如何研究通勤者真正希望服务解决什么问题？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The jobs to be done framework helped us understand why commuters choose our service.",
+          "zh": "待完成任务框架帮助我们理解通勤者选择我们服务的原因。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 57,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈdʒɒbz təbi ˈdʌn",
+      "ipaUS": "ˈdʒɑːbz təbi ˈdʌn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Jobs to be done",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT057",
+      "moduleId": "m6",
+      "module": "消费者洞察",
+      "term": "Jobs to be done",
+      "zh": "待完成任务",
+      "definition": "从客户在特定情境中希望取得的进展出发，理解其选择产品或服务的原因的理论框架。",
+      "example": "The jobs-to-be-done framework helped us understand why commuters choose our service.",
+      "exampleZh": "待完成任务框架帮助我们理解通勤者选择我们服务的原因。",
+      "collocation": "identify jobs to be done",
+      "collocationZh": "识别客户待完成的任务",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we investigate what commuters actually want from the service?",
+          "zh": "我们如何研究通勤者真正希望通过服务解决什么问题？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The jobs-to-be-done framework helped us understand why commuters choose our service.",
+          "zh": "待完成任务框架帮助我们理解通勤者选择我们服务的原因。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 57,
+      "aliases": [
+        "JTBD",
+        "Jobs-to-be-done"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "dʒɒbz tə bi dʌn",
+      "ipaUS": "dʒɑːbz tə bi dʌn",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Jobs to be done",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "example",
+      "collocationZh",
+      "dialogue",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT058",
+    "before": {
+      "id": "MKT058",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand architecture",
+      "zh": "品牌架构",
+      "definition": "企业旗下品牌之间的组织及关联方式",
+      "example": "Our brand architecture needs to clarify the relationship between the parent brand and its sub-brands.",
+      "exampleZh": "我们的品牌架构需要明确母品牌与子品牌之间的关系。",
+      "collocation": "define brand architecture",
+      "collocationZh": "明确品牌架构",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Customers cannot tell which labels belong to the parent company. What needs to change?",
+          "zh": "客户分不清哪些品牌属于母公司。需要调整什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our brand architecture needs to clarify the relationship between the parent brand and its sub-brands.",
+          "zh": "我们的品牌架构需要明确母品牌与子品牌之间的关系。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 58,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈɑːkɪˌtektʃə",
+      "ipaUS": "ˈbrænd ˈɑːrkɪˌtektʃɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand architecture",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT058",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand architecture",
+      "zh": "品牌架构",
+      "definition": "企业组织旗下品牌及其层级、角色和相互关系的体系。",
+      "example": "Our brand architecture needs to clarify the relationship between the parent brand and its sub-brands.",
+      "exampleZh": "我们的品牌架构需要明确母品牌与子品牌之间的关系。",
+      "collocation": "define brand architecture",
+      "collocationZh": "明确品牌架构",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Customers cannot tell which labels belong to the parent company. What needs to change?",
+          "zh": "客户分不清哪些品牌属于母公司。需要调整什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our brand architecture needs to clarify the relationship between the parent brand and its sub-brands.",
+          "zh": "我们的品牌架构需要明确母品牌与子品牌之间的关系。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 58,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈɑːkɪtektʃə",
+      "ipaUS": "brænd ˈɑːrkətektʃər",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand architecture",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT059",
+    "before": {
+      "id": "MKT059",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand portfolio",
+      "zh": "品牌组合",
+      "definition": "企业拥有或管理的品牌集合",
+      "example": "We reviewed the brand portfolio to identify overlapping offerings.",
+      "exampleZh": "我们审查了品牌组合，以识别重叠的产品。",
+      "collocation": "manage the brand portfolio",
+      "collocationZh": "管理品牌组合",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we identify duplication across our brands?",
+          "zh": "我们如何发现旗下品牌之间的重复定位？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We reviewed the brand portfolio to identify overlapping offerings.",
+          "zh": "我们审查了品牌组合，以识别重叠的产品。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 59,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd pɔːtˈfəʊlɪˌəʊ",
+      "ipaUS": "ˈbrænd poːrtˈfoʊlɪˌoʊ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand portfolio",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT059",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand portfolio",
+      "zh": "品牌组合",
+      "definition": "企业拥有或管理的品牌集合，可按市场定位、目标客户和战略角色进行管理。",
+      "example": "We reviewed the brand portfolio to identify overlapping offerings.",
+      "exampleZh": "我们审视了品牌组合，以识别相互重叠的产品和服务。",
+      "collocation": "manage the brand portfolio",
+      "collocationZh": "管理品牌组合",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we identify overlapping offerings across our brands?",
+          "zh": "我们如何发现旗下品牌之间的产品和服务重叠？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We reviewed the brand portfolio to identify overlapping offerings.",
+          "zh": "我们审视了品牌组合，以识别相互重叠的产品和服务。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 59,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd pɔːtˈfəʊliəʊ",
+      "ipaUS": "brænd pɔːrtˈfoʊlioʊ",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand portfolio",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  },
+  {
+    "id": "MKT060",
+    "before": {
+      "id": "MKT060",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand promise",
+      "zh": "品牌承诺",
+      "definition": "品牌向客户承诺持续提供的价值或体验",
+      "example": "Late deliveries undermine our brand promise of convenience.",
+      "exampleZh": "配送延误损害了我们关于便利性的品牌承诺。",
+      "collocation": "deliver on the brand promise",
+      "collocationZh": "兑现品牌承诺",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why is delivery performance a branding issue?",
+          "zh": "为什么配送表现也是品牌问题？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Late deliveries undermine our brand promise of convenience.",
+          "zh": "配送延误损害了我们关于便利性的品牌承诺。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 60,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd ˈprɒmɪs",
+      "ipaUS": "ˈbrænd ˈprɑːmɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand promise",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT060",
+      "moduleId": "m2",
+      "module": "品牌管理",
+      "term": "Brand promise",
+      "zh": "品牌承诺",
+      "definition": "品牌向客户承诺持续提供的核心价值或体验。",
+      "example": "Late deliveries undermine our brand promise of convenience.",
+      "exampleZh": "配送延误削弱了我们为客户提供便利的品牌承诺。",
+      "collocation": "deliver on the brand promise",
+      "collocationZh": "兑现品牌承诺",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why is delivery performance a branding issue?",
+          "zh": "为什么配送表现也是品牌问题？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Late deliveries undermine our brand promise of convenience.",
+          "zh": "配送延误削弱了我们为客户提供便利的品牌承诺。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 60,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd ˈprɒmɪs",
+      "ipaUS": "brænd ˈprɑːmɪs",
+      "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
+      "speakTerm": "Brand promise",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+    },
+    "changed_fields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ]
+  }
+]

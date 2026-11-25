@@ -1,0 +1,1779 @@
+{
+  "version": "1.0.56",
+  "records": [
+    {
+      "id": "MKT541",
+      "before": {
+        "id": "MKT541",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Cross-border campaign",
+        "zh": "跨境营销活动",
+        "definition": "面向跨国受众或跨国交易的营销活动",
+        "example": "The cross-border campaign uses separate shipping messages.",
+        "exampleZh": "跨境营销活动采用不同的配送信息。",
+        "collocation": "coordinate a cross-border campaign",
+        "collocationZh": "协调跨境营销活动",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: The ____ uses separate shipping messages.",
+            "zh": "补全职场表达：____采用不同的配送信息。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The cross-border campaign uses separate shipping messages.",
+            "zh": "跨境营销活动采用不同的配送信息。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 541,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈkrɒsˈbɔːdə kæmˈpeɪn",
+        "ipaUS": "ˈkrɔsˈboːrdɚ kæmˈpeɪn",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Cross-border campaign",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT541",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Cross-border campaign",
+        "zh": "跨境营销活动",
+        "definition": "面向多个国家或地区的受众、促进跨境交易或品牌传播的营销活动。",
+        "example": "Our cross-border campaign explains shipping options for each destination.",
+        "exampleZh": "我们的跨境营销活动针对各目的地说明配送选项。",
+        "collocation": "coordinate a cross-border campaign",
+        "collocationZh": "协调跨境营销活动",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why do the ads differ by destination?",
+            "zh": "为什么不同目的地的广告有所不同？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our cross-border campaign explains shipping options for each destination.",
+            "zh": "我们的跨境营销活动针对各目的地说明配送选项。"
+          }
+        ],
+        "usage": "配送、税费和宣传要求可能因市场而异。",
+        "new": true,
+        "order": 541,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkrɒs ˈbɔːdə kæmˈpeɪn",
+        "ipaUS": "ˌkrɔːs ˈbɔːrdər kæmˈpeɪn",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Cross-border campaign",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "example",
+        "exampleZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "配送、税费和宣传要求可能因市场而异。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT542",
+      "before": {
+        "id": "MKT542",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Global procurement",
+        "zh": "全球采购",
+        "definition": "跨国家统一或协调采购商品与服务",
+        "example": "Global procurement negotiated a shared agency agreement.",
+        "exampleZh": "全球采购团队协商了共享代理商协议。",
+        "collocation": "centralize global procurement",
+        "collocationZh": "集中全球采购",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ negotiated a shared agency agreement.",
+            "zh": "补全职场表达：____团队协商了共享代理商协议。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Global procurement negotiated a shared agency agreement.",
+            "zh": "全球采购团队协商了共享代理商协议。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 542,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈɡləʊbəl prəˈkjʊəmənt",
+        "ipaUS": "ˈɡloʊbəl prəˈkjʊrmənt",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Global procurement",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT542",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Global procurement",
+        "zh": "全球采购",
+        "definition": "在多个国家或地区协调商品及服务采购的活动，可集中或分散执行。",
+        "example": "The global procurement team negotiated a shared agency agreement.",
+        "exampleZh": "全球采购团队洽谈了一份共同使用的代理商协议。",
+        "collocation": "coordinate global procurement",
+        "collocationZh": "协调全球采购",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Who negotiated the agency contract?",
+            "zh": "谁负责洽谈代理商合同？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The global procurement team negotiated a shared agency agreement.",
+            "zh": "全球采购团队洽谈了一份共同使用的代理商协议。"
+          }
+        ],
+        "usage": "全球采购不必然意味着所有采购均由总部完成。",
+        "new": true,
+        "order": 542,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈɡləʊbəl prəˈkjʊəmənt",
+        "ipaUS": "ˈɡloʊbəl prəˈkjʊrmənt",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Global procurement",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "example",
+        "exampleZh",
+        "collocation",
+        "collocationZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "全球采购不必然意味着所有采购均由总部完成。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT543",
+      "before": {
+        "id": "MKT543",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Regional adaptation",
+        "zh": "区域适配",
+        "definition": "根据区域需求调整全球策略或素材",
+        "example": "The guidelines allow regional adaptation of imagery.",
+        "exampleZh": "指南允许对图片进行区域适配。",
+        "collocation": "allow regional adaptation",
+        "collocationZh": "允许区域适配",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: The guidelines allow ____ of imagery.",
+            "zh": "补全职场表达：指南允许对图片进行____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The guidelines allow regional adaptation of imagery.",
+            "zh": "指南允许对图片进行区域适配。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 543,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈriːdʒənəl ˌædæpˈteɪʃən",
+        "ipaUS": "ˈriːdʒənəl ˌædæpˈteɪʃən",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Regional adaptation",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT543",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Regional adaptation",
+        "zh": "区域适配",
+        "definition": "根据区域受众、文化、法规或渠道需求调整全球策略及素材。",
+        "example": "The guidelines allow regional adaptation of imagery.",
+        "exampleZh": "指南允许根据区域需求调整图片。",
+        "collocation": "allow regional adaptation",
+        "collocationZh": "允许区域适配",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Can we change the campaign images?",
+            "zh": "我们可以更换活动图片吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The guidelines allow regional adaptation of imagery.",
+            "zh": "指南允许根据区域需求调整图片。"
+          }
+        ],
+        "usage": "适配可涉及视觉、渠道及产品，不仅是翻译。",
+        "new": true,
+        "order": 543,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈriːdʒənəl ˌædæpˈteɪʃən",
+        "ipaUS": "ˈriːdʒənəl ˌædæpˈteɪʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Regional adaptation",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "exampleZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "适配可涉及视觉、渠道及产品，不仅是翻译。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT544",
+      "before": {
+        "id": "MKT544",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Global governance",
+        "zh": "全球治理",
+        "definition": "跨市场的决策权限、标准和监督机制",
+        "example": "Global governance clarifies who approves major claims.",
+        "exampleZh": "全球治理明确了重大宣传主张的审批人。",
+        "collocation": "strengthen global governance",
+        "collocationZh": "加强全球治理",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ clarifies who approves major claims.",
+            "zh": "补全职场表达：____明确了重大宣传主张的审批人。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Global governance clarifies who approves major claims.",
+            "zh": "全球治理明确了重大宣传主张的审批人。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 544,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈɡləʊbəl ˈɡʌvənəns",
+        "ipaUS": "ˈɡloʊbəl ˈɡʌvɚnəns",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Global governance",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT544",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Global governance",
+        "zh": "全球治理",
+        "definition": "跨市场的决策权限、标准、问责和监督机制。",
+        "example": "Our global governance framework specifies the approval process.",
+        "exampleZh": "我们的全球治理框架明确了审批流程。",
+        "collocation": "strengthen global governance",
+        "collocationZh": "加强全球治理",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Who signs off on major advertising claims?",
+            "zh": "谁负责审批重要广告宣传主张？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our global governance framework specifies the approval process.",
+            "zh": "我们的全球治理框架明确了审批流程。"
+          }
+        ],
+        "usage": "在营销语境中指企业内部治理，而非国际政治治理。",
+        "new": true,
+        "order": 544,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈɡləʊbəl ˈɡʌvənəns",
+        "ipaUS": "ˈɡloʊbəl ˈɡʌvərnəns",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Global governance",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "example",
+        "exampleZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "在营销语境中指企业内部治理，而非国际政治治理。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT545",
+      "before": {
+        "id": "MKT545",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Best practice sharing",
+        "zh": "最佳实践共享",
+        "definition": "在团队或市场之间传播经验证的有效方法",
+        "example": "Monthly workshops facilitate best practice sharing.",
+        "exampleZh": "每月研讨会促进最佳实践共享。",
+        "collocation": "facilitate best practice sharing",
+        "collocationZh": "促进最佳实践共享",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: Monthly workshops facilitate ____.",
+            "zh": "补全职场表达：每月研讨会促进____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Monthly workshops facilitate best practice sharing.",
+            "zh": "每月研讨会促进最佳实践共享。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 545,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈbest ˈpræktɪs ˈʃeərɪŋ",
+        "ipaUS": "ˈbest ˈpræktɪs ˈʃerɪŋ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Best practice sharing",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT545",
+        "moduleId": "m20",
+        "module": "全球化营销",
+        "term": "Best practice sharing",
+        "zh": "最佳实践共享",
+        "definition": "在团队或市场之间交流经验证有效的方法，并评估其在新环境中的适用性。",
+        "example": "Monthly workshops facilitate best practice sharing.",
+        "exampleZh": "每月举办的研讨会促进最佳实践共享。",
+        "collocation": "facilitate best practice sharing",
+        "collocationZh": "促进最佳实践共享",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How do regional teams learn from one another?",
+            "zh": "区域团队如何相互学习？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Monthly workshops facilitate best practice sharing.",
+            "zh": "每月举办的研讨会促进最佳实践共享。"
+          }
+        ],
+        "usage": "最佳实践需要结合当地条件验证，不宜直接照搬。",
+        "new": true,
+        "order": 545,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "best ˈpræktɪs ˈʃeərɪŋ",
+        "ipaUS": "best ˈpræktɪs ˈʃerɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Best practice sharing",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "exampleZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "最佳实践需要结合当地条件验证，不宜直接照搬。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT546",
+      "before": {
+        "id": "MKT546",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Market entry strategy",
+        "zh": "市场进入战略",
+        "definition": "选择进入新市场的方式及资源配置的计划",
+        "example": "We developed a market entry strategy for Brazil.",
+        "exampleZh": "我们为巴西制定了市场进入战略。",
+        "collocation": "develop a market entry strategy",
+        "collocationZh": "制定市场进入战略",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We developed a ____ for Brazil.",
+            "zh": "补全职场表达：我们为巴西制定了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We developed a market entry strategy for Brazil.",
+            "zh": "我们为巴西制定了市场进入战略。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 546,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈmɑːkɪt ˈentri ˈstrætədʒi",
+        "ipaUS": "ˈmɑːrkɪt ˈentri ˈstrætədʒi",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Market entry strategy",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT546",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Market entry strategy",
+        "zh": "市场进入战略",
+        "definition": "确定进入目标市场的方式、资源配置、时间安排及风险管理的计划。",
+        "example": "We developed a market entry strategy focused on local distribution.",
+        "exampleZh": "我们制定了以当地分销为重点的市场进入战略。",
+        "collocation": "develop a market entry strategy",
+        "collocationZh": "制定市场进入战略",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What is our plan for Brazil?",
+            "zh": "我们进入巴西市场的计划是什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We developed a market entry strategy focused on local distribution.",
+            "zh": "我们制定了以当地分销为重点的市场进入战略。"
+          }
+        ],
+        "usage": "进入方式可包括出口、授权或当地投资。",
+        "new": true,
+        "order": 546,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmɑːkɪt ˈentri ˈstrætədʒi",
+        "ipaUS": "ˈmɑːrkɪt ˈentri ˈstrætədʒi",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Market entry strategy",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "example",
+        "exampleZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "进入方式可包括出口、授权或当地投资。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT547",
+      "before": {
+        "id": "MKT547",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Market attractiveness",
+        "zh": "市场吸引力",
+        "definition": "市场规模、增长、盈利潜力及风险的综合评价",
+        "example": "We assess market attractiveness before allocating resources.",
+        "exampleZh": "我们在分配资源前评估市场吸引力。",
+        "collocation": "assess market attractiveness",
+        "collocationZh": "评估市场吸引力",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We assess ____ before allocating resources.",
+            "zh": "补全职场表达：我们在分配资源前评估____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We assess market attractiveness before allocating resources.",
+            "zh": "我们在分配资源前评估市场吸引力。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 547,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈmɑːkɪt əˈtræktɪvnəs",
+        "ipaUS": "ˈmɑːrkɪt əˈtræktɪvnəs",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Market attractiveness",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT547",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Market attractiveness",
+        "zh": "市场吸引力",
+        "definition": "根据市场规模、增长潜力、盈利机会、竞争及风险评价市场机会的程度。",
+        "example": "We assess market attractiveness alongside our ability to compete.",
+        "exampleZh": "我们同时评估市场吸引力和自身竞争能力。",
+        "collocation": "assess market attractiveness",
+        "collocationZh": "评估市场吸引力",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What do we assess before allocating resources?",
+            "zh": "分配资源前我们评估什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We assess market attractiveness alongside our ability to compete.",
+            "zh": "我们同时评估市场吸引力和自身竞争能力。"
+          }
+        ],
+        "usage": "市场吸引力与企业自身进入可行性并不相同。",
+        "new": true,
+        "order": 547,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmɑːkɪt əˈtræktɪvnəs",
+        "ipaUS": "ˈmɑːrkɪt əˈtræktɪvnəs",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Market attractiveness",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "example",
+        "exampleZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "市场吸引力与企业自身进入可行性并不相同。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT548",
+      "before": {
+        "id": "MKT548",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Market prioritization",
+        "zh": "市场优先级排序",
+        "definition": "根据机会和可行性确定市场进入顺序",
+        "example": "Market prioritization narrowed our shortlist to three countries.",
+        "exampleZh": "市场优先级排序将候选名单缩减至三个国家。",
+        "collocation": "conduct market prioritization",
+        "collocationZh": "开展市场优先级排序",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ narrowed our shortlist to three countries.",
+            "zh": "补全职场表达：____将候选名单缩减至三个国家。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Market prioritization narrowed our shortlist to three countries.",
+            "zh": "市场优先级排序将候选名单缩减至三个国家。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 548,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈmɑːkɪt praɪˌɒrɪtaɪˈzeɪʃən",
+        "ipaUS": "ˈmɑːrkɪt praɪˌɔːrɪtɪˈzeɪʃən",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Market prioritization",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT548",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Market prioritization",
+        "zh": "市场优先级排序",
+        "definition": "根据机会、风险、资源及可行性对候选市场确定优先顺序。",
+        "example": "Our market prioritization process narrowed the shortlist to three countries.",
+        "exampleZh": "我们的市场优先级排序流程将候选范围缩小至三个国家。",
+        "collocation": "prioritize target markets",
+        "collocationZh": "确定目标市场优先顺序",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we narrow the country shortlist?",
+            "zh": "我们如何缩小候选国家范围？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our market prioritization process narrowed the shortlist to three countries.",
+            "zh": "我们的市场优先级排序流程将候选范围缩小至三个国家。"
+          }
+        ],
+        "usage": "英式拼写 prioritisation。",
+        "new": true,
+        "order": 548,
+        "aliases": [
+          "Market prioritisation"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmɑːkɪt praɪˌɒrɪtaɪˈzeɪʃən",
+        "ipaUS": "ˈmɑːrkɪt praɪˌɔːrətəˈzeɪʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Market prioritization",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "example",
+        "exampleZh",
+        "collocation",
+        "collocationZh",
+        "dialogue",
+        "usage",
+        "aliases",
+        "collocationReview",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "英式拼写 prioritisation。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT549",
+      "before": {
+        "id": "MKT549",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Country risk",
+        "zh": "国家风险",
+        "definition": "特定国家政治、经济或制度环境带来的经营风险",
+        "example": "We evaluate country risk alongside revenue potential.",
+        "exampleZh": "我们在评估收入潜力的同时评估国家风险。",
+        "collocation": "evaluate country risk",
+        "collocationZh": "评估国家风险",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We evaluate ____ alongside revenue potential.",
+            "zh": "补全职场表达：我们在评估收入潜力的同时评估____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We evaluate country risk alongside revenue potential.",
+            "zh": "我们在评估收入潜力的同时评估国家风险。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 549,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈkʌntri ˈrɪsk",
+        "ipaUS": "ˈkʌntri ˈrɪsk",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Country risk",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT549",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Country risk",
+        "zh": "国家风险",
+        "definition": "特定国家的政治、经济、制度或金融环境给经营及投资带来的风险。",
+        "example": "No, we evaluate country risk alongside revenue potential.",
+        "exampleZh": "不能，我们还会结合收入潜力评估国家风险。",
+        "collocation": "evaluate country risk",
+        "collocationZh": "评估国家风险",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Is revenue potential enough to make a decision?",
+            "zh": "仅凭收入潜力就能作出决策吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "No, we evaluate country risk alongside revenue potential.",
+            "zh": "不能，我们还会结合收入潜力评估国家风险。"
+          }
+        ],
+        "usage": "国家风险不同于单个合作伙伴的信用风险。",
+        "new": true,
+        "order": 549,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkʌntri rɪsk",
+        "ipaUS": "ˈkʌntri rɪsk",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Country risk",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "example",
+        "exampleZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "国家风险不同于单个合作伙伴的信用风险。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT550",
+      "before": {
+        "id": "MKT550",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Regulatory landscape",
+        "zh": "监管环境",
+        "definition": "影响业务的法律、监管要求及执法环境",
+        "example": "We reviewed the regulatory landscape before advertising locally.",
+        "exampleZh": "我们在当地投放广告前审查了监管环境。",
+        "collocation": "review the regulatory landscape",
+        "collocationZh": "审查监管环境",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We reviewed the ____ before advertising locally.",
+            "zh": "补全职场表达：我们在当地投放广告前审查了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We reviewed the regulatory landscape before advertising locally.",
+            "zh": "我们在当地投放广告前审查了监管环境。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 550,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˌreɡjuːˈleɪtəri ˈlændskeɪp",
+        "ipaUS": "ˈreɡjuːləˌtoːri ˈlændskeɪp",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Regulatory landscape",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT550",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Regulatory landscape",
+        "zh": "监管环境",
+        "definition": "影响业务的法律、监管要求、监管机构及执法实践的整体环境。",
+        "example": "We reviewed the regulatory landscape with local counsel.",
+        "exampleZh": "我们与当地法律顾问一起了解了监管环境。",
+        "collocation": "review the regulatory landscape",
+        "collocationZh": "了解监管环境",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What did we check before launching local ads?",
+            "zh": "在当地投放广告前我们检查了什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We reviewed the regulatory landscape with local counsel.",
+            "zh": "我们与当地法律顾问一起了解了监管环境。"
+          }
+        ],
+        "usage": "监管要求随市场和业务类型而变化。",
+        "new": true,
+        "order": 550,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌreɡjəˈleɪtəri ˈlændskeɪp",
+        "ipaUS": "ˈreɡjələtɔːri ˈlændskeɪp",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Regulatory landscape",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "example",
+        "exampleZh",
+        "collocationZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "监管要求随市场和业务类型而变化。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT551",
+      "before": {
+        "id": "MKT551",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Market feasibility",
+        "zh": "市场可行性",
+        "definition": "在特定市场开展业务的实际可实施程度",
+        "example": "The pilot helped us assess market feasibility.",
+        "exampleZh": "试点帮助我们评估市场可行性。",
+        "collocation": "assess market feasibility",
+        "collocationZh": "评估市场可行性",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: The pilot helped us assess ____.",
+            "zh": "补全职场表达：试点帮助我们评估____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The pilot helped us assess market feasibility.",
+            "zh": "试点帮助我们评估市场可行性。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 551,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈmɑːkɪt ˌfiːzəˈbɪlɪti",
+        "ipaUS": "ˈmɑːrkɪt ˌfiːzəˈbɪlɪti",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Market feasibility",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT551",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Market feasibility",
+        "zh": "市场进入可行性",
+        "definition": "企业在特定市场开展业务的实际可实施程度，涉及资源、合规、渠道及经济条件。",
+        "example": "The pilot helped us assess market feasibility before investing further.",
+        "exampleZh": "试点帮助我们在进一步投资前评估市场进入可行性。",
+        "collocation": "assess market feasibility",
+        "collocationZh": "评估市场进入可行性",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did we run a pilot?",
+            "zh": "为什么开展试点？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The pilot helped us assess market feasibility before investing further.",
+            "zh": "试点帮助我们在进一步投资前评估市场进入可行性。"
+          }
+        ],
+        "usage": "市场有吸引力不代表企业具备进入条件。",
+        "new": true,
+        "order": 551,
+        "aliases": [
+          "市场可行性"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmɑːkɪt ˌfiːzəˈbɪləti",
+        "ipaUS": "ˈmɑːrkɪt ˌfiːzəˈbɪləti",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Market feasibility",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "zh",
+        "definition",
+        "example",
+        "exampleZh",
+        "collocationZh",
+        "dialogue",
+        "usage",
+        "aliases",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "市场有吸引力不代表企业具备进入条件。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT552",
+      "before": {
+        "id": "MKT552",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Direct exporting",
+        "zh": "直接出口",
+        "definition": "企业直接向海外客户或经销商销售商品",
+        "example": "Direct exporting gives us more control over customer relationships.",
+        "exampleZh": "直接出口让我们更能掌控客户关系。",
+        "collocation": "pursue direct exporting",
+        "collocationZh": "采用直接出口",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ gives us more control over customer relationships.",
+            "zh": "补全职场表达：____让我们更能掌控客户关系。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Direct exporting gives us more control over customer relationships.",
+            "zh": "直接出口让我们更能掌控客户关系。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 552,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "daɪˈrekt ekˈspɔːtɪŋ",
+        "ipaUS": "dɚˈrekt ekˈspoːrtɪŋ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Direct exporting",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT552",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Direct exporting",
+        "zh": "直接出口",
+        "definition": "企业不通过本国出口中间商，直接向海外客户或海外分销伙伴销售商品。",
+        "example": "Direct exporting may give us more control over customer relationships.",
+        "exampleZh": "直接出口可能让我们更好地管理客户关系。",
+        "collocation": "pursue direct exporting",
+        "collocationZh": "采用直接出口方式",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why are we considering direct exporting?",
+            "zh": "为什么考虑直接出口？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Direct exporting may give us more control over customer relationships.",
+            "zh": "直接出口可能让我们更好地管理客户关系。"
+          }
+        ],
+        "usage": "direct 也有 /dɪˈrekt/ 等读音；直接出口仍可使用海外经销商。",
+        "new": true,
+        "order": 552,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "daɪˈrekt ɪkˈspɔːtɪŋ",
+        "ipaUS": "dəˈrekt ɪkˈspɔːrtɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Direct exporting",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "example",
+        "exampleZh",
+        "collocationZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "direct 也有 /dɪˈrekt/ 等读音；直接出口仍可使用海外经销商。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT553",
+      "before": {
+        "id": "MKT553",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Joint venture",
+        "zh": "合资企业",
+        "definition": "由两个或多个主体共同投资或控制的经营实体",
+        "example": "We formed a joint venture with a local partner.",
+        "exampleZh": "我们与当地合作伙伴成立了合资企业。",
+        "collocation": "form a joint venture",
+        "collocationZh": "成立合资企业",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We formed a ____ with a local partner.",
+            "zh": "补全职场表达：我们与当地合作伙伴成立了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We formed a joint venture with a local partner.",
+            "zh": "我们与当地合作伙伴成立了合资企业。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 553,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈdʒɔɪnt ˈventʃə",
+        "ipaUS": "ˈdʒɔɪnt ˈventʃɚ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Joint venture",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT553",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Joint venture",
+        "zh": "合资企业",
+        "definition": "两个或多个主体共同控制的商业安排，可采用独立实体或合同合作形式。",
+        "example": "We formed a joint venture with a local partner.",
+        "exampleZh": "我们与当地合作伙伴成立了合资企业。",
+        "collocation": "form a joint venture",
+        "collocationZh": "成立合资企业",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we enter the market with a local partner?",
+            "zh": "我们如何与当地伙伴共同进入市场？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We formed a joint venture with a local partner.",
+            "zh": "我们与当地合作伙伴成立了合资企业。"
+          }
+        ],
+        "usage": "也可译为合资安排；具体法律形式因协议而异。",
+        "new": true,
+        "order": 553,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "dʒɔɪnt ˈventʃə",
+        "ipaUS": "dʒɔɪnt ˈventʃər",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Joint venture",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "也可译为合资安排；具体法律形式因协议而异。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT554",
+      "before": {
+        "id": "MKT554",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Franchising",
+        "zh": "特许经营",
+        "definition": "授权经营者使用品牌和商业体系并按约定经营",
+        "example": "We plan to expand through franchising in smaller cities.",
+        "exampleZh": "我们计划通过特许经营拓展较小城市。",
+        "collocation": "expand through franchising",
+        "collocationZh": "通过特许经营拓展",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We plan to expand through ____ in smaller cities.",
+            "zh": "补全职场表达：我们计划通过____拓展较小城市。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We plan to expand through franchising in smaller cities.",
+            "zh": "我们计划通过特许经营拓展较小城市。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 554,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈfræntʃaɪzɪŋ",
+        "ipaUS": "ˈfræntʃaɪzɪŋ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Franchising",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT554",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Franchising",
+        "zh": "特许经营",
+        "definition": "特许人授权经营者使用品牌及经营体系，经营者按约定标准经营并承担相应费用或义务。",
+        "example": "We plan to expand through franchising in smaller cities.",
+        "exampleZh": "我们计划通过特许经营拓展规模较小的城市市场。",
+        "collocation": "expand through franchising",
+        "collocationZh": "通过特许经营拓展市场",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How will we expand into smaller cities?",
+            "zh": "我们将如何拓展规模较小的城市？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We plan to expand through franchising in smaller cities.",
+            "zh": "我们计划通过特许经营拓展规模较小的城市市场。"
+          }
+        ],
+        "usage": "区别于仅授权使用商标的许可安排。",
+        "new": true,
+        "order": 554,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈfræntʃaɪzɪŋ",
+        "ipaUS": "ˈfræntʃaɪzɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Franchising",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "exampleZh",
+        "collocationZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "区别于仅授权使用商标的许可安排。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT555",
+      "before": {
+        "id": "MKT555",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Local distributor",
+        "zh": "当地经销商",
+        "definition": "在目标市场负责分销产品的合作方",
+        "example": "We appointed a local distributor with strong retail relationships.",
+        "exampleZh": "我们指定了一家零售渠道关系较强的当地经销商。",
+        "collocation": "appoint a local distributor",
+        "collocationZh": "指定当地经销商",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We appointed a ____ with strong retail relationships.",
+            "zh": "补全职场表达：我们指定了一家零售渠道关系较强的____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We appointed a local distributor with strong retail relationships.",
+            "zh": "我们指定了一家零售渠道关系较强的当地经销商。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 555,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈləʊkəl dɪˈstrɪbjuːtə",
+        "ipaUS": "ˈloʊkəl dɪˈstrɪbjuːtɚ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Local distributor",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT555",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Local distributor",
+        "zh": "当地经销商",
+        "definition": "在目标市场承担商品分销及相关销售服务的合作方。",
+        "example": "We appointed a local distributor with strong retail relationships.",
+        "exampleZh": "我们选定了一家拥有良好零售渠道关系的当地经销商。",
+        "collocation": "appoint a local distributor",
+        "collocationZh": "选定当地经销商",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Who will distribute our products locally?",
+            "zh": "谁负责在当地分销我们的产品？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We appointed a local distributor with strong retail relationships.",
+            "zh": "我们选定了一家拥有良好零售渠道关系的当地经销商。"
+          }
+        ],
+        "usage": "经销商与代理商的所有权及交易责任可能不同。",
+        "new": true,
+        "order": 555,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈləʊkəl dɪˈstrɪbjətə",
+        "ipaUS": "ˈloʊkəl dɪˈstrɪbjətər",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Local distributor",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "exampleZh",
+        "collocationZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "经销商与代理商的所有权及交易责任可能不同。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT556",
+      "before": {
+        "id": "MKT556",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Cross-border e-commerce",
+        "zh": "跨境电商",
+        "definition": "通过线上渠道完成跨国商品或服务交易",
+        "example": "Cross-border e-commerce lets us test demand before opening stores.",
+        "exampleZh": "跨境电商让我们在开店前测试需求。",
+        "collocation": "expand cross-border e-commerce",
+        "collocationZh": "拓展跨境电商",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ lets us test demand before opening stores.",
+            "zh": "补全职场表达：____让我们在开店前测试需求。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cross-border e-commerce lets us test demand before opening stores.",
+            "zh": "跨境电商让我们在开店前测试需求。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 556,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈkrɒsˈbɔːdər ˈiːˈkɒmɜːs",
+        "ipaUS": "ˈkrɔsˈboːrdɚr ˈiːˈkɑːmɜːs",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Cross-border e-commerce",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT556",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Cross-border e-commerce",
+        "zh": "跨境电商",
+        "definition": "买卖双方位于不同国家或地区，通过电子商务渠道开展商品或服务交易。",
+        "example": "Cross-border e-commerce lets us test demand before opening stores.",
+        "exampleZh": "跨境电商让我们能够在开设门店前测试市场需求。",
+        "collocation": "expand cross-border e-commerce",
+        "collocationZh": "拓展跨境电商业务",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Can we test demand before opening stores?",
+            "zh": "开设门店前能否测试市场需求？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cross-border e-commerce lets us test demand before opening stores.",
+            "zh": "跨境电商让我们能够在开设门店前测试市场需求。"
+          }
+        ],
+        "usage": "需考虑跨境配送、税费及售后服务。",
+        "new": true,
+        "order": 556,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌkrɒs ˈbɔːdər ˈiːkɒmɜːs",
+        "ipaUS": "ˌkrɔːs ˈbɔːrdər ˈiːkɑːmɝːs",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Cross-border e-commerce",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "exampleZh",
+        "collocationZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "需考虑跨境配送、税费及售后服务。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT557",
+      "before": {
+        "id": "MKT557",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Landed cost",
+        "zh": "到岸总成本",
+        "definition": "商品到达指定目的地所产生的采购、运输、关税等成本",
+        "example": "Landed cost determines whether our local price is viable.",
+        "exampleZh": "到岸总成本决定当地定价是否可行。",
+        "collocation": "calculate landed cost",
+        "collocationZh": "计算到岸总成本",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ determines whether our local price is viable.",
+            "zh": "补全职场表达：____决定当地定价是否可行。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Landed cost determines whether our local price is viable.",
+            "zh": "到岸总成本决定当地定价是否可行。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 557,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈlændɪd ˈkɒst",
+        "ipaUS": "ˈlændɪd ˈkɔst",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Landed cost",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT557",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Landed cost",
+        "zh": "到货总成本",
+        "definition": "商品到达指定目的地所发生的采购、运输、保险、关税及其他相关成本。",
+        "example": "Landed cost is a key factor in assessing whether our local price is viable.",
+        "exampleZh": "到货总成本是评估当地定价是否可行的重要因素。",
+        "collocation": "calculate landed cost",
+        "collocationZh": "计算到货总成本",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What costs should we consider when setting local prices?",
+            "zh": "制定当地价格时应考虑哪些成本？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Landed cost is a key factor in assessing whether our local price is viable.",
+            "zh": "到货总成本是评估当地定价是否可行的重要因素。"
+          }
+        ],
+        "usage": "不等同于 CIF 报价；应明确目的地及税费口径。",
+        "new": true,
+        "order": 557,
+        "aliases": [
+          "到岸总成本"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈlændɪd kɒst",
+        "ipaUS": "ˈlændɪd kɑːst",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Landed cost",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "zh",
+        "definition",
+        "example",
+        "exampleZh",
+        "collocationZh",
+        "dialogue",
+        "usage",
+        "aliases",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "不等同于 CIF 报价；应明确目的地及税费口径。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT558",
+      "before": {
+        "id": "MKT558",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Currency exposure",
+        "zh": "汇率风险敞口",
+        "definition": "收入或成本受汇率变化影响的程度",
+        "example": "We manage currency exposure when setting regional prices.",
+        "exampleZh": "我们在制定区域价格时管理汇率风险敞口。",
+        "collocation": "manage currency exposure",
+        "collocationZh": "管理汇率风险敞口",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We manage ____ when setting regional prices.",
+            "zh": "补全职场表达：我们在制定区域价格时管理____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We manage currency exposure when setting regional prices.",
+            "zh": "我们在制定区域价格时管理汇率风险敞口。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 558,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈkʌrənsi ekˈspəʊʒə",
+        "ipaUS": "ˈkɜːrənsi ekˈspoʊʒɚ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Currency exposure",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT558",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Currency exposure",
+        "zh": "汇率风险敞口",
+        "definition": "现金流、资产、负债或经营结果受到汇率变动影响的程度。",
+        "example": "We manage currency exposure when setting regional prices.",
+        "exampleZh": "我们在制定区域价格时管理汇率风险敞口。",
+        "collocation": "manage currency exposure",
+        "collocationZh": "管理汇率风险敞口",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How do we account for exchange rate fluctuations?",
+            "zh": "我们如何考虑汇率波动？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We manage currency exposure when setting regional prices.",
+            "zh": "我们在制定区域价格时管理汇率风险敞口。"
+          }
+        ],
+        "usage": "风险敞口并非已经发生的汇兑损失。",
+        "new": true,
+        "order": 558,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkʌrənsi ɪkˈspəʊʒə",
+        "ipaUS": "ˈkɝːənsi ɪkˈspoʊʒər",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Currency exposure",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "风险敞口并非已经发生的汇兑损失。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT559",
+      "before": {
+        "id": "MKT559",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Pilot market",
+        "zh": "试点市场",
+        "definition": "用于小规模验证商业模式或营销策略的市场",
+        "example": "We selected a pilot market with reliable distribution data.",
+        "exampleZh": "我们选择了一个拥有可靠分销数据的试点市场。",
+        "collocation": "select a pilot market",
+        "collocationZh": "选择试点市场",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We selected a ____ with reliable distribution data.",
+            "zh": "补全职场表达：我们选择了一个拥有可靠分销数据的____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We selected a pilot market with reliable distribution data.",
+            "zh": "我们选择了一个拥有可靠分销数据的试点市场。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 559,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈpaɪlət ˈmɑːkɪt",
+        "ipaUS": "ˈpaɪlət ˈmɑːrkɪt",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Pilot market",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT559",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Pilot market",
+        "zh": "试点市场",
+        "definition": "用于有限范围测试商业模式、产品或营销策略的市场。",
+        "example": "We selected a pilot market with reliable distribution data.",
+        "exampleZh": "我们选择了一个能够提供可靠分销数据的试点市场。",
+        "collocation": "select a pilot market",
+        "collocationZh": "选择试点市场",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did we choose this country for the trial?",
+            "zh": "为什么选择这个国家开展试点？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We selected a pilot market with reliable distribution data.",
+            "zh": "我们选择了一个能够提供可靠分销数据的试点市场。"
+          }
+        ],
+        "usage": "试点结果推广至其他市场前需评估代表性。",
+        "new": true,
+        "order": 559,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈpaɪlət ˈmɑːkɪt",
+        "ipaUS": "ˈpaɪlət ˈmɑːrkɪt",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Pilot market",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "exampleZh",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "试点结果推广至其他市场前需评估代表性。",
+      "verification": "编辑复核，未独立核验词典"
+    },
+    {
+      "id": "MKT560",
+      "before": {
+        "id": "MKT560",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Market exit strategy",
+        "zh": "市场退出战略",
+        "definition": "停止或缩减某市场经营的安排",
+        "example": "We defined a market exit strategy before signing the lease.",
+        "exampleZh": "我们在签订租约前制定了市场退出战略。",
+        "collocation": "define a market exit strategy",
+        "collocationZh": "制定市场退出战略",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We defined a ____ before signing the lease.",
+            "zh": "补全职场表达：我们在签订租约前制定了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We defined a market exit strategy before signing the lease.",
+            "zh": "我们在签订租约前制定了市场退出战略。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 560,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈmɑːkɪt ˈeɡzɪt ˈstrætədʒi",
+        "ipaUS": "ˈmɑːrkɪt ˈeɡzɪt ˈstrætədʒi",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Market exit strategy",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT560",
+        "moduleId": "m21",
+        "module": "海外市场拓展",
+        "term": "Market exit strategy",
+        "zh": "市场退出战略",
+        "definition": "规划停止或缩减目标市场经营的条件、步骤及相关责任的安排。",
+        "example": "We defined a market exit strategy before signing the lease.",
+        "exampleZh": "我们在签订租约前制定了市场退出战略。",
+        "collocation": "define a market exit strategy",
+        "collocationZh": "制定市场退出战略",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What if the new store fails to meet its targets?",
+            "zh": "如果新门店未达到目标怎么办？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We defined a market exit strategy before signing the lease.",
+            "zh": "我们在签订租约前制定了市场退出战略。"
+          }
+        ],
+        "usage": "应考虑合同、客户、员工及库存等退出义务。",
+        "new": true,
+        "order": 560,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈmɑːkɪt ˈeɡzɪt ˈstrætədʒi",
+        "ipaUS": "ˈmɑːrkɪt ˈeɡzɪt ˈstrætədʒi",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Market exit strategy",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "usage",
+        "collocationReview",
+        "ipaSource",
+        "ipaNote"
+      ],
+      "reason": "应考虑合同、客户、员工及库存等退出义务。",
+      "verification": "编辑复核，未独立核验词典"
+    }
+  ]
+}

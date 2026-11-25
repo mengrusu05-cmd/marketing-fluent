@@ -1,0 +1,57 @@
+{
+  "base": "1.0.70",
+  "version": "1.0.71",
+  "changes": [
+    "8 second fetch/body timeout",
+    "5 second worker wait timeout; deduplicate outstanding worker operations",
+    "prevent concurrent manual and automatic update operations",
+    "version alignment; unchanged content and storage key"
+  ],
+  "files": [
+    {
+      "file": "CHANGELOG.md",
+      "before_sha256": "7742088533874d6d2b355c0e89cf8a4381eade9c932fa7387c7b6b528444e49d",
+      "after_sha256": "cd4fbfcad64e408b3ec70ad440f3e9ec52280c88e704a9aacba8b1973e200f82"
+    },
+    {
+      "file": "TEST-REPORT.txt",
+      "before_sha256": "6ecb3cf0508193c48ed5e85045a3d7cfda32e3977c10272458c6234e65e5e3bc",
+      "after_sha256": "4d9149c88e3c0815647dacdd0eee93ccc4cadae71cc4b30c8f1ce964742be9bf"
+    },
+    {
+      "file": "index.html",
+      "before_sha256": "475db88e336e177c7284e0701189baa85651178f666ef493711aa44209a1b49e",
+      "after_sha256": "757a3d7e51fdbe372e77941ba4e40f071e12b5d90ebc2b2c2847ac3435b260e2"
+    },
+    {
+      "file": "marketing-vocabulary.json",
+      "before_sha256": "4a5edbefe48d9afa4a56d5e69e6a62399b26832dfaf00f9854b3ab28b81dbb0f",
+      "after_sha256": "79d115730635c6810d89adea330d4338e707488cd9f77c861388c06763a6f2c5"
+    },
+    {
+      "file": "sw.js",
+      "before_sha256": "3d6a58f24ff20e42df11e027d4a98d793663adef5708bbc26f8e938994f7c1c7",
+      "after_sha256": "ad601f6d336ada5ec9362d8a481c9b4422c3b6967930674b443823bfaa64a2fc"
+    },
+    {
+      "file": "update-test-71.cjs",
+      "before_sha256": null,
+      "after_sha256": "33cf98e36a41019c24df3a8ed64052c4cea1a8fcafc7a5648d0deec7a9444d3d"
+    },
+    {
+      "file": "version.json",
+      "before_sha256": "fe350fdc71b710f5e482ce76af265e7397e44949cfa2786d0d11970051b1e5d8",
+      "after_sha256": "a470effeb99ceb326e991e08f3b24a37db221f08c3591081648e861b57114e36"
+    },
+    {
+      "file": "部署说明.txt",
+      "before_sha256": "00ecd0061af73f0e92439ec4ef59cf7cf2f756982836e60a50456cb7b8980526",
+      "after_sha256": "29d51eacadbf8b84c55bc367cf4e0e241100e45193e4271d2d7ee64a5bb3ca4f"
+    }
+  ],
+  "limitations": [
+    "No live deployment or browser/device acceptance",
+    "Historical IPA evidence unchanged",
+    "Historical audit files retained for traceability"
+  ]
+}

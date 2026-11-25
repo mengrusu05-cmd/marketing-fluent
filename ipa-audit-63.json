@@ -1,0 +1,921 @@
+{
+  "version": "1.0.63",
+  "addedSources": {
+    "global": {
+      "uk": "ˈɡləʊ.bəl",
+      "us": "ˈɡloʊ.bəl",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/global",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "cost": {
+      "uk": "kɒst",
+      "us": "kɑːst",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/cost",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "ad": {
+      "uk": "æd",
+      "us": "æd",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/ad",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "growth": {
+      "uk": "ɡrəʊθ",
+      "us": "ɡroʊθ",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/growth",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    }
+  },
+  "beforeCounts": {
+    "partial_component_evidence": 175,
+    "editorial_only": 418,
+    "full_term_verified": 6,
+    "all_components_evidence": 1
+  },
+  "afterCounts": {
+    "partial_component_evidence": 201,
+    "editorial_only": 390,
+    "full_term_verified": 6,
+    "all_components_evidence": 3
+  },
+  "changes": [
+    {
+      "before": {
+        "id": "MKT013",
+        "term": "Customer acquisition cost",
+        "components": [
+          "customer",
+          "acquisition",
+          "cost"
+        ],
+        "verifiedComponents": [
+          "customer"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT013",
+        "term": "Customer acquisition cost",
+        "components": [
+          "customer",
+          "acquisition",
+          "cost"
+        ],
+        "verifiedComponents": [
+          "customer",
+          "cost"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT014",
+        "term": "Return on ad spend",
+        "components": [
+          "return",
+          "on",
+          "ad",
+          "spend"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT014",
+        "term": "Return on ad spend",
+        "components": [
+          "return",
+          "on",
+          "ad",
+          "spend"
+        ],
+        "verifiedComponents": [
+          "ad"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT029",
+        "term": "Growth opportunity",
+        "components": [
+          "growth",
+          "opportunity"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT029",
+        "term": "Growth opportunity",
+        "components": [
+          "growth",
+          "opportunity"
+        ],
+        "verifiedComponents": [
+          "growth"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT087",
+        "term": "Cost per click",
+        "components": [
+          "cost",
+          "per",
+          "click"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT087",
+        "term": "Cost per click",
+        "components": [
+          "cost",
+          "per",
+          "click"
+        ],
+        "verifiedComponents": [
+          "cost"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT088",
+        "term": "Cost per mille",
+        "components": [
+          "cost",
+          "per",
+          "mille"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT088",
+        "term": "Cost per mille",
+        "components": [
+          "cost",
+          "per",
+          "mille"
+        ],
+        "verifiedComponents": [
+          "cost"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT096",
+        "term": "Cost per acquisition",
+        "components": [
+          "cost",
+          "per",
+          "acquisition"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT096",
+        "term": "Cost per acquisition",
+        "components": [
+          "cost",
+          "per",
+          "acquisition"
+        ],
+        "verifiedComponents": [
+          "cost"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT145",
+        "term": "Switching cost",
+        "components": [
+          "switching",
+          "cost"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT145",
+        "term": "Switching cost",
+        "components": [
+          "switching",
+          "cost"
+        ],
+        "verifiedComponents": [
+          "cost"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT234",
+        "term": "Ad rank",
+        "components": [
+          "ad",
+          "rank"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT234",
+        "term": "Ad rank",
+        "components": [
+          "ad",
+          "rank"
+        ],
+        "verifiedComponents": [
+          "ad"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT255",
+        "term": "Ad extension",
+        "components": [
+          "ad",
+          "extension"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT255",
+        "term": "Ad extension",
+        "components": [
+          "ad",
+          "extension"
+        ],
+        "verifiedComponents": [
+          "ad"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT271",
+        "term": "Ad placement",
+        "components": [
+          "ad",
+          "placement"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT271",
+        "term": "Ad placement",
+        "components": [
+          "ad",
+          "placement"
+        ],
+        "verifiedComponents": [
+          "ad"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT280",
+        "term": "Ad exchange",
+        "components": [
+          "ad",
+          "exchange"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT280",
+        "term": "Ad exchange",
+        "components": [
+          "ad",
+          "exchange"
+        ],
+        "verifiedComponents": [
+          "ad"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT287",
+        "term": "Ad fraud",
+        "components": [
+          "ad",
+          "fraud"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT287",
+        "term": "Ad fraud",
+        "components": [
+          "ad",
+          "fraud"
+        ],
+        "verifiedComponents": [
+          "ad"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT288",
+        "term": "Ad verification",
+        "components": [
+          "ad",
+          "verification"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT288",
+        "term": "Ad verification",
+        "components": [
+          "ad",
+          "verification"
+        ],
+        "verifiedComponents": [
+          "ad"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT296",
+        "term": "Cost per completed view",
+        "components": [
+          "cost",
+          "per",
+          "completed",
+          "view"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT296",
+        "term": "Cost per completed view",
+        "components": [
+          "cost",
+          "per",
+          "completed",
+          "view"
+        ],
+        "verifiedComponents": [
+          "cost"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT299",
+        "term": "Ad recall",
+        "components": [
+          "ad",
+          "recall"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT299",
+        "term": "Ad recall",
+        "components": [
+          "ad",
+          "recall"
+        ],
+        "verifiedComponents": [
+          "ad"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT302",
+        "term": "Follower growth",
+        "components": [
+          "follower",
+          "growth"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT302",
+        "term": "Follower growth",
+        "components": [
+          "follower",
+          "growth"
+        ],
+        "verifiedComponents": [
+          "growth"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT441",
+        "term": "Growth loop",
+        "components": [
+          "growth",
+          "loop"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT441",
+        "term": "Growth loop",
+        "components": [
+          "growth",
+          "loop"
+        ],
+        "verifiedComponents": [
+          "growth"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT445",
+        "term": "Growth experiment",
+        "components": [
+          "growth",
+          "experiment"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT445",
+        "term": "Growth experiment",
+        "components": [
+          "growth",
+          "experiment"
+        ],
+        "verifiedComponents": [
+          "growth"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT456",
+        "term": "Growth hypothesis",
+        "components": [
+          "growth",
+          "hypothesis"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT456",
+        "term": "Growth hypothesis",
+        "components": [
+          "growth",
+          "hypothesis"
+        ],
+        "verifiedComponents": [
+          "growth"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT460",
+        "term": "Product-led growth",
+        "components": [
+          "product",
+          "led",
+          "growth"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT460",
+        "term": "Product-led growth",
+        "components": [
+          "product",
+          "led",
+          "growth"
+        ],
+        "verifiedComponents": [
+          "product",
+          "growth"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT526",
+        "term": "Global brand strategy",
+        "components": [
+          "global",
+          "brand",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "brand",
+          "strategy"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT526",
+        "term": "Global brand strategy",
+        "components": [
+          "global",
+          "brand",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "global",
+          "brand",
+          "strategy"
+        ],
+        "status": "all_components_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT527",
+        "term": "Global campaign",
+        "components": [
+          "global",
+          "campaign"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT527",
+        "term": "Global campaign",
+        "components": [
+          "global",
+          "campaign"
+        ],
+        "verifiedComponents": [
+          "global",
+          "campaign"
+        ],
+        "status": "all_components_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT529",
+        "term": "Global brand consistency",
+        "components": [
+          "global",
+          "brand",
+          "consistency"
+        ],
+        "verifiedComponents": [
+          "brand"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT529",
+        "term": "Global brand consistency",
+        "components": [
+          "global",
+          "brand",
+          "consistency"
+        ],
+        "verifiedComponents": [
+          "global",
+          "brand"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT530",
+        "term": "Global marketing playbook",
+        "components": [
+          "global",
+          "marketing",
+          "playbook"
+        ],
+        "verifiedComponents": [
+          "marketing"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT530",
+        "term": "Global marketing playbook",
+        "components": [
+          "global",
+          "marketing",
+          "playbook"
+        ],
+        "verifiedComponents": [
+          "global",
+          "marketing"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT532",
+        "term": "Global-local alignment",
+        "components": [
+          "global",
+          "local",
+          "alignment"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT532",
+        "term": "Global-local alignment",
+        "components": [
+          "global",
+          "local",
+          "alignment"
+        ],
+        "verifiedComponents": [
+          "global"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT535",
+        "term": "Global asset library",
+        "components": [
+          "global",
+          "asset",
+          "library"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT535",
+        "term": "Global asset library",
+        "components": [
+          "global",
+          "asset",
+          "library"
+        ],
+        "verifiedComponents": [
+          "global"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT537",
+        "term": "Global account management",
+        "components": [
+          "global",
+          "account",
+          "management"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT537",
+        "term": "Global account management",
+        "components": [
+          "global",
+          "account",
+          "management"
+        ],
+        "verifiedComponents": [
+          "global"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT539",
+        "term": "Global rollout",
+        "components": [
+          "global",
+          "rollout"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT539",
+        "term": "Global rollout",
+        "components": [
+          "global",
+          "rollout"
+        ],
+        "verifiedComponents": [
+          "global"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT542",
+        "term": "Global procurement",
+        "components": [
+          "global",
+          "procurement"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT542",
+        "term": "Global procurement",
+        "components": [
+          "global",
+          "procurement"
+        ],
+        "verifiedComponents": [
+          "global"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT544",
+        "term": "Global governance",
+        "components": [
+          "global",
+          "governance"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT544",
+        "term": "Global governance",
+        "components": [
+          "global",
+          "governance"
+        ],
+        "verifiedComponents": [
+          "global"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT557",
+        "term": "Landed cost",
+        "components": [
+          "landed",
+          "cost"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT557",
+        "term": "Landed cost",
+        "components": [
+          "landed",
+          "cost"
+        ],
+        "verifiedComponents": [
+          "cost"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT585",
+        "term": "Cost center",
+        "components": [
+          "cost",
+          "center"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT585",
+        "term": "Cost center",
+        "components": [
+          "cost",
+          "center"
+        ],
+        "verifiedComponents": [
+          "cost"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT588",
+        "term": "Year-over-year growth",
+        "components": [
+          "year",
+          "over",
+          "year",
+          "growth"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT588",
+        "term": "Year-over-year growth",
+        "components": [
+          "year",
+          "over",
+          "year",
+          "growth"
+        ],
+        "verifiedComponents": [
+          "growth"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT589",
+        "term": "Quarter-over-quarter growth",
+        "components": [
+          "quarter",
+          "over",
+          "quarter",
+          "growth"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT589",
+        "term": "Quarter-over-quarter growth",
+        "components": [
+          "quarter",
+          "over",
+          "quarter",
+          "growth"
+        ],
+        "verifiedComponents": [
+          "growth"
+        ],
+        "status": "partial_component_evidence"
+      }
+    }
+  ]
+}

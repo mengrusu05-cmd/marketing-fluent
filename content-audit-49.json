@@ -1,0 +1,1530 @@
+[
+  {
+    "id": "MKT401",
+    "before": {
+      "id": "MKT401",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Trade promotion",
+      "zh": "渠道促销",
+      "definition": "面向经销商或零售商的促销激励",
+      "example": "We will fund a trade promotion for the spring launch.",
+      "exampleZh": "我们将为春季上市提供渠道促销资金。",
+      "collocation": "fund a trade promotion",
+      "collocationZh": "资助渠道促销",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We will fund a ____ for the spring launch.",
+          "zh": "补全职场表达：我们将为春季上市提供____资金。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will fund a trade promotion for the spring launch.",
+          "zh": "我们将为春季上市提供渠道促销资金。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 401,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtreɪd prəˈməʊʃən",
+      "ipaUS": "ˈtreɪd prəˈmoʊʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Trade promotion",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT401",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Trade promotion",
+      "zh": "渠道促销",
+      "definition": "面向零售商或经销商的促销活动及激励，旨在促进铺货或销售。",
+      "example": "We will fund a trade promotion for the spring launch.",
+      "exampleZh": "我们将为春季新品上市的渠道促销活动提供资金。",
+      "collocation": "fund a trade promotion",
+      "collocationZh": "为渠道促销提供资金",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we support retailers during the spring launch?",
+          "zh": "春季新品上市期间，我们将如何支持零售商？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We will fund a trade promotion for the spring launch.",
+          "zh": "我们将为春季新品上市的渠道促销活动提供资金。"
+        }
+      ],
+      "usage": "区别于直接面向消费者的促销。",
+      "new": true,
+      "order": 401,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "treɪd prəˈməʊʃən",
+      "ipaUS": "treɪd prəˈmoʊʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Trade promotion",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT402",
+    "before": {
+      "id": "MKT402",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Trade allowance",
+      "zh": "渠道补贴",
+      "definition": "供应商给予渠道伙伴的商业补贴",
+      "example": "The retailer requested a higher trade allowance.",
+      "exampleZh": "零售商要求提高渠道补贴。",
+      "collocation": "negotiate trade allowances",
+      "collocationZh": "协商渠道补贴",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The retailer requested a higher ____.",
+          "zh": "补全职场表达：零售商要求提高____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The retailer requested a higher trade allowance.",
+          "zh": "零售商要求提高渠道补贴。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 402,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtreɪd əˈlaʊəns",
+      "ipaUS": "ˈtreɪd əˈlaʊəns",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Trade allowance",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT402",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Trade allowance",
+      "zh": "渠道补贴",
+      "definition": "供应商按约定向渠道伙伴提供的折扣、补贴或费用补偿。",
+      "example": "The retailer requested a higher trade allowance.",
+      "exampleZh": "零售商要求提高渠道补贴。",
+      "collocation": "negotiate trade allowances",
+      "collocationZh": "协商渠道补贴",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did the retailer ask for during negotiations?",
+          "zh": "零售商在谈判中提出了什么要求？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The retailer requested a higher trade allowance.",
+          "zh": "零售商要求提高渠道补贴。"
+        }
+      ],
+      "usage": "具体支付条件以协议为准。",
+      "new": true,
+      "order": 402,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "treɪd əˈlaʊəns",
+      "ipaUS": "treɪd əˈlaʊəns",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Trade allowance",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT403",
+    "before": {
+      "id": "MKT403",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Listing fee",
+      "zh": "进场费",
+      "definition": "商品进入零售商销售体系所需支付的费用",
+      "example": "We asked the buyer to waive the listing fee for the trial.",
+      "exampleZh": "我们请求采购方免除试销进场费。",
+      "collocation": "waive the listing fee",
+      "collocationZh": "免除进场费",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We asked the buyer to waive the ____ for the trial.",
+          "zh": "补全职场表达：我们请求采购方免除试销____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We asked the buyer to waive the listing fee for the trial.",
+          "zh": "我们请求采购方免除试销进场费。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 403,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈlɪstɪŋ ˈfiː",
+      "ipaUS": "ˈlɪstɪŋ ˈfiː",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Listing fee",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT403",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Listing fee",
+      "zh": "进场费",
+      "definition": "零售商可能向供应商收取的商品上架或进入销售体系的费用。",
+      "example": "We asked the buyer to waive the listing fee for the trial.",
+      "exampleZh": "我们请求采购方免除试销进场费。",
+      "collocation": "waive the listing fee",
+      "collocationZh": "免除进场费",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we try to reduce the cost of the trial?",
+          "zh": "我们如何尝试降低试销成本？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We asked the buyer to waive the listing fee for the trial.",
+          "zh": "我们请求采购方免除试销进场费。"
+        }
+      ],
+      "usage": "并非所有零售商均收取进场费。",
+      "new": true,
+      "order": 403,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈlɪstɪŋ fiː",
+      "ipaUS": "ˈlɪstɪŋ fiː",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Listing fee",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT404",
+    "before": {
+      "id": "MKT404",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Sell-in",
+      "zh": "渠道进货",
+      "definition": "品牌向经销商或零售商销售商品",
+      "example": "Sell-in exceeded the forecast before the holiday.",
+      "exampleZh": "节前渠道进货超过预测。",
+      "collocation": "track sell-in",
+      "collocationZh": "追踪渠道进货",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ exceeded the forecast before the holiday.",
+          "zh": "补全职场表达：节前____超过预测。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Sell-in exceeded the forecast before the holiday.",
+          "zh": "节前渠道进货超过预测。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 404,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈseˈlɪn",
+      "ipaUS": "ˈseˈlɪn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Sell-in",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT404",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Sell-in",
+      "zh": "渠道进货",
+      "definition": "品牌或供应商向渠道伙伴销售商品的情况。",
+      "example": "Sell-in exceeded the forecast before the holiday.",
+      "exampleZh": "节前向渠道伙伴的销售量超过预测。",
+      "collocation": "track sell-in",
+      "collocationZh": "追踪渠道进货",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did shipments to our retail partners compare with the forecast?",
+          "zh": "向零售伙伴的销售情况与预测相比如何？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Sell-in exceeded the forecast before the holiday.",
+          "zh": "节前向渠道伙伴的销售量超过预测。"
+        }
+      ],
+      "usage": "不等于终端消费者实际购买量。",
+      "new": true,
+      "order": 404,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsel ɪn",
+      "ipaUS": "ˈsel ɪn",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Sell-in",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT405",
+    "before": {
+      "id": "MKT405",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Sell-through",
+      "zh": "终端售出",
+      "definition": "指定期间售出的商品数量；售罄率通常以售出数量除以相应可售库存数量，具体口径需明确。",
+      "example": "We monitor sell-through before replenishing stock.",
+      "exampleZh": "补货前我们监控终端售出情况。",
+      "collocation": "monitor sell-through",
+      "collocationZh": "监控终端售出",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We monitor ____ before replenishing stock.",
+          "zh": "补全职场表达：补货前我们监控____情况。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We monitor sell-through before replenishing stock.",
+          "zh": "补货前我们监控终端售出情况。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 405,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈselˈθruː",
+      "ipaUS": "ˈselˈθruː",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Sell-through",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT405",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Sell-through",
+      "zh": "终端售出",
+      "definition": "商品通过零售渠道售给终端客户的情况，可用销量或售出率衡量。",
+      "example": "We monitor sell-through before replenishing stock.",
+      "exampleZh": "补货前我们监控终端售出情况。",
+      "collocation": "monitor sell-through",
+      "collocationZh": "监控终端售出",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What do we check before ordering more stock?",
+          "zh": "补货前我们会检查什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We monitor sell-through before replenishing stock.",
+          "zh": "补货前我们监控终端售出情况。"
+        }
+      ],
+      "usage": "售出率须明确期间及可售库存分母。",
+      "new": true,
+      "order": 405,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈsel θruː",
+      "ipaUS": "ˈsel θruː",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Sell-through",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT406",
+    "before": {
+      "id": "MKT406",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Channel partner",
+      "zh": "渠道伙伴",
+      "definition": "协助品牌分销或销售的合作组织",
+      "example": "We onboarded two channel partners in the region.",
+      "exampleZh": "我们在该地区引入了两个渠道伙伴。",
+      "collocation": "onboard channel partners",
+      "collocationZh": "引入渠道伙伴",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We onboarded two ____ in the region.",
+          "zh": "补全职场表达：我们在该地区引入了两个____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We onboarded two channel partners in the region.",
+          "zh": "我们在该地区引入了两个渠道伙伴。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 406,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtʃænəl ˈpɑːtnə",
+      "ipaUS": "ˈtʃænəl ˈpɑːrtnɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Channel partner",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT406",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Channel partner",
+      "zh": "渠道伙伴",
+      "definition": "协助企业销售、分销或交付产品与服务的合作组织。",
+      "example": "We onboarded two channel partners in the region.",
+      "exampleZh": "我们在该地区引入了两个渠道伙伴。",
+      "collocation": "onboard channel partners",
+      "collocationZh": "引入渠道伙伴",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we expand our local distribution network?",
+          "zh": "我们如何扩大当地分销网络？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We onboarded two channel partners in the region.",
+          "zh": "我们在该地区引入了两个渠道伙伴。"
+        }
+      ],
+      "usage": "可包括经销商、代理商及零售商。",
+      "new": true,
+      "order": 406,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtʃænəl ˈpɑːtnə",
+      "ipaUS": "ˈtʃænəl ˈpɑːrtnər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Channel partner",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT407",
+    "before": {
+      "id": "MKT407",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Distributor margin",
+      "zh": "经销商毛利率",
+      "definition": "经销商销售收入扣除商品成本后的毛利占比",
+      "example": "The new pricing model protects distributor margins.",
+      "exampleZh": "新定价模式保护经销商毛利率。",
+      "collocation": "protect distributor margins",
+      "collocationZh": "保护经销商毛利率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The new pricing model protects ____.",
+          "zh": "补全职场表达：新定价模式保护____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The new pricing model protects distributor margins.",
+          "zh": "新定价模式保护经销商毛利率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 407,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "dɪˈstrɪbjuːtə ˈmɑːdʒɪn",
+      "ipaUS": "dɪˈstrɪbjuːtɚ ˈmɑːrdʒɪn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Distributor margin",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT407",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Distributor margin",
+      "zh": "经销商毛利率",
+      "definition": "经销商销售收入扣除商品成本后的毛利，常以销售收入的百分比表示。",
+      "example": "The new pricing model protects distributor margins.",
+      "exampleZh": "新定价模式保护经销商毛利率。",
+      "collocation": "protect distributor margins",
+      "collocationZh": "保护经销商毛利率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How does the new pricing model affect our distributors?",
+          "zh": "新定价模式对经销商有什么影响？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The new pricing model protects distributor margins.",
+          "zh": "新定价模式保护经销商毛利率。"
+        }
+      ],
+      "usage": "毛利率与以成本为分母的加价率不同。",
+      "new": true,
+      "order": 407,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "dɪˈstrɪbjətə ˈmɑːdʒɪn",
+      "ipaUS": "dɪˈstrɪbjətər ˈmɑːrdʒɪn",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Distributor margin",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT408",
+    "before": {
+      "id": "MKT408",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Channel conflict",
+      "zh": "渠道冲突",
+      "definition": "不同销售渠道之间因价格或客户归属等产生的冲突",
+      "example": "Exclusive bundles can help resolve channel conflict.",
+      "exampleZh": "专属组合装有助于解决渠道冲突。",
+      "collocation": "resolve channel conflict",
+      "collocationZh": "解决渠道冲突",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Exclusive bundles can help resolve ____.",
+          "zh": "补全职场表达：专属组合装有助于解决____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Exclusive bundles can help resolve channel conflict.",
+          "zh": "专属组合装有助于解决渠道冲突。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 408,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtʃænəl ˈkɒnflɪkt",
+      "ipaUS": "ˈtʃænəl ˈkɑːnflɪkt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Channel conflict",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT408",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Channel conflict",
+      "zh": "渠道冲突",
+      "definition": "渠道成员因价格、客户归属、区域或利益分配等产生的冲突。",
+      "example": "Exclusive bundles can help resolve channel conflict.",
+      "exampleZh": "渠道专属套餐有助于缓解渠道冲突。",
+      "collocation": "resolve channel conflict",
+      "collocationZh": "解决渠道冲突",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How could we reduce competition between our online and retail partners?",
+          "zh": "如何缓解线上与零售伙伴之间的竞争？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Exclusive bundles can help resolve channel conflict.",
+          "zh": "渠道专属套餐有助于缓解渠道冲突。"
+        }
+      ],
+      "usage": "既可能发生在同级渠道之间，也可能发生在不同层级之间。",
+      "new": true,
+      "order": 408,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtʃænəl ˈkɒnflɪkt",
+      "ipaUS": "ˈtʃænəl ˈkɑːnflɪkt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Channel conflict",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT409",
+    "before": {
+      "id": "MKT409",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Channel incentive",
+      "zh": "渠道激励",
+      "definition": "鼓励渠道伙伴实现销售或其他目标的奖励",
+      "example": "We designed channel incentives around actual sales.",
+      "exampleZh": "我们围绕实际销售设计渠道激励。",
+      "collocation": "design channel incentives",
+      "collocationZh": "设计渠道激励",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We designed ____ around actual sales.",
+          "zh": "补全职场表达：我们围绕实际销售设计____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We designed channel incentives around actual sales.",
+          "zh": "我们围绕实际销售设计渠道激励。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 409,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtʃænəl ɪnˈsentɪv",
+      "ipaUS": "ˈtʃænəl ɪnˈsentɪv",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Channel incentive",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT409",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Channel incentive",
+      "zh": "渠道激励",
+      "definition": "为鼓励渠道伙伴达成约定目标而提供的奖励或激励措施。",
+      "example": "We designed channel incentives around actual sales.",
+      "exampleZh": "我们根据实际销售情况设计了渠道激励措施。",
+      "collocation": "design channel incentives",
+      "collocationZh": "设计渠道激励",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did we use as the basis for partner rewards?",
+          "zh": "我们以什么作为合作伙伴奖励的依据？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We designed channel incentives around actual sales.",
+          "zh": "我们根据实际销售情况设计了渠道激励措施。"
+        }
+      ],
+      "usage": "可依据终端销售、服务质量等指标设计。",
+      "new": true,
+      "order": 409,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtʃænəl ɪnˈsentɪv",
+      "ipaUS": "ˈtʃænəl ɪnˈsentɪv",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Channel incentive",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT410",
+    "before": {
+      "id": "MKT410",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Co-op advertising",
+      "zh": "合作广告",
+      "definition": "品牌与渠道伙伴共同承担费用的广告",
+      "example": "The distributor applied for co-op advertising funds.",
+      "exampleZh": "经销商申请了合作广告资金。",
+      "collocation": "allocate co-op advertising funds",
+      "collocationZh": "分配合作广告资金",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The distributor applied for ____ funds.",
+          "zh": "补全职场表达：经销商申请了____资金。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The distributor applied for co-op advertising funds.",
+          "zh": "经销商申请了合作广告资金。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 410,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkəʊˈɒp ˈædvəˌtaɪzɪŋ",
+      "ipaUS": "ˈkoʊˈɑːp ˈædvɚˌtaɪzɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Co-op advertising",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT410",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Co-op advertising",
+      "zh": "合作广告",
+      "definition": "供应商与渠道伙伴按约定分担广告费用的合作方式。",
+      "example": "The distributor applied for co-op advertising funds.",
+      "exampleZh": "经销商申请了合作广告资金。",
+      "collocation": "allocate co-op advertising funds",
+      "collocationZh": "分配合作广告资金",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How does the distributor plan to fund its local ads?",
+          "zh": "经销商打算如何筹措当地广告费用？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The distributor applied for co-op advertising funds.",
+          "zh": "经销商申请了合作广告资金。"
+        }
+      ],
+      "usage": "费用报销比例和合格活动由协议规定。",
+      "new": true,
+      "order": 410,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkəʊɒp ˈædvətaɪzɪŋ",
+      "ipaUS": "ˈkoʊɑːp ˈædvərtaɪzɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Co-op advertising",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT411",
+    "before": {
+      "id": "MKT411",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Market development fund",
+      "zh": "市场拓展基金",
+      "definition": "品牌支持伙伴开展市场拓展活动的资金",
+      "example": "We approved market development funds for local events.",
+      "exampleZh": "我们批准了用于本地活动的市场拓展基金。",
+      "collocation": "approve market development funds",
+      "collocationZh": "批准市场拓展基金",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We approved ____ for local events.",
+          "zh": "补全职场表达：我们批准了用于本地活动的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We approved market development funds for local events.",
+          "zh": "我们批准了用于本地活动的市场拓展基金。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 411,
+      "aliases": [
+        "MDF"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmɑːkɪt dɪˈveləpmənt ˈfʌnd",
+      "ipaUS": "ˈmɑːrkɪt dɪˈveləpmənt ˈfʌnd",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Market development fund",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT411",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Market development fund",
+      "zh": "市场拓展基金",
+      "definition": "供应商为支持渠道伙伴拓展市场而提供的专项资金。",
+      "example": "We approved market development funds for local events.",
+      "exampleZh": "我们批准了用于本地活动的市场拓展基金。",
+      "collocation": "approve market development funds",
+      "collocationZh": "批准市场拓展基金",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Did we approve funding for the partners’ local events?",
+          "zh": "我们批准合作伙伴当地活动的资金了吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We approved market development funds for local events.",
+          "zh": "我们批准了用于本地活动的市场拓展基金。"
+        }
+      ],
+      "usage": "MDF 常以复数 market development funds 出现。",
+      "new": true,
+      "order": 411,
+      "aliases": [
+        "MDF"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmɑːkɪt dɪˈveləpmənt fʌnd",
+      "ipaUS": "ˈmɑːrkɪt dɪˈveləpmənt fʌnd",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Market development fund",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT412",
+    "before": {
+      "id": "MKT412",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Joint business plan",
+      "zh": "联合商业计划",
+      "definition": "品牌与渠道伙伴共同制定的经营目标和行动计划",
+      "example": "Both teams agreed on a joint business plan for next year.",
+      "exampleZh": "双方商定了明年的联合商业计划。",
+      "collocation": "agree on a joint business plan",
+      "collocationZh": "商定联合商业计划",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Both teams agreed on a ____ for next year.",
+          "zh": "补全职场表达：双方商定了明年的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Both teams agreed on a joint business plan for next year.",
+          "zh": "双方商定了明年的联合商业计划。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 412,
+      "aliases": [
+        "JBP"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈdʒɔɪnt ˈbɪznəs ˈplæn",
+      "ipaUS": "ˈdʒɔɪnt ˈbɪznəs ˈplæn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Joint business plan",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT412",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Joint business plan",
+      "zh": "联合商业计划",
+      "definition": "品牌与渠道伙伴共同制定的经营目标、资源安排及行动计划。",
+      "example": "Both teams agreed on a joint business plan for next year.",
+      "exampleZh": "双方商定了明年的联合商业计划。",
+      "collocation": "agree on a joint business plan",
+      "collocationZh": "商定联合商业计划",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did the two teams agree on for next year?",
+          "zh": "双方就明年达成了什么共识？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Both teams agreed on a joint business plan for next year.",
+          "zh": "双方商定了明年的联合商业计划。"
+        }
+      ],
+      "usage": "JBP 通常包含共同指标和定期复盘。",
+      "new": true,
+      "order": 412,
+      "aliases": [
+        "JBP"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "dʒɔɪnt ˈbɪznəs plæn",
+      "ipaUS": "dʒɔɪnt ˈbɪznəs plæn",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Joint business plan",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT413",
+    "before": {
+      "id": "MKT413",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Trade spend",
+      "zh": "渠道投入",
+      "definition": "用于渠道促销、补贴等商业活动的支出",
+      "example": "We need to optimize trade spend without losing shelf space.",
+      "exampleZh": "我们需要在不失去货架空间的情况下优化渠道投入。",
+      "collocation": "optimize trade spend",
+      "collocationZh": "优化渠道投入",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We need to optimize ____ without losing shelf space.",
+          "zh": "补全职场表达：我们需要在不失去货架空间的情况下优化____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to optimize trade spend without losing shelf space.",
+          "zh": "我们需要在不失去货架空间的情况下优化渠道投入。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 413,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtreɪd ˈspend",
+      "ipaUS": "ˈtreɪd ˈspend",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Trade spend",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT413",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Trade spend",
+      "zh": "渠道投入",
+      "definition": "企业用于渠道促销、折扣、补贴等商业活动的支出。",
+      "example": "We need to optimize trade spend without losing shelf space.",
+      "exampleZh": "我们需要在不失去货架空间的情况下优化渠道投入。",
+      "collocation": "optimize trade spend",
+      "collocationZh": "优化渠道投入",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What is our priority when reviewing the retail budget?",
+          "zh": "审查零售预算时我们的重点是什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to optimize trade spend without losing shelf space.",
+          "zh": "我们需要在不失去货架空间的情况下优化渠道投入。"
+        }
+      ],
+      "usage": "具体会计归类取决于企业政策和协议。",
+      "new": true,
+      "order": 413,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "treɪd spend",
+      "ipaUS": "treɪd spend",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Trade spend",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT414",
+    "before": {
+      "id": "MKT414",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Trade terms",
+      "zh": "渠道交易条款",
+      "definition": "与渠道伙伴约定的价格、付款和交付等条件",
+      "example": "Legal will review the trade terms before renewal.",
+      "exampleZh": "法务将在续约前审查渠道交易条款。",
+      "collocation": "review trade terms",
+      "collocationZh": "审查渠道交易条款",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Legal will review the ____ before renewal.",
+          "zh": "补全职场表达：法务将在续约前审查____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Legal will review the trade terms before renewal.",
+          "zh": "法务将在续约前审查渠道交易条款。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 414,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtreɪd ˈtɜːmz",
+      "ipaUS": "ˈtreɪd ˈtɜːmz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Trade terms",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT414",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Trade terms",
+      "zh": "渠道交易条款",
+      "definition": "与渠道伙伴约定的价格、折扣、付款、交付等交易条件。",
+      "example": "Legal will review the trade terms before renewal.",
+      "exampleZh": "法务将在续约前审查渠道交易条款。",
+      "collocation": "review trade terms",
+      "collocationZh": "审查渠道交易条款",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What will Legal check before we renew the agreement?",
+          "zh": "续约前法务会审查什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Legal will review the trade terms before renewal.",
+          "zh": "法务将在续约前审查渠道交易条款。"
+        }
+      ],
+      "usage": "通常使用复数 terms。",
+      "new": true,
+      "order": 414,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "treɪd tɜːmz",
+      "ipaUS": "treɪd tɝːmz",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Trade terms",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT415",
+    "before": {
+      "id": "MKT415",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Route to market",
+      "zh": "市场通路",
+      "definition": "产品从企业到目标客户的销售与分销路径",
+      "example": "We redesigned the route to market for rural areas.",
+      "exampleZh": "我们重新设计了农村地区的市场通路。",
+      "collocation": "redesign the route to market",
+      "collocationZh": "重新设计市场通路",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We redesigned the ____ for rural areas.",
+          "zh": "补全职场表达：我们重新设计了农村地区的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We redesigned the route to market for rural areas.",
+          "zh": "我们重新设计了农村地区的市场通路。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 415,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈruːt tə ˈmɑːkɪt",
+      "ipaUS": "ˈraʊt tə ˈmɑːrkɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Route to market",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT415",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Route to market",
+      "zh": "市场通路",
+      "definition": "产品或服务通过销售与分销渠道到达目标客户的路径及安排。",
+      "example": "We redesigned the route to market for rural areas.",
+      "exampleZh": "我们重新设计了农村地区的市场通路。",
+      "collocation": "redesign the route to market",
+      "collocationZh": "重新设计市场通路",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did we change to reach customers in rural areas?",
+          "zh": "为了触达农村地区客户，我们调整了什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We redesigned the route to market for rural areas.",
+          "zh": "我们重新设计了农村地区的市场通路。"
+        }
+      ],
+      "usage": "美式 route 也常读 /ruːt/；RTM 侧重触达和分销路径。",
+      "new": true,
+      "order": 415,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ruːt tə ˈmɑːkɪt",
+      "ipaUS": "raʊt tə ˈmɑːrkɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Route to market",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT416",
+    "before": {
+      "id": "MKT416",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Numeric distribution",
+      "zh": "数值铺货率",
+      "definition": "销售某商品的门店数占目标门店总数的比例",
+      "example": "Numeric distribution rose after we signed the new chain.",
+      "exampleZh": "签约新连锁后数值铺货率上升。",
+      "collocation": "increase numeric distribution",
+      "collocationZh": "提高数值铺货率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ rose after we signed the new chain.",
+          "zh": "补全职场表达：签约新连锁后____上升。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Numeric distribution rose after we signed the new chain.",
+          "zh": "签约新连锁后数值铺货率上升。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 416,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "njuːˈmerɪk ˌdɪstrɪˈbjuːʃən",
+      "ipaUS": "nuːˈmerɪk ˌdɪstrɪˈbjuːʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Numeric distribution",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT416",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Numeric distribution",
+      "zh": "数值铺货率",
+      "definition": "在指定门店总体中经营该商品的门店数量占比。",
+      "example": "Numeric distribution rose after we signed the new chain.",
+      "exampleZh": "签约新连锁后数值铺货率上升。",
+      "collocation": "increase numeric distribution",
+      "collocationZh": "提高数值铺货率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What happened to our store coverage after the new chain agreement?",
+          "zh": "与新连锁签约后，门店覆盖情况如何？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Numeric distribution rose after we signed the new chain.",
+          "zh": "签约新连锁后数值铺货率上升。"
+        }
+      ],
+      "usage": "计算时明确门店总体、商品及统计期间。",
+      "new": true,
+      "order": 416,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "njuːˈmerɪk ˌdɪstrɪˈbjuːʃən",
+      "ipaUS": "nuːˈmerɪk ˌdɪstrɪˈbjuːʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Numeric distribution",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT417",
+    "before": {
+      "id": "MKT417",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Weighted distribution",
+      "zh": "加权铺货率",
+      "definition": "有该商品铺货的门店所占品类销售额权重之和，而非单纯门店数量比例。",
+      "example": "We improved weighted distribution by targeting larger stores.",
+      "exampleZh": "我们通过重点覆盖大型门店提高了加权铺货率。",
+      "collocation": "improve weighted distribution",
+      "collocationZh": "提高加权铺货率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We improved ____ by targeting larger stores.",
+          "zh": "补全职场表达：我们通过重点覆盖大型门店提高了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We improved weighted distribution by targeting larger stores.",
+          "zh": "我们通过重点覆盖大型门店提高了加权铺货率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 417,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈweɪtɪd ˌdɪstrɪˈbjuːʃən",
+      "ipaUS": "ˈweɪtɪd ˌdɪstrɪˈbjuːʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Weighted distribution",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT417",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Weighted distribution",
+      "zh": "加权铺货率",
+      "definition": "经营该商品的门店所占指定销售额权重的比例，常用品类销售额加权。",
+      "example": "We improved weighted distribution by targeting stores with high category sales.",
+      "exampleZh": "我们通过重点覆盖品类销售额较高的门店提高了加权铺货率。",
+      "collocation": "improve weighted distribution",
+      "collocationZh": "提高加权铺货率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we improve coverage of stores with high category sales?",
+          "zh": "我们如何提高对品类销售额较高门店的覆盖？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We improved weighted distribution by targeting stores with high category sales.",
+          "zh": "我们通过重点覆盖品类销售额较高的门店提高了加权铺货率。"
+        }
+      ],
+      "usage": "不同数据商可能使用品类或全店销售额作为权重。",
+      "new": true,
+      "order": 417,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈweɪtɪd ˌdɪstrɪˈbjuːʃən",
+      "ipaUS": "ˈweɪtɪd ˌdɪstrɪˈbjuːʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Weighted distribution",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT418",
+    "before": {
+      "id": "MKT418",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Channel coverage",
+      "zh": "渠道覆盖",
+      "definition": "渠道网络触及目标市场的范围",
+      "example": "The partnership will expand channel coverage in smaller cities.",
+      "exampleZh": "该合作将扩大低线城市的渠道覆盖。",
+      "collocation": "expand channel coverage",
+      "collocationZh": "扩大渠道覆盖",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The partnership will expand ____ in smaller cities.",
+          "zh": "补全职场表达：该合作将扩大低线城市的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The partnership will expand channel coverage in smaller cities.",
+          "zh": "该合作将扩大低线城市的渠道覆盖。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 418,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtʃænəl ˈkʌvərɪdʒ",
+      "ipaUS": "ˈtʃænəl ˈkʌvɚrɪdʒ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Channel coverage",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT418",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Channel coverage",
+      "zh": "渠道覆盖",
+      "definition": "渠道网络覆盖目标地区、客户或门店的范围。",
+      "example": "The partnership will expand channel coverage in smaller cities.",
+      "exampleZh": "该合作将扩大较小城市的渠道覆盖。",
+      "collocation": "expand channel coverage",
+      "collocationZh": "扩大渠道覆盖",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What will the new partnership achieve in smaller cities?",
+          "zh": "新合作将在较小城市实现什么目标？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The partnership will expand channel coverage in smaller cities.",
+          "zh": "该合作将扩大较小城市的渠道覆盖。"
+        }
+      ],
+      "usage": "衡量时应说明覆盖对象和分母。",
+      "new": true,
+      "order": 418,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtʃænəl ˈkʌvərɪdʒ",
+      "ipaUS": "ˈtʃænəl ˈkʌvərɪdʒ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Channel coverage",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT419",
+    "before": {
+      "id": "MKT419",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Channel profitability",
+      "zh": "渠道盈利能力",
+      "definition": "考虑渠道收入和相关成本后的盈利表现",
+      "example": "Finance assessed channel profitability by region.",
+      "exampleZh": "财务按地区评估了渠道盈利能力。",
+      "collocation": "assess channel profitability",
+      "collocationZh": "评估渠道盈利能力",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Finance assessed ____ by region.",
+          "zh": "补全职场表达：财务按地区评估了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Finance assessed channel profitability by region.",
+          "zh": "财务按地区评估了渠道盈利能力。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 419,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtʃænəl ˌprɒfɪtəˈbɪlɪti",
+      "ipaUS": "ˈtʃænəl ˌprɑːfɪtəˈbɪlɪti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Channel profitability",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT419",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Channel profitability",
+      "zh": "渠道盈利能力",
+      "definition": "结合渠道收入及相关成本衡量的盈利表现。",
+      "example": "Finance assessed channel profitability by region.",
+      "exampleZh": "财务按地区评估了渠道盈利能力。",
+      "collocation": "assess channel profitability",
+      "collocationZh": "评估渠道盈利能力",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did Finance evaluate across regions?",
+          "zh": "财务部门按地区评估了什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Finance assessed channel profitability by region.",
+          "zh": "财务按地区评估了渠道盈利能力。"
+        }
+      ],
+      "usage": "比较渠道时须统一成本分摊和利润口径。",
+      "new": true,
+      "order": 419,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtʃænəl ˌprɒfɪtəˈbɪləti",
+      "ipaUS": "ˈtʃænəl ˌprɑːfɪtəˈbɪləti",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Channel profitability",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  },
+  {
+    "id": "MKT420",
+    "before": {
+      "id": "MKT420",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Trade marketing calendar",
+      "zh": "渠道营销日历",
+      "definition": "规划渠道活动和促销时间的日程表",
+      "example": "We aligned the trade marketing calendar with retailer events.",
+      "exampleZh": "我们将渠道营销日历与零售商活动协调一致。",
+      "collocation": "align the trade marketing calendar",
+      "collocationZh": "协调渠道营销日历",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We aligned the ____ with retailer events.",
+          "zh": "补全职场表达：我们将____与零售商活动协调一致。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We aligned the trade marketing calendar with retailer events.",
+          "zh": "我们将渠道营销日历与零售商活动协调一致。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 420,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtreɪd ˈmɑːkɪtɪŋ ˈkælendə",
+      "ipaUS": "ˈtreɪd ˈmɑːrkɪtɪŋ ˈkælendɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Trade marketing calendar",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT420",
+      "moduleId": "m15",
+      "module": "渠道营销",
+      "term": "Trade marketing calendar",
+      "zh": "渠道营销日历",
+      "definition": "规划渠道营销活动、促销档期及关键执行节点的日程表。",
+      "example": "We aligned the trade marketing calendar with retailer events.",
+      "exampleZh": "我们将渠道营销日历与零售商活动协调一致。",
+      "collocation": "align the trade marketing calendar with retailer events",
+      "collocationZh": "使渠道营销排期与零售商活动协调一致",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we coordinate our promotions with retailers?",
+          "zh": "我们如何与零售商协调促销活动？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We aligned the trade marketing calendar with retailer events.",
+          "zh": "我们将渠道营销日历与零售商活动协调一致。"
+        }
+      ],
+      "usage": "常与零售商促销档期及供货计划协调。",
+      "new": true,
+      "order": 420,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "treɪd ˈmɑːkɪtɪŋ ˈkælɪndə",
+      "ipaUS": "treɪd ˈmɑːrkɪtɪŋ ˈkælɪndər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Trade marketing calendar",
+      "ipaReview": "编辑校订，待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "reason": "逐条编辑复核：专业释义、使用边界、IPA、双语搭配及对话；保留正确原句；未独立核验词典"
+  }
+]

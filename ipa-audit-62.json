@@ -1,0 +1,2283 @@
+{
+  "version": "1.0.62",
+  "addedComponentSources": {
+    "rate": {
+      "uk": "reɪt",
+      "us": "reɪt",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/rate",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "media": {
+      "uk": "ˈmiː.di.ə",
+      "us": "ˈmiː.di.ə",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/media",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "product": {
+      "uk": "ˈprɒd.ʌkt",
+      "us": "ˈprɑː.dʌkt",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/product",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "campaign": {
+      "uk": "kæmˈpeɪn",
+      "us": "kæmˈpeɪn",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/campaign",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "strategy": {
+      "uk": "ˈstræt.ə.dʒi",
+      "us": "ˈstræt̬.ə.dʒi",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/strategy",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "performance": {
+      "uk": "pəˈfɔː.məns",
+      "us": "pɚˈfɔːr.məns",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/performance",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "social": {
+      "uk": "ˈsəʊ.ʃəl",
+      "us": "ˈsoʊ.ʃəl",
+      "url": "https://dictionary.cambridge.org/pronunciation/english/social",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    }
+  },
+  "beforeCounts": {
+    "partial_component_evidence": 95,
+    "editorial_only": 499,
+    "full_term_verified": 6
+  },
+  "afterCounts": {
+    "partial_component_evidence": 175,
+    "editorial_only": 418,
+    "full_term_verified": 6,
+    "all_components_evidence": 1
+  },
+  "changedTerms": [
+    {
+      "before": {
+        "id": "MKT009",
+        "term": "Conversion rate",
+        "components": [
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT009",
+        "term": "Conversion rate",
+        "components": [
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT040",
+        "term": "Response rate",
+        "components": [
+          "response",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT040",
+        "term": "Response rate",
+        "components": [
+          "response",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT070",
+        "term": "Go-to-market strategy",
+        "components": [
+          "go",
+          "to",
+          "market",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "market"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT070",
+        "term": "Go-to-market strategy",
+        "components": [
+          "go",
+          "to",
+          "market",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "market",
+          "strategy"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT071",
+        "term": "Product launch",
+        "components": [
+          "product",
+          "launch"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT071",
+        "term": "Product launch",
+        "components": [
+          "product",
+          "launch"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT072",
+        "term": "Product positioning",
+        "components": [
+          "product",
+          "positioning"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT072",
+        "term": "Product positioning",
+        "components": [
+          "product",
+          "positioning"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT074",
+        "term": "Product-market fit",
+        "components": [
+          "product",
+          "market",
+          "fit"
+        ],
+        "verifiedComponents": [
+          "market"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT074",
+        "term": "Product-market fit",
+        "components": [
+          "product",
+          "market",
+          "fit"
+        ],
+        "verifiedComponents": [
+          "product",
+          "market"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT077",
+        "term": "Product demo",
+        "components": [
+          "product",
+          "demo"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT077",
+        "term": "Product demo",
+        "components": [
+          "product",
+          "demo"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT079",
+        "term": "Pricing strategy",
+        "components": [
+          "pricing",
+          "strategy"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT079",
+        "term": "Pricing strategy",
+        "components": [
+          "pricing",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "strategy"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT081",
+        "term": "Product lifecycle",
+        "components": [
+          "product",
+          "lifecycle"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT081",
+        "term": "Product lifecycle",
+        "components": [
+          "product",
+          "lifecycle"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT086",
+        "term": "Click-through rate",
+        "components": [
+          "click",
+          "through",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT086",
+        "term": "Click-through rate",
+        "components": [
+          "click",
+          "through",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT099",
+        "term": "Retention rate",
+        "components": [
+          "retention",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT099",
+        "term": "Retention rate",
+        "components": [
+          "retention",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT100",
+        "term": "Churn rate",
+        "components": [
+          "churn",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT100",
+        "term": "Churn rate",
+        "components": [
+          "churn",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT142",
+        "term": "Social proof",
+        "components": [
+          "social",
+          "proof"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT142",
+        "term": "Social proof",
+        "components": [
+          "social",
+          "proof"
+        ],
+        "verifiedComponents": [
+          "social"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT153",
+        "term": "Social listening",
+        "components": [
+          "social",
+          "listening"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT153",
+        "term": "Social listening",
+        "components": [
+          "social",
+          "listening"
+        ],
+        "verifiedComponents": [
+          "social"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT160",
+        "term": "Product messaging",
+        "components": [
+          "product",
+          "messaging"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT160",
+        "term": "Product messaging",
+        "components": [
+          "product",
+          "messaging"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT166",
+        "term": "Product differentiation",
+        "components": [
+          "product",
+          "differentiation"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT166",
+        "term": "Product differentiation",
+        "components": [
+          "product",
+          "differentiation"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT172",
+        "term": "Product adoption",
+        "components": [
+          "product",
+          "adoption"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT172",
+        "term": "Product adoption",
+        "components": [
+          "product",
+          "adoption"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT174",
+        "term": "Product onboarding",
+        "components": [
+          "product",
+          "onboarding"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT174",
+        "term": "Product onboarding",
+        "components": [
+          "product",
+          "onboarding"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT181",
+        "term": "Product roadmap",
+        "components": [
+          "product",
+          "roadmap"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT181",
+        "term": "Product roadmap",
+        "components": [
+          "product",
+          "roadmap"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT182",
+        "term": "Product packaging",
+        "components": [
+          "product",
+          "packaging"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT182",
+        "term": "Product packaging",
+        "components": [
+          "product",
+          "packaging"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT202",
+        "term": "Campaign objective",
+        "components": [
+          "campaign",
+          "objective"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT202",
+        "term": "Campaign objective",
+        "components": [
+          "campaign",
+          "objective"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT203",
+        "term": "Campaign brief",
+        "components": [
+          "campaign",
+          "brief"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT203",
+        "term": "Campaign brief",
+        "components": [
+          "campaign",
+          "brief"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT208",
+        "term": "Campaign rollout",
+        "components": [
+          "campaign",
+          "rollout"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT208",
+        "term": "Campaign rollout",
+        "components": [
+          "campaign",
+          "rollout"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT209",
+        "term": "Campaign calendar",
+        "components": [
+          "campaign",
+          "calendar"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT209",
+        "term": "Campaign calendar",
+        "components": [
+          "campaign",
+          "calendar"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT211",
+        "term": "Paid media",
+        "components": [
+          "paid",
+          "media"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT211",
+        "term": "Paid media",
+        "components": [
+          "paid",
+          "media"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT212",
+        "term": "Owned media",
+        "components": [
+          "owned",
+          "media"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT212",
+        "term": "Owned media",
+        "components": [
+          "owned",
+          "media"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT213",
+        "term": "Earned media",
+        "components": [
+          "earned",
+          "media"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT213",
+        "term": "Earned media",
+        "components": [
+          "earned",
+          "media"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT214",
+        "term": "Shared media",
+        "components": [
+          "shared",
+          "media"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT214",
+        "term": "Shared media",
+        "components": [
+          "shared",
+          "media"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT219",
+        "term": "Campaign flight",
+        "components": [
+          "campaign",
+          "flight"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT219",
+        "term": "Campaign flight",
+        "components": [
+          "campaign",
+          "flight"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT220",
+        "term": "Campaign phasing",
+        "components": [
+          "campaign",
+          "phasing"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT220",
+        "term": "Campaign phasing",
+        "components": [
+          "campaign",
+          "phasing"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT223",
+        "term": "Campaign toolkit",
+        "components": [
+          "campaign",
+          "toolkit"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT223",
+        "term": "Campaign toolkit",
+        "components": [
+          "campaign",
+          "toolkit"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT224",
+        "term": "Campaign governance",
+        "components": [
+          "campaign",
+          "governance"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT224",
+        "term": "Campaign governance",
+        "components": [
+          "campaign",
+          "governance"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT225",
+        "term": "Post-campaign review",
+        "components": [
+          "post",
+          "campaign",
+          "review"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT225",
+        "term": "Post-campaign review",
+        "components": [
+          "post",
+          "campaign",
+          "review"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT226",
+        "term": "Performance marketing",
+        "components": [
+          "performance",
+          "marketing"
+        ],
+        "verifiedComponents": [
+          "marketing"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT226",
+        "term": "Performance marketing",
+        "components": [
+          "performance",
+          "marketing"
+        ],
+        "verifiedComponents": [
+          "performance",
+          "marketing"
+        ],
+        "status": "all_components_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT227",
+        "term": "Paid social",
+        "components": [
+          "paid",
+          "social"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT227",
+        "term": "Paid social",
+        "components": [
+          "paid",
+          "social"
+        ],
+        "verifiedComponents": [
+          "social"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT235",
+        "term": "Bid strategy",
+        "components": [
+          "bid",
+          "strategy"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT235",
+        "term": "Bid strategy",
+        "components": [
+          "bid",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "strategy"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT247",
+        "term": "Conversion rate optimization",
+        "components": [
+          "conversion",
+          "rate",
+          "optimization"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT247",
+        "term": "Conversion rate optimization",
+        "components": [
+          "conversion",
+          "rate",
+          "optimization"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT249",
+        "term": "Bounce rate",
+        "components": [
+          "bounce",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT249",
+        "term": "Bounce rate",
+        "components": [
+          "bounce",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT256",
+        "term": "Media planning",
+        "components": [
+          "media",
+          "planning"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT256",
+        "term": "Media planning",
+        "components": [
+          "media",
+          "planning"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT257",
+        "term": "Media buying",
+        "components": [
+          "media",
+          "buying"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT257",
+        "term": "Media buying",
+        "components": [
+          "media",
+          "buying"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT258",
+        "term": "Media plan",
+        "components": [
+          "media",
+          "plan"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT258",
+        "term": "Media plan",
+        "components": [
+          "media",
+          "plan"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT259",
+        "term": "Media budget",
+        "components": [
+          "media",
+          "budget"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT259",
+        "term": "Media budget",
+        "components": [
+          "media",
+          "budget"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT260",
+        "term": "Media agency",
+        "components": [
+          "media",
+          "agency"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT260",
+        "term": "Media agency",
+        "components": [
+          "media",
+          "agency"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT270",
+        "term": "Media inventory",
+        "components": [
+          "media",
+          "inventory"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT270",
+        "term": "Media inventory",
+        "components": [
+          "media",
+          "inventory"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT273",
+        "term": "Rate card",
+        "components": [
+          "rate",
+          "card"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT273",
+        "term": "Rate card",
+        "components": [
+          "rate",
+          "card"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT295",
+        "term": "Video completion rate",
+        "components": [
+          "video",
+          "completion",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT295",
+        "term": "Video completion rate",
+        "components": [
+          "video",
+          "completion",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT300",
+        "term": "Media effectiveness",
+        "components": [
+          "media",
+          "effectiveness"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT300",
+        "term": "Media effectiveness",
+        "components": [
+          "media",
+          "effectiveness"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT301",
+        "term": "Engagement rate",
+        "components": [
+          "engagement",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT301",
+        "term": "Engagement rate",
+        "components": [
+          "engagement",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT304",
+        "term": "Social share",
+        "components": [
+          "social",
+          "share"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT304",
+        "term": "Social share",
+        "components": [
+          "social",
+          "share"
+        ],
+        "verifiedComponents": [
+          "social"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT305",
+        "term": "Save rate",
+        "components": [
+          "save",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT305",
+        "term": "Save rate",
+        "components": [
+          "save",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT309",
+        "term": "Social inbox",
+        "components": [
+          "social",
+          "inbox"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT309",
+        "term": "Social inbox",
+        "components": [
+          "social",
+          "inbox"
+        ],
+        "verifiedComponents": [
+          "social"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT311",
+        "term": "Social media audit",
+        "components": [
+          "social",
+          "media",
+          "audit"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT311",
+        "term": "Social media audit",
+        "components": [
+          "social",
+          "media",
+          "audit"
+        ],
+        "verifiedComponents": [
+          "social",
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT312",
+        "term": "Social media calendar",
+        "components": [
+          "social",
+          "media",
+          "calendar"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT312",
+        "term": "Social media calendar",
+        "components": [
+          "social",
+          "media",
+          "calendar"
+        ],
+        "verifiedComponents": [
+          "social",
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT313",
+        "term": "Hashtag strategy",
+        "components": [
+          "hashtag",
+          "strategy"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT313",
+        "term": "Hashtag strategy",
+        "components": [
+          "hashtag",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "strategy"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT316",
+        "term": "Social commerce",
+        "components": [
+          "social",
+          "commerce"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT316",
+        "term": "Social commerce",
+        "components": [
+          "social",
+          "commerce"
+        ],
+        "verifiedComponents": [
+          "social"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT319",
+        "term": "Social referral traffic",
+        "components": [
+          "social",
+          "referral",
+          "traffic"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT319",
+        "term": "Social referral traffic",
+        "components": [
+          "social",
+          "referral",
+          "traffic"
+        ],
+        "verifiedComponents": [
+          "social"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT320",
+        "term": "Social media takeover",
+        "components": [
+          "social",
+          "media",
+          "takeover"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT320",
+        "term": "Social media takeover",
+        "components": [
+          "social",
+          "media",
+          "takeover"
+        ],
+        "verifiedComponents": [
+          "social",
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT325",
+        "term": "Social engagement",
+        "components": [
+          "social",
+          "engagement"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT325",
+        "term": "Social engagement",
+        "components": [
+          "social",
+          "engagement"
+        ],
+        "verifiedComponents": [
+          "social"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT326",
+        "term": "Content strategy",
+        "components": [
+          "content",
+          "strategy"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT326",
+        "term": "Content strategy",
+        "components": [
+          "content",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "strategy"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT348",
+        "term": "Content performance",
+        "components": [
+          "content",
+          "performance"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT348",
+        "term": "Content performance",
+        "components": [
+          "content",
+          "performance"
+        ],
+        "verifiedComponents": [
+          "performance"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT359",
+        "term": "Product seeding",
+        "components": [
+          "product",
+          "seeding"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT359",
+        "term": "Product seeding",
+        "components": [
+          "product",
+          "seeding"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT367",
+        "term": "Media relations",
+        "components": [
+          "media",
+          "relations"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT367",
+        "term": "Media relations",
+        "components": [
+          "media",
+          "relations"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT369",
+        "term": "Media pitch",
+        "components": [
+          "media",
+          "pitch"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT369",
+        "term": "Media pitch",
+        "components": [
+          "media",
+          "pitch"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT371",
+        "term": "Media list",
+        "components": [
+          "media",
+          "list"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT371",
+        "term": "Media list",
+        "components": [
+          "media",
+          "list"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT373",
+        "term": "Media briefing",
+        "components": [
+          "media",
+          "briefing"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT373",
+        "term": "Media briefing",
+        "components": [
+          "media",
+          "briefing"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT375",
+        "term": "Media training",
+        "components": [
+          "media",
+          "training"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT375",
+        "term": "Media training",
+        "components": [
+          "media",
+          "training"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT379",
+        "term": "Media coverage",
+        "components": [
+          "media",
+          "coverage"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT379",
+        "term": "Media coverage",
+        "components": [
+          "media",
+          "coverage"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT380",
+        "term": "Media monitoring",
+        "components": [
+          "media",
+          "monitoring"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT380",
+        "term": "Media monitoring",
+        "components": [
+          "media",
+          "monitoring"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT393",
+        "term": "Attendance rate",
+        "components": [
+          "attendance",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT393",
+        "term": "Attendance rate",
+        "components": [
+          "attendance",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT394",
+        "term": "No-show rate",
+        "components": [
+          "no",
+          "show",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT394",
+        "term": "No-show rate",
+        "components": [
+          "no",
+          "show",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT431",
+        "term": "Retail conversion rate",
+        "components": [
+          "retail",
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT431",
+        "term": "Retail conversion rate",
+        "components": [
+          "retail",
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT440",
+        "term": "Retail media network",
+        "components": [
+          "retail",
+          "media",
+          "network"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT440",
+        "term": "Retail media network",
+        "components": [
+          "retail",
+          "media",
+          "network"
+        ],
+        "verifiedComponents": [
+          "media"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT442",
+        "term": "Activation rate",
+        "components": [
+          "activation",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT442",
+        "term": "Activation rate",
+        "components": [
+          "activation",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT450",
+        "term": "Drop-off rate",
+        "components": [
+          "drop",
+          "off",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT450",
+        "term": "Drop-off rate",
+        "components": [
+          "drop",
+          "off",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT455",
+        "term": "Invite conversion rate",
+        "components": [
+          "invite",
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT455",
+        "term": "Invite conversion rate",
+        "components": [
+          "invite",
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT459",
+        "term": "Invite acceptance rate",
+        "components": [
+          "invite",
+          "acceptance",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT459",
+        "term": "Invite acceptance rate",
+        "components": [
+          "invite",
+          "acceptance",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT460",
+        "term": "Product-led growth",
+        "components": [
+          "product",
+          "led",
+          "growth"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT460",
+        "term": "Product-led growth",
+        "components": [
+          "product",
+          "led",
+          "growth"
+        ],
+        "verifiedComponents": [
+          "product"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT470",
+        "term": "Drip campaign",
+        "components": [
+          "drip",
+          "campaign"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT470",
+        "term": "Drip campaign",
+        "components": [
+          "drip",
+          "campaign"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT473",
+        "term": "Unsubscribe rate",
+        "components": [
+          "unsubscribe",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT473",
+        "term": "Unsubscribe rate",
+        "components": [
+          "unsubscribe",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT487",
+        "term": "Repeat purchase rate",
+        "components": [
+          "repeat",
+          "purchase",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT487",
+        "term": "Repeat purchase rate",
+        "components": [
+          "repeat",
+          "purchase",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT489",
+        "term": "Customer retention rate",
+        "components": [
+          "customer",
+          "retention",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "customer"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT489",
+        "term": "Customer retention rate",
+        "components": [
+          "customer",
+          "retention",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "customer",
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT490",
+        "term": "Customer churn rate",
+        "components": [
+          "customer",
+          "churn",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "customer"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT490",
+        "term": "Customer churn rate",
+        "components": [
+          "customer",
+          "churn",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "customer",
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT492",
+        "term": "Win-back campaign",
+        "components": [
+          "win",
+          "back",
+          "campaign"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT492",
+        "term": "Win-back campaign",
+        "components": [
+          "win",
+          "back",
+          "campaign"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT493",
+        "term": "Reactivation rate",
+        "components": [
+          "reactivation",
+          "rate"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT493",
+        "term": "Reactivation rate",
+        "components": [
+          "reactivation",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT526",
+        "term": "Global brand strategy",
+        "components": [
+          "global",
+          "brand",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "brand"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT526",
+        "term": "Global brand strategy",
+        "components": [
+          "global",
+          "brand",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "brand",
+          "strategy"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT527",
+        "term": "Global campaign",
+        "components": [
+          "global",
+          "campaign"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT527",
+        "term": "Global campaign",
+        "components": [
+          "global",
+          "campaign"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT541",
+        "term": "Cross-border campaign",
+        "components": [
+          "cross",
+          "border",
+          "campaign"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT541",
+        "term": "Cross-border campaign",
+        "components": [
+          "cross",
+          "border",
+          "campaign"
+        ],
+        "verifiedComponents": [
+          "campaign"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT546",
+        "term": "Market entry strategy",
+        "components": [
+          "market",
+          "entry",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "market"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT546",
+        "term": "Market entry strategy",
+        "components": [
+          "market",
+          "entry",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "market",
+          "strategy"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT560",
+        "term": "Market exit strategy",
+        "components": [
+          "market",
+          "exit",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "market"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT560",
+        "term": "Market exit strategy",
+        "components": [
+          "market",
+          "exit",
+          "strategy"
+        ],
+        "verifiedComponents": [
+          "market",
+          "strategy"
+        ],
+        "status": "partial_component_evidence"
+      }
+    }
+  ],
+  "vocabularyIPAChanges": 0
+}

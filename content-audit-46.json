@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "MKT341",
+    "before": {
+      "id": "MKT341",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Case study",
+      "zh": "案例研究",
+      "definition": "描述具体客户问题、解决过程及成果的内容",
+      "example": "The case study includes verified customer results.",
+      "exampleZh": "案例研究包含经过核实的客户成果。",
+      "collocation": "write a case study",
+      "collocationZh": "撰写案例研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ includes verified customer results.",
+          "zh": "补全职场表达：____包含经过核实的客户成果。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The case study includes verified customer results.",
+          "zh": "案例研究包含经过核实的客户成果。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 341,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkeɪs ˈstʌdi",
+      "ipaUS": "ˈkeɪs ˈstʌdi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Case study",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT341",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Case study",
+      "zh": "案例研究",
+      "definition": "以具体客户或项目为对象，说明背景、问题、解决方案和有证据支持的结果。",
+      "example": "The case study includes verified customer results.",
+      "exampleZh": "案例研究包含经过核实的客户成果。",
+      "collocation": "write a case study",
+      "collocationZh": "撰写案例研究",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What evidence should we include in the case study?",
+          "zh": "案例研究应该包含哪些证据？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The case study includes verified customer results.",
+          "zh": "案例研究包含经过核实的客户成果。"
+        }
+      ],
+      "usage": "案例研究不等于因果实验；应核实结果并取得必要授权。",
+      "new": true,
+      "order": 341,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "keɪs ˈstʌdi",
+      "ipaUS": "keɪs ˈstʌdi",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Case study",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：案例研究不等于因果实验；应核实结果并取得必要授权。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT342",
+    "before": {
+      "id": "MKT342",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Copywriting",
+      "zh": "文案撰写",
+      "definition": "为传播或促成行动而撰写文字的工作",
+      "example": "Clearer copywriting helped visitors understand the offer.",
+      "exampleZh": "更清晰的文案帮助访客理解优惠内容。",
+      "collocation": "improve copywriting",
+      "collocationZh": "提升文案撰写质量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Clearer ____ helped visitors understand the offer.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Clearer copywriting helped visitors understand the offer.",
+          "zh": "更清晰的文案帮助访客理解优惠内容。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 342,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒpɪˌraɪtɪŋ",
+      "ipaUS": "ˈkɑːpɪˌraɪtɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Copywriting",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT342",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Copywriting",
+      "zh": "文案撰写",
+      "definition": "为广告、营销传播或促成行动而创作文字的工作。",
+      "example": "Better copywriting helped visitors understand the offer.",
+      "exampleZh": "更清晰的文案帮助访客理解优惠内容。",
+      "collocation": "improve the quality of copywriting",
+      "collocationZh": "提升文案撰写质量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What helped visitors understand the offer?",
+          "zh": "什么帮助访客理解了优惠内容？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Clearer copywriting made the offer easier to understand.",
+          "zh": "更清晰的文案帮助访客理解优惠内容。"
+        }
+      ],
+      "usage": "copywriting 通常不可数；不要与 copyright（版权）混淆。",
+      "new": true,
+      "order": 342,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒpiraɪtɪŋ",
+      "ipaUS": "ˈkɑːpiraɪtɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Copywriting",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：copywriting 通常不可数；不要与 copyright（版权）混淆。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT343",
+    "before": {
+      "id": "MKT343",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Headline",
+      "zh": "标题",
+      "definition": "用于吸引注意并概括内容的主要文字",
+      "example": "We tested two headlines with the same image.",
+      "exampleZh": "我们用同一张图片测试了两个标题。",
+      "collocation": "test headlines",
+      "collocationZh": "测试标题",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We tested two ____ with the same image.",
+          "zh": "补全职场表达：我们用同一张图片测试了两个____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We tested two headlines with the same image.",
+          "zh": "我们用同一张图片测试了两个标题。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 343,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈhedlaɪn",
+      "ipaUS": "ˈhedlaɪn",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Headline",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT343",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Headline",
+      "zh": "标题",
+      "definition": "广告或文章中突出显示的主要标题，通常用于传达重点并吸引注意。",
+      "example": "We tested two headlines with the same image.",
+      "exampleZh": "我们用同一张图片测试了两个标题。",
+      "collocation": "test headlines",
+      "collocationZh": "测试标题",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we isolate the effect of the headline?",
+          "zh": "我们如何单独评估标题的影响？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We tested two headlines with the same image.",
+          "zh": "我们用同一张图片测试了两个标题。"
+        }
+      ],
+      "usage": "headline 为可数名词；测试时应控制其他变量。",
+      "new": true,
+      "order": 343,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈhedlaɪn",
+      "ipaUS": "ˈhedlaɪn",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Headline",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：headline 为可数名词；测试时应控制其他变量。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT344",
+    "before": {
+      "id": "MKT344",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Hook",
+      "zh": "吸引点",
+      "definition": "内容开头用于吸引受众继续阅读或观看的元素",
+      "example": "The video needs a stronger hook in the first three seconds.",
+      "exampleZh": "视频前三秒需要更强的吸引点。",
+      "collocation": "strengthen the hook",
+      "collocationZh": "强化吸引点",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The video needs a stronger ____ in the first three seconds.",
+          "zh": "补全职场表达：视频前三秒需要更强的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The video needs a stronger hook in the first three seconds.",
+          "zh": "视频前三秒需要更强的吸引点。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 344,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈhʊk",
+      "ipaUS": "ˈhʊk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Hook",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT344",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Hook",
+      "zh": "吸引点",
+      "definition": "用于迅速吸引注意、激发继续阅读或观看兴趣的内容元素。",
+      "example": "The video needs a stronger hook in the first three seconds.",
+      "exampleZh": "视频前三秒需要更强的吸引点。",
+      "collocation": "strengthen the hook",
+      "collocationZh": "强化吸引点",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we change to reduce early drop-off?",
+          "zh": "我们应该调整什么来减少开头的观众流失？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The video needs a stronger hook in the first three seconds.",
+          "zh": "视频前三秒需要更强的吸引点。"
+        }
+      ],
+      "usage": "前三秒是例句中的设计目标，不是通用规则。",
+      "new": true,
+      "order": 344,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "hʊk",
+      "ipaUS": "hʊk",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Hook",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：前三秒是例句中的设计目标，不是通用规则。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT345",
+    "before": {
+      "id": "MKT345",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content brief",
+      "zh": "内容简报",
+      "definition": "说明内容目标、受众、要求和交付标准的文件",
+      "example": "The content brief specifies the target reader and tone.",
+      "exampleZh": "内容简报明确了目标读者和语气。",
+      "collocation": "prepare a content brief",
+      "collocationZh": "准备内容简报",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ specifies the target reader and tone.",
+          "zh": "补全职场表达：____明确了目标读者和语气。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The content brief specifies the target reader and tone.",
+          "zh": "内容简报明确了目标读者和语气。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 345,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntent ˈbriːf",
+      "ipaUS": "ˈkɑːntent ˈbriːf",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Content brief",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT345",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content brief",
+      "zh": "内容简报",
+      "definition": "说明内容目标、受众、主题、语气和交付要求的指导文件。",
+      "example": "The content brief specifies the target reader and tone.",
+      "exampleZh": "内容简报明确了目标读者和语气。",
+      "collocation": "prepare a content brief",
+      "collocationZh": "准备内容简报",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where can the writer find the audience and tone requirements?",
+          "zh": "撰稿人在哪里可以找到受众和语气要求？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The content brief specifies the target reader and tone.",
+          "zh": "内容简报明确了目标读者和语气。"
+        }
+      ],
+      "usage": "与 creative brief 相比，更侧重具体内容交付。",
+      "new": true,
+      "order": 345,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntent briːf",
+      "ipaUS": "ˈkɑːntent briːf",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Content brief",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：与 creative brief 相比，更侧重具体内容交付。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT346",
+    "before": {
+      "id": "MKT346",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Editorial standards",
+      "zh": "编辑标准",
+      "definition": "确保内容准确、风格一致和质量合格的规范",
+      "example": "Our editorial standards require verification of all statistics.",
+      "exampleZh": "我们的编辑标准要求核实所有统计数据。",
+      "collocation": "enforce editorial standards",
+      "collocationZh": "执行编辑标准",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Our ____ require verification of all statistics.",
+          "zh": "补全职场表达：我们的____要求核实所有统计数据。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our editorial standards require verification of all statistics.",
+          "zh": "我们的编辑标准要求核实所有统计数据。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 346,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌedɪˈtɔːrɪəl ˈstændədz",
+      "ipaUS": "ˌedɪˈtoːrɪəl ˈstændɚdz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Editorial standards",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT346",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Editorial standards",
+      "zh": "编辑标准",
+      "definition": "关于事实核查、语言风格、准确性及内容质量的编辑规范。",
+      "example": "Our editorial standards require verification of all statistics.",
+      "exampleZh": "我们的编辑标准要求核实所有统计数据。",
+      "collocation": "enforce editorial standards",
+      "collocationZh": "执行编辑标准",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Do we need to check the numbers before publication?",
+          "zh": "发布前需要核实数字吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our editorial standards require verification of all statistics.",
+          "zh": "我们的编辑标准要求核实所有统计数据。"
+        }
+      ],
+      "usage": "standards 为复数，搭配复数谓语。",
+      "new": true,
+      "order": 346,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌedɪˈtɔːriəl ˈstændədz",
+      "ipaUS": "ˌedɪˈtɔːriəl ˈstændərdz",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Editorial standards",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：standards 为复数，搭配复数谓语。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT347",
+    "before": {
+      "id": "MKT347",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content localization",
+      "zh": "内容本地化",
+      "definition": "根据当地语言、文化和使用习惯调整内容",
+      "example": "Content localization goes beyond translating the headline.",
+      "exampleZh": "内容本地化不只是翻译标题。",
+      "collocation": "manage content localization",
+      "collocationZh": "管理内容本地化",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ goes beyond translating the headline.",
+          "zh": "补全职场表达：____不只是翻译标题。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Content localization goes beyond translating the headline.",
+          "zh": "内容本地化不只是翻译标题。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 347,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntent ˌləʊkəlaɪˈzeɪʃən",
+      "ipaUS": "ˈkɑːntent ˌloʊkəlɪˈzeɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Content localization",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT347",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content localization",
+      "zh": "内容本地化",
+      "definition": "根据目标市场的语言、文化、格式和实际需求调整内容。",
+      "example": "Content localization goes beyond translating the headline.",
+      "exampleZh": "内容本地化不只是翻译标题。",
+      "collocation": "manage content localization",
+      "collocationZh": "管理内容本地化",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Is translating the headline enough for the new market?",
+          "zh": "进入新市场只翻译标题就够了吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Content localization goes beyond translating the headline.",
+          "zh": "内容本地化不只是翻译标题。"
+        }
+      ],
+      "usage": "英式拼写 localisation；本地化不等同于逐字翻译。",
+      "new": true,
+      "order": 347,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntent ˌləʊkəlaɪˈzeɪʃən",
+      "ipaUS": "ˈkɑːntent ˌloʊkələˈzeɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Content localization",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：英式拼写 localisation；本地化不等同于逐字翻译。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT348",
+    "before": {
+      "id": "MKT348",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content performance",
+      "zh": "内容表现",
+      "definition": "内容在触达、互动、转化等目标上的实际结果",
+      "example": "We review content performance by format and audience.",
+      "exampleZh": "我们按内容形式和受众复盘内容表现。",
+      "collocation": "review content performance",
+      "collocationZh": "复盘内容表现",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We review ____ by format and audience.",
+          "zh": "补全职场表达：我们按内容形式和受众复盘____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We review content performance by format and audience.",
+          "zh": "我们按内容形式和受众复盘内容表现。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 348,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntent pəˈfɔːməns",
+      "ipaUS": "ˈkɑːntent pɚˈfoːrməns",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Content performance",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT348",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content performance",
+      "zh": "内容表现",
+      "definition": "内容相对于既定目标在触达、互动或转化等方面的实际表现。",
+      "example": "We review content performance by format and audience.",
+      "exampleZh": "我们按内容形式和受众复盘内容表现。",
+      "collocation": "review content performance",
+      "collocationZh": "复盘内容表现",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we compare results across our content portfolio?",
+          "zh": "我们如何比较不同内容的表现？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We review content performance by format and audience.",
+          "zh": "我们按内容形式和受众复盘内容表现。"
+        }
+      ],
+      "usage": "比较时应统一指标、时间窗口及统计口径。",
+      "new": true,
+      "order": 348,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntent pəˈfɔːməns",
+      "ipaUS": "ˈkɑːntent pərˈfɔːrməns",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Content performance",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：比较时应统一指标、时间窗口及统计口径。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT349",
+    "before": {
+      "id": "MKT349",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Readability",
+      "zh": "可读性",
+      "definition": "文本易于阅读和理解的程度",
+      "example": "Shorter paragraphs improved readability on mobile devices.",
+      "exampleZh": "较短的段落提高了移动端可读性。",
+      "collocation": "improve readability",
+      "collocationZh": "提高可读性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Shorter paragraphs improved ____ on mobile devices.",
+          "zh": "补全职场表达：较短的段落提高了移动端____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Shorter paragraphs improved readability on mobile devices.",
+          "zh": "较短的段落提高了移动端可读性。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 349,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌriːdəˈbɪlɪti",
+      "ipaUS": "ˌriːdəˈbɪlɪti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Readability",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT349",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Readability",
+      "zh": "可读性",
+      "definition": "文本易于阅读和理解的程度，受语言结构和呈现方式等因素影响。",
+      "example": "Shorter paragraphs improved readability on mobile devices.",
+      "exampleZh": "较短的段落提高了移动端可读性。",
+      "collocation": "improve readability",
+      "collocationZh": "提高可读性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What made the mobile article easier to read?",
+          "zh": "什么让移动端文章更容易阅读？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Shorter paragraphs improved readability on mobile devices.",
+          "zh": "较短的段落提高了移动端可读性。"
+        }
+      ],
+      "usage": "可读性评分不能完全代表读者理解程度。",
+      "new": true,
+      "order": 349,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌriːdəˈbɪləti",
+      "ipaUS": "ˌriːdəˈbɪləti",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Readability",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：可读性评分不能完全代表读者理解程度。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT350",
+    "before": {
+      "id": "MKT350",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content governance",
+      "zh": "内容治理",
+      "definition": "管理内容责任、审批、规范及生命周期的机制",
+      "example": "Content governance defines who approves regulated claims.",
+      "exampleZh": "内容治理明确了谁负责审批受监管的宣传表述。",
+      "collocation": "establish content governance",
+      "collocationZh": "建立内容治理机制",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ defines who approves regulated claims.",
+          "zh": "补全职场表达：____明确了谁负责审批受监管的宣传表述。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Content governance defines who approves regulated claims.",
+          "zh": "内容治理明确了谁负责审批受监管的宣传表述。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 350,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒntent ˈɡʌvənəns",
+      "ipaUS": "ˈkɑːntent ˈɡʌvɚnəns",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Content governance",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT350",
+      "moduleId": "m11",
+      "module": "内容营销",
+      "term": "Content governance",
+      "zh": "内容治理",
+      "definition": "明确内容责任、审批权限、规范及生命周期管理的机制。",
+      "example": "Content governance defines who approves regulated claims.",
+      "exampleZh": "内容治理明确了谁负责审批受监管的宣传表述。",
+      "collocation": "establish content governance",
+      "collocationZh": "建立内容治理机制",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who decides which team approves regulated claims?",
+          "zh": "谁决定由哪个团队审批受监管的宣传表述？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Content governance defines who approves regulated claims.",
+          "zh": "内容治理明确了谁负责审批受监管的宣传表述。"
+        }
+      ],
+      "usage": "区别于日常内容制作与排期。",
+      "new": true,
+      "order": 350,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkɒntent ˈɡʌvənəns",
+      "ipaUS": "ˈkɑːntent ˈɡʌvərnəns",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Content governance",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：区别于日常内容制作与排期。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT351",
+    "before": {
+      "id": "MKT351",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Influencer marketing",
+      "zh": "达人营销",
+      "definition": "与具有受众影响力的创作者合作推广品牌",
+      "example": "We invest in influencer marketing to reach niche audiences.",
+      "exampleZh": "我们投入达人营销以触达小众受众。",
+      "collocation": "invest in influencer marketing",
+      "collocationZh": "投入达人营销",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We invest in ____ to reach niche audiences.",
+          "zh": "补全职场表达：我们投入____以触达小众受众。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We invest in influencer marketing to reach niche audiences.",
+          "zh": "我们投入达人营销以触达小众受众。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 351,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɪnfluːənsə ˈmɑːkɪtɪŋ",
+      "ipaUS": "ˈɪnfluːənsɚ ˈmɑːrkɪtɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Influencer marketing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT351",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Influencer marketing",
+      "zh": "达人营销",
+      "definition": "与具有受众影响力的人士或创作者合作，以实现品牌传播或营销目标。",
+      "example": "We invest in influencer marketing to reach niche audiences.",
+      "exampleZh": "我们投入达人营销以触达小众受众。",
+      "collocation": "invest in influencer marketing",
+      "collocationZh": "投入达人营销",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why are we working with specialist creators?",
+          "zh": "为什么我们要与垂直领域创作者合作？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We invest in influencer marketing to reach niche audiences.",
+          "zh": "我们投入达人营销以触达小众受众。"
+        }
+      ],
+      "usage": "合作效果不只取决于粉丝规模。",
+      "new": true,
+      "order": 351,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɪnfluənsə ˈmɑːkɪtɪŋ",
+      "ipaUS": "ˈɪnfluənsər ˈmɑːrkɪtɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Influencer marketing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：合作效果不只取决于粉丝规模。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT352",
+    "before": {
+      "id": "MKT352",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Micro-influencer",
+      "zh": "微型达人",
+      "definition": "粉丝规模相对较小且通常聚焦特定领域的创作者",
+      "example": "We partnered with micro-influencers who specialize in running.",
+      "exampleZh": "我们与专注跑步领域的微型达人合作。",
+      "collocation": "partner with micro-influencers",
+      "collocationZh": "与微型达人合作",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We partnered with ____ who specialize in running.",
+          "zh": "补全职场表达：我们与专注跑步领域的____合作。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We partnered with micro-influencers who specialize in running.",
+          "zh": "我们与专注跑步领域的微型达人合作。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 352,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmaɪkrəʊˈɪnfluːənsə",
+      "ipaUS": "ˈmaɪkroʊˈɪnfluːənsɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Micro-influencer",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT352",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Micro-influencer",
+      "zh": "微型达人",
+      "definition": "受众规模相对较小、常聚焦特定领域的影响力创作者。",
+      "example": "We partnered with micro-influencers who specialize in running.",
+      "exampleZh": "我们与专注跑步领域的微型达人合作。",
+      "collocation": "partner with micro-influencers",
+      "collocationZh": "与微型达人合作",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which creators did we choose for the running campaign?",
+          "zh": "跑步营销活动选择了哪些创作者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We partnered with micro-influencers who specialize in running.",
+          "zh": "我们与专注跑步领域的微型达人合作。"
+        }
+      ],
+      "usage": "粉丝数量分级没有跨平台统一阈值。",
+      "new": true,
+      "order": 352,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌmaɪkrəʊˈɪnfluənsə",
+      "ipaUS": "ˌmaɪkroʊˈɪnfluənsər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Micro-influencer",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：粉丝数量分级没有跨平台统一阈值。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT353",
+    "before": {
+      "id": "MKT353",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Nano-influencer",
+      "zh": "纳米级达人",
+      "definition": "粉丝规模较小、通常与社区联系紧密的创作者",
+      "example": "We recruited nano-influencers from local fitness groups.",
+      "exampleZh": "我们从本地健身群体招募了纳米级达人。",
+      "collocation": "recruit nano-influencers",
+      "collocationZh": "招募纳米级达人",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We recruited ____ from local fitness groups.",
+          "zh": "补全职场表达：我们从本地健身群体招募了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We recruited nano-influencers from local fitness groups.",
+          "zh": "我们从本地健身群体招募了纳米级达人。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 353,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌnænəʊˈɪnfluːənsə",
+      "ipaUS": "ˌnænoʊˈɪnfluːənsɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Nano-influencer",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT353",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Nano-influencer",
+      "zh": "纳米级达人",
+      "definition": "受众规模通常比微型达人更小的影响力创作者。",
+      "example": "We recruited nano-influencers from local fitness groups.",
+      "exampleZh": "我们从本地健身群体招募了纳米级达人。",
+      "collocation": "recruit nano-influencers",
+      "collocationZh": "招募纳米级达人",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where did we find creators for the local campaign?",
+          "zh": "我们在哪里找到本地活动的创作者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We recruited nano-influencers from local fitness groups.",
+          "zh": "我们从本地健身群体招募了纳米级达人。"
+        }
+      ],
+      "usage": "粉丝少不必然意味着互动率高；分级阈值因机构而异。",
+      "new": true,
+      "order": 353,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌnænəʊˈɪnfluənsə",
+      "ipaUS": "ˌnænoʊˈɪnfluənsər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Nano-influencer",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：粉丝少不必然意味着互动率高；分级阈值因机构而异。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT354",
+    "before": {
+      "id": "MKT354",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Creator economy",
+      "zh": "创作者经济",
+      "definition": "围绕独立内容创作者及其商业活动形成的经济体系",
+      "example": "The creator economy has changed how brands commission content.",
+      "exampleZh": "创作者经济改变了品牌委托制作内容的方式。",
+      "collocation": "understand the creator economy",
+      "collocationZh": "了解创作者经济",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The ____ has changed how brands commission content.",
+          "zh": "补全职场表达：____改变了品牌委托制作内容的方式。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The creator economy has changed how brands commission content.",
+          "zh": "创作者经济改变了品牌委托制作内容的方式。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 354,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kriːˈeɪtər ɪˈkɒnəmi",
+      "ipaUS": "kriːˈeɪtɚr ɪˈkɑːnəmi",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Creator economy",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT354",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Creator economy",
+      "zh": "创作者经济",
+      "definition": "围绕内容创作者、平台、受众及相关商业活动形成的经济体系。",
+      "example": "The creator economy has changed how brands commission content.",
+      "exampleZh": "创作者经济改变了品牌委托制作内容的方式。",
+      "collocation": "understand the creator economy",
+      "collocationZh": "了解创作者经济",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why has our approach to commissioning content changed?",
+          "zh": "为什么我们委托制作内容的方式发生了变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The creator economy has changed how brands commission content.",
+          "zh": "创作者经济改变了品牌委托制作内容的方式。"
+        }
+      ],
+      "usage": "包括订阅、广告、赞助及商品销售等收入模式。",
+      "new": true,
+      "order": 354,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kriˈeɪtər ɪˈkɒnəmi",
+      "ipaUS": "kriˈeɪtər ɪˈkɑːnəmi",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Creator economy",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：包括订阅、广告、赞助及商品销售等收入模式。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT355",
+    "before": {
+      "id": "MKT355",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Creator brief",
+      "zh": "创作者简报",
+      "definition": "向创作者说明合作目标、要求和交付物的文件",
+      "example": "Send the creator brief before negotiating the fee.",
+      "exampleZh": "商议费用前先发送创作者简报。",
+      "collocation": "send a creator brief",
+      "collocationZh": "发送创作者简报",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Send the ____ before negotiating the fee.",
+          "zh": "补全职场表达：商议费用前先发送____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Send the creator brief before negotiating the fee.",
+          "zh": "商议费用前先发送创作者简报。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 355,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kriːˈeɪtə ˈbriːf",
+      "ipaUS": "kriːˈeɪtɚ ˈbriːf",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Creator brief",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT355",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Creator brief",
+      "zh": "创作者简报",
+      "definition": "向合作创作者说明目标、受众、交付物、时间及内容要求的文件。",
+      "example": "Send the creator brief before negotiating the fee.",
+      "exampleZh": "商议费用前先发送创作者简报。",
+      "collocation": "send a creator brief",
+      "collocationZh": "发送创作者简报",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we send before discussing the fee?",
+          "zh": "讨论费用前我们应该发送什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Send the creator brief before negotiating the fee.",
+          "zh": "商议费用前先发送创作者简报。"
+        }
+      ],
+      "usage": "简报不等于合同；费用及使用权应另行明确。",
+      "new": true,
+      "order": 355,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kriˈeɪtə briːf",
+      "ipaUS": "kriˈeɪtər briːf",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Creator brief",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：简报不等于合同；费用及使用权应另行明确。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT356",
+    "before": {
+      "id": "MKT356",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Audience fit",
+      "zh": "受众匹配度",
+      "definition": "创作者受众与品牌目标客户的契合程度",
+      "example": "Audience fit matters more than follower count for this launch.",
+      "exampleZh": "对本次上市而言，受众匹配度比粉丝数更重要。",
+      "collocation": "assess audience fit",
+      "collocationZh": "评估受众匹配度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ matters more than follower count for this launch.",
+          "zh": "补全职场表达：对本次上市而言，____比粉丝数更重要。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Audience fit matters more than follower count for this launch.",
+          "zh": "对本次上市而言，受众匹配度比粉丝数更重要。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 356,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɔːdiəns ˈfɪt",
+      "ipaUS": "ˈɔːdiəns ˈfɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Audience fit",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT356",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Audience fit",
+      "zh": "受众匹配度",
+      "definition": "创作者受众与品牌目标受众在需求、特征或兴趣上的契合程度。",
+      "example": "Audience fit matters more than follower count for this launch.",
+      "exampleZh": "对本次上市而言，受众匹配度比粉丝数更重要。",
+      "collocation": "assess audience fit",
+      "collocationZh": "评估受众匹配度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Should we choose the creator with the most followers?",
+          "zh": "我们应该选择粉丝最多的创作者吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Audience fit matters more than follower count for this launch.",
+          "zh": "对本次上市而言，受众匹配度比粉丝数更重要。"
+        }
+      ],
+      "usage": "结合受众数据与活动目标评估，而非仅看粉丝数。",
+      "new": true,
+      "order": 356,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɔːdiəns fɪt",
+      "ipaUS": "ˈɑːdiəns fɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Audience fit",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：结合受众数据与活动目标评估，而非仅看粉丝数。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT357",
+    "before": {
+      "id": "MKT357",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Creator vetting",
+      "zh": "创作者筛选审查",
+      "definition": "核查创作者受众、历史内容及合作风险的过程",
+      "example": "Creator vetting revealed suspicious spikes in follower numbers.",
+      "exampleZh": "创作者审查发现粉丝数存在可疑的激增。",
+      "collocation": "conduct creator vetting",
+      "collocationZh": "开展创作者审查",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ revealed suspicious spikes in follower numbers.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Creator vetting revealed suspicious spikes in follower numbers.",
+          "zh": "创作者审查发现粉丝数存在可疑的激增。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 357,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kriːˈeɪtə ˈvetɪŋ",
+      "ipaUS": "kriːˈeɪtɚ ˈvetɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Creator vetting",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT357",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Creator vetting",
+      "zh": "创作者筛选审查",
+      "definition": "合作前核查创作者受众、内容记录、真实性及潜在合作风险的过程。",
+      "example": "Creator vetting revealed suspicious spikes in follower numbers.",
+      "exampleZh": "创作者审查发现粉丝数存在可疑的激增。",
+      "collocation": "conduct creator vetting",
+      "collocationZh": "开展创作者审查",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did we discover during the creator checks?",
+          "zh": "审查创作者时我们发现了什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Creator vetting revealed suspicious spikes in follower numbers.",
+          "zh": "创作者审查发现粉丝数存在可疑的激增。"
+        }
+      ],
+      "usage": "粉丝异常增长只是风险信号，并非欺诈的直接证据。",
+      "new": true,
+      "order": 357,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kriˈeɪtə ˈvetɪŋ",
+      "ipaUS": "kriˈeɪtər ˈvetɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Creator vetting",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：粉丝异常增长只是风险信号，并非欺诈的直接证据。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT358",
+    "before": {
+      "id": "MKT358",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Sponsored content",
+      "zh": "赞助内容",
+      "definition": "由品牌提供报酬或其他利益支持的内容",
+      "example": "Creators must clearly disclose sponsored content.",
+      "exampleZh": "创作者必须清晰披露赞助内容。",
+      "collocation": "disclose sponsored content",
+      "collocationZh": "披露赞助内容",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Creators must clearly disclose ____.",
+          "zh": "补全职场表达：创作者必须清晰披露____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Creators must clearly disclose sponsored content.",
+          "zh": "创作者必须清晰披露赞助内容。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 358,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈspɒnsəd ˈkɒntent",
+      "ipaUS": "ˈspɑːnsɚd ˈkɑːntent",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Sponsored content",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT358",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Sponsored content",
+      "zh": "赞助内容",
+      "definition": "因品牌提供报酬或其他利益而制作或发布的内容。",
+      "example": "Creators should clearly disclose the sponsorship of paid posts.",
+      "exampleZh": "创作者应清楚披露付费帖子的赞助关系。",
+      "collocation": "disclose a sponsorship",
+      "collocationZh": "披露赞助关系",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should creators disclose when publishing paid posts?",
+          "zh": "创作者发布付费合作帖子时应披露什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Creators should clearly disclose the sponsorship of paid posts.",
+          "zh": "创作者应清楚披露付费帖子的赞助关系。"
+        }
+      ],
+      "usage": "披露方式应符合适用法律及平台规则。",
+      "new": true,
+      "order": 358,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈspɒnsəd ˈkɒntent",
+      "ipaUS": "ˈspɑːnsərd ˈkɑːntent",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Sponsored content",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：披露方式应符合适用法律及平台规则。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT359",
+    "before": {
+      "id": "MKT359",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Product seeding",
+      "zh": "产品赠送推广",
+      "definition": "向创作者赠送产品以促成试用和潜在曝光",
+      "example": "Our product seeding campaign did not require recipients to post.",
+      "exampleZh": "我们的产品赠送推广并未要求收件人发布内容。",
+      "collocation": "run a product seeding campaign",
+      "collocationZh": "开展产品赠送推广",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Our ____ campaign did not require recipients to post.",
+          "zh": "补全职场表达：我们的____并未要求收件人发布内容。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our product seeding campaign did not require recipients to post.",
+          "zh": "我们的产品赠送推广并未要求收件人发布内容。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 359,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈprɒdʌkt ˈsiːdɪŋ",
+      "ipaUS": "ˈprɑːdʌkt ˈsiːdɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Product seeding",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT359",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Product seeding",
+      "zh": "产品赠送推广",
+      "definition": "向创作者提供产品以促进试用和潜在传播的营销方式。",
+      "example": "Our product seeding campaign did not require recipients to post.",
+      "exampleZh": "我们的产品赠送推广并未要求收件人发布内容。",
+      "collocation": "run a product seeding campaign",
+      "collocationZh": "开展产品赠送推广",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Were recipients required to publish a post?",
+          "zh": "收到产品的人必须发帖吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our product seeding campaign did not require recipients to post.",
+          "zh": "我们的产品赠送推广并未要求收件人发布内容。"
+        }
+      ],
+      "usage": "赠送不保证曝光；如存在商业关系，需考虑适用披露要求。",
+      "new": true,
+      "order": 359,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈprɒdʌkt ˈsiːdɪŋ",
+      "ipaUS": "ˈprɑːdʌkt ˈsiːdɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Product seeding",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：赠送不保证曝光；如存在商业关系，需考虑适用披露要求。",
+    "source": "编辑校订，未独立查词典"
+  },
+  {
+    "id": "MKT360",
+    "before": {
+      "id": "MKT360",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Brand ambassador",
+      "zh": "品牌大使",
+      "definition": "代表品牌开展持续传播或推广的合作伙伴",
+      "example": "We appointed a brand ambassador with strong credibility in the category.",
+      "exampleZh": "我们任命了一位在该品类具有较强公信力的品牌大使。",
+      "collocation": "appoint a brand ambassador",
+      "collocationZh": "任命品牌大使",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We appointed a ____ with strong credibility in the category.",
+          "zh": "补全职场表达：我们任命了一位在该品类具有较强公信力的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We appointed a brand ambassador with strong credibility in the category.",
+          "zh": "我们任命了一位在该品类具有较强公信力的品牌大使。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 360,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbrænd əmˈbæsədə",
+      "ipaUS": "ˈbrænd əmˈbæsədɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Brand ambassador",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT360",
+      "moduleId": "m12",
+      "module": "达人营销",
+      "term": "Brand ambassador",
+      "zh": "品牌大使",
+      "definition": "代表品牌开展传播或推广活动的人士，通常具有较持续的合作关系。",
+      "example": "We appointed a brand ambassador with strong credibility in the category.",
+      "exampleZh": "我们邀请了一位在该品类拥有较高可信度的人士担任品牌大使。",
+      "collocation": "appoint a brand ambassador",
+      "collocationZh": "任命品牌大使",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Who will represent the brand in this category?",
+          "zh": "谁将在该品类代表品牌开展推广？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We appointed a brand ambassador with strong credibility in the category.",
+          "zh": "我们邀请了一位在该品类拥有较高可信度的人士担任品牌大使。"
+        }
+      ],
+      "usage": "与单次达人合作相比，通常更强调持续代表品牌的关系。",
+      "new": true,
+      "order": 360,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "brænd əmˈbæsədə",
+      "ipaUS": "brænd æmˈbæsədər",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Brand ambassador",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "reason": "逐条编辑：与单次达人合作相比，通常更强调持续代表品牌的关系。",
+    "source": "编辑校订，未独立查词典"
+  }
+]

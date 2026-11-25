@@ -1,0 +1,41 @@
+{
+  "base": "1.0.68",
+  "version": "1.0.70",
+  "changes": [
+    {
+      "file": "index.html",
+      "before_sha256": "34a61d587426d7db9b0ba51505f4d07574eccc0527b03760563ed704621190d5",
+      "after_sha256": "475db88e336e177c7284e0701189baa85651178f666ef493711aa44209a1b49e"
+    },
+    {
+      "file": "sw.js",
+      "before_sha256": "5e4d9097fc3d22546db91ea00b8db004727f08420f2b7a887efe5e3dbdbe957c",
+      "after_sha256": "3d6a58f24ff20e42df11e027d4a98d793663adef5708bbc26f8e938994f7c1c7"
+    },
+    {
+      "file": "version.json",
+      "before_sha256": "3d57c2dcdb7f77b47bcdc51bc02b92f468aac38392077f59fb2f2631d8447209",
+      "after_sha256": "fe350fdc71b710f5e482ce76af265e7397e44949cfa2786d0d11970051b1e5d8"
+    },
+    {
+      "file": "marketing-vocabulary.json",
+      "before_sha256": "6c5109fcfa9902bb8ece7266cd7a3de644f8c268b403ca92c96135afa64b8e77",
+      "after_sha256": "4a5edbefe48d9afa4a56d5e69e6a62399b26832dfaf00f9854b3ab28b81dbb0f"
+    },
+    {
+      "file": "部署说明.txt",
+      "before_sha256": "012f311789aa03d2b09c90446a09ac7184992389158513f6d5716e0059955c4c",
+      "after_sha256": "00ecd0061af73f0e92439ec4ef59cf7cf2f756982836e60a50456cb7b8980526"
+    },
+    {
+      "file": "CHANGELOG.md",
+      "before_sha256": "b5ada54005dcb485bca9a47fff214264a8e59624ad236cbe07935c85c7c70168",
+      "after_sha256": "7742088533874d6d2b355c0e89cf8a4381eade9c932fa7387c7b6b528444e49d"
+    }
+  ],
+  "functional_change": "Transfer export now enforces existing 400000-byte import limit; JSON backup remains available.",
+  "limitations": [
+    "No live deployment or browser/device acceptance",
+    "IPA evidence inherited, not independently reverified"
+  ]
+}

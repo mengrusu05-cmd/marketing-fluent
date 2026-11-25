@@ -1,0 +1,528 @@
+{
+  "version": "1.0.64",
+  "addedSources": {
+    "segmentation": {
+      "uk": "ˌseɡ.menˈteɪ.ʃən",
+      "us": "ˌseɡ.menˈteɪ.ʃən",
+      "url": "https://dictionary.cambridge.org/dictionary/english/segmentation",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "competitive": {
+      "uk": "kəmˈpet.ɪ.tɪv",
+      "us": "kəmˈpet̬.ə.t̬ɪv",
+      "url": "https://dictionary.cambridge.org/dictionary/english/competitive",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "advantage": {
+      "uk": "ədˈvɑːn.tɪdʒ",
+      "us": "ədˈvæn.t̬ɪdʒ",
+      "url": "https://dictionary.cambridge.org/dictionary/english/advantage",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25"
+    },
+    "conversion": {
+      "uk": "kənˈvɜː.ʃən",
+      "us": "kənˈvɝː.ʒən",
+      "url": "https://dictionary.cambridge.org/dictionary/english/conversion",
+      "source": "Cambridge Dictionary",
+      "checked": "2026-11-25",
+      "variants": {
+        "uk": [
+          "kənˈvɜː.ʒən"
+        ],
+        "us": [
+          "kənˈvɝː.ʃən"
+        ]
+      }
+    }
+  },
+  "phraseChecks": {
+    "market segmentation": {
+      "url": "https://dictionary.cambridge.org/pronunciation/english/market-segmentation",
+      "status": "ipa_not_exposed_in_retrieved_page"
+    },
+    "competitive advantage": {
+      "url": "https://dictionary.cambridge.org/pronunciation/english/competitive-advantage",
+      "status": "ipa_not_exposed_in_retrieved_page"
+    },
+    "conversion rate": {
+      "url": "https://dictionary.cambridge.org/pronunciation/english/conversion-rate",
+      "status": "ipa_not_exposed_in_retrieved_page"
+    }
+  },
+  "changes": [
+    {
+      "before": {
+        "id": "MKT002",
+        "term": "Market segmentation",
+        "components": [
+          "market",
+          "segmentation"
+        ],
+        "verifiedComponents": [
+          "market"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT002",
+        "term": "Market segmentation",
+        "components": [
+          "market",
+          "segmentation"
+        ],
+        "verifiedComponents": [
+          "market",
+          "segmentation"
+        ],
+        "status": "all_components_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT004",
+        "term": "Competitive advantage",
+        "components": [
+          "competitive",
+          "advantage"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT004",
+        "term": "Competitive advantage",
+        "components": [
+          "competitive",
+          "advantage"
+        ],
+        "verifiedComponents": [
+          "competitive",
+          "advantage"
+        ],
+        "status": "all_components_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT009",
+        "term": "Conversion rate",
+        "components": [
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT009",
+        "term": "Conversion rate",
+        "components": [
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "conversion",
+          "rate"
+        ],
+        "status": "all_components_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT025",
+        "term": "Competitive landscape",
+        "components": [
+          "competitive",
+          "landscape"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT025",
+        "term": "Competitive landscape",
+        "components": [
+          "competitive",
+          "landscape"
+        ],
+        "verifiedComponents": [
+          "competitive"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT028",
+        "term": "First-mover advantage",
+        "components": [
+          "first",
+          "mover",
+          "advantage"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT028",
+        "term": "First-mover advantage",
+        "components": [
+          "first",
+          "mover",
+          "advantage"
+        ],
+        "verifiedComponents": [
+          "advantage"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT092",
+        "term": "Conversion funnel",
+        "components": [
+          "conversion",
+          "funnel"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT092",
+        "term": "Conversion funnel",
+        "components": [
+          "conversion",
+          "funnel"
+        ],
+        "verifiedComponents": [
+          "conversion"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT156",
+        "term": "Behavioral segmentation",
+        "components": [
+          "behavioral",
+          "segmentation"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT156",
+        "term": "Behavioral segmentation",
+        "components": [
+          "behavioral",
+          "segmentation"
+        ],
+        "verifiedComponents": [
+          "segmentation"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT157",
+        "term": "Psychographic segmentation",
+        "components": [
+          "psychographic",
+          "segmentation"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT157",
+        "term": "Psychographic segmentation",
+        "components": [
+          "psychographic",
+          "segmentation"
+        ],
+        "verifiedComponents": [
+          "segmentation"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT158",
+        "term": "Demographic segmentation",
+        "components": [
+          "demographic",
+          "segmentation"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT158",
+        "term": "Demographic segmentation",
+        "components": [
+          "demographic",
+          "segmentation"
+        ],
+        "verifiedComponents": [
+          "segmentation"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT167",
+        "term": "Competitive positioning",
+        "components": [
+          "competitive",
+          "positioning"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT167",
+        "term": "Competitive positioning",
+        "components": [
+          "competitive",
+          "positioning"
+        ],
+        "verifiedComponents": [
+          "competitive"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT168",
+        "term": "Competitive intelligence",
+        "components": [
+          "competitive",
+          "intelligence"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT168",
+        "term": "Competitive intelligence",
+        "components": [
+          "competitive",
+          "intelligence"
+        ],
+        "verifiedComponents": [
+          "competitive"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT238",
+        "term": "Conversion tracking",
+        "components": [
+          "conversion",
+          "tracking"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT238",
+        "term": "Conversion tracking",
+        "components": [
+          "conversion",
+          "tracking"
+        ],
+        "verifiedComponents": [
+          "conversion"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT245",
+        "term": "Conversion window",
+        "components": [
+          "conversion",
+          "window"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT245",
+        "term": "Conversion window",
+        "components": [
+          "conversion",
+          "window"
+        ],
+        "verifiedComponents": [
+          "conversion"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT246",
+        "term": "Conversion lag",
+        "components": [
+          "conversion",
+          "lag"
+        ],
+        "verifiedComponents": [],
+        "status": "editorial_only"
+      },
+      "after": {
+        "id": "MKT246",
+        "term": "Conversion lag",
+        "components": [
+          "conversion",
+          "lag"
+        ],
+        "verifiedComponents": [
+          "conversion"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT247",
+        "term": "Conversion rate optimization",
+        "components": [
+          "conversion",
+          "rate",
+          "optimization"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT247",
+        "term": "Conversion rate optimization",
+        "components": [
+          "conversion",
+          "rate",
+          "optimization"
+        ],
+        "verifiedComponents": [
+          "conversion",
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT431",
+        "term": "Retail conversion rate",
+        "components": [
+          "retail",
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT431",
+        "term": "Retail conversion rate",
+        "components": [
+          "retail",
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "conversion",
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT455",
+        "term": "Invite conversion rate",
+        "components": [
+          "invite",
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT455",
+        "term": "Invite conversion rate",
+        "components": [
+          "invite",
+          "conversion",
+          "rate"
+        ],
+        "verifiedComponents": [
+          "conversion",
+          "rate"
+        ],
+        "status": "partial_component_evidence"
+      }
+    },
+    {
+      "before": {
+        "id": "MKT462",
+        "term": "Customer segmentation",
+        "components": [
+          "customer",
+          "segmentation"
+        ],
+        "verifiedComponents": [
+          "customer"
+        ],
+        "status": "partial_component_evidence"
+      },
+      "after": {
+        "id": "MKT462",
+        "term": "Customer segmentation",
+        "components": [
+          "customer",
+          "segmentation"
+        ],
+        "verifiedComponents": [
+          "customer",
+          "segmentation"
+        ],
+        "status": "all_components_evidence"
+      }
+    }
+  ],
+  "beforeCounts": {
+    "partial_component_evidence": 201,
+    "editorial_only": 390,
+    "full_term_verified": 6,
+    "all_components_evidence": 3
+  },
+  "afterCounts": {
+    "partial_component_evidence": 209,
+    "all_components_evidence": 7,
+    "editorial_only": 378,
+    "full_term_verified": 6
+  }
+}

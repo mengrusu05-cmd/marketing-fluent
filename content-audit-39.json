@@ -1,0 +1,1737 @@
+[
+  {
+    "id": "MKT201",
+    "before": {
+      "id": "MKT201",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Integrated marketing communications",
+      "zh": "整合营销传播",
+      "definition": "协调各渠道的信息与传播活动以形成一致体验",
+      "example": "Our integrated marketing communications plan links retail, PR and digital media.",
+      "exampleZh": "我们的整合营销传播计划串联零售、公关和数字媒体。",
+      "collocation": "align integrated marketing communications across channels",
+      "collocationZh": "协调各渠道的整合营销传播",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we coordinating the message across stores, press and online channels?",
+          "zh": "如何协调门店、媒体公关与线上渠道的传播信息？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our integrated marketing communications plan links retail, PR and digital media.",
+          "zh": "我们的整合营销传播计划串联零售、公关和数字媒体。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 201,
+      "aliases": [
+        "IMC"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɪntɪˌɡreɪtɪd ˈmɑːkɪtɪŋ kəˌmjuːnɪˈkeɪʃənz",
+      "ipaUS": "ˈɪntɪˌɡreɪtɪd ˈmɑːrkɪtɪŋ kəˌmjuːnɪˈkeɪʃənz",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Integrated marketing communications",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT201",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Integrated marketing communications",
+      "zh": "整合营销传播",
+      "definition": "协调广告、公关、零售等传播触点，使核心信息和品牌体验相互支持的规划与执行方法。",
+      "example": "Our integrated marketing communications plan connects retail, PR and digital media.",
+      "exampleZh": "我们的整合营销传播计划将零售、公关和数字媒体联动起来。",
+      "collocation": "align integrated marketing communications across channels",
+      "collocationZh": "协调各渠道的整合营销传播",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we coordinate our message across stores, the press and online channels?",
+          "zh": "我们将如何协调门店、新闻媒体和线上渠道的传播信息？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our integrated marketing communications plan connects retail, PR and digital media.",
+          "zh": "我们的整合营销传播计划将零售、公关和数字媒体联动起来。"
+        }
+      ],
+      "usage": "IMC 强调传播协同，不要求各渠道使用完全相同的素材。",
+      "new": true,
+      "order": 201,
+      "aliases": [
+        "IMC"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈɪntɪˌɡreɪtɪd ˈmɑːkɪtɪŋ kəˌmjuːnɪˈkeɪʃənz",
+      "ipaUS": "ˈɪntɪˌɡreɪtɪd ˈmɑːrkɪtɪŋ kəˌmjuːnɪˈkeɪʃənz",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Integrated marketing communications",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT202",
+    "before": {
+      "id": "MKT202",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign objective",
+      "zh": "营销活动目标",
+      "definition": "活动希望实现的可衡量业务或传播结果",
+      "example": "Our campaign objective is to increase trial among new customers.",
+      "exampleZh": "本次活动目标是提高新客户的试用率。",
+      "collocation": "set a campaign objective",
+      "collocationZh": "设定活动目标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What specific outcome should the launch deliver among people who have never bought from us?",
+          "zh": "此次上市应在从未购买过的群体中实现什么具体成果？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our campaign objective is to increase trial among new customers.",
+          "zh": "本次活动目标是提高新客户的试用率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 202,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kæmˈpeɪn ɒbˈdʒektɪv",
+      "ipaUS": "kæmˈpeɪn ɑːbˈdʒektɪv",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Campaign objective",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT202",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign objective",
+      "zh": "营销活动目标",
+      "definition": "营销活动预期实现的具体结果，可涉及销售、试用或传播指标。",
+      "example": "Our campaign objective is to increase product trial among prospective customers.",
+      "exampleZh": "本次活动的目标是提高潜在客户的产品试用率。",
+      "collocation": "set a campaign objective",
+      "collocationZh": "设定活动目标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What outcome are we targeting among people who have never bought from us?",
+          "zh": "我们希望在从未购买过我们产品的人群中实现什么成果？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our campaign objective is to increase product trial among prospective customers.",
+          "zh": "本次活动的目标是提高潜在客户的产品试用率。"
+        }
+      ],
+      "usage": "目标应尽可能明确指标、基准和时间范围。",
+      "new": true,
+      "order": 202,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kæmˈpeɪn əbˈdʒektɪv",
+      "ipaUS": "kæmˈpeɪn əbˈdʒektɪv",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Campaign objective",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT203",
+    "before": {
+      "id": "MKT203",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign brief",
+      "zh": "营销活动简报",
+      "definition": "明确活动目标、受众、交付物和约束的文件",
+      "example": "The agency needs a campaign brief before estimating costs.",
+      "exampleZh": "代理商需要先收到活动简报才能估算成本。",
+      "collocation": "write a campaign brief",
+      "collocationZh": "撰写活动简报",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What information does the agency require to prepare a cost estimate?",
+          "zh": "代理商需要什么信息才能估算成本？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency needs a campaign brief before estimating costs.",
+          "zh": "代理商需要先收到活动简报才能估算成本。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 203,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kæmˈpeɪn ˈbriːf",
+      "ipaUS": "kæmˈpeɪn ˈbriːf",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Campaign brief",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT203",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign brief",
+      "zh": "营销活动简报",
+      "definition": "说明营销活动目标、目标受众、预算、交付物及时间等要求的指导文件。",
+      "example": "The agency needs a campaign brief before estimating costs.",
+      "exampleZh": "代理公司需要先收到营销活动简报，才能估算成本。",
+      "collocation": "write a campaign brief",
+      "collocationZh": "撰写活动简报",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What does the agency need before it can estimate costs?",
+          "zh": "代理公司在估算成本前需要什么资料？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency needs a campaign brief before estimating costs.",
+          "zh": "代理公司需要先收到营销活动简报，才能估算成本。"
+        }
+      ],
+      "usage": "与 creative brief 相比，通常覆盖更广泛的活动执行要求。",
+      "new": true,
+      "order": 203,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kæmˈpeɪn ˈbriːf",
+      "ipaUS": "kæmˈpeɪn ˈbriːf",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Campaign brief",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT204",
+    "before": {
+      "id": "MKT204",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Creative brief",
+      "zh": "创意简报",
+      "definition": "指导创意团队理解受众、核心信息及创意要求的文件",
+      "example": "We should approve the creative brief before production begins.",
+      "exampleZh": "我们应在制作开始前批准创意简报。",
+      "collocation": "approve the creative brief",
+      "collocationZh": "批准创意简报",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What document should we sign off before designers begin producing assets?",
+          "zh": "设计师开始制作素材前，应批准什么文件？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should approve the creative brief before production begins.",
+          "zh": "我们应在制作开始前批准创意简报。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 204,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kriːˈeɪtɪv ˈbriːf",
+      "ipaUS": "kriːˈeɪtɪv ˈbriːf",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Creative brief",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT204",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Creative brief",
+      "zh": "创意简报",
+      "definition": "为创意团队明确受众、传播任务、核心信息及创意约束的指导文件。",
+      "example": "We should approve the creative brief before production begins.",
+      "exampleZh": "我们应在素材制作开始前确认创意简报。",
+      "collocation": "approve the creative brief",
+      "collocationZh": "批准创意简报",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we sign off before production begins?",
+          "zh": "制作开始前，我们应确认什么文件？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We should approve the creative brief before production begins.",
+          "zh": "我们应在素材制作开始前确认创意简报。"
+        }
+      ],
+      "usage": "sign off on a brief 也表示正式确认简报。",
+      "new": true,
+      "order": 204,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kriˈeɪtɪv briːf",
+      "ipaUS": "kriˈeɪtɪv briːf",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Creative brief",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT205",
+    "before": {
+      "id": "MKT205",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Big idea",
+      "zh": "核心创意",
+      "definition": "贯穿营销活动的中心创意概念",
+      "example": "The big idea must work across both video and in-store displays.",
+      "exampleZh": "核心创意必须同时适用于视频和店内展示。",
+      "collocation": "develop a big idea",
+      "collocationZh": "开发核心创意",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What makes the central creative concept suitable for multiple formats?",
+          "zh": "什么要求能让核心创意适用于多种形式？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The big idea must work across both video and in-store displays.",
+          "zh": "核心创意必须同时适用于视频和店内展示。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 205,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈbɪɡ aɪˈdiə",
+      "ipaUS": "ˈbɪɡ aɪˈdiə",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Big idea",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT205",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Big idea",
+      "zh": "核心创意",
+      "definition": "能够统领活动表达并延展至不同触点的中心创意概念。",
+      "example": "The big idea must work across both video and in-store displays.",
+      "exampleZh": "核心创意必须同时适用于视频和店内展示。",
+      "collocation": "develop a big idea",
+      "collocationZh": "构思核心创意",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What should we keep consistent across the different creative formats?",
+          "zh": "不同创意形式之间应保持什么一致？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The big idea must work across both video and in-store displays.",
+          "zh": "核心创意必须同时适用于视频和店内展示。"
+        }
+      ],
+      "usage": "big idea 不等于一句广告标语。",
+      "new": true,
+      "order": 205,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "bɪɡ aɪˈdɪə",
+      "ipaUS": "bɪɡ aɪˈdiːə",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Big idea",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT206",
+    "before": {
+      "id": "MKT206",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Key message",
+      "zh": "核心信息",
+      "definition": "希望受众理解并记住的主要传播内容",
+      "example": "Every asset should reinforce the key message about convenience.",
+      "exampleZh": "每项素材都应强化便利性这一核心信息。",
+      "collocation": "reinforce the key message",
+      "collocationZh": "强化核心信息",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we ensure customers remember that the service saves them time?",
+          "zh": "如何确保客户记住这项服务能节省时间？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Every asset should reinforce the key message about convenience.",
+          "zh": "每项素材都应强化便利性这一核心信息。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 206,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkiː ˈmesɪdʒ",
+      "ipaUS": "ˈkiː ˈmesɪdʒ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Key message",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT206",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Key message",
+      "zh": "核心信息",
+      "definition": "希望目标受众理解并记住的主要传播信息。",
+      "example": "Every asset should reinforce the key message about saving time.",
+      "exampleZh": "每项素材都应强化节省时间这一核心信息。",
+      "collocation": "reinforce the key message",
+      "collocationZh": "强化核心信息",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we help customers remember that the service saves them time?",
+          "zh": "如何帮助客户记住这项服务能节省时间？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Every asset should reinforce the key message about saving time.",
+          "zh": "每项素材都应强化节省时间这一核心信息。"
+        }
+      ],
+      "usage": "key message 可以有多个，但应明确优先级。",
+      "new": true,
+      "order": 206,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈkiː ˈmesɪdʒ",
+      "ipaUS": "ˈkiː ˈmesɪdʒ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Key message",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT207",
+    "before": {
+      "id": "MKT207",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Communication objective",
+      "zh": "传播目标",
+      "definition": "希望传播活动改变的认知、态度或行为",
+      "example": "Our communication objective is to improve awareness of the new service.",
+      "exampleZh": "我们的传播目标是提高新服务的知名度。",
+      "collocation": "define a communication objective",
+      "collocationZh": "明确传播目标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What change in audience awareness are we aiming for?",
+          "zh": "我们希望受众认知发生什么变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our communication objective is to improve awareness of the new service.",
+          "zh": "我们的传播目标是提高新服务的知名度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 207,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kəˌmjuːnɪˈkeɪʃən ɒbˈdʒektɪv",
+      "ipaUS": "kəˌmjuːnɪˈkeɪʃən ɑːbˈdʒektɪv",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Communication objective",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT207",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Communication objective",
+      "zh": "传播目标",
+      "definition": "传播活动希望在目标受众的认知、态度或行为方面实现的具体变化。",
+      "example": "Our communication objective is to increase awareness of the new service.",
+      "exampleZh": "我们的传播目标是提高新服务的知名度。",
+      "collocation": "define a communication objective",
+      "collocationZh": "明确传播目标",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What change in audience awareness are we aiming for?",
+          "zh": "我们希望受众认知发生什么变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our communication objective is to increase awareness of the new service.",
+          "zh": "我们的传播目标是提高新服务的知名度。"
+        }
+      ],
+      "usage": "区别于销售收入等更广泛的商业目标。",
+      "new": true,
+      "order": 207,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kəˌmjuːnɪˈkeɪʃən əbˈdʒektɪv",
+      "ipaUS": "kəˌmjuːnɪˈkeɪʃən əbˈdʒektɪv",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Communication objective",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT208",
+    "before": {
+      "id": "MKT208",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign rollout",
+      "zh": "活动分阶段推出",
+      "definition": "按计划逐步在不同渠道或市场上线活动",
+      "example": "The campaign rollout starts online and reaches stores next week.",
+      "exampleZh": "活动先在线上推出，下周进入门店。",
+      "collocation": "coordinate the campaign rollout",
+      "collocationZh": "协调活动上线",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "In what sequence will customers see the campaign across channels?",
+          "zh": "客户会按什么顺序在不同渠道看到活动？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The campaign rollout starts online and reaches stores next week.",
+          "zh": "活动先在线上推出，下周进入门店。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 208,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kæmˈpeɪn ˈrəʊlaʊt",
+      "ipaUS": "kæmˈpeɪn ˈroʊlaʊt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Campaign rollout",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT208",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign rollout",
+      "zh": "活动分阶段推出",
+      "definition": "按计划在不同渠道、地区或时间点推出营销活动的过程。",
+      "example": "The campaign rollout starts online, with in-store activity beginning next week.",
+      "exampleZh": "活动先在线上推出，门店活动于下周开始。",
+      "collocation": "coordinate the campaign rollout",
+      "collocationZh": "协调活动上线",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "In what order will the campaign launch across channels?",
+          "zh": "活动将按什么顺序在各渠道推出？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The campaign rollout starts online, with in-store activity beginning next week.",
+          "zh": "活动先在线上推出，门店活动于下周开始。"
+        }
+      ],
+      "usage": "rollout 是名词；roll out 是动词短语。",
+      "new": true,
+      "order": 208,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kæmˈpeɪn ˈrəʊlaʊt",
+      "ipaUS": "kæmˈpeɪn ˈroʊlaʊt",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Campaign rollout",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT209",
+    "before": {
+      "id": "MKT209",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign calendar",
+      "zh": "营销活动日历",
+      "definition": "记录活动节点、渠道及时间安排的计划表",
+      "example": "Please update the campaign calendar with the revised launch date.",
+      "exampleZh": "请在活动日历中更新调整后的上线日期。",
+      "collocation": "update the campaign calendar",
+      "collocationZh": "更新活动日历",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "The launch has moved back a week. Which planning document needs updating?",
+          "zh": "上市推迟一周，哪份规划文件需要更新？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Please update the campaign calendar with the revised launch date.",
+          "zh": "请在活动日历中更新调整后的上线日期。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 209,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kæmˈpeɪn ˈkælendə",
+      "ipaUS": "kæmˈpeɪn ˈkælendɚ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Campaign calendar",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT209",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign calendar",
+      "zh": "营销活动日历",
+      "definition": "记录营销活动日期、里程碑、渠道安排和相关交付节点的计划表。",
+      "example": "We need to update the campaign calendar with the revised launch date.",
+      "exampleZh": "我们需要在活动日历中更新调整后的上市日期。",
+      "collocation": "update the campaign calendar",
+      "collocationZh": "更新活动日历",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "The launch has been postponed by a week. What needs updating?",
+          "zh": "上市推迟了一周，需要更新什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We need to update the campaign calendar with the revised launch date.",
+          "zh": "我们需要在活动日历中更新调整后的上市日期。"
+        }
+      ],
+      "usage": "calendar 强调时间安排，不等于完整活动方案。",
+      "new": true,
+      "order": 209,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kæmˈpeɪn ˈkælɪndə",
+      "ipaUS": "kæmˈpeɪn ˈkælɪndər",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Campaign calendar",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT210",
+    "before": {
+      "id": "MKT210",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Channel mix",
+      "zh": "渠道组合",
+      "definition": "为实现目标而选用的营销渠道组合",
+      "example": "We adjusted the channel mix to reach more first-time buyers.",
+      "exampleZh": "我们调整了渠道组合以触达更多首次购买者。",
+      "collocation": "optimize the channel mix",
+      "collocationZh": "优化渠道组合",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we change our media choices to attract people unfamiliar with the brand?",
+          "zh": "我们如何调整媒介选择以吸引不熟悉品牌的人？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We adjusted the channel mix to reach more first-time buyers.",
+          "zh": "我们调整了渠道组合以触达更多首次购买者。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 210,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈtʃænəl ˈmɪks",
+      "ipaUS": "ˈtʃænəl ˈmɪks",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Channel mix",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT210",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Channel mix",
+      "zh": "渠道组合",
+      "definition": "为实现营销目标而选择的渠道及其资源配置组合。",
+      "example": "We adjusted the channel mix to reach more first-time buyers.",
+      "exampleZh": "我们调整了渠道组合，以触达更多首次购买者。",
+      "collocation": "optimize the channel mix",
+      "collocationZh": "优化渠道组合",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we change our approach to reach more first-time buyers?",
+          "zh": "我们如何调整策略以触达更多首次购买者？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We adjusted the channel mix to reach more first-time buyers.",
+          "zh": "我们调整了渠道组合，以触达更多首次购买者。"
+        }
+      ],
+      "usage": "渠道组合可包括销售、触达和传播渠道，不仅限于广告媒体。",
+      "new": true,
+      "order": 210,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈtʃænəl ˈmɪks",
+      "ipaUS": "ˈtʃænəl ˈmɪks",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Channel mix",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT211",
+    "before": {
+      "id": "MKT211",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Paid media",
+      "zh": "付费媒体",
+      "definition": "通过购买广告资源获得曝光的媒体",
+      "example": "Paid media will support the launch during the first two weeks.",
+      "exampleZh": "付费媒体将在上市后的前两周提供支持。",
+      "collocation": "allocate budget to paid media",
+      "collocationZh": "为付费媒体分配预算",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we extend reach beyond our existing audience at launch?",
+          "zh": "上市时如何扩大现有受众之外的触达？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Paid media will support the launch during the first two weeks.",
+          "zh": "付费媒体将在上市后的前两周提供支持。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 211,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpeɪd ˈmiːdiːə",
+      "ipaUS": "ˈpeɪd ˈmiːdiːə",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Paid media",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT211",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Paid media",
+      "zh": "付费媒体",
+      "definition": "通过付费购买广告版位、展示或其他传播机会获得的媒体曝光。",
+      "example": "Paid media will support the launch during the first two weeks.",
+      "exampleZh": "付费媒体将在上市后的前两周支持推广。",
+      "collocation": "allocate budget to paid media",
+      "collocationZh": "为付费媒体分配预算",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we extend our reach beyond our existing audience at launch?",
+          "zh": "上市时如何触达现有受众之外的人群？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Paid media will support the launch during the first two weeks.",
+          "zh": "付费媒体将在上市后的前两周支持推广。"
+        }
+      ],
+      "usage": "付费媒体不等于全部营销成本。",
+      "new": true,
+      "order": 211,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "peɪd ˈmiːdiə",
+      "ipaUS": "peɪd ˈmiːdiə",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Paid media",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT212",
+    "before": {
+      "id": "MKT212",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Owned media",
+      "zh": "自有媒体",
+      "definition": "品牌自身控制的网站、账号等传播渠道",
+      "example": "We can announce the offer through owned media before buying ads.",
+      "exampleZh": "我们可以先通过自有媒体公布优惠，再购买广告。",
+      "collocation": "leverage owned media",
+      "collocationZh": "利用自有媒体",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can we announce the promotion without paying for additional placements?",
+          "zh": "能否不购买额外广告位就发布促销信息？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We can announce the offer through owned media before buying ads.",
+          "zh": "我们可以先通过自有媒体公布优惠，再购买广告。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 212,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈəʊnd ˈmiːdiːə",
+      "ipaUS": "ˈoʊnd ˈmiːdiːə",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Owned media",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT212",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Owned media",
+      "zh": "自有媒体",
+      "definition": "品牌直接管理其内容和发布安排的渠道，如官网、邮件名单和官方账号。",
+      "example": "We can announce the offer through owned media before buying ads.",
+      "exampleZh": "我们可以先通过自有媒体发布优惠，再购买广告。",
+      "collocation": "leverage owned media",
+      "collocationZh": "利用自有媒体",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can we announce the promotion without buying additional ad placements?",
+          "zh": "我们能否不购买额外广告位就发布促销信息？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We can announce the offer through owned media before buying ads.",
+          "zh": "我们可以先通过自有媒体发布优惠，再购买广告。"
+        }
+      ],
+      "usage": "官方社交账号仍受第三方平台规则约束。",
+      "new": true,
+      "order": 212,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "əʊnd ˈmiːdiə",
+      "ipaUS": "oʊnd ˈmiːdiə",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Owned media",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT213",
+    "before": {
+      "id": "MKT213",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Earned media",
+      "zh": "赢得媒体",
+      "definition": "通过第三方自发报道或分享获得的曝光",
+      "example": "The product review generated earned media without additional ad spend.",
+      "exampleZh": "产品评测在没有额外广告支出的情况下带来了媒体曝光。",
+      "collocation": "generate earned media",
+      "collocationZh": "获得赢得媒体曝光",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What publicity did we receive without paying for placement?",
+          "zh": "我们获得了哪些无需支付版位费用的曝光？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The product review generated earned media without additional ad spend.",
+          "zh": "产品评测在没有额外广告支出的情况下带来了媒体曝光。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 213,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈɜːnd ˈmiːdiːə",
+      "ipaUS": "ˈɜːnd ˈmiːdiːə",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Earned media",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT213",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Earned media",
+      "zh": "赢得媒体",
+      "definition": "通过未付费购买的第三方报道、评价或推荐获得的传播曝光。",
+      "example": "An independent product review generated earned media coverage.",
+      "exampleZh": "一篇独立产品评测带来了赢得媒体曝光。",
+      "collocation": "generate earned media",
+      "collocationZh": "获得第三方自发媒体曝光",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What publicity did we receive without paying for placement?",
+          "zh": "我们获得了哪些未付费购买版位的媒体曝光？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "An independent product review generated earned media coverage.",
+          "zh": "一篇独立产品评测带来了赢得媒体曝光。"
+        }
+      ],
+      "usage": "未购买版位不代表公关活动没有成本。",
+      "new": true,
+      "order": 213,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɜːnd ˈmiːdiə",
+      "ipaUS": "ɝːnd ˈmiːdiə",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Earned media",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT214",
+    "before": {
+      "id": "MKT214",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Shared media",
+      "zh": "共享媒体",
+      "definition": "品牌与用户共同参与传播的社交渠道及内容",
+      "example": "Shared media helped customers spread their own campaign stories.",
+      "exampleZh": "共享媒体帮助客户传播自己的活动故事。",
+      "collocation": "activate shared media",
+      "collocationZh": "激活共享媒体",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did customers help distribute campaign stories themselves?",
+          "zh": "客户如何自行传播活动故事？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Shared media helped customers spread their own campaign stories.",
+          "zh": "共享媒体帮助客户传播自己的活动故事。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 214,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈʃeəd ˈmiːdiːə",
+      "ipaUS": "ˈʃerd ˈmiːdiːə",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Shared media",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT214",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Shared media",
+      "zh": "共享媒体",
+      "definition": "在社交平台等环境中由品牌、用户和社群共同参与分享与传播的媒体内容。",
+      "example": "Shared media helped customers spread their own campaign stories.",
+      "exampleZh": "共享媒体帮助客户分享自己参与活动的故事。",
+      "collocation": "encourage sharing through shared media",
+      "collocationZh": "鼓励通过共享媒体分享",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did customers help spread the campaign message?",
+          "zh": "客户如何帮助传播活动信息？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Shared media helped customers spread their own campaign stories.",
+          "zh": "共享媒体帮助客户分享自己参与活动的故事。"
+        }
+      ],
+      "usage": "PESO 框架中与 paid、earned、owned 并列；实际分类可能重叠。",
+      "new": true,
+      "order": 214,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ʃeəd ˈmiːdiə",
+      "ipaUS": "ʃerd ˈmiːdiə",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Shared media",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocation",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT215",
+    "before": {
+      "id": "MKT215",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Cross-channel marketing",
+      "zh": "跨渠道营销",
+      "definition": "在多个渠道协调营销活动以服务共同目标",
+      "example": "Cross-channel marketing requires consistent offer dates.",
+      "exampleZh": "跨渠道营销要求优惠日期保持一致。",
+      "collocation": "coordinate cross-channel marketing",
+      "collocationZh": "协调跨渠道营销",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How do we prevent customers from seeing different promotion dates on different channels?",
+          "zh": "如何避免客户在不同渠道看到不同促销日期？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Cross-channel marketing requires consistent offer dates.",
+          "zh": "跨渠道营销要求优惠日期保持一致。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 215,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkrɒsˈtʃænəl ˈmɑːkɪtɪŋ",
+      "ipaUS": "ˈkrɔsˈtʃænəl ˈmɑːrkɪtɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Cross-channel marketing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT215",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Cross-channel marketing",
+      "zh": "跨渠道营销",
+      "definition": "协调多个渠道的营销活动，使其相互配合并支持共同目标。",
+      "example": "Cross-channel marketing helps us coordinate promotions across email and retail.",
+      "exampleZh": "跨渠道营销帮助我们协调邮件与零售渠道的促销活动。",
+      "collocation": "coordinate cross-channel marketing",
+      "collocationZh": "协调跨渠道营销",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we coordinate our email and in-store promotions?",
+          "zh": "如何协调邮件与门店促销？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Cross-channel marketing helps us coordinate promotions across email and retail.",
+          "zh": "跨渠道营销帮助我们协调邮件与零售渠道的促销活动。"
+        }
+      ],
+      "usage": "各渠道优惠不必完全相同，但规则应清晰协调。",
+      "new": true,
+      "order": 215,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌkrɒs ˈtʃænəl ˈmɑːkɪtɪŋ",
+      "ipaUS": "ˌkrɔːs ˈtʃænəl ˈmɑːrkɪtɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Cross-channel marketing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT216",
+    "before": {
+      "id": "MKT216",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Omnichannel marketing",
+      "zh": "全渠道营销",
+      "definition": "整合渠道与客户数据以提供连贯的客户体验",
+      "example": "Our omnichannel marketing strategy lets shoppers redeem online offers in stores.",
+      "exampleZh": "我们的全渠道营销策略允许消费者在门店兑换线上优惠。",
+      "collocation": "build an omnichannel marketing strategy",
+      "collocationZh": "制定全渠道营销策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can customers use an online coupon when shopping in a physical store?",
+          "zh": "客户能否在实体门店使用线上优惠券？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our omnichannel marketing strategy lets shoppers redeem online offers in stores.",
+          "zh": "我们的全渠道营销策略允许消费者在门店兑换线上优惠。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 216,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌɒmnɪˈtʃænəl ˈmɑːkɪtɪŋ",
+      "ipaUS": "ˌɑːmnɪˈtʃænəl ˈmɑːrkɪtɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Omnichannel marketing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT216",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Omnichannel marketing",
+      "zh": "全渠道营销",
+      "definition": "整合相关渠道、流程与客户信息，以提供连贯的跨触点客户体验。",
+      "example": "Our omnichannel marketing strategy lets shoppers redeem online offers in stores.",
+      "exampleZh": "我们的全渠道营销策略让消费者可以在门店使用线上优惠。",
+      "collocation": "build an omnichannel marketing strategy",
+      "collocationZh": "制定全渠道营销策略",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Can customers redeem an online coupon in a physical store?",
+          "zh": "客户能否在实体门店使用线上优惠券？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Our omnichannel marketing strategy lets shoppers redeem online offers in stores.",
+          "zh": "我们的全渠道营销策略让消费者可以在门店使用线上优惠。"
+        }
+      ],
+      "usage": "区别于仅在多个渠道开展活动；重点在体验衔接。",
+      "new": true,
+      "order": 216,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌɒmnɪˈtʃænəl ˈmɑːkɪtɪŋ",
+      "ipaUS": "ˌɑːmnɪˈtʃænəl ˈmɑːrkɪtɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Omnichannel marketing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT217",
+    "before": {
+      "id": "MKT217",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Creative adaptation",
+      "zh": "创意适配",
+      "definition": "根据渠道规格或受众调整已有创意素材",
+      "example": "Creative adaptation for mobile requires shorter headlines.",
+      "exampleZh": "移动端创意适配需要更短的标题。",
+      "collocation": "manage creative adaptation",
+      "collocationZh": "管理创意适配",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "The desktop headline is too long for a phone screen. What should change?",
+          "zh": "桌面端标题对手机屏幕来说太长，应如何调整？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Creative adaptation for mobile requires shorter headlines.",
+          "zh": "移动端创意适配需要更短的标题。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 217,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kriːˈeɪtɪv ˌædæpˈteɪʃən",
+      "ipaUS": "kriːˈeɪtɪv ˌædæpˈteɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Creative adaptation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT217",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Creative adaptation",
+      "zh": "创意适配",
+      "definition": "根据渠道规格、受众或市场需求调整已有创意，同时保留核心传播意图。",
+      "example": "Creative adaptation for mobile may involve shortening headlines.",
+      "exampleZh": "移动端创意适配可能需要缩短标题。",
+      "collocation": "manage creative adaptation",
+      "collocationZh": "管理创意适配",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "The desktop headline is too long for mobile. How should we adapt it?",
+          "zh": "桌面端标题在手机上太长，应如何适配？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Creative adaptation for mobile may involve shortening headlines.",
+          "zh": "移动端创意适配可能需要缩短标题。"
+        }
+      ],
+      "usage": "不应将所有移动端素材都必须缩短标题视为规则。",
+      "new": true,
+      "order": 217,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kriˈeɪtɪv ˌædæpˈteɪʃən",
+      "ipaUS": "kriˈeɪtɪv ˌædæpˈteɪʃən",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Creative adaptation",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT218",
+    "before": {
+      "id": "MKT218",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Asset library",
+      "zh": "素材库",
+      "definition": "集中管理营销图片、视频和文案的资源库",
+      "example": "The asset library contains approved product photography.",
+      "exampleZh": "素材库包含已批准的产品摄影作品。",
+      "collocation": "maintain an asset library",
+      "collocationZh": "维护素材库",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where can regional designers find approved product images?",
+          "zh": "区域设计师在哪里可以找到已批准的产品图片？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The asset library contains approved product photography.",
+          "zh": "素材库包含已批准的产品摄影作品。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 218,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈæset ˈlaɪbrəri",
+      "ipaUS": "ˈæset ˈlaɪbreri",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Asset library",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT218",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Asset library",
+      "zh": "素材库",
+      "definition": "集中存储、组织并提供营销图片、视频、文案等素材的资源库。",
+      "example": "The asset library contains approved product photography.",
+      "exampleZh": "素材库中存有已审核通过的产品照片。",
+      "collocation": "maintain an asset library",
+      "collocationZh": "维护素材库",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Where can regional designers find approved product images?",
+          "zh": "各地区设计师在哪里可以找到已审核通过的产品图片？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The asset library contains approved product photography.",
+          "zh": "素材库中存有已审核通过的产品照片。"
+        }
+      ],
+      "usage": "使用素材时还应核对授权范围和版本。",
+      "new": true,
+      "order": 218,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈæset ˈlaɪbrəri",
+      "ipaUS": "ˈæset ˈlaɪbreri",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Asset library",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT219",
+    "before": {
+      "id": "MKT219",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign flight",
+      "zh": "广告投放周期",
+      "definition": "活动广告连续投放的指定时间段",
+      "example": "The next campaign flight begins after the holiday.",
+      "exampleZh": "下一轮广告投放将在假期后开始。",
+      "collocation": "schedule a campaign flight",
+      "collocationZh": "安排广告投放周期",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When does the next scheduled advertising period start?",
+          "zh": "下一轮计划中的广告投放何时开始？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The next campaign flight begins after the holiday.",
+          "zh": "下一轮广告投放将在假期后开始。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 219,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kæmˈpeɪn ˈflaɪt",
+      "ipaUS": "kæmˈpeɪn ˈflaɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Campaign flight",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT219",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign flight",
+      "zh": "广告投放周期",
+      "definition": "媒体计划中安排广告投放的一段指定时间。",
+      "example": "The next campaign flight begins after the holiday.",
+      "exampleZh": "下一轮广告投放将在假期后开始。",
+      "collocation": "schedule a campaign flight",
+      "collocationZh": "安排广告投放周期",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "When does the next scheduled advertising period start?",
+          "zh": "下一轮计划中的广告投放何时开始？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The next campaign flight begins after the holiday.",
+          "zh": "下一轮广告投放将在假期后开始。"
+        }
+      ],
+      "usage": "flight 在媒体计划中指投放时段，而非航班。",
+      "new": true,
+      "order": 219,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kæmˈpeɪn ˈflaɪt",
+      "ipaUS": "kæmˈpeɪn ˈflaɪt",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Campaign flight",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  },
+  {
+    "id": "MKT220",
+    "before": {
+      "id": "MKT220",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign phasing",
+      "zh": "活动阶段划分",
+      "definition": "将活动按预热、上线和持续传播等阶段安排",
+      "example": "Campaign phasing allows us to build interest before launch.",
+      "exampleZh": "活动阶段划分让我们在上线前积累关注。",
+      "collocation": "plan campaign phasing",
+      "collocationZh": "规划活动阶段",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we generate anticipation ahead of the release?",
+          "zh": "如何在正式发布前建立期待？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Campaign phasing allows us to build interest before launch.",
+          "zh": "活动阶段划分让我们在上线前积累关注。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 220,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kæmˈpeɪn ˈfeɪzɪŋ",
+      "ipaUS": "kæmˈpeɪn ˈfeɪzɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Campaign phasing",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT220",
+      "moduleId": "m8",
+      "module": "整合营销传播",
+      "term": "Campaign phasing",
+      "zh": "活动阶段划分",
+      "definition": "将营销活动按目标与时间划分为预热、上线、持续推广等阶段的规划方式。",
+      "example": "Campaign phasing allows us to build interest before launch.",
+      "exampleZh": "分阶段开展活动有助于在上市前积累关注。",
+      "collocation": "plan campaign phasing",
+      "collocationZh": "规划活动阶段",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we generate interest before the launch?",
+          "zh": "如何在上市前引起受众关注？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Campaign phasing allows us to build interest before launch.",
+          "zh": "分阶段开展活动有助于在上市前积累关注。"
+        }
+      ],
+      "usage": "阶段划分不等同于单个广告投放周期。",
+      "new": true,
+      "order": 220,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kæmˈpeɪn ˈfeɪzɪŋ",
+      "ipaUS": "kæmˈpeɪn ˈfeɪzɪŋ",
+      "ipaSource": "编辑校订 · 待词典核验",
+      "speakTerm": "Campaign phasing",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview"
+    ],
+    "review": "逐条编辑校订；未独立查词典；检查释义、例句、搭配、对话、翻译及音标"
+  }
+]

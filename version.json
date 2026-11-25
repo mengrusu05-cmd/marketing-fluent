@@ -1,6 +1,6 @@
 {
-  "version": "1.0.27",
-  "build": "marketing-fluent-v1-0-27-20261125",
-  "notes": "Independent version and update entry; 24 distinct module SVG icons",
+  "version": "1.0.71",
+  "build": "marketing-fluent-v1-0-71-20261125",
+  "notes": "Bounded update requests and worker waits; concurrent update guard; browser acceptance pending",
   "release": "1.0"
 }

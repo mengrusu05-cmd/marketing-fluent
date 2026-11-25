@@ -1,0 +1,1692 @@
+{
+  "version": "1.0.57",
+  "records": [
+    {
+      "id": "MKT561",
+      "before": {
+        "id": "MKT561",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Transcreation",
+        "zh": "创译",
+        "definition": "在保留传播意图的基础上为目标文化重新创作内容",
+        "example": "We commissioned transcreation for the campaign slogan.",
+        "exampleZh": "我们委托专业人员对活动口号进行创译。",
+        "collocation": "commission transcreation",
+        "collocationZh": "委托创译",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We commissioned ____ for the campaign slogan.",
+            "zh": "补全职场表达：我们委托专业人员对活动口号进行____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We commissioned transcreation for the campaign slogan.",
+            "zh": "我们委托专业人员对活动口号进行创译。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 561,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "trænskriːˈeɪʃən",
+        "ipaUS": "trænskriːˈeɪʃən",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Transcreation",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT561",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Transcreation",
+        "zh": "创译",
+        "definition": "在保留品牌传播意图和语气的基础上，针对目标文化重新创作内容，而非逐字翻译。",
+        "example": "We commissioned transcreation for the campaign slogan.",
+        "exampleZh": "我们委托专业人员对活动口号进行创译。",
+        "collocation": "commission transcreation",
+        "collocationZh": "委托创译",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we adapt the slogan without losing its impact?",
+            "zh": "我们如何调整口号而不削弱其感染力？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We commissioned transcreation for the campaign slogan.",
+            "zh": "我们委托专业人员对活动口号进行创译。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 561,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌtrænskriˈeɪʃən",
+        "ipaUS": "ˌtrænskriˈeɪʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Transcreation",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT562",
+      "before": {
+        "id": "MKT562",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Cultural adaptation",
+        "zh": "文化适配",
+        "definition": "依据当地文化规范和偏好调整内容或体验",
+        "example": "Cultural adaptation helped the humor resonate locally.",
+        "exampleZh": "文化适配让幽默表达更能引起当地共鸣。",
+        "collocation": "prioritize cultural adaptation",
+        "collocationZh": "优先考虑文化适配",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ helped the humor resonate locally.",
+            "zh": "补全职场表达：____让幽默表达更能引起当地共鸣。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cultural adaptation helped the humor resonate locally.",
+            "zh": "文化适配让幽默表达更能引起当地共鸣。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 562,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈkʌltʃərəl ˌædæpˈteɪʃən",
+        "ipaUS": "ˈkʌltʃɚrəl ˌædæpˈteɪʃən",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Cultural adaptation",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT562",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Cultural adaptation",
+        "zh": "文化适配",
+        "definition": "根据目标受众的文化背景、习惯及偏好调整内容或体验。",
+        "example": "Cultural adaptation helped the humor resonate locally.",
+        "exampleZh": "文化适配让幽默表达更能引起当地共鸣。",
+        "collocation": "prioritize cultural adaptation",
+        "collocationZh": "优先考虑文化适配",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did we rewrite the jokes for this market?",
+            "zh": "为什么要针对这个市场改写笑话？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Cultural adaptation helped the humor resonate locally.",
+            "zh": "文化适配让幽默表达更能引起当地共鸣。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 562,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkʌltʃərəl ˌædæpˈteɪʃən",
+        "ipaUS": "ˈkʌltʃərəl ˌædæpˈteɪʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Cultural adaptation",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "collocationReview",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT563",
+      "before": {
+        "id": "MKT563",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Local relevance",
+        "zh": "本地相关性",
+        "definition": "内容或产品与当地受众需求及情境的契合程度",
+        "example": "Local references increased the campaign's local relevance.",
+        "exampleZh": "当地文化元素提高了活动的本地相关性。",
+        "collocation": "increase local relevance",
+        "collocationZh": "提高本地相关性",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: Local references increased the campaign's ____.",
+            "zh": "补全职场表达：当地文化元素提高了活动的____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Local references increased the campaign's local relevance.",
+            "zh": "当地文化元素提高了活动的本地相关性。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 563,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈləʊkəl ˈrelɪvəns",
+        "ipaUS": "ˈloʊkəl ˈrelɪvəns",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Local relevance",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT563",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Local relevance",
+        "zh": "本地相关性",
+        "definition": "内容或产品与当地受众需求、文化及使用情境的契合程度。",
+        "example": "Local references increased the campaign's local relevance.",
+        "exampleZh": "当地文化元素让活动更贴近本地受众。",
+        "collocation": "increase local relevance",
+        "collocationZh": "增强与本地受众的契合度",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What did the local references contribute?",
+            "zh": "当地文化元素起到了什么作用？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Local references increased the campaign's local relevance.",
+            "zh": "当地文化元素让活动更贴近本地受众。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 563,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈləʊkəl ˈreləvəns",
+        "ipaUS": "ˈloʊkəl ˈreləvəns",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Local relevance",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "exampleZh",
+        "collocationZh",
+        "dialogue",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT564",
+      "before": {
+        "id": "MKT564",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Language variant",
+        "zh": "语言变体",
+        "definition": "同一语言在不同地区或群体中的表达形式",
+        "example": "The website supports two Portuguese language variants.",
+        "exampleZh": "网站支持两种葡萄牙语变体。",
+        "collocation": "support language variants",
+        "collocationZh": "支持语言变体",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: The website supports two Portuguese ____.",
+            "zh": "请根据英文句子的语境补全缺失的术语。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The website supports two Portuguese language variants.",
+            "zh": "网站支持两种葡萄牙语变体。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 564,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈlæŋɡwɪdʒ ˈveəriənt",
+        "ipaUS": "ˈlæŋɡwɪdʒ ˈveriənt",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Language variant",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT564",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Language variant",
+        "zh": "语言变体",
+        "definition": "同一语言在不同地区或群体中的表达形式，可涉及词汇、拼写及语法差异。",
+        "example": "The website supports two Portuguese language variants.",
+        "exampleZh": "网站支持两种葡萄牙语变体。",
+        "collocation": "support language variants",
+        "collocationZh": "支持语言变体",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Can visitors choose between Brazilian and European Portuguese?",
+            "zh": "访客可以选择巴西葡萄牙语和欧洲葡萄牙语吗？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The website supports two Portuguese language variants.",
+            "zh": "网站支持两种葡萄牙语变体。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 564,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈlæŋɡwɪdʒ ˈveəriənt",
+        "ipaUS": "ˈlæŋɡwɪdʒ ˈveriənt",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Language variant",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "collocationReview",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT565",
+      "before": {
+        "id": "MKT565",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Locale",
+        "zh": "区域语言环境",
+        "definition": "由语言、地区及格式惯例构成的本地化配置",
+        "example": "We configured a locale for Canadian French.",
+        "exampleZh": "我们配置了加拿大法语区域语言环境。",
+        "collocation": "configure a locale",
+        "collocationZh": "配置区域语言环境",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We configured a ____ for Canadian French.",
+            "zh": "补全职场表达：我们配置了加拿大法语____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We configured a locale for Canadian French.",
+            "zh": "我们配置了加拿大法语区域语言环境。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 565,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ləʊˈkæl",
+        "ipaUS": "loʊˈkæl",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Locale",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT565",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Locale",
+        "zh": "区域语言环境",
+        "definition": "用于指定语言及地区相关格式惯例的配置，可影响日期、数字和货币格式。",
+        "example": "We configured a locale for Canadian French.",
+        "exampleZh": "我们配置了加拿大法语区域语言环境。",
+        "collocation": "configure a locale",
+        "collocationZh": "配置区域语言环境",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we configure the site for French-speaking Canadians?",
+            "zh": "我们如何为加拿大法语用户配置网站？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We configured a locale for Canadian French.",
+            "zh": "我们配置了加拿大法语区域语言环境。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 565,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ləʊˈkɑːl",
+        "ipaUS": "loʊˈkæl",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Locale",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "collocationReview",
+        "ipaUK",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT566",
+      "before": {
+        "id": "MKT566",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Localization brief",
+        "zh": "本地化简报",
+        "definition": "说明目标市场、语言、语气及交付要求的文件",
+        "example": "The localization brief specifies the target audience and tone.",
+        "exampleZh": "本地化简报明确了目标受众和语气。",
+        "collocation": "prepare a localization brief",
+        "collocationZh": "准备本地化简报",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: The ____ specifies the target audience and tone.",
+            "zh": "补全职场表达：____明确了目标受众和语气。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The localization brief specifies the target audience and tone.",
+            "zh": "本地化简报明确了目标受众和语气。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 566,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˌləʊkəlaɪˈzeɪʃən ˈbriːf",
+        "ipaUS": "ˌloʊkəlɪˈzeɪʃən ˈbriːf",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Localization brief",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT566",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Localization brief",
+        "zh": "本地化简报",
+        "definition": "向本地化团队说明目标市场、受众、语言风格、限制和交付要求的文件。",
+        "example": "The localization brief specifies the target audience and tone.",
+        "exampleZh": "本地化简报明确了目标受众和语气。",
+        "collocation": "prepare a localization brief",
+        "collocationZh": "准备本地化简报",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Where can translators find the audience and tone requirements?",
+            "zh": "译员在哪里可以找到受众和语气要求？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The localization brief specifies the target audience and tone.",
+            "zh": "本地化简报明确了目标受众和语气。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 566,
+        "aliases": [
+          "Localisation brief"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌləʊkəlaɪˈzeɪʃən briːf",
+        "ipaUS": "ˌloʊkələˈzeɪʃən briːf",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Localization brief",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "aliases",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT567",
+      "before": {
+        "id": "MKT567",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Terminology glossary",
+        "zh": "术语表",
+        "definition": "规定专业术语及其认可译法的参考资料",
+        "example": "Our terminology glossary keeps product names consistent.",
+        "exampleZh": "我们的术语表确保产品名称一致。",
+        "collocation": "maintain a terminology glossary",
+        "collocationZh": "维护术语表",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: Our ____ keeps product names consistent.",
+            "zh": "补全职场表达：我们的____确保产品名称一致。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our terminology glossary keeps product names consistent.",
+            "zh": "我们的术语表确保产品名称一致。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 567,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˌtɜːmɪˈnɒlədʒi ˈɡlɒsəri",
+        "ipaUS": "ˌtɜːmɪˈnɑːlədʒi ˈɡlɔsɚri",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Terminology glossary",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT567",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Terminology glossary",
+        "zh": "术语表",
+        "definition": "记录术语、认可译法及必要使用说明的参考资料。",
+        "example": "Our terminology glossary helps keep product names consistent.",
+        "exampleZh": "术语表有助于统一产品名称。",
+        "collocation": "maintain a terminology glossary",
+        "collocationZh": "维护术语表",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How do we avoid inconsistent product names across translations?",
+            "zh": "我们如何避免不同译文中的产品名称不一致？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Our terminology glossary helps keep product names consistent.",
+            "zh": "术语表有助于统一产品名称。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 567,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌtɜːmɪˈnɒlədʒi ˈɡlɒsəri",
+        "ipaUS": "ˌtɝːməˈnɑːlədʒi ˈɡlɑːsəri",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Terminology glossary",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "example",
+        "exampleZh",
+        "dialogue",
+        "collocationReview",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT568",
+      "before": {
+        "id": "MKT568",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Translation memory",
+        "zh": "翻译记忆库",
+        "definition": "存储已翻译文本片段以供复用的数据库",
+        "example": "Translation memory reduced repetitive translation work.",
+        "exampleZh": "翻译记忆库减少了重复翻译工作。",
+        "collocation": "leverage translation memory",
+        "collocationZh": "利用翻译记忆库",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ reduced repetitive translation work.",
+            "zh": "补全职场表达：____减少了重复翻译工作。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Translation memory reduced repetitive translation work.",
+            "zh": "翻译记忆库减少了重复翻译工作。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 568,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "trænˈsleɪʃən ˈmeməri",
+        "ipaUS": "trænˈsleɪʃən ˈmemɚri",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Translation memory",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT568",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Translation memory",
+        "zh": "翻译记忆库",
+        "definition": "存储源文与对应译文片段以供检索和复用的数据库，复用结果仍需结合语境审核。",
+        "example": "Translation memory reduced repetitive translation work.",
+        "exampleZh": "翻译记忆库减少了重复翻译工作。",
+        "collocation": "leverage translation memory",
+        "collocationZh": "利用翻译记忆库",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What helped translators reuse previously approved sentences?",
+            "zh": "什么帮助译员复用此前获批的句子？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Translation memory reduced repetitive translation work.",
+            "zh": "翻译记忆库减少了重复翻译工作。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 568,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "trænzˈleɪʃən ˈmeməri",
+        "ipaUS": "trænzˈleɪʃən ˈmeməri",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Translation memory",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT569",
+      "before": {
+        "id": "MKT569",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Linguistic quality assurance",
+        "zh": "语言质量保证",
+        "definition": "检查译文准确性、流畅性及术语一致性的流程",
+        "example": "We conduct linguistic quality assurance before publication.",
+        "exampleZh": "我们在发布前开展语言质量检查。",
+        "collocation": "conduct linguistic quality assurance",
+        "collocationZh": "开展语言质量检查",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We conduct ____ before publication.",
+            "zh": "请根据英文句子的语境补全缺失的术语。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We conduct linguistic quality assurance before publication.",
+            "zh": "我们在发布前开展语言质量检查。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 569,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "lɪŋɡˈwɪstɪk ˈkwɒlɪti əʃˈjʊərəns",
+        "ipaUS": "lɪŋɡˈwɪstɪk ˈkwɑːlɪti əʃˈjʊrrəns",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Linguistic quality assurance",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT569",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Linguistic quality assurance",
+        "zh": "语言质量保证",
+        "definition": "通过检查和质量管理流程确保语言内容符合准确性、流畅性、术语及风格要求。",
+        "example": "We conduct linguistic quality assurance before publication.",
+        "exampleZh": "我们在发布前开展语言质量检查。",
+        "collocation": "conduct linguistic quality assurance",
+        "collocationZh": "开展语言质量检查",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What language checks do we perform before publication?",
+            "zh": "发布前我们进行哪些语言检查？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We conduct linguistic quality assurance before publication.",
+            "zh": "我们在发布前开展语言质量检查。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 569,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "lɪŋˈɡwɪstɪk ˈkwɒləti əˈʃʊərəns",
+        "ipaUS": "lɪŋˈɡwɪstɪk ˈkwɑːləti əˈʃʊrəns",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Linguistic quality assurance",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT570",
+      "before": {
+        "id": "MKT570",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "In-market review",
+        "zh": "当地市场审核",
+        "definition": "由熟悉目标市场的人员审查内容和适配性",
+        "example": "We requested an in-market review of the landing page.",
+        "exampleZh": "我们申请对落地页进行当地市场审核。",
+        "collocation": "request an in-market review",
+        "collocationZh": "申请当地市场审核",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We requested an ____ of the landing page.",
+            "zh": "补全职场表达：我们申请对落地页进行____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We requested an in-market review of the landing page.",
+            "zh": "我们申请对落地页进行当地市场审核。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 570,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ɪnˈmɑːkɪt rɪˈvjuː",
+        "ipaUS": "ɪnˈmɑːrkɪt rɪˈvjuː",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "In-market review",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT570",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "In-market review",
+        "zh": "当地市场审核",
+        "definition": "由熟悉目标市场的人员评估内容的语言、文化及业务适配性。",
+        "example": "We requested an in-market review of the landing page.",
+        "exampleZh": "我们请当地市场团队审核落地页。",
+        "collocation": "request an in-market review",
+        "collocationZh": "请求当地市场审核",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Who should assess whether the landing page works locally?",
+            "zh": "谁应评估落地页是否适合当地市场？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We requested an in-market review of the landing page.",
+            "zh": "我们请当地市场团队审核落地页。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 570,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌɪn ˈmɑːkɪt rɪˈvjuː",
+        "ipaUS": "ˌɪn ˈmɑːrkɪt rɪˈvjuː",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "In-market review",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "exampleZh",
+        "collocationZh",
+        "dialogue",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT571",
+      "before": {
+        "id": "MKT571",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Local search optimization",
+        "zh": "本地搜索优化",
+        "definition": "提升品牌在特定地理区域相关搜索中的可见性",
+        "example": "Accurate store listings support local search optimization.",
+        "exampleZh": "准确的门店信息有助于本地搜索优化。",
+        "collocation": "improve local search optimization",
+        "collocationZh": "改进本地搜索优化",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: Accurate store listings support ____.",
+            "zh": "补全职场表达：准确的门店信息有助于____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Accurate store listings support local search optimization.",
+            "zh": "准确的门店信息有助于本地搜索优化。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 571,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈləʊkəl ˈsɜːtʃ ˌɒptɪmaɪˈzeɪʃən",
+        "ipaUS": "ˈloʊkəl ˈsɜːtʃ ˌɑːptɪmɪˈzeɪʃən",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Local search optimization",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT571",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Local search optimization",
+        "zh": "本地搜索优化",
+        "definition": "通过优化门店信息及相关内容等方式提升品牌在地理位置相关搜索中的可见性。",
+        "example": "Accurate store listings support local search optimization.",
+        "exampleZh": "准确的门店信息有助于本地搜索优化。",
+        "collocation": "invest in local search optimization",
+        "collocationZh": "投入本地搜索优化",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why are we updating the store listings?",
+            "zh": "为什么要更新门店信息？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Accurate store listings support local search optimization.",
+            "zh": "准确的门店信息有助于本地搜索优化。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 571,
+        "aliases": [
+          "Local search optimisation"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈləʊkəl sɜːtʃ ˌɒptɪmaɪˈzeɪʃən",
+        "ipaUS": "ˈloʊkəl sɝːtʃ ˌɑːptəməˈzeɪʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Local search optimization",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "collocation",
+        "collocationZh",
+        "dialogue",
+        "aliases",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT572",
+      "before": {
+        "id": "MKT572",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Local payment method",
+        "zh": "当地支付方式",
+        "definition": "目标市场消费者惯用的支付工具",
+        "example": "Offering local payment methods reduced checkout friction.",
+        "exampleZh": "提供当地支付方式降低了结账阻力。",
+        "collocation": "offer local payment methods",
+        "collocationZh": "提供当地支付方式",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: Offering ____ reduced checkout friction.",
+            "zh": "补全职场表达：提供____降低了结账阻力。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Offering local payment methods reduced checkout friction.",
+            "zh": "提供当地支付方式降低了结账阻力。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 572,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈləʊkəl ˈpeɪmənt ˈmeθəd",
+        "ipaUS": "ˈloʊkəl ˈpeɪmənt ˈmeθəd",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Local payment method",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT572",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Local payment method",
+        "zh": "当地支付方式",
+        "definition": "目标市场常用或可获得的支付方式，不限于当地独有的支付工具。",
+        "example": "Offering local payment methods reduced checkout friction.",
+        "exampleZh": "提供当地支付方式降低了结账阻力。",
+        "collocation": "offer local payment methods",
+        "collocationZh": "提供当地支付方式",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What helped customers complete checkout more easily?",
+            "zh": "什么帮助客户更顺利地完成结账？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Offering local payment methods reduced checkout friction.",
+            "zh": "提供当地支付方式降低了结账阻力。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 572,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈləʊkəl ˈpeɪmənt ˈmeθəd",
+        "ipaUS": "ˈloʊkəl ˈpeɪmənt ˈmeθəd",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Local payment method",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "collocationReview",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT573",
+      "before": {
+        "id": "MKT573",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Cultural sensitivity",
+        "zh": "文化敏感性",
+        "definition": "识别并尊重不同文化规范和禁忌的意识",
+        "example": "The creative team demonstrated cultural sensitivity in its imagery.",
+        "exampleZh": "创意团队在图片选择上体现了文化敏感性。",
+        "collocation": "demonstrate cultural sensitivity",
+        "collocationZh": "体现文化敏感性",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: The creative team demonstrated ____ in its imagery.",
+            "zh": "补全职场表达：创意团队在图片选择上体现了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The creative team demonstrated cultural sensitivity in its imagery.",
+            "zh": "创意团队在图片选择上体现了文化敏感性。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 573,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈkʌltʃərəl ˌsensɪˈtɪvɪti",
+        "ipaUS": "ˈkʌltʃɚrəl ˌsensɪˈtɪvɪti",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Cultural sensitivity",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT573",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Cultural sensitivity",
+        "zh": "文化敏感性",
+        "definition": "识别并尊重文化差异、规范和潜在敏感议题的意识与实践。",
+        "example": "The creative team demonstrated cultural sensitivity in its imagery.",
+        "exampleZh": "创意团队在图片选择上体现了文化敏感性。",
+        "collocation": "demonstrate cultural sensitivity",
+        "collocationZh": "体现文化敏感性",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did the team approach the choice of images?",
+            "zh": "团队如何处理图片选择？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "The creative team demonstrated cultural sensitivity in its imagery.",
+            "zh": "创意团队在图片选择上体现了文化敏感性。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 573,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈkʌltʃərəl ˌsensɪˈtɪvəti",
+        "ipaUS": "ˈkʌltʃərəl ˌsensəˈtɪvəti",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Cultural sensitivity",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT574",
+      "before": {
+        "id": "MKT574",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Local compliance",
+        "zh": "当地合规",
+        "definition": "遵守目标市场适用的法律及监管要求",
+        "example": "Legal reviewed the claims to ensure local compliance.",
+        "exampleZh": "法务审核了宣传主张以确保当地合规。",
+        "collocation": "ensure local compliance",
+        "collocationZh": "确保当地合规",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: Legal reviewed the claims to ensure ____.",
+            "zh": "补全职场表达：法务审核了宣传主张以确保____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Legal reviewed the claims to ensure local compliance.",
+            "zh": "法务审核了宣传主张以确保当地合规。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 574,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈləʊkəl kəmˈplaɪəns",
+        "ipaUS": "ˈloʊkəl kəmˈplaɪəns",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Local compliance",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT574",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Local compliance",
+        "zh": "当地合规",
+        "definition": "遵守目标市场适用的法律、监管及其他强制性要求。",
+        "example": "Legal reviewed the advertising claims to help ensure local compliance.",
+        "exampleZh": "法务审核了广告宣传表述，以帮助满足当地合规要求。",
+        "collocation": "ensure local compliance",
+        "collocationZh": "确保当地合规",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did legal review the advertising claims?",
+            "zh": "法务为什么审核广告宣传表述？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Legal reviewed the advertising claims to help ensure local compliance.",
+            "zh": "法务审核了广告宣传表述，以帮助满足当地合规要求。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 574,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈləʊkəl kəmˈplaɪəns",
+        "ipaUS": "ˈloʊkəl kəmˈplaɪəns",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Local compliance",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "example",
+        "exampleZh",
+        "dialogue",
+        "collocationReview",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT575",
+      "before": {
+        "id": "MKT575",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Localization workflow",
+        "zh": "本地化工作流程",
+        "definition": "从内容交接到翻译、审核及发布的流程",
+        "example": "We streamlined the localization workflow by introducing shared templates.",
+        "exampleZh": "我们通过引入共享模板简化了本地化工作流程。",
+        "collocation": "streamline the localization workflow",
+        "collocationZh": "简化本地化工作流程",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We streamlined the ____ by introducing shared templates.",
+            "zh": "补全职场表达：我们通过引入共享模板简化了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We streamlined the localization workflow by introducing shared templates.",
+            "zh": "我们通过引入共享模板简化了本地化工作流程。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 575,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˌləʊkəlaɪˈzeɪʃən ˈwɜːkfləʊ",
+        "ipaUS": "ˌloʊkəlɪˈzeɪʃən ˈwɜːkfloʊ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Localization workflow",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT575",
+        "moduleId": "m22",
+        "module": "本地化营销",
+        "term": "Localization workflow",
+        "zh": "本地化工作流程",
+        "definition": "涵盖内容交接、翻译或改编、审核、发布及后续更新的工作流程。",
+        "example": "We streamlined the localization workflow by introducing shared templates.",
+        "exampleZh": "我们通过引入共享模板简化了本地化工作流程。",
+        "collocation": "streamline the localization workflow",
+        "collocationZh": "简化本地化工作流程",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we simplify the handoff between teams?",
+            "zh": "我们如何简化团队间的交接？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We streamlined the localization workflow by introducing shared templates.",
+            "zh": "我们通过引入共享模板简化了本地化工作流程。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 575,
+        "aliases": [
+          "Localisation workflow"
+        ],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌləʊkəlaɪˈzeɪʃən ˈwɜːkfləʊ",
+        "ipaUS": "ˌloʊkələˈzeɪʃən ˈwɝːkfloʊ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Localization workflow",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "aliases",
+        "collocationReview",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT576",
+      "before": {
+        "id": "MKT576",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Budget allocation",
+        "zh": "预算分配",
+        "definition": "将可用资金分配至不同活动或部门",
+        "example": "We optimized budget allocation based on marginal returns.",
+        "exampleZh": "我们依据边际回报优化了预算分配。",
+        "collocation": "optimize budget allocation",
+        "collocationZh": "优化预算分配",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We optimized ____ based on marginal returns.",
+            "zh": "补全职场表达：我们依据边际回报优化了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We optimized budget allocation based on marginal returns.",
+            "zh": "我们依据边际回报优化了预算分配。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 576,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈbʌdʒɪt ˌæləˈkeɪʃən",
+        "ipaUS": "ˈbʌdʒɪt ˌæləˈkeɪʃən",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Budget allocation",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT576",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Budget allocation",
+        "zh": "预算分配",
+        "definition": "根据目标、约束和预期回报将可用预算分配至不同活动、渠道或部门。",
+        "example": "We optimized budget allocation based on marginal returns.",
+        "exampleZh": "我们依据边际回报优化了预算分配。",
+        "collocation": "optimize budget allocation",
+        "collocationZh": "优化预算分配",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "How did we decide where to put the extra budget?",
+            "zh": "我们如何决定额外预算投向哪里？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We optimized budget allocation based on marginal returns.",
+            "zh": "我们依据边际回报优化了预算分配。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 576,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈbʌdʒɪt ˌæləˈkeɪʃən",
+        "ipaUS": "ˈbʌdʒɪt ˌæləˈkeɪʃən",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Budget allocation",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "collocationReview",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT577",
+      "before": {
+        "id": "MKT577",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Budget variance",
+        "zh": "预算差异",
+        "definition": "实际或预测金额与预算金额之间的差额",
+        "example": "Please explain the budget variance in production costs.",
+        "exampleZh": "请解释制作成本的预算差异。",
+        "collocation": "explain budget variance",
+        "collocationZh": "解释预算差异",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: Please explain the ____ in production costs.",
+            "zh": "补全职场表达：请解释制作成本的____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Please explain the budget variance in production costs.",
+            "zh": "请解释制作成本的预算差异。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 577,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈbʌdʒɪt ˈveəriəns",
+        "ipaUS": "ˈbʌdʒɪt ˈveriəns",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Budget variance",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT577",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Budget variance",
+        "zh": "预算差异",
+        "definition": "实际或预测金额与预算金额的差额；应注明计算方向及有利或不利的判断口径。",
+        "example": "Please explain the budget variance in production costs.",
+        "exampleZh": "请解释制作成本与预算之间的差异。",
+        "collocation": "explain budget variance",
+        "collocationZh": "解释预算差异",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What should the production team clarify in its report?",
+            "zh": "制作团队应在报告中解释什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Please explain the budget variance in production costs.",
+            "zh": "请解释制作成本与预算之间的差异。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 577,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈbʌdʒɪt ˈveəriəns",
+        "ipaUS": "ˈbʌdʒɪt ˈveriəns",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Budget variance",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "exampleZh",
+        "dialogue",
+        "collocationReview",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT578",
+      "before": {
+        "id": "MKT578",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Zero-based budgeting",
+        "zh": "零基预算",
+        "definition": "每个预算周期从零开始论证支出必要性的方式",
+        "example": "Zero-based budgeting challenged our recurring sponsorship costs.",
+        "exampleZh": "零基预算促使我们重新审视经常性赞助成本。",
+        "collocation": "adopt zero-based budgeting",
+        "collocationZh": "采用零基预算",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ challenged our recurring sponsorship costs.",
+            "zh": "补全职场表达：____促使我们重新审视经常性赞助成本。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Zero-based budgeting challenged our recurring sponsorship costs.",
+            "zh": "零基预算促使我们重新审视经常性赞助成本。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 578,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈziərəʊˈbeɪst ˈbʌdʒɪtɪŋ",
+        "ipaUS": "ˈziəroʊˈbeɪst ˈbʌdʒɪtɪŋ",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Zero-based budgeting",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT578",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Zero-based budgeting",
+        "zh": "零基预算",
+        "definition": "不默认沿用上期预算，而是从零基准重新论证各项支出的预算方法。",
+        "example": "Zero-based budgeting challenged our recurring sponsorship costs.",
+        "exampleZh": "零基预算促使我们重新审视经常性赞助成本。",
+        "collocation": "adopt zero-based budgeting",
+        "collocationZh": "采用零基预算",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why did we reassess recurring sponsorship costs?",
+            "zh": "为什么重新评估经常性赞助成本？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Zero-based budgeting challenged our recurring sponsorship costs.",
+            "zh": "零基预算促使我们重新审视经常性赞助成本。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 578,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˌzɪərəʊ ˈbeɪst ˈbʌdʒɪtɪŋ",
+        "ipaUS": "ˌzɪroʊ ˈbeɪst ˈbʌdʒɪtɪŋ",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Zero-based budgeting",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT579",
+      "before": {
+        "id": "MKT579",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Rolling forecast",
+        "zh": "滚动预测",
+        "definition": "定期更新并延伸预测期间的财务预测方式",
+        "example": "We updated the rolling forecast after the sales review.",
+        "exampleZh": "我们在销售复盘后更新了滚动预测。",
+        "collocation": "update the rolling forecast",
+        "collocationZh": "更新滚动预测",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: We updated the ____ after the sales review.",
+            "zh": "补全职场表达：我们在销售复盘后更新了____。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We updated the rolling forecast after the sales review.",
+            "zh": "我们在销售复盘后更新了滚动预测。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 579,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "ˈrəʊlɪŋ ˈfɔːkæst",
+        "ipaUS": "ˈroʊlɪŋ ˈfɔːrkæst",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Rolling forecast",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT579",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Rolling forecast",
+        "zh": "滚动预测",
+        "definition": "定期更新预测并向未来延伸预测窗口的方法，不等同于修改已批准预算。",
+        "example": "We updated the rolling forecast after the sales review.",
+        "exampleZh": "销售复盘后，我们更新了滚动预测。",
+        "collocation": "update the rolling forecast",
+        "collocationZh": "更新滚动预测",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "What did we update after reviewing sales?",
+            "zh": "销售复盘后我们更新了什么？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "We updated the rolling forecast after the sales review.",
+            "zh": "销售复盘后，我们更新了滚动预测。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 579,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "ˈrəʊlɪŋ ˈfɔːkɑːst",
+        "ipaUS": "ˈroʊlɪŋ ˈfɔːrkæst",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Rolling forecast",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "exampleZh",
+        "dialogue",
+        "collocationReview",
+        "ipaUK",
+        "ipaSource",
+        "ipaReview"
+      ]
+    },
+    {
+      "id": "MKT580",
+      "before": {
+        "id": "MKT580",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Committed spend",
+        "zh": "已承诺支出",
+        "definition": "已通过合同或订单等承诺但未必支付的支出",
+        "example": "Committed spend limits our flexibility this quarter.",
+        "exampleZh": "已承诺支出限制了我们本季度的灵活性。",
+        "collocation": "track committed spend",
+        "collocationZh": "追踪已承诺支出",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Complete the workplace statement: ____ limits our flexibility this quarter.",
+            "zh": "补全职场表达：____限制了我们本季度的灵活性。"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Committed spend limits our flexibility this quarter.",
+            "zh": "已承诺支出限制了我们本季度的灵活性。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 580,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "初稿",
+        "ipaUK": "kəˈmɪtɪd ˈspend",
+        "ipaUS": "kəˈmɪtɪd ˈspend",
+        "ipaSource": "音标格式已规范 · 读音待核验",
+        "speakTerm": "Committed spend",
+        "ipaReview": "待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "after": {
+        "id": "MKT580",
+        "moduleId": "m23",
+        "module": "营销预算管理",
+        "term": "Committed spend",
+        "zh": "已承诺支出",
+        "definition": "已通过合同、订单等形成支出承诺的金额，可能尚未付款或确认为费用。",
+        "example": "Committed spend limits our flexibility this quarter.",
+        "exampleZh": "已承诺支出限制了我们本季度的灵活性。",
+        "collocation": "track committed spend",
+        "collocationZh": "追踪已承诺支出",
+        "dialogue": [
+          {
+            "role": "Marketing Manager",
+            "en": "Why is there less room to fund new campaigns this quarter?",
+            "zh": "为什么本季度用于新活动的资金空间较小？"
+          },
+          {
+            "role": "Marketing Specialist",
+            "en": "Committed spend limits our flexibility this quarter.",
+            "zh": "已承诺支出限制了我们本季度的灵活性。"
+          }
+        ],
+        "usage": "",
+        "new": true,
+        "order": 580,
+        "aliases": [],
+        "distinction": "",
+        "collocationReview": "编辑复核",
+        "ipaUK": "kəˈmɪtɪd spend",
+        "ipaUS": "kəˈmɪtɪd spend",
+        "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+        "speakTerm": "Committed spend",
+        "ipaReview": "编辑校订，待词典核验",
+        "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      },
+      "changedFields": [
+        "definition",
+        "dialogue",
+        "collocationReview",
+        "ipaUK",
+        "ipaUS",
+        "ipaSource",
+        "ipaReview"
+      ]
+    }
+  ],
+  "verification": "Editorial review only; dictionary verification pending"
+}

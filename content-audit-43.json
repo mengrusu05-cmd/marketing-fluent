@@ -1,0 +1,1803 @@
+[
+  {
+    "id": "MKT281",
+    "before": {
+      "id": "MKT281",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Real-time bidding",
+      "zh": "实时竞价",
+      "definition": "针对单次广告展示机会实时进行的自动竞价",
+      "example": "Real-time bidding allows bids to vary by impression opportunity.",
+      "exampleZh": "实时竞价允许出价随曝光机会变化。",
+      "collocation": "use real-time bidding",
+      "collocationZh": "使用实时竞价",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ allows bids to vary by impression opportunity.",
+          "zh": "补全职场表达：____允许出价随曝光机会变化。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Real-time bidding allows bids to vary by impression opportunity.",
+          "zh": "实时竞价允许出价随曝光机会变化。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 281,
+      "aliases": [
+        "RTB"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈriəlˈtaɪm ˈbɪdɪŋ",
+      "ipaUS": "ˈriːəlˈtaɪm ˈbɪdɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Real-time bidding",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT281",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Real-time bidding",
+      "zh": "实时竞价",
+      "definition": "针对单次广告展示机会实时开展的自动竞价。",
+      "example": "Real-time bidding allows bids to vary by impression opportunity.",
+      "exampleZh": "实时竞价允许针对不同广告展示机会调整出价。",
+      "collocation": "use real-time bidding",
+      "collocationZh": "使用实时竞价",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why don't we bid the same amount for every impression?",
+          "zh": "为什么我们不对每次展示都采用相同出价？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Real-time bidding allows bids to vary by impression opportunity.",
+          "zh": "实时竞价允许针对不同广告展示机会调整出价。"
+        }
+      ],
+      "usage": "RTB 是程序化交易的一种，并非所有程序化交易都采用实时竞价。",
+      "new": true,
+      "order": 281,
+      "aliases": [
+        "RTB"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌrɪəl taɪm ˈbɪdɪŋ",
+      "ipaUS": "ˌriːəl taɪm ˈbɪdɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Real-time bidding",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT282",
+    "before": {
+      "id": "MKT282",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Private marketplace",
+      "zh": "私有广告交易市场",
+      "definition": "仅向受邀买家开放的程序化广告交易环境",
+      "example": "The agency accessed a private marketplace for premium video inventory.",
+      "exampleZh": "代理商通过私有广告交易市场获取优质视频库存。",
+      "collocation": "access a private marketplace",
+      "collocationZh": "进入私有广告交易市场",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The agency accessed a ____ for premium video inventory.",
+          "zh": "补全职场表达：代理商通过____获取优质视频库存。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency accessed a private marketplace for premium video inventory.",
+          "zh": "代理商通过私有广告交易市场获取优质视频库存。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 282,
+      "aliases": [
+        "PMP"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈpraɪvət ˈmɑːkɪtˌpleɪs",
+      "ipaUS": "ˈpraɪvət ˈmɑːrkɪtˌpleɪs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Private marketplace",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT282",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Private marketplace",
+      "zh": "私有广告交易市场",
+      "definition": "通常仅向受邀或获准买家开放的程序化广告交易市场。",
+      "example": "The agency accessed a private marketplace for premium video inventory.",
+      "exampleZh": "代理商通过私有广告交易市场获取优质视频广告资源。",
+      "collocation": "access a private marketplace",
+      "collocationZh": "进入私有广告交易市场",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did the agency access premium video placements?",
+          "zh": "代理商如何获得优质视频广告版位？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The agency accessed a private marketplace for premium video inventory.",
+          "zh": "代理商通过私有广告交易市场获取优质视频广告资源。"
+        }
+      ],
+      "usage": "PMP 不必然保证交付量。",
+      "new": true,
+      "order": 282,
+      "aliases": [
+        "PMP"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈpraɪvət ˈmɑːkɪtpleɪs",
+      "ipaUS": "ˈpraɪvət ˈmɑːrkɪtpleɪs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Private marketplace",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT283",
+    "before": {
+      "id": "MKT283",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Programmatic guaranteed",
+      "zh": "程序化保量交易",
+      "definition": "通过自动化系统按约定价格和数量采购广告资源的方式",
+      "example": "We booked programmatic guaranteed inventory for launch week.",
+      "exampleZh": "我们为上市周预订了程序化保量库存。",
+      "collocation": "book programmatic guaranteed inventory",
+      "collocationZh": "预订程序化保量库存",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We booked ____ inventory for launch week.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We booked programmatic guaranteed inventory for launch week.",
+          "zh": "我们为上市周预订了程序化保量库存。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 283,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌprəʊɡrəˈmætɪk ˌɡærənˈtiːd",
+      "ipaUS": "ˌproʊɡrəˈmætɪk ˌɡærənˈtiːd",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Programmatic guaranteed",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT283",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Programmatic guaranteed",
+      "zh": "程序化保量交易",
+      "definition": "通过自动化系统按双方约定的价格和数量预订广告资源的交易方式。",
+      "example": "We booked programmatic guaranteed inventory for launch week.",
+      "exampleZh": "我们为产品上市当周预订了程序化保量广告资源。",
+      "collocation": "book programmatic guaranteed inventory",
+      "collocationZh": "预订程序化保量广告资源",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we secure inventory for launch week?",
+          "zh": "我们如何确保上市当周有广告资源？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We booked programmatic guaranteed inventory for launch week.",
+          "zh": "我们为产品上市当周预订了程序化保量广告资源。"
+        }
+      ],
+      "usage": "与开放竞价不同，通常预先约定交付量及价格。",
+      "new": true,
+      "order": 283,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌprəʊɡrəˈmætɪk ˌɡærənˈtiːd",
+      "ipaUS": "ˌproʊɡrəˈmætɪk ˌɡærənˈtiːd",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Programmatic guaranteed",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT284",
+    "before": {
+      "id": "MKT284",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Viewability",
+      "zh": "广告可见性",
+      "definition": "广告曝光满足规定可见面积和时长条件的程度",
+      "example": "We removed placements with consistently low viewability.",
+      "exampleZh": "我们移除了可见性持续偏低的广告版位。",
+      "collocation": "improve ad viewability",
+      "collocationZh": "提高广告可见性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We removed placements with consistently low ____.",
+          "zh": "请根据英文句子的语境补全缺失的术语。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We removed placements with consistently low viewability.",
+          "zh": "我们移除了可见性持续偏低的广告版位。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 284,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌvjuːəˈbɪlɪti",
+      "ipaUS": "ˌvjuːəˈbɪlɪti",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Viewability",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT284",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Viewability",
+      "zh": "广告可见性",
+      "definition": "广告展示满足指定可见面积与持续时间标准的程度。",
+      "example": "We removed placements with consistently low viewability.",
+      "exampleZh": "我们停用了广告可见性持续偏低的版位。",
+      "collocation": "improve ad viewability",
+      "collocationZh": "提高广告可见性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did we remove those placements?",
+          "zh": "为什么我们停用了那些版位？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We removed placements with consistently low viewability.",
+          "zh": "我们停用了广告可见性持续偏低的版位。"
+        }
+      ],
+      "usage": "可见不代表用户实际注意到广告；可见率须明确可衡量展示量口径。",
+      "new": true,
+      "order": 284,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌvjuːəˈbɪləti",
+      "ipaUS": "ˌvjuːəˈbɪləti",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Viewability",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT285",
+    "before": {
+      "id": "MKT285",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Viewable CPM",
+      "zh": "可见千次曝光成本",
+      "definition": "每一千次符合可见标准的广告曝光所对应的成本",
+      "example": "Compare viewable CPM across publishers using the same standard.",
+      "exampleZh": "使用相同标准比较各媒体的可见千次曝光成本。",
+      "collocation": "compare viewable CPM",
+      "collocationZh": "比较可见千次曝光成本",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Compare ____ across publishers using the same standard.",
+          "zh": "补全职场表达：使用相同标准比较各媒体的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Compare viewable CPM across publishers using the same standard.",
+          "zh": "使用相同标准比较各媒体的可见千次曝光成本。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 285,
+      "aliases": [
+        "vCPM"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈvjuːəbəl ˌsiːˌpiːˈem",
+      "ipaUS": "ˈvjuːəbəl ˌsiːˌpiːˈem",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Viewable CPM",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT285",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Viewable CPM",
+      "zh": "可见千次曝光成本",
+      "definition": "每千次符合可见标准的广告展示所对应的成本。",
+      "example": "Compare viewable CPM across publishers using the same standard.",
+      "exampleZh": "采用相同标准比较各媒体的可见千次曝光成本。",
+      "collocation": "compare viewable CPM",
+      "collocationZh": "比较可见千次曝光成本",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should we compare the cost of viewable impressions across publishers?",
+          "zh": "如何比较不同媒体的可见曝光成本？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Compare viewable CPM across publishers using the same standard.",
+          "zh": "采用相同标准比较各媒体的可见千次曝光成本。"
+        }
+      ],
+      "usage": "vCPM＝广告支出÷可见展示次数×1000；分母为零时不可计算。",
+      "new": true,
+      "order": 285,
+      "aliases": [
+        "vCPM"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈvjuːəbəl ˌsiː piː ˈem",
+      "ipaUS": "ˈvjuːəbəl ˌsiː piː ˈem",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Viewable C P M",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "speakTerm",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT286",
+    "before": {
+      "id": "MKT286",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Invalid traffic",
+      "zh": "无效流量",
+      "definition": "不符合有效广告互动或曝光标准的流量",
+      "example": "The verification report identified a spike in invalid traffic.",
+      "exampleZh": "验证报告发现无效流量突然增加。",
+      "collocation": "filter invalid traffic",
+      "collocationZh": "过滤无效流量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The verification report identified a spike in ____.",
+          "zh": "补全职场表达：验证报告发现____突然增加。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The verification report identified a spike in invalid traffic.",
+          "zh": "验证报告发现无效流量突然增加。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 286,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ɪnˈvælɪd ˈtræfɪk",
+      "ipaUS": "ɪnˈvælɪd ˈtræfɪk",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Invalid traffic",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT286",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Invalid traffic",
+      "zh": "无效流量",
+      "definition": "不符合有效广告流量衡量标准的活动，包括部分自动化流量及欺诈流量。",
+      "example": "The verification report identified a spike in invalid traffic.",
+      "exampleZh": "广告验证报告发现无效流量突然增加。",
+      "collocation": "filter invalid traffic",
+      "collocationZh": "过滤无效流量",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What unusual pattern did the verification report reveal?",
+          "zh": "验证报告发现了什么异常？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The verification report identified a spike in invalid traffic.",
+          "zh": "广告验证报告发现无效流量突然增加。"
+        }
+      ],
+      "usage": "IVT 不一定源于故意欺诈。",
+      "new": true,
+      "order": 286,
+      "aliases": [
+        "IVT"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ɪnˈvælɪd ˈtræfɪk",
+      "ipaUS": "ɪnˈvælɪd ˈtræfɪk",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Invalid traffic",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT287",
+    "before": {
+      "id": "MKT287",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Ad fraud",
+      "zh": "广告欺诈",
+      "definition": "故意制造虚假广告曝光、点击或转化以获取利益的行为",
+      "example": "Independent verification helps detect ad fraud.",
+      "exampleZh": "独立验证有助于检测广告欺诈。",
+      "collocation": "detect ad fraud",
+      "collocationZh": "检测广告欺诈",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Independent verification helps detect ____.",
+          "zh": "补全职场表达：独立验证有助于检测____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Independent verification helps detect ad fraud.",
+          "zh": "独立验证有助于检测广告欺诈。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 287,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈæd ˈfrɔːd",
+      "ipaUS": "ˈæd ˈfrɔːd",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Ad fraud",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT287",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Ad fraud",
+      "zh": "广告欺诈",
+      "definition": "为获取不当利益而故意操纵广告交付或衡量结果的欺诈行为。",
+      "example": "Independent verification helps detect ad fraud.",
+      "exampleZh": "独立广告验证有助于发现广告欺诈。",
+      "collocation": "detect ad fraud",
+      "collocationZh": "检测广告欺诈",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why do we use an independent verification provider?",
+          "zh": "为什么我们使用独立验证服务商？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Independent verification helps detect ad fraud.",
+          "zh": "独立广告验证有助于发现广告欺诈。"
+        }
+      ],
+      "usage": "广告欺诈涉及故意欺骗，不等同于所有无效流量。",
+      "new": true,
+      "order": 287,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "æd frɔːd",
+      "ipaUS": "æd frɑːd",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Ad fraud",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT288",
+    "before": {
+      "id": "MKT288",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Ad verification",
+      "zh": "广告验证",
+      "definition": "核查广告投放环境、可见性及流量质量的过程",
+      "example": "We enabled ad verification for the display campaign.",
+      "exampleZh": "我们为展示广告活动启用了广告验证。",
+      "collocation": "enable ad verification",
+      "collocationZh": "启用广告验证",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We enabled ____ for the display campaign.",
+          "zh": "补全职场表达：我们为展示广告活动启用了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We enabled ad verification for the display campaign.",
+          "zh": "我们为展示广告活动启用了广告验证。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 288,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈæd ˌverɪfɪˈkeɪʃən",
+      "ipaUS": "ˈæd ˌverɪfɪˈkeɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Ad verification",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT288",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Ad verification",
+      "zh": "广告验证",
+      "definition": "核查广告交付环境、可见性及流量质量等是否符合约定标准的过程。",
+      "example": "We enabled ad verification for the display campaign.",
+      "exampleZh": "我们为展示广告活动启用了广告验证。",
+      "collocation": "enable ad verification",
+      "collocationZh": "启用广告验证",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How are we checking the quality of display ad delivery?",
+          "zh": "我们如何检查展示广告的投放质量？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We enabled ad verification for the display campaign.",
+          "zh": "我们为展示广告活动启用了广告验证。"
+        }
+      ],
+      "usage": "验证结果取决于覆盖范围及衡量方法。",
+      "new": true,
+      "order": 288,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "æd ˌverɪfɪˈkeɪʃən",
+      "ipaUS": "æd ˌverəfɪˈkeɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Ad verification",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT289",
+    "before": {
+      "id": "MKT289",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Contextual targeting",
+      "zh": "情境定向",
+      "definition": "依据页面内容或媒体语境选择广告展示对象",
+      "example": "Contextual targeting placed our travel ads alongside destination guides.",
+      "exampleZh": "情境定向将我们的旅行广告展示在目的地指南旁。",
+      "collocation": "test contextual targeting",
+      "collocationZh": "测试情境定向",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ placed our travel ads alongside destination guides.",
+          "zh": "补全职场表达：____将我们的旅行广告展示在目的地指南旁。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Contextual targeting placed our travel ads alongside destination guides.",
+          "zh": "情境定向将我们的旅行广告展示在目的地指南旁。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 289,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kənˈtekstʃuːəl ˈtɑːɡɪtɪŋ",
+      "ipaUS": "kənˈtekstʃuːəl ˈtɑːrɡɪtɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Contextual targeting",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT289",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Contextual targeting",
+      "zh": "情境定向",
+      "definition": "依据页面、视频或其他媒体内容的语境选择广告展示环境的方式。",
+      "example": "Contextual targeting placed our travel ads alongside destination guides.",
+      "exampleZh": "通过情境定向，我们的旅游广告出现在目的地指南旁。",
+      "collocation": "test contextual targeting",
+      "collocationZh": "测试情境定向",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Why did our travel ads appear next to destination guides?",
+          "zh": "为什么旅游广告出现在目的地指南旁？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Contextual targeting placed our travel ads alongside destination guides.",
+          "zh": "通过情境定向，我们的旅游广告出现在目的地指南旁。"
+        }
+      ],
+      "usage": "与基于个人行为历史的定向不同，主要依据内容语境。",
+      "new": true,
+      "order": 289,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kənˈtekstʃuəl ˈtɑːɡɪtɪŋ",
+      "ipaUS": "kənˈtekstʃuəl ˈtɑːrɡɪtɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Contextual targeting",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT290",
+    "before": {
+      "id": "MKT290",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Geotargeting",
+      "zh": "地理位置定向",
+      "definition": "依据用户所在或相关地理区域进行广告定向",
+      "example": "We applied geotargeting around participating stores.",
+      "exampleZh": "我们在参与活动的门店周边应用了地理位置定向。",
+      "collocation": "apply geotargeting",
+      "collocationZh": "应用地理位置定向",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We applied ____ around participating stores.",
+          "zh": "补全职场表达：我们在参与活动的门店周边应用了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We applied geotargeting around participating stores.",
+          "zh": "我们在参与活动的门店周边应用了地理位置定向。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 290,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌdʒiːəʊˈtɑːɡɪtɪŋ",
+      "ipaUS": "ˌdʒiːoʊˈtɑːrɡɪtɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Geotargeting",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT290",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Geotargeting",
+      "zh": "地理位置定向",
+      "definition": "根据用户实际或推断的地理位置等信号选择广告受众的方式。",
+      "example": "We applied geotargeting around participating stores.",
+      "exampleZh": "我们针对参与活动的门店周边区域进行了地理位置定向。",
+      "collocation": "use geotargeting",
+      "collocationZh": "采用地理位置定向",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we focus the campaign on areas near participating stores?",
+          "zh": "我们如何将活动集中在参与门店周边？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We applied geotargeting around participating stores.",
+          "zh": "我们针对参与活动的门店周边区域进行了地理位置定向。"
+        }
+      ],
+      "usage": "位置精度及可用信号因平台而异。",
+      "new": true,
+      "order": 290,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌdʒiːəʊˈtɑːɡɪtɪŋ",
+      "ipaUS": "ˌdʒiːoʊˈtɑːrɡɪtɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Geotargeting",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocation",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT291",
+    "before": {
+      "id": "MKT291",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Native advertising",
+      "zh": "原生广告",
+      "definition": "形式与所在媒体内容体验相协调且应明确标识的付费广告",
+      "example": "The publisher must clearly label native advertising as sponsored.",
+      "exampleZh": "媒体必须清楚标识原生广告为赞助内容。",
+      "collocation": "label native advertising",
+      "collocationZh": "标识原生广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The publisher must clearly label ____ as sponsored.",
+          "zh": "补全职场表达：媒体必须清楚标识____为赞助内容。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The publisher must clearly label native advertising as sponsored.",
+          "zh": "媒体必须清楚标识原生广告为赞助内容。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 291,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈneɪtɪv ˈædvəˌtaɪzɪŋ",
+      "ipaUS": "ˈneɪtɪv ˈædvɚˌtaɪzɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Native advertising",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT291",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Native advertising",
+      "zh": "原生广告",
+      "definition": "形式与所在媒体内容体验相协调的付费广告，应按适用规则清晰披露广告性质。",
+      "example": "The publisher should clearly label native advertising as sponsored.",
+      "exampleZh": "媒体应明确标识原生广告的赞助性质。",
+      "collocation": "label native advertising",
+      "collocationZh": "标识原生广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How should the publisher disclose sponsored placements?",
+          "zh": "媒体应如何披露赞助版位？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The publisher should clearly label native advertising as sponsored.",
+          "zh": "媒体应明确标识原生广告的赞助性质。"
+        }
+      ],
+      "usage": "原生形式不意味着可以隐藏商业性质。",
+      "new": true,
+      "order": 291,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈneɪtɪv ˈædvətaɪzɪŋ",
+      "ipaUS": "ˈneɪtɪv ˈædvərtaɪzɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Native advertising",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "example",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT292",
+    "before": {
+      "id": "MKT292",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Connected TV",
+      "zh": "联网电视",
+      "definition": "通过互联网接收视频内容的电视设备或相关广告环境",
+      "example": "Connected TV gives us another way to reach streaming audiences.",
+      "exampleZh": "联网电视为我们触达流媒体受众提供了另一种方式。",
+      "collocation": "invest in connected TV",
+      "collocationZh": "投资联网电视广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ gives us another way to reach streaming audiences.",
+          "zh": "补全职场表达：____为我们触达流媒体受众提供了另一种方式。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Connected TV gives us another way to reach streaming audiences.",
+          "zh": "联网电视为我们触达流媒体受众提供了另一种方式。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 292,
+      "aliases": [
+        "CTV"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kəˈnektɪd ˌtiːˈviː",
+      "ipaUS": "kəˈnektɪd ˌtiːˈviː",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Connected TV",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT292",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Connected TV",
+      "zh": "联网电视",
+      "definition": "可通过互联网播放视频的电视设备，包括智能电视及连接流媒体设备的电视；营销中也指相关广告环境。",
+      "example": "Connected TV gives us another way to reach streaming audiences.",
+      "exampleZh": "联网电视为我们提供了触达流媒体受众的另一种方式。",
+      "collocation": "invest in connected TV advertising",
+      "collocationZh": "投资联网电视广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we reach streaming viewers on television screens?",
+          "zh": "如何触达电视屏幕上的流媒体观众？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Connected TV gives us another way to reach streaming audiences.",
+          "zh": "联网电视为我们提供了触达流媒体受众的另一种方式。"
+        }
+      ],
+      "usage": "CTV 指设备或广告环境，OTT 更侧重互联网内容分发方式。",
+      "new": true,
+      "order": 292,
+      "aliases": [
+        "CTV"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kəˈnektɪd ˌtiː ˈviː",
+      "ipaUS": "kəˈnektɪd ˌtiː ˈviː",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Connected T V",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocation",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "speakTerm",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT293",
+    "before": {
+      "id": "MKT293",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Out-of-home advertising",
+      "zh": "户外广告",
+      "definition": "在公共场所或出行环境中展示的广告",
+      "example": "Out-of-home advertising will support the store opening.",
+      "exampleZh": "户外广告将支持门店开业。",
+      "collocation": "plan out-of-home advertising",
+      "collocationZh": "规划户外广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ will support the store opening.",
+          "zh": "补全职场表达：____将支持门店开业。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Out-of-home advertising will support the store opening.",
+          "zh": "户外广告将支持门店开业。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 293,
+      "aliases": [
+        "OOH"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˌaʊtəvˈhəʊm ˈædvəˌtaɪzɪŋ",
+      "ipaUS": "ˌaʊtəvˈhoʊm ˈædvɚˌtaɪzɪŋ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Out-of-home advertising",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT293",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Out-of-home advertising",
+      "zh": "户外广告",
+      "definition": "在家庭之外的公共场所或出行环境中展示的广告。",
+      "example": "Out-of-home advertising will support the store opening.",
+      "exampleZh": "户外广告将为门店开业提供宣传支持。",
+      "collocation": "plan out-of-home advertising",
+      "collocationZh": "规划户外广告",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which offline media will support the store opening?",
+          "zh": "哪些线下媒体将为门店开业提供宣传支持？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Out-of-home advertising will support the store opening.",
+          "zh": "户外广告将为门店开业提供宣传支持。"
+        }
+      ],
+      "usage": "OOH 也包括商场、电梯等室内公共场所广告。",
+      "new": true,
+      "order": 293,
+      "aliases": [
+        "OOH"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˌaʊt əv ˈhəʊm ˈædvətaɪzɪŋ",
+      "ipaUS": "ˌaʊt əv ˈhoʊm ˈædvərtaɪzɪŋ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Out-of-home advertising",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT294",
+    "before": {
+      "id": "MKT294",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Digital out-of-home",
+      "zh": "数字户外广告",
+      "definition": "通过公共场所数字屏幕展示的户外广告",
+      "example": "Digital out-of-home lets us change messages throughout the day.",
+      "exampleZh": "数字户外广告让我们能够在一天中更换传播信息。",
+      "collocation": "buy digital out-of-home inventory",
+      "collocationZh": "购买数字户外广告库存",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ lets us change messages throughout the day.",
+          "zh": "补全职场表达：____让我们能够在一天中更换传播信息。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Digital out-of-home lets us change messages throughout the day.",
+          "zh": "数字户外广告让我们能够在一天中更换传播信息。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 294,
+      "aliases": [
+        "DOOH"
+      ],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈdɪdʒɪtəl ˌaʊtəvˈhəʊm",
+      "ipaUS": "ˈdɪdʒɪtəl ˌaʊtəvˈhoʊm",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Digital out-of-home",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT294",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Digital out-of-home",
+      "zh": "数字户外广告",
+      "definition": "通过家庭之外的数字屏幕展示的户外广告。",
+      "example": "Digital out-of-home lets us change messages throughout the day.",
+      "exampleZh": "数字户外广告让我们可以在一天内更换广告信息。",
+      "collocation": "buy digital out-of-home inventory",
+      "collocationZh": "采购数字户外广告资源",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How can we change our outdoor messages during the day?",
+          "zh": "如何在一天内更换户外广告信息？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Digital out-of-home lets us change messages throughout the day.",
+          "zh": "数字户外广告让我们可以在一天内更换广告信息。"
+        }
+      ],
+      "usage": "DOOH 不一定采用程序化购买。",
+      "new": true,
+      "order": 294,
+      "aliases": [
+        "DOOH"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈdɪdʒɪtəl ˌaʊt əv ˈhəʊm",
+      "ipaUS": "ˈdɪdʒɪtəl ˌaʊt əv ˈhoʊm",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Digital out-of-home",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT295",
+    "before": {
+      "id": "MKT295",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Video completion rate",
+      "zh": "视频完播率",
+      "definition": "视频播放达到结束的次数占规定播放基数的比例",
+      "example": "Shorter edits improved our video completion rate.",
+      "exampleZh": "较短的剪辑版本提高了视频完播率。",
+      "collocation": "track video completion rate",
+      "collocationZh": "追踪视频完播率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Shorter edits improved our ____.",
+          "zh": "补全职场表达：较短的剪辑版本提高了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Shorter edits improved our video completion rate.",
+          "zh": "较短的剪辑版本提高了视频完播率。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 295,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈvɪdɪəʊ kəmˈpliːʃən ˈreɪt",
+      "ipaUS": "ˈvɪdɪoʊ kəmˈpliːʃən ˈreɪt",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Video completion rate",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT295",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Video completion rate",
+      "zh": "视频完播率",
+      "definition": "完整播放次数占指定播放基数的比例。",
+      "example": "Shorter edits improved our video completion rate.",
+      "exampleZh": "较短的视频剪辑版本提高了我们的完播率。",
+      "collocation": "track video completion rate",
+      "collocationZh": "监测视频完播率",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What changed after we tested shorter edits?",
+          "zh": "测试较短的剪辑版本后发生了什么变化？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Shorter edits improved our video completion rate.",
+          "zh": "较短的视频剪辑版本提高了我们的完播率。"
+        }
+      ],
+      "usage": "VCR 的分母可能为播放开始次数或展示次数，比较前须统一口径。",
+      "new": true,
+      "order": 295,
+      "aliases": [
+        "VCR"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈvɪdiəʊ kəmˈpliːʃən reɪt",
+      "ipaUS": "ˈvɪdioʊ kəmˈpliːʃən reɪt",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Video completion rate",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT296",
+    "before": {
+      "id": "MKT296",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Cost per completed view",
+      "zh": "单次完整观看成本",
+      "definition": "广告支出除以符合定义的完整视频观看次数",
+      "example": "We reduced cost per completed view by testing shorter videos.",
+      "exampleZh": "我们通过测试较短的视频降低了单次完整观看成本。",
+      "collocation": "reduce cost per completed view",
+      "collocationZh": "降低单次完整观看成本",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We reduced ____ by testing shorter videos.",
+          "zh": "补全职场表达：我们通过测试较短的视频降低了____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We reduced cost per completed view by testing shorter videos.",
+          "zh": "我们通过测试较短的视频降低了单次完整观看成本。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 296,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈkɒst pɜː kəmˈpliːtɪd ˈvjuː",
+      "ipaUS": "ˈkɔst pɜː kəmˈpliːtɪd ˈvjuː",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Cost per completed view",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT296",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Cost per completed view",
+      "zh": "单次完整观看成本",
+      "definition": "广告支出除以符合定义的完整视频观看次数。",
+      "example": "We reduced cost per completed view by testing shorter videos.",
+      "exampleZh": "通过测试较短的视频，我们降低了单次完整观看成本。",
+      "collocation": "reduce cost per completed view",
+      "collocationZh": "降低单次完整观看成本",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How did we lower the cost of a full video view?",
+          "zh": "我们如何降低完整观看一次视频的成本？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We reduced cost per completed view by testing shorter videos.",
+          "zh": "通过测试较短的视频，我们降低了单次完整观看成本。"
+        }
+      ],
+      "usage": "CPCV 不等同于按平台普通观看定义计算的 CPV。",
+      "new": true,
+      "order": 296,
+      "aliases": [
+        "CPCV"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kɒst pə kəmˈpliːtɪd vjuː",
+      "ipaUS": "kɑːst pər kəmˈpliːtɪd vjuː",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Cost per completed view",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT297",
+    "before": {
+      "id": "MKT297",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Creative fatigue",
+      "zh": "创意疲劳",
+      "definition": "受众反复接触同一素材后响应减弱的现象",
+      "example": "Falling engagement at high frequency may indicate creative fatigue.",
+      "exampleZh": "高频曝光下互动下降可能表明创意疲劳。",
+      "collocation": "identify creative fatigue",
+      "collocationZh": "识别创意疲劳",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: Falling engagement at high frequency may indicate ____.",
+          "zh": "补全职场表达：高频曝光下互动下降可能表明____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Falling engagement at high frequency may indicate creative fatigue.",
+          "zh": "高频曝光下互动下降可能表明创意疲劳。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 297,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kriːˈeɪtɪv fəˈtiːɡ",
+      "ipaUS": "kriːˈeɪtɪv fəˈtiːɡ",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Creative fatigue",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT297",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Creative fatigue",
+      "zh": "创意疲劳",
+      "definition": "受众反复接触广告素材后响应减弱的现象。",
+      "example": "Falling engagement at high frequency may indicate creative fatigue.",
+      "exampleZh": "高频曝光下互动下降可能意味着创意疲劳。",
+      "collocation": "identify creative fatigue",
+      "collocationZh": "识别创意疲劳",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What might explain declining engagement at high frequency?",
+          "zh": "高频曝光下互动下降可能是什么原因？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Falling engagement at high frequency may indicate creative fatigue.",
+          "zh": "高频曝光下互动下降可能意味着创意疲劳。"
+        }
+      ],
+      "usage": "互动下降也可能由受众、竞价或季节变化导致。",
+      "new": true,
+      "order": 297,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kriˈeɪtɪv fəˈtiːɡ",
+      "ipaUS": "kriˈeɪtɪv fəˈtiːɡ",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Creative fatigue",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT298",
+    "before": {
+      "id": "MKT298",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Creative rotation",
+      "zh": "创意轮换",
+      "definition": "按规则交替展示多种广告素材的安排",
+      "example": "Creative rotation will introduce new visuals every week.",
+      "exampleZh": "创意轮换将每周引入新视觉素材。",
+      "collocation": "schedule creative rotation",
+      "collocationZh": "安排创意轮换",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: ____ will introduce new visuals every week.",
+          "zh": "补全职场表达：____将每周引入新视觉素材。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Creative rotation will introduce new visuals every week.",
+          "zh": "创意轮换将每周引入新视觉素材。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 298,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "kriːˈeɪtɪv rəʊˈteɪʃən",
+      "ipaUS": "kriːˈeɪtɪv roʊˈteɪʃən",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Creative rotation",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT298",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Creative rotation",
+      "zh": "创意轮换",
+      "definition": "按设定规则在多个广告素材之间轮换展示的安排。",
+      "example": "Creative rotation will introduce new visuals every week.",
+      "exampleZh": "创意轮换方案将每周引入新的视觉素材。",
+      "collocation": "schedule creative rotation",
+      "collocationZh": "安排创意轮换",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "How will we keep the visuals fresh during the campaign?",
+          "zh": "活动期间如何保持视觉素材的新鲜感？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Creative rotation will introduce new visuals every week.",
+          "zh": "创意轮换方案将每周引入新的视觉素材。"
+        }
+      ],
+      "usage": "轮换不必然等量分配曝光，也不必然是随机实验。",
+      "new": true,
+      "order": 298,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "kriˈeɪtɪv rəʊˈteɪʃən",
+      "ipaUS": "kriˈeɪtɪv roʊˈteɪʃən",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Creative rotation",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT299",
+    "before": {
+      "id": "MKT299",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Ad recall",
+      "zh": "广告回忆度",
+      "definition": "受众能够回想起某广告的程度",
+      "example": "The survey measured ad recall among exposed viewers.",
+      "exampleZh": "调查衡量了已曝光观众的广告回忆度。",
+      "collocation": "measure ad recall",
+      "collocationZh": "衡量广告回忆度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: The survey measured ____ among exposed viewers.",
+          "zh": "补全职场表达：调查衡量了已曝光观众的____。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The survey measured ad recall among exposed viewers.",
+          "zh": "调查衡量了已曝光观众的广告回忆度。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 299,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈæd ˈriːkɔːl",
+      "ipaUS": "ˈæd ˈriːkɔːl",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Ad recall",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT299",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Ad recall",
+      "zh": "广告回忆度",
+      "definition": "受众能够回想起某广告的程度，可通过调查衡量。",
+      "example": "The survey measured ad recall among exposed viewers.",
+      "exampleZh": "调查衡量了接触过广告的观众对广告的回忆程度。",
+      "collocation": "measure ad recall",
+      "collocationZh": "衡量广告回忆度",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "What did the survey measure among viewers who saw the ad?",
+          "zh": "调查对看过广告的观众衡量了什么？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The survey measured ad recall among exposed viewers.",
+          "zh": "调查衡量了接触过广告的观众对广告的回忆程度。"
+        }
+      ],
+      "usage": "区分提示回忆与无提示回忆；广告回忆提升还需要基准或对照。",
+      "new": true,
+      "order": 299,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "æd ˈriːkɔːl",
+      "ipaUS": "æd ˈriːkɑːl",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Ad recall",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "definition",
+      "exampleZh",
+      "dialogue",
+      "usage",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  },
+  {
+    "id": "MKT300",
+    "before": {
+      "id": "MKT300",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Media effectiveness",
+      "zh": "媒介有效性",
+      "definition": "媒体投入实现传播或业务目标的程度",
+      "example": "We evaluate media effectiveness against incremental sales, not clicks alone.",
+      "exampleZh": "我们依据增量销售评估媒介有效性，而非仅看点击。",
+      "collocation": "evaluate media effectiveness",
+      "collocationZh": "评估媒介有效性",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Complete the workplace statement: We evaluate ____ against incremental sales, not clicks alone.",
+          "zh": "补全职场表达：我们依据增量销售评估____，而非仅看点击。"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We evaluate media effectiveness against incremental sales, not clicks alone.",
+          "zh": "我们依据增量销售评估媒介有效性，而非仅看点击。"
+        }
+      ],
+      "usage": "",
+      "new": true,
+      "order": 300,
+      "aliases": [],
+      "distinction": "",
+      "collocationReview": "初稿",
+      "ipaUK": "ˈmiːdiːər ɪˈfektɪvnəs",
+      "ipaUS": "ˈmiːdiːə ɪˈfektɪvnəs",
+      "ipaSource": "音标格式已规范 · 读音待核验",
+      "speakTerm": "Media effectiveness",
+      "ipaReview": "待词典核验",
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+    },
+    "after": {
+      "id": "MKT300",
+      "moduleId": "m9",
+      "module": "广告与媒介投放",
+      "term": "Media effectiveness",
+      "zh": "媒介效果",
+      "definition": "媒介投入实现预设传播或业务目标的程度。",
+      "example": "We evaluate media effectiveness against incremental sales revenue, not clicks alone.",
+      "exampleZh": "我们依据增量销售额评估媒介效果，而不只看点击量。",
+      "collocation": "evaluate media effectiveness",
+      "collocationZh": "评估媒介效果",
+      "dialogue": [
+        {
+          "role": "Marketing Manager",
+          "en": "Which outcome matters more than clicks in our sales campaign?",
+          "zh": "在以销售为目标的活动中，什么结果比点击更重要？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "We evaluate media effectiveness against incremental sales revenue, not clicks alone.",
+          "zh": "我们依据增量销售额评估媒介效果，而不只看点击量。"
+        }
+      ],
+      "usage": "效果衡量关注目标达成；效率衡量关注投入与产出的关系。",
+      "new": true,
+      "order": 300,
+      "aliases": [
+        "媒介有效性"
+      ],
+      "distinction": "",
+      "collocationReview": "编辑复核",
+      "ipaUK": "ˈmiːdiə ɪˈfektɪvnəs",
+      "ipaUS": "ˈmiːdiə ɪˈfektɪvnəs",
+      "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
+      "speakTerm": "Media effectiveness",
+      "ipaReview": "编辑复核",
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+    },
+    "changedFields": [
+      "zh",
+      "definition",
+      "example",
+      "exampleZh",
+      "collocationZh",
+      "dialogue",
+      "usage",
+      "aliases",
+      "collocationReview",
+      "ipaUK",
+      "ipaUS",
+      "ipaSource",
+      "ipaReview",
+      "ipaNote"
+    ],
+    "review": "逐条编辑校订；未独立核验词典及行业资料"
+  }
+]

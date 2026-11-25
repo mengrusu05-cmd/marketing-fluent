@@ -1,0 +1,18 @@
+{
+  "version": "1.0.60",
+  "changes": [
+    {
+      "before": "Separate fixed detail choices and exact translation deduplication",
+      "after": "Shared randomized choices with normalized translation and alias deduplication"
+    },
+    {
+      "before": "Detail answers can change after submission",
+      "after": "Lock submitted answers; validate option IDs"
+    },
+    {
+      "before": "Detail feedback lacks definition",
+      "after": "Definition and existing distinction in feedback"
+    }
+  ],
+  "limitations": "No semantic equivalence guarantee or browser testing"
+}
