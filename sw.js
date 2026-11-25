@@ -1,5 +1,5 @@
-// Marketing Fluent V1.0.71 - navigation network-first and recoverable manual update.
-const CACHE='marketing-fluent-v1-0-71-production-20261125';
+// Marketing Fluent V1.0.72 - cache-first normal navigation and recoverable manual update.
+const CACHE='marketing-fluent-v1-0-72-production-20261125';
 const APP_FILES=['./','./index.html','./manifest.webmanifest','./marketing-fluent-icon.svg','./apple-touch-icon.png','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>event.waitUntil(
  caches.open(CACHE).then(c=>c.addAll(APP_FILES.map(file=>new Request(new URL(file,self.registration.scope),{cache:'reload'})))).then(()=>self.skipWaiting())
@@ -16,11 +16,16 @@ self.addEventListener('fetch',event=>{
  if(req.mode==='navigate'){
   const home=new URL('./index.html',self.registration.scope), base=new URL('./',self.registration.scope);
   if(u.pathname!==home.pathname&&u.pathname!==base.pathname)return;
-  event.respondWith(fetch(req,{cache:'no-store'}).then(res=>{
-   if(!res.ok)throw Error('Bad navigation');
-   const copy=res.clone();event.waitUntil(caches.open(CACHE).then(c=>c.put('./index.html',copy)));
-   return res;
-  }).catch(async()=>await (await caches.open(CACHE)).match('./index.html')||Response.error()));
+  event.respondWith((async()=>{
+   const cache=await caches.open(CACHE),cached=await cache.match('./index.html');
+   // Normal launches never wait for the network when the installed shell exists.
+   if(cached&&!u.searchParams.has('hr_refresh'))return cached;
+   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),5000);
+   try{const res=await fetch(req,{cache:'no-store',signal:controller.signal});
+    if(!res.ok)throw Error('Bad navigation');
+    await cache.put('./index.html',res.clone());return res;
+   }catch(e){return cached||Response.error()}finally{clearTimeout(timer)}
+  })());
   return;
  }
  if(!APP_FILES.some(file=>new URL(file,self.registration.scope).href===u.href))return;

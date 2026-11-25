@@ -1,0 +1,51 @@
+{
+  "version": "1.0.72",
+  "base": "1.0.71",
+  "changes": {
+    "index.html": {
+      "before_sha256": "757a3d7e51fdbe372e77941ba4e40f071e12b5d90ebc2b2c2847ac3435b260e2",
+      "after_sha256": "3d158243b5570215be8b42b1d12edb47a1f2fe0684a74685b0f791fde6af8942"
+    },
+    "sw.js": {
+      "before_sha256": "ad601f6d336ada5ec9362d8a481c9b4422c3b6967930674b443823bfaa64a2fc",
+      "after_sha256": "a84f513e10335314b14a9cea7ef9ff21e0a0d3925113cc1715b82bf4a64055b1"
+    },
+    "version.json": {
+      "before_sha256": "a470effeb99ceb326e991e08f3b24a37db221f08c3591081648e861b57114e36",
+      "after_sha256": "0932bf1fe1ed8f3e169f2ef8c42d208e746f49e8a87758382dc6bc0006169173"
+    },
+    "marketing-vocabulary.json": {
+      "before_sha256": "79d115730635c6810d89adea330d4338e707488cd9f77c861388c06763a6f2c5",
+      "after_sha256": "0939464128f946afc89f753a14d4408d0be693b15ac4f3f049c366a936ffaa7b"
+    },
+    "marketing-fluent-icon.svg": {
+      "before_sha256": "651311f3718b99b5f9fd9baeb1de13a76335b15529a89c546b2bb6d717544d24",
+      "after_sha256": "441eb0b219ec28724259c3a7052e14dbc107b7b355b98f4ef55174483ab5e875"
+    },
+    "icon-192.png": {
+      "before_sha256": "528b9691e3baaae13c20dd1c0e89077bd8f0570332a27e05960ad3d3ebc83c77",
+      "after_sha256": "cb54a6e1aef7f66692ac0016b39d56d85dfe2155a1ec584372fe6e1a154cffc1"
+    },
+    "icon-512.png": {
+      "before_sha256": "3fb33d991c3dad708684472f8c810c506aa4ad4c855f4db1469cf4ac33556fc2",
+      "after_sha256": "975029f50679a4c019bceeca6fa7e6c7fd85fcd8fa6e6c79ede77d78e71af311"
+    },
+    "apple-touch-icon.png": {
+      "before_sha256": "4097117f47be2c169118a194d798b199f2e2418dec5f86d2fa3e6edb35b735e2",
+      "after_sha256": "cc727220831c78c8f6eb2bfb8a0cc45a135f7a17051ee1cd06e8bce52c3f161e"
+    },
+    "startup-test-72.cjs": {
+      "before_sha256": null,
+      "after_sha256": "853e4c1668e4a2c282f69dc8c271fc87b9488b6503396c0b08febaa6e0ae3ba3"
+    },
+    "pwa-test-72.cjs": {
+      "before_sha256": null,
+      "after_sha256": "d8d6a21bbf3fcea2cfe2754789d5e340163618366009311103f9ea4fe38e494c"
+    },
+    "update-test-72.cjs": {
+      "before_sha256": null,
+      "after_sha256": "fd03d5523245f52862497f96b7f10476f829e98e527bfc9a6e14735cc175d8a4"
+    }
+  },
+  "limitations": "No real browser or device timing; progress represents stages, not byte transfer."
+}

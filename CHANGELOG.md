@@ -141,3 +141,8 @@ PWA precache reload and secure-context detection; simulated service worker tests
 ## 1.0.71
 - Bound update fetch/body and worker waits; guard concurrent manual refresh.
 - Added VM update regression tests. Live/browser/device acceptance pending.
+
+## 1.0.72
+- Cache-first normal launch; explicit refresh retains network-first with 5s timeout.
+- Startup stage progress, deferred initial render and post-render update check.
+- Forest-green app icons.

@@ -1,3 +1,4 @@
+V1.0.72 regression (Node VM, not browser/device)
 PASS JS syntax
 PASS embedded and JSON data, 600 words, 24 modules, 40 scenarios
 PASS 12000 quiz cases
@@ -9,5 +10,6 @@ PASS offline static asset
 PASS HTTP error fallback
 PASS update preflight, unrelated URLs and POST bypass
 PASS update timeout/retry, staged deployment, save failure guard, concurrent refresh and stalled worker registration (VM simulation)
-PASS unchanged vocabulary except version, scenarios, IPA database and storage key
-NOT TESTED: real browser, live GitHub Pages, device speech, independent IPA verification. Worker and update tests use mocks.
+PASS startup stage, dark preference, deferred render and single execution
+PASS vocabulary/modules/scenarios unchanged; storage key unchanged.
+Normal cached navigation: zero network fetches in mock. Actual launch time, first paint, iOS icon refresh and GitHub Pages deployment not measured.

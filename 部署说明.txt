@@ -1,4 +1,4 @@
-Marketing Fluent V1.0（内部更新版本 1.0.71）
+Marketing Fluent V1.0（内部更新版本 1.0.72）
 将 ZIP 全部文件解压至独立 marketing-fluent 仓库根目录，Settings → Pages → Deploy from a branch → main / (root)。不要覆盖 HR Fluent。
 使用原有域名和路径升级，先备份学习数据。iPhone Safari 分享 → 添加到主屏幕；Mac Safari 可使用添加到程序坞（支持的系统），Chrome 可使用安装应用。
 上线后验证收藏、重启、备份恢复、断网和版本更新；详见 TEST-REPORT.txt。尚未完成真实环境验收。

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.71",
-  "build": "marketing-fluent-v1-0-71-20261125",
-  "notes": "Bounded update requests and worker waits; concurrent update guard; browser acceptance pending",
+  "version": "1.0.72",
+  "build": "marketing-fluent-v1-0-72-20261125",
+  "notes": "Cache-first normal launch, bounded explicit refresh, startup progress and forest-green icons",
   "release": "1.0"
 }
