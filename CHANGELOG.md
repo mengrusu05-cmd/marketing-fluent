@@ -9,3 +9,9 @@
 
 ## V1.0.25
 - 删除 LEARN DAILY；紧凑顶部按钮，防止文字换行。
+
+## 1.0.26
+Quiz center, learning center, persistent mistakes, backup compatibility and default accent.
+
+## 1.0.27
+- 独立版本与更新入口；24 个独立模块 SVG 图标。

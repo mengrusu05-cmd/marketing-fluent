@@ -1,6 +1,6 @@
 {
-  "version": "1.0.25",
-  "build": "marketing-fluent-v1-0-25-20261125",
-  "notes": "Compact header: remove Learn Daily and prevent practice button wrapping",
+  "version": "1.0.27",
+  "build": "marketing-fluent-v1-0-27-20261125",
+  "notes": "Independent version and update entry; 24 distinct module SVG icons",
   "release": "1.0"
 }
