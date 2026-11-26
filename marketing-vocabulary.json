@@ -1,6 +1,6 @@
 {
-  "version": "1.0.73",
-  "date": "2026-11-25",
+  "version": "1.0.74",
+  "date": "2026-11-26",
   "modules": [
     {
       "id": "m1",
@@ -206,7 +206,14 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Target market",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "目标市场是选择服务的群体；市场细分是划分群体的过程；买家画像是代表性客户的描述。",
+        "relatedIds": [
+          "MKT002",
+          "MKT047"
+        ]
+      }
     },
     {
       "id": "MKT002",
@@ -242,7 +249,14 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Market segmentation",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "目标市场是选择服务的群体；市场细分是划分群体的过程；买家画像是代表性客户的描述。",
+        "relatedIds": [
+          "MKT001",
+          "MKT047"
+        ]
+      }
     },
     {
       "id": "MKT003",
@@ -278,7 +292,14 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Value proposition",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "产品定位强调相对竞争位置；独特卖点强调差异；价值主张强调客户获得的价值。",
+        "relatedIds": [
+          "MKT072",
+          "MKT073"
+        ]
+      }
     },
     {
       "id": "MKT004",
@@ -386,7 +407,14 @@
       "ipaSource": "Cambridge Dictionary · 完整词条核验",
       "speakTerm": "Brand awareness",
       "ipaReview": "完整词条核验",
-      "ipaNote": "依据剑桥词典完整词组 IPA；英式括号 r 表示连读时可能发音。朗读使用设备语音包。"
+      "ipaNote": "依据剑桥词典完整词组 IPA；英式括号 r 表示连读时可能发音。朗读使用设备语音包。",
+      "comparison": {
+        "note": "品牌知名度是总体认知程度；品牌回忆强调无提示想起；品牌识别强调看到提示后认出。",
+        "relatedIds": [
+          "MKT064",
+          "MKT065"
+        ]
+      }
     },
     {
       "id": "MKT007",
@@ -458,7 +486,14 @@
       "ipaSource": "Cambridge Dictionary · 完整词条核验",
       "speakTerm": "Brand identity",
       "ipaReview": "完整词条核验",
-      "ipaNote": "依据剑桥词典完整词组 IPA；英式括号 r 表示连读时可能发音。朗读使用设备语音包。"
+      "ipaNote": "依据剑桥词典完整词组 IPA；英式括号 r 表示连读时可能发音。朗读使用设备语音包。",
+      "comparison": {
+        "note": "品牌识别是企业塑造的表达；品牌形象是受众感知；品牌声誉强调长期评价。",
+        "relatedIds": [
+          "MKT106",
+          "MKT107"
+        ]
+      }
     },
     {
       "id": "MKT009",
@@ -494,7 +529,14 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Conversion rate",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "转化率衡量目标行为比例；点击率衡量点击占展示比例；跳出率定义取决于分析平台。",
+        "relatedIds": [
+          "MKT086",
+          "MKT249"
+        ]
+      }
     },
     {
       "id": "MKT010",
@@ -640,7 +682,14 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Customer acquisition cost",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "获客成本通常包含更广泛的获客费用；CPA针对指定转化；CPC针对点击。",
+        "relatedIds": [
+          "MKT096",
+          "MKT087"
+        ]
+      }
     },
     {
       "id": "MKT014",
@@ -676,7 +725,15 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Return on ad spend",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "ROAS关注广告收入与广告支出；ROI关注投资收益与成本；增量ROAS关注因果增量；边际ROAS关注额外投入的回报。",
+        "relatedIds": [
+          "MKT095",
+          "MKT507",
+          "MKT508"
+        ]
+      }
     },
     {
       "id": "MKT015",
@@ -712,7 +769,15 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Attribution",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "归因分配转化贡献；增量评估关注没有干预时不会发生的结果；末次点击与多触点是不同归因规则。",
+        "relatedIds": [
+          "MKT016",
+          "MKT503",
+          "MKT502"
+        ]
+      }
     },
     {
       "id": "MKT016",
@@ -748,7 +813,15 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Incrementality",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "归因分配转化贡献；增量评估关注没有干预时不会发生的结果；末次点击与多触点是不同归因规则。",
+        "relatedIds": [
+          "MKT015",
+          "MKT503",
+          "MKT502"
+        ]
+      }
     },
     {
       "id": "MKT017",
@@ -1332,7 +1405,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Primary research",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "一手研究收集新数据；二手研究利用已有数据；案头研究通常利用现有资料。",
+        "relatedIds": [
+          "MKT033",
+          "MKT034"
+        ]
+      }
     },
     {
       "id": "MKT033",
@@ -1368,7 +1448,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Secondary research",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "一手研究收集新数据；二手研究利用已有数据；案头研究通常利用现有资料。",
+        "relatedIds": [
+          "MKT032",
+          "MKT034"
+        ]
+      }
     },
     {
       "id": "MKT034",
@@ -1404,7 +1491,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Desk research",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "一手研究收集新数据；二手研究利用已有数据；案头研究通常利用现有资料。",
+        "relatedIds": [
+          "MKT032",
+          "MKT033"
+        ]
+      }
     },
     {
       "id": "MKT035",
@@ -1730,7 +1824,13 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Qualitative research",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "定性研究关注原因与体验；定量研究关注可测量的数量与关系。",
+        "relatedIds": [
+          "MKT044"
+        ]
+      }
     },
     {
       "id": "MKT044",
@@ -1766,7 +1866,13 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Quantitative research",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "定性研究关注原因与体验；定量研究关注可测量的数量与关系。",
+        "relatedIds": [
+          "MKT043"
+        ]
+      }
     },
     {
       "id": "MKT045",
@@ -1874,7 +1980,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Buyer persona",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "目标市场是选择服务的群体；市场细分是划分群体的过程；买家画像是代表性客户的描述。",
+        "relatedIds": [
+          "MKT001",
+          "MKT002"
+        ]
+      }
     },
     {
       "id": "MKT048",
@@ -2054,7 +2167,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Purchase intent",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "购买意愿是意向；支付意愿是愿意支付的金额；购买行为是实际或观察到的行为。",
+        "relatedIds": [
+          "MKT053",
+          "MKT054"
+        ]
+      }
     },
     {
       "id": "MKT053",
@@ -2092,7 +2212,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Willingness to pay",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "购买意愿是意向；支付意愿是愿意支付的金额；购买行为是实际或观察到的行为。",
+        "relatedIds": [
+          "MKT052",
+          "MKT054"
+        ]
+      }
     },
     {
       "id": "MKT054",
@@ -2130,7 +2257,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Buying behavior",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "购买意愿是意向；支付意愿是愿意支付的金额；购买行为是实际或观察到的行为。",
+        "relatedIds": [
+          "MKT052",
+          "MKT053"
+        ]
+      }
     },
     {
       "id": "MKT055",
@@ -2500,7 +2634,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Brand recall",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "品牌知名度是总体认知程度；品牌回忆强调无提示想起；品牌识别强调看到提示后认出。",
+        "relatedIds": [
+          "MKT006",
+          "MKT065"
+        ]
+      }
     },
     {
       "id": "MKT065",
@@ -2536,7 +2677,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Brand recognition",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "品牌知名度是总体认知程度；品牌回忆强调无提示想起；品牌识别强调看到提示后认出。",
+        "relatedIds": [
+          "MKT006",
+          "MKT064"
+        ]
+      }
     },
     {
       "id": "MKT066",
@@ -2754,7 +2902,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Product launch",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "Beta发布侧重测试版本；软启动侧重有限范围发布；产品上市是更广义的市场推出。",
+        "relatedIds": [
+          "MKT176",
+          "MKT177"
+        ]
+      }
     },
     {
       "id": "MKT072",
@@ -2790,7 +2945,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Product positioning",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "产品定位强调相对竞争位置；独特卖点强调差异；价值主张强调客户获得的价值。",
+        "relatedIds": [
+          "MKT073",
+          "MKT003"
+        ]
+      }
     },
     {
       "id": "MKT073",
@@ -2829,7 +2991,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Unique selling proposition",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "产品定位强调相对竞争位置；独特卖点强调差异；价值主张强调客户获得的价值。",
+        "relatedIds": [
+          "MKT072",
+          "MKT003"
+        ]
+      }
     },
     {
       "id": "MKT074",
@@ -3308,7 +3477,14 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Click-through rate",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+      "comparison": {
+        "note": "转化率衡量目标行为比例；点击率衡量点击占展示比例；跳出率定义取决于分析平台。",
+        "relatedIds": [
+          "MKT009",
+          "MKT249"
+        ]
+      }
     },
     {
       "id": "MKT087",
@@ -3346,7 +3522,14 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Cost per click",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "获客成本通常包含更广泛的获客费用；CPA针对指定转化；CPC针对点击。",
+        "relatedIds": [
+          "MKT013",
+          "MKT096"
+        ]
+      }
     },
     {
       "id": "MKT088",
@@ -3420,7 +3603,14 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Impression",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "触达衡量不同受众数量；平均频次衡量每位触达受众平均曝光次数；展示量统计曝光次数。",
+        "relatedIds": [
+          "MKT261",
+          "MKT262"
+        ]
+      }
     },
     {
       "id": "MKT090",
@@ -3643,7 +3833,15 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Return on investment",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "ROAS关注广告收入与广告支出；ROI关注投资收益与成本；增量ROAS关注因果增量；边际ROAS关注额外投入的回报。",
+        "relatedIds": [
+          "MKT014",
+          "MKT507",
+          "MKT508"
+        ]
+      }
     },
     {
       "id": "MKT096",
@@ -3681,7 +3879,14 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Cost per acquisition",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 英式连接音采用 (r) 显示；未新增词典核验。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。 英式连接音采用 (r) 显示；未新增词典核验。",
+      "comparison": {
+        "note": "获客成本通常包含更广泛的获客费用；CPA针对指定转化；CPC针对点击。",
+        "relatedIds": [
+          "MKT013",
+          "MKT087"
+        ]
+      }
     },
     {
       "id": "MKT097",
@@ -3795,7 +4000,14 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Retention rate",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "留存率衡量持续保留；流失率衡量失去客户；复购率衡量再次购买，三者需明确时间窗口和分母。",
+        "relatedIds": [
+          "MKT100",
+          "MKT487"
+        ]
+      }
     },
     {
       "id": "MKT100",
@@ -3831,7 +4043,14 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Churn rate",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "留存率衡量持续保留；流失率衡量失去客户；复购率衡量再次购买，三者需明确时间窗口和分母。",
+        "relatedIds": [
+          "MKT099",
+          "MKT487"
+        ]
+      }
     },
     {
       "id": "MKT101",
@@ -4047,7 +4266,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Brand image",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "品牌识别是企业塑造的表达；品牌形象是受众感知；品牌声誉强调长期评价。",
+        "relatedIds": [
+          "MKT008",
+          "MKT107"
+        ]
+      }
     },
     {
       "id": "MKT107",
@@ -4083,7 +4309,14 @@
       "ipaSource": "宽式 IPA 编辑复核 · 待词典核验",
       "speakTerm": "Brand reputation",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑校订，未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "品牌识别是企业塑造的表达；品牌形象是受众感知；品牌声誉强调长期评价。",
+        "relatedIds": [
+          "MKT008",
+          "MKT106"
+        ]
+      }
     },
     {
       "id": "MKT108",
@@ -6598,7 +6831,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Beta launch",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "Beta发布侧重测试版本；软启动侧重有限范围发布；产品上市是更广义的市场推出。",
+        "relatedIds": [
+          "MKT177",
+          "MKT071"
+        ]
+      }
     },
     {
       "id": "MKT177",
@@ -6634,7 +6874,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Soft launch",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "Beta发布侧重测试版本；软启动侧重有限范围发布；产品上市是更广义的市场推出。",
+        "relatedIds": [
+          "MKT176",
+          "MKT071"
+        ]
+      }
     },
     {
       "id": "MKT178",
@@ -7864,7 +8111,15 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Paid media",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "付费媒体购买曝光；自有媒体由品牌控制；赢得媒体来自第三方主动报道；共享媒体强调社交传播。",
+        "relatedIds": [
+          "MKT212",
+          "MKT213",
+          "MKT214"
+        ]
+      }
     },
     {
       "id": "MKT212",
@@ -7900,7 +8155,15 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Owned media",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "付费媒体购买曝光；自有媒体由品牌控制；赢得媒体来自第三方主动报道；共享媒体强调社交传播。",
+        "relatedIds": [
+          "MKT211",
+          "MKT213",
+          "MKT214"
+        ]
+      }
     },
     {
       "id": "MKT213",
@@ -7936,7 +8199,15 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Earned media",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "付费媒体购买曝光；自有媒体由品牌控制；赢得媒体来自第三方主动报道；共享媒体强调社交传播。",
+        "relatedIds": [
+          "MKT211",
+          "MKT212",
+          "MKT214"
+        ]
+      }
     },
     {
       "id": "MKT214",
@@ -7972,7 +8243,15 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Shared media",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "付费媒体购买曝光；自有媒体由品牌控制；赢得媒体来自第三方主动报道；共享媒体强调社交传播。",
+        "relatedIds": [
+          "MKT211",
+          "MKT212",
+          "MKT213"
+        ]
+      }
     },
     {
       "id": "MKT215",
@@ -9240,7 +9519,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Bounce rate",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "转化率衡量目标行为比例；点击率衡量点击占展示比例；跳出率定义取决于分析平台。",
+        "relatedIds": [
+          "MKT009",
+          "MKT086"
+        ]
+      }
     },
     {
       "id": "MKT250",
@@ -9674,7 +9960,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Reach",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "触达衡量不同受众数量；平均频次衡量每位触达受众平均曝光次数；展示量统计曝光次数。",
+        "relatedIds": [
+          "MKT262",
+          "MKT089"
+        ]
+      }
     },
     {
       "id": "MKT262",
@@ -9710,7 +10003,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Average frequency",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "触达衡量不同受众数量；平均频次衡量每位触达受众平均曝光次数；展示量统计曝光次数。",
+        "relatedIds": [
+          "MKT261",
+          "MKT089"
+        ]
+      }
     },
     {
       "id": "MKT263",
@@ -11151,7 +11451,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Engagement rate",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "自然触达关注非付费覆盖；互动率关注互动相对于指定基数的比例；粉丝增长关注粉丝数量变化。",
+        "relatedIds": [
+          "MKT303",
+          "MKT302"
+        ]
+      }
     },
     {
       "id": "MKT302",
@@ -11187,7 +11494,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Follower growth",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "自然触达关注非付费覆盖；互动率关注互动相对于指定基数的比例；粉丝增长关注粉丝数量变化。",
+        "relatedIds": [
+          "MKT303",
+          "MKT301"
+        ]
+      }
     },
     {
       "id": "MKT303",
@@ -11223,7 +11537,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Organic reach",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "自然触达关注非付费覆盖；互动率关注互动相对于指定基数的比例；粉丝增长关注粉丝数量变化。",
+        "relatedIds": [
+          "MKT301",
+          "MKT302"
+        ]
+      }
     },
     {
       "id": "MKT304",
@@ -12345,7 +12666,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Content repurposing",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "内容再利用是改编已有内容；内容联合发布是在其他渠道授权转载；内容分发是更广泛的传播过程。",
+        "relatedIds": [
+          "MKT336",
+          "MKT335"
+        ]
+      }
     },
     {
       "id": "MKT335",
@@ -12381,7 +12709,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Content distribution",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "内容再利用是改编已有内容；内容联合发布是在其他渠道授权转载；内容分发是更广泛的传播过程。",
+        "relatedIds": [
+          "MKT334",
+          "MKT336"
+        ]
+      }
     },
     {
       "id": "MKT336",
@@ -12417,7 +12752,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Content syndication",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "内容再利用是改编已有内容；内容联合发布是在其他渠道授权转载；内容分发是更广泛的传播过程。",
+        "relatedIds": [
+          "MKT334",
+          "MKT335"
+        ]
+      }
     },
     {
       "id": "MKT337",
@@ -13391,7 +13733,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Usage rights",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "使用权规定素材可如何使用；排他条款限制竞争合作；交付物规定创作者需提交的成果。",
+        "relatedIds": [
+          "MKT364",
+          "MKT365"
+        ]
+      }
     },
     {
       "id": "MKT364",
@@ -13427,7 +13776,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Exclusivity clause",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "使用权规定素材可如何使用；排他条款限制竞争合作；交付物规定创作者需提交的成果。",
+        "relatedIds": [
+          "MKT363",
+          "MKT365"
+        ]
+      }
     },
     {
       "id": "MKT365",
@@ -13463,7 +13819,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Creator deliverables",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "使用权规定素材可如何使用；排他条款限制竞争合作；交付物规定创作者需提交的成果。",
+        "relatedIds": [
+          "MKT363",
+          "MKT364"
+        ]
+      }
     },
     {
       "id": "MKT366",
@@ -13501,7 +13864,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Public relations",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "公共关系面向多类公众；媒体关系聚焦新闻媒体；企业传播涵盖组织内外沟通。",
+        "relatedIds": [
+          "MKT367",
+          "MKT385"
+        ]
+      }
     },
     {
       "id": "MKT367",
@@ -13537,7 +13907,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Media relations",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "公共关系面向多类公众；媒体关系聚焦新闻媒体；企业传播涵盖组织内外沟通。",
+        "relatedIds": [
+          "MKT366",
+          "MKT385"
+        ]
+      }
     },
     {
       "id": "MKT368",
@@ -14187,7 +14564,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Corporate communications",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "公共关系面向多类公众；媒体关系聚焦新闻媒体；企业传播涵盖组织内外沟通。",
+        "relatedIds": [
+          "MKT366",
+          "MKT367"
+        ]
+      }
     },
     {
       "id": "MKT386",
@@ -14441,7 +14825,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Event registration",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "报名是登记行为；到场率衡量实际到场比例；缺席率衡量报名后未到场比例，需统一分母。",
+        "relatedIds": [
+          "MKT393",
+          "MKT394"
+        ]
+      }
     },
     {
       "id": "MKT393",
@@ -14477,7 +14868,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Attendance rate",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。",
+      "comparison": {
+        "note": "报名是登记行为；到场率衡量实际到场比例；缺席率衡量报名后未到场比例，需统一分母。",
+        "relatedIds": [
+          "MKT392",
+          "MKT394"
+        ]
+      }
     },
     {
       "id": "MKT394",
@@ -14513,7 +14911,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "No-show rate",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+      "comparison": {
+        "note": "报名是登记行为；到场率衡量实际到场比例；缺席率衡量报名后未到场比例，需统一分母。",
+        "relatedIds": [
+          "MKT392",
+          "MKT393"
+        ]
+      }
     },
     {
       "id": "MKT395",
@@ -14875,7 +15280,13 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Sell-in",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+      "comparison": {
+        "note": "Sell-in关注向渠道销售；sell-through关注渠道向终端销售或库存售出比例，需明确口径。",
+        "relatedIds": [
+          "MKT405"
+        ]
+      }
     },
     {
       "id": "MKT405",
@@ -14911,7 +15322,13 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Sell-through",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+      "comparison": {
+        "note": "Sell-in关注向渠道销售；sell-through关注渠道向终端销售或库存售出比例，需明确口径。",
+        "relatedIds": [
+          "MKT404"
+        ]
+      }
     },
     {
       "id": "MKT406",
@@ -15311,7 +15728,13 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Numeric distribution",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "数值铺货率按门店数量计算；加权铺货率按门店销售权重计算。",
+        "relatedIds": [
+          "MKT417"
+        ]
+      }
     },
     {
       "id": "MKT417",
@@ -15347,7 +15770,13 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Weighted distribution",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "数值铺货率按门店数量计算；加权铺货率按门店销售权重计算。",
+        "relatedIds": [
+          "MKT416"
+        ]
+      }
     },
     {
       "id": "MKT418",
@@ -15748,7 +16177,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Basket size",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "购物篮大小通常指每单商品数量；客单价指每笔交易金额；零售转化率指访客成交比例。",
+        "relatedIds": [
+          "MKT429",
+          "MKT431"
+        ]
+      }
     },
     {
       "id": "MKT429",
@@ -15786,7 +16222,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Average transaction value",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "购物篮大小通常指每单商品数量；客单价指每笔交易金额；零售转化率指访客成交比例。",
+        "relatedIds": [
+          "MKT428",
+          "MKT431"
+        ]
+      }
     },
     {
       "id": "MKT430",
@@ -15858,7 +16301,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Retail conversion rate",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "购物篮大小通常指每单商品数量；客单价指每笔交易金额；零售转化率指访客成交比例。",
+        "relatedIds": [
+          "MKT428",
+          "MKT429"
+        ]
+      }
     },
     {
       "id": "MKT432",
@@ -16626,7 +17076,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Organic acquisition",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "自然获客不依赖直接付费投放；付费获客通过付费渠道；引荐流量是来自推荐链接或来源的访问，不一定已转化。",
+        "relatedIds": [
+          "MKT453",
+          "MKT454"
+        ]
+      }
     },
     {
       "id": "MKT453",
@@ -16662,7 +17119,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Paid acquisition",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "自然获客不依赖直接付费投放；付费获客通过付费渠道；引荐流量是来自推荐链接或来源的访问，不一定已转化。",
+        "relatedIds": [
+          "MKT452",
+          "MKT454"
+        ]
+      }
     },
     {
       "id": "MKT454",
@@ -16698,7 +17162,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Referral traffic",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "自然获客不依赖直接付费投放；付费获客通过付费渠道；引荐流量是来自推荐链接或来源的访问，不一定已转化。",
+        "relatedIds": [
+          "MKT452",
+          "MKT453"
+        ]
+      }
     },
     {
       "id": "MKT455",
@@ -17140,7 +17611,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Lead scoring",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "线索评分评估线索优先级；线索培育推动关系发展；营销自动化是支持这些流程的技术与规则。",
+        "relatedIds": [
+          "MKT467",
+          "MKT468"
+        ]
+      }
     },
     {
       "id": "MKT467",
@@ -17176,7 +17654,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Lead nurturing",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "线索评分评估线索优先级；线索培育推动关系发展；营销自动化是支持这些流程的技术与规则。",
+        "relatedIds": [
+          "MKT466",
+          "MKT468"
+        ]
+      }
     },
     {
       "id": "MKT468",
@@ -17212,7 +17697,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Marketing automation",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "线索评分评估线索优先级；线索培育推动关系发展；营销自动化是支持这些流程的技术与规则。",
+        "relatedIds": [
+          "MKT466",
+          "MKT467"
+        ]
+      }
     },
     {
       "id": "MKT469",
@@ -17912,7 +18404,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Repeat purchase rate",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "留存率衡量持续保留；流失率衡量失去客户；复购率衡量再次购买，三者需明确时间窗口和分母。",
+        "relatedIds": [
+          "MKT099",
+          "MKT100"
+        ]
+      }
     },
     {
       "id": "MKT488",
@@ -18276,7 +18775,13 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Cross-selling",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+      "comparison": {
+        "note": "交叉销售推荐互补产品；向上销售推荐更高价值的版本或方案。",
+        "relatedIds": [
+          "MKT498"
+        ]
+      }
     },
     {
       "id": "MKT498",
@@ -18312,7 +18817,13 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Upselling",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "交叉销售推荐互补产品；向上销售推荐更高价值的版本或方案。",
+        "relatedIds": [
+          "MKT497"
+        ]
+      }
     },
     {
       "id": "MKT499",
@@ -18459,7 +18970,15 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Multi-touch attribution",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+      "comparison": {
+        "note": "归因分配转化贡献；增量评估关注没有干预时不会发生的结果；末次点击与多触点是不同归因规则。",
+        "relatedIds": [
+          "MKT015",
+          "MKT016",
+          "MKT503"
+        ]
+      }
     },
     {
       "id": "MKT503",
@@ -18495,7 +19014,15 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Last-click attribution",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 复合词重音保留原编辑形式，未获完整词组词典依据；不视为唯一读法。",
+      "comparison": {
+        "note": "归因分配转化贡献；增量评估关注没有干预时不会发生的结果；末次点击与多触点是不同归因规则。",
+        "relatedIds": [
+          "MKT015",
+          "MKT016",
+          "MKT502"
+        ]
+      }
     },
     {
       "id": "MKT504",
@@ -18639,7 +19166,15 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Incremental R O A S",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 逐字母朗读字段检查通过；设备语音实际效果未测试。 本应用采用逐字母读法；行业亦有单词式读法，暂不提供未经词典核验的变体音标。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 逐字母朗读字段检查通过；设备语音实际效果未测试。 本应用采用逐字母读法；行业亦有单词式读法，暂不提供未经词典核验的变体音标。",
+      "comparison": {
+        "note": "ROAS关注广告收入与广告支出；ROI关注投资收益与成本；增量ROAS关注因果增量；边际ROAS关注额外投入的回报。",
+        "relatedIds": [
+          "MKT014",
+          "MKT095",
+          "MKT508"
+        ]
+      }
     },
     {
       "id": "MKT508",
@@ -18675,7 +19210,15 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Marginal R O A S",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 逐字母朗读字段检查通过；设备语音实际效果未测试。 本应用采用逐字母读法；行业亦有单词式读法，暂不提供未经词典核验的变体音标。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。 逐字母朗读字段检查通过；设备语音实际效果未测试。 本应用采用逐字母读法；行业亦有单词式读法，暂不提供未经词典核验的变体音标。",
+      "comparison": {
+        "note": "ROAS关注广告收入与广告支出；ROI关注投资收益与成本；增量ROAS关注因果增量；边际ROAS关注额外投入的回报。",
+        "relatedIds": [
+          "MKT014",
+          "MKT095",
+          "MKT507"
+        ]
+      }
     },
     {
       "id": "MKT509",
@@ -19143,7 +19686,13 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Leading indicator",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "领先指标提供未来结果的提前信号；滞后指标反映已经发生的结果。",
+        "relatedIds": [
+          "MKT522"
+        ]
+      }
     },
     {
       "id": "MKT522",
@@ -19179,7 +19728,13 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Lagging indicator",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "领先指标提供未来结果的提前信号；滞后指标反映已经发生的结果。",
+        "relatedIds": [
+          "MKT521"
+        ]
+      }
     },
     {
       "id": "MKT523",
@@ -19431,7 +19986,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Global brand consistency",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "全球品牌一致性维护核心品牌表达；区域适配调整本地内容；区域自主权关注授权范围内的决策权限。",
+        "relatedIds": [
+          "MKT543",
+          "MKT538"
+        ]
+      }
     },
     {
       "id": "MKT530",
@@ -19758,7 +20320,14 @@
       "ipaSource": "编辑校订 · 待词典核验",
       "speakTerm": "Regional autonomy",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "全球品牌一致性维护核心品牌表达；区域适配调整本地内容；区域自主权关注授权范围内的决策权限。",
+        "relatedIds": [
+          "MKT529",
+          "MKT543"
+        ]
+      }
     },
     {
       "id": "MKT539",
@@ -19940,7 +20509,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Regional adaptation",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "全球品牌一致性维护核心品牌表达；区域适配调整本地内容；区域自主权关注授权范围内的决策权限。",
+        "relatedIds": [
+          "MKT529",
+          "MKT538"
+        ]
+      }
     },
     {
       "id": "MKT544",
@@ -20084,7 +20660,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Market attractiveness",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "市场吸引力衡量机会；市场可行性衡量进入条件；市场优先级排序综合比较候选市场。",
+        "relatedIds": [
+          "MKT551",
+          "MKT548"
+        ]
+      }
     },
     {
       "id": "MKT548",
@@ -20122,7 +20705,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Market prioritization",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "市场吸引力衡量机会；市场可行性衡量进入条件；市场优先级排序综合比较候选市场。",
+        "relatedIds": [
+          "MKT547",
+          "MKT551"
+        ]
+      }
     },
     {
       "id": "MKT549",
@@ -20232,7 +20822,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Market feasibility",
       "ipaReview": "待词典核验",
-      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑校订；未逐项对照权威词典。朗读使用设备语音包。",
+      "comparison": {
+        "note": "市场吸引力衡量机会；市场可行性衡量进入条件；市场优先级排序综合比较候选市场。",
+        "relatedIds": [
+          "MKT547",
+          "MKT548"
+        ]
+      }
     },
     {
       "id": "MKT552",
@@ -20594,7 +21191,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Transcreation",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "创译重新创作以保留传播意图；文化适配范围更广；翻译记忆库存储可复用的双语片段。",
+        "relatedIds": [
+          "MKT562",
+          "MKT568"
+        ]
+      }
     },
     {
       "id": "MKT562",
@@ -20630,7 +21234,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Cultural adaptation",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "创译重新创作以保留传播意图；文化适配范围更广；翻译记忆库存储可复用的双语片段。",
+        "relatedIds": [
+          "MKT561",
+          "MKT568"
+        ]
+      }
     },
     {
       "id": "MKT563",
@@ -20848,7 +21459,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Translation memory",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "创译重新创作以保留传播意图；文化适配范围更广；翻译记忆库存储可复用的双语片段。",
+        "relatedIds": [
+          "MKT561",
+          "MKT562"
+        ]
+      }
     },
     {
       "id": "MKT569",
@@ -21140,7 +21758,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Budget allocation",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "预算分配安排资源；预算重新分配调整既有安排；预算差异比较实际或预测金额与预算。",
+        "relatedIds": [
+          "MKT583",
+          "MKT577"
+        ]
+      }
     },
     {
       "id": "MKT577",
@@ -21176,7 +21801,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Budget variance",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "预算分配安排资源；预算重新分配调整既有安排；预算差异比较实际或预测金额与预算。",
+        "relatedIds": [
+          "MKT576",
+          "MKT583"
+        ]
+      }
     },
     {
       "id": "MKT578",
@@ -21392,7 +22024,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Budget reallocation",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "预算分配安排资源；预算重新分配调整既有安排；预算差异比较实际或预测金额与预算。",
+        "relatedIds": [
+          "MKT576",
+          "MKT577"
+        ]
+      }
     },
     {
       "id": "MKT584",
@@ -21649,7 +22288,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Revenue contribution",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "边际贡献是收入减变动成本；毛利率通常是毛利除以收入；收入贡献关注收入金额或份额。",
+        "relatedIds": [
+          "MKT591",
+          "MKT592"
+        ]
+      }
     },
     {
       "id": "MKT591",
@@ -21687,7 +22333,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Contribution margin",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "边际贡献是收入减变动成本；毛利率通常是毛利除以收入；收入贡献关注收入金额或份额。",
+        "relatedIds": [
+          "MKT592",
+          "MKT590"
+        ]
+      }
     },
     {
       "id": "MKT592",
@@ -21723,7 +22376,14 @@
       "ipaSource": "宽式 IPA 编辑校订 · 待词典核验",
       "speakTerm": "Gross margin",
       "ipaReview": "编辑校订，待词典核验",
-      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 格式校订；非权威词典逐条核验。朗读使用设备语音包。",
+      "comparison": {
+        "note": "边际贡献是收入减变动成本；毛利率通常是毛利除以收入；收入贡献关注收入金额或份额。",
+        "relatedIds": [
+          "MKT591",
+          "MKT590"
+        ]
+      }
     },
     {
       "id": "MKT593",

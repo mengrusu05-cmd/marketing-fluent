@@ -1,28 +1,8 @@
-regression-test-70.cjs exit=0
+PASS 100 balanced draws, exhausted new pool, module review, session restore, comparison references
 PASS JS syntax
 PASS embedded and JSON data, 600 words, 24 modules, 40 scenarios
 PASS 12000 quiz cases
 PASS backup structure, transfer roundtrip and oversized export rejection
-
-pwa-test-72.cjs exit=0
-PASS install precaches seven assets with reload
-PASS activation removes only old app caches
-PASS online navigation and offline fallback
-PASS offline static asset
-PASS HTTP error fallback
-PASS update preflight, unrelated URLs and POST bypass
-
-startup-test-72.cjs exit=0
-PASS startup stage, dark preference, deferred render and single execution
-
-autosave-test-73.cjs exit=0
 PASS autosave deduplication, failure retry, forced save, persisted data, 24 module aggregates
-
-update-test-73.cjs exit=0
-PASS update timeout/retry, staged deployment, save failure guard, concurrent refresh and stalled worker registration (VM simulation)
-
-PASS Service Worker syntax
-Physical iOS/Android device testing: NOT RUN (no physical device available). Browser/online PWA testing: NOT RUN. VM tests are not browser tests.
-
-Packaging: previous incomplete archive excluded; only source files and historical audit/test files included.
-PASS ZIP CRC verification (verified after packaging).
+PASS original word fields, modules and scenarios unchanged
+NOT RUN real browser/device tests; semantic review incomplete.

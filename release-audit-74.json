@@ -1,0 +1,1043 @@
+{
+  "base": "1.0.73",
+  "version": "1.0.74",
+  "changes": [
+    {
+      "id": "MKT001",
+      "term": "Target market",
+      "comparison": {
+        "note": "目标市场是选择服务的群体；市场细分是划分群体的过程；买家画像是代表性客户的描述。",
+        "relatedIds": [
+          "MKT002",
+          "MKT047"
+        ]
+      }
+    },
+    {
+      "id": "MKT002",
+      "term": "Market segmentation",
+      "comparison": {
+        "note": "目标市场是选择服务的群体；市场细分是划分群体的过程；买家画像是代表性客户的描述。",
+        "relatedIds": [
+          "MKT001",
+          "MKT047"
+        ]
+      }
+    },
+    {
+      "id": "MKT003",
+      "term": "Value proposition",
+      "comparison": {
+        "note": "产品定位强调相对竞争位置；独特卖点强调差异；价值主张强调客户获得的价值。",
+        "relatedIds": [
+          "MKT072",
+          "MKT073"
+        ]
+      }
+    },
+    {
+      "id": "MKT006",
+      "term": "Brand awareness",
+      "comparison": {
+        "note": "品牌知名度是总体认知程度；品牌回忆强调无提示想起；品牌识别强调看到提示后认出。",
+        "relatedIds": [
+          "MKT064",
+          "MKT065"
+        ]
+      }
+    },
+    {
+      "id": "MKT008",
+      "term": "Brand identity",
+      "comparison": {
+        "note": "品牌识别是企业塑造的表达；品牌形象是受众感知；品牌声誉强调长期评价。",
+        "relatedIds": [
+          "MKT106",
+          "MKT107"
+        ]
+      }
+    },
+    {
+      "id": "MKT009",
+      "term": "Conversion rate",
+      "comparison": {
+        "note": "转化率衡量目标行为比例；点击率衡量点击占展示比例；跳出率定义取决于分析平台。",
+        "relatedIds": [
+          "MKT086",
+          "MKT249"
+        ]
+      }
+    },
+    {
+      "id": "MKT013",
+      "term": "Customer acquisition cost",
+      "comparison": {
+        "note": "获客成本通常包含更广泛的获客费用；CPA针对指定转化；CPC针对点击。",
+        "relatedIds": [
+          "MKT096",
+          "MKT087"
+        ]
+      }
+    },
+    {
+      "id": "MKT014",
+      "term": "Return on ad spend",
+      "comparison": {
+        "note": "ROAS关注广告收入与广告支出；ROI关注投资收益与成本；增量ROAS关注因果增量；边际ROAS关注额外投入的回报。",
+        "relatedIds": [
+          "MKT095",
+          "MKT507",
+          "MKT508"
+        ]
+      }
+    },
+    {
+      "id": "MKT015",
+      "term": "Attribution",
+      "comparison": {
+        "note": "归因分配转化贡献；增量评估关注没有干预时不会发生的结果；末次点击与多触点是不同归因规则。",
+        "relatedIds": [
+          "MKT016",
+          "MKT503",
+          "MKT502"
+        ]
+      }
+    },
+    {
+      "id": "MKT016",
+      "term": "Incrementality",
+      "comparison": {
+        "note": "归因分配转化贡献；增量评估关注没有干预时不会发生的结果；末次点击与多触点是不同归因规则。",
+        "relatedIds": [
+          "MKT015",
+          "MKT503",
+          "MKT502"
+        ]
+      }
+    },
+    {
+      "id": "MKT032",
+      "term": "Primary research",
+      "comparison": {
+        "note": "一手研究收集新数据；二手研究利用已有数据；案头研究通常利用现有资料。",
+        "relatedIds": [
+          "MKT033",
+          "MKT034"
+        ]
+      }
+    },
+    {
+      "id": "MKT033",
+      "term": "Secondary research",
+      "comparison": {
+        "note": "一手研究收集新数据；二手研究利用已有数据；案头研究通常利用现有资料。",
+        "relatedIds": [
+          "MKT032",
+          "MKT034"
+        ]
+      }
+    },
+    {
+      "id": "MKT034",
+      "term": "Desk research",
+      "comparison": {
+        "note": "一手研究收集新数据；二手研究利用已有数据；案头研究通常利用现有资料。",
+        "relatedIds": [
+          "MKT032",
+          "MKT033"
+        ]
+      }
+    },
+    {
+      "id": "MKT043",
+      "term": "Qualitative research",
+      "comparison": {
+        "note": "定性研究关注原因与体验；定量研究关注可测量的数量与关系。",
+        "relatedIds": [
+          "MKT044"
+        ]
+      }
+    },
+    {
+      "id": "MKT044",
+      "term": "Quantitative research",
+      "comparison": {
+        "note": "定性研究关注原因与体验；定量研究关注可测量的数量与关系。",
+        "relatedIds": [
+          "MKT043"
+        ]
+      }
+    },
+    {
+      "id": "MKT047",
+      "term": "Buyer persona",
+      "comparison": {
+        "note": "目标市场是选择服务的群体；市场细分是划分群体的过程；买家画像是代表性客户的描述。",
+        "relatedIds": [
+          "MKT001",
+          "MKT002"
+        ]
+      }
+    },
+    {
+      "id": "MKT052",
+      "term": "Purchase intent",
+      "comparison": {
+        "note": "购买意愿是意向；支付意愿是愿意支付的金额；购买行为是实际或观察到的行为。",
+        "relatedIds": [
+          "MKT053",
+          "MKT054"
+        ]
+      }
+    },
+    {
+      "id": "MKT053",
+      "term": "Willingness to pay",
+      "comparison": {
+        "note": "购买意愿是意向；支付意愿是愿意支付的金额；购买行为是实际或观察到的行为。",
+        "relatedIds": [
+          "MKT052",
+          "MKT054"
+        ]
+      }
+    },
+    {
+      "id": "MKT054",
+      "term": "Buying behavior",
+      "comparison": {
+        "note": "购买意愿是意向；支付意愿是愿意支付的金额；购买行为是实际或观察到的行为。",
+        "relatedIds": [
+          "MKT052",
+          "MKT053"
+        ]
+      }
+    },
+    {
+      "id": "MKT064",
+      "term": "Brand recall",
+      "comparison": {
+        "note": "品牌知名度是总体认知程度；品牌回忆强调无提示想起；品牌识别强调看到提示后认出。",
+        "relatedIds": [
+          "MKT006",
+          "MKT065"
+        ]
+      }
+    },
+    {
+      "id": "MKT065",
+      "term": "Brand recognition",
+      "comparison": {
+        "note": "品牌知名度是总体认知程度；品牌回忆强调无提示想起；品牌识别强调看到提示后认出。",
+        "relatedIds": [
+          "MKT006",
+          "MKT064"
+        ]
+      }
+    },
+    {
+      "id": "MKT071",
+      "term": "Product launch",
+      "comparison": {
+        "note": "Beta发布侧重测试版本；软启动侧重有限范围发布；产品上市是更广义的市场推出。",
+        "relatedIds": [
+          "MKT176",
+          "MKT177"
+        ]
+      }
+    },
+    {
+      "id": "MKT072",
+      "term": "Product positioning",
+      "comparison": {
+        "note": "产品定位强调相对竞争位置；独特卖点强调差异；价值主张强调客户获得的价值。",
+        "relatedIds": [
+          "MKT073",
+          "MKT003"
+        ]
+      }
+    },
+    {
+      "id": "MKT073",
+      "term": "Unique selling proposition",
+      "comparison": {
+        "note": "产品定位强调相对竞争位置；独特卖点强调差异；价值主张强调客户获得的价值。",
+        "relatedIds": [
+          "MKT072",
+          "MKT003"
+        ]
+      }
+    },
+    {
+      "id": "MKT086",
+      "term": "Click-through rate",
+      "comparison": {
+        "note": "转化率衡量目标行为比例；点击率衡量点击占展示比例；跳出率定义取决于分析平台。",
+        "relatedIds": [
+          "MKT009",
+          "MKT249"
+        ]
+      }
+    },
+    {
+      "id": "MKT087",
+      "term": "Cost per click",
+      "comparison": {
+        "note": "获客成本通常包含更广泛的获客费用；CPA针对指定转化；CPC针对点击。",
+        "relatedIds": [
+          "MKT013",
+          "MKT096"
+        ]
+      }
+    },
+    {
+      "id": "MKT089",
+      "term": "Impression",
+      "comparison": {
+        "note": "触达衡量不同受众数量；平均频次衡量每位触达受众平均曝光次数；展示量统计曝光次数。",
+        "relatedIds": [
+          "MKT261",
+          "MKT262"
+        ]
+      }
+    },
+    {
+      "id": "MKT095",
+      "term": "Return on investment",
+      "comparison": {
+        "note": "ROAS关注广告收入与广告支出；ROI关注投资收益与成本；增量ROAS关注因果增量；边际ROAS关注额外投入的回报。",
+        "relatedIds": [
+          "MKT014",
+          "MKT507",
+          "MKT508"
+        ]
+      }
+    },
+    {
+      "id": "MKT096",
+      "term": "Cost per acquisition",
+      "comparison": {
+        "note": "获客成本通常包含更广泛的获客费用；CPA针对指定转化；CPC针对点击。",
+        "relatedIds": [
+          "MKT013",
+          "MKT087"
+        ]
+      }
+    },
+    {
+      "id": "MKT099",
+      "term": "Retention rate",
+      "comparison": {
+        "note": "留存率衡量持续保留；流失率衡量失去客户；复购率衡量再次购买，三者需明确时间窗口和分母。",
+        "relatedIds": [
+          "MKT100",
+          "MKT487"
+        ]
+      }
+    },
+    {
+      "id": "MKT100",
+      "term": "Churn rate",
+      "comparison": {
+        "note": "留存率衡量持续保留；流失率衡量失去客户；复购率衡量再次购买，三者需明确时间窗口和分母。",
+        "relatedIds": [
+          "MKT099",
+          "MKT487"
+        ]
+      }
+    },
+    {
+      "id": "MKT106",
+      "term": "Brand image",
+      "comparison": {
+        "note": "品牌识别是企业塑造的表达；品牌形象是受众感知；品牌声誉强调长期评价。",
+        "relatedIds": [
+          "MKT008",
+          "MKT107"
+        ]
+      }
+    },
+    {
+      "id": "MKT107",
+      "term": "Brand reputation",
+      "comparison": {
+        "note": "品牌识别是企业塑造的表达；品牌形象是受众感知；品牌声誉强调长期评价。",
+        "relatedIds": [
+          "MKT008",
+          "MKT106"
+        ]
+      }
+    },
+    {
+      "id": "MKT176",
+      "term": "Beta launch",
+      "comparison": {
+        "note": "Beta发布侧重测试版本；软启动侧重有限范围发布；产品上市是更广义的市场推出。",
+        "relatedIds": [
+          "MKT177",
+          "MKT071"
+        ]
+      }
+    },
+    {
+      "id": "MKT177",
+      "term": "Soft launch",
+      "comparison": {
+        "note": "Beta发布侧重测试版本；软启动侧重有限范围发布；产品上市是更广义的市场推出。",
+        "relatedIds": [
+          "MKT176",
+          "MKT071"
+        ]
+      }
+    },
+    {
+      "id": "MKT211",
+      "term": "Paid media",
+      "comparison": {
+        "note": "付费媒体购买曝光；自有媒体由品牌控制；赢得媒体来自第三方主动报道；共享媒体强调社交传播。",
+        "relatedIds": [
+          "MKT212",
+          "MKT213",
+          "MKT214"
+        ]
+      }
+    },
+    {
+      "id": "MKT212",
+      "term": "Owned media",
+      "comparison": {
+        "note": "付费媒体购买曝光；自有媒体由品牌控制；赢得媒体来自第三方主动报道；共享媒体强调社交传播。",
+        "relatedIds": [
+          "MKT211",
+          "MKT213",
+          "MKT214"
+        ]
+      }
+    },
+    {
+      "id": "MKT213",
+      "term": "Earned media",
+      "comparison": {
+        "note": "付费媒体购买曝光；自有媒体由品牌控制；赢得媒体来自第三方主动报道；共享媒体强调社交传播。",
+        "relatedIds": [
+          "MKT211",
+          "MKT212",
+          "MKT214"
+        ]
+      }
+    },
+    {
+      "id": "MKT214",
+      "term": "Shared media",
+      "comparison": {
+        "note": "付费媒体购买曝光；自有媒体由品牌控制；赢得媒体来自第三方主动报道；共享媒体强调社交传播。",
+        "relatedIds": [
+          "MKT211",
+          "MKT212",
+          "MKT213"
+        ]
+      }
+    },
+    {
+      "id": "MKT249",
+      "term": "Bounce rate",
+      "comparison": {
+        "note": "转化率衡量目标行为比例；点击率衡量点击占展示比例；跳出率定义取决于分析平台。",
+        "relatedIds": [
+          "MKT009",
+          "MKT086"
+        ]
+      }
+    },
+    {
+      "id": "MKT261",
+      "term": "Reach",
+      "comparison": {
+        "note": "触达衡量不同受众数量；平均频次衡量每位触达受众平均曝光次数；展示量统计曝光次数。",
+        "relatedIds": [
+          "MKT262",
+          "MKT089"
+        ]
+      }
+    },
+    {
+      "id": "MKT262",
+      "term": "Average frequency",
+      "comparison": {
+        "note": "触达衡量不同受众数量；平均频次衡量每位触达受众平均曝光次数；展示量统计曝光次数。",
+        "relatedIds": [
+          "MKT261",
+          "MKT089"
+        ]
+      }
+    },
+    {
+      "id": "MKT301",
+      "term": "Engagement rate",
+      "comparison": {
+        "note": "自然触达关注非付费覆盖；互动率关注互动相对于指定基数的比例；粉丝增长关注粉丝数量变化。",
+        "relatedIds": [
+          "MKT303",
+          "MKT302"
+        ]
+      }
+    },
+    {
+      "id": "MKT302",
+      "term": "Follower growth",
+      "comparison": {
+        "note": "自然触达关注非付费覆盖；互动率关注互动相对于指定基数的比例；粉丝增长关注粉丝数量变化。",
+        "relatedIds": [
+          "MKT303",
+          "MKT301"
+        ]
+      }
+    },
+    {
+      "id": "MKT303",
+      "term": "Organic reach",
+      "comparison": {
+        "note": "自然触达关注非付费覆盖；互动率关注互动相对于指定基数的比例；粉丝增长关注粉丝数量变化。",
+        "relatedIds": [
+          "MKT301",
+          "MKT302"
+        ]
+      }
+    },
+    {
+      "id": "MKT334",
+      "term": "Content repurposing",
+      "comparison": {
+        "note": "内容再利用是改编已有内容；内容联合发布是在其他渠道授权转载；内容分发是更广泛的传播过程。",
+        "relatedIds": [
+          "MKT336",
+          "MKT335"
+        ]
+      }
+    },
+    {
+      "id": "MKT335",
+      "term": "Content distribution",
+      "comparison": {
+        "note": "内容再利用是改编已有内容；内容联合发布是在其他渠道授权转载；内容分发是更广泛的传播过程。",
+        "relatedIds": [
+          "MKT334",
+          "MKT336"
+        ]
+      }
+    },
+    {
+      "id": "MKT336",
+      "term": "Content syndication",
+      "comparison": {
+        "note": "内容再利用是改编已有内容；内容联合发布是在其他渠道授权转载；内容分发是更广泛的传播过程。",
+        "relatedIds": [
+          "MKT334",
+          "MKT335"
+        ]
+      }
+    },
+    {
+      "id": "MKT363",
+      "term": "Usage rights",
+      "comparison": {
+        "note": "使用权规定素材可如何使用；排他条款限制竞争合作；交付物规定创作者需提交的成果。",
+        "relatedIds": [
+          "MKT364",
+          "MKT365"
+        ]
+      }
+    },
+    {
+      "id": "MKT364",
+      "term": "Exclusivity clause",
+      "comparison": {
+        "note": "使用权规定素材可如何使用；排他条款限制竞争合作；交付物规定创作者需提交的成果。",
+        "relatedIds": [
+          "MKT363",
+          "MKT365"
+        ]
+      }
+    },
+    {
+      "id": "MKT365",
+      "term": "Creator deliverables",
+      "comparison": {
+        "note": "使用权规定素材可如何使用；排他条款限制竞争合作；交付物规定创作者需提交的成果。",
+        "relatedIds": [
+          "MKT363",
+          "MKT364"
+        ]
+      }
+    },
+    {
+      "id": "MKT366",
+      "term": "Public relations",
+      "comparison": {
+        "note": "公共关系面向多类公众；媒体关系聚焦新闻媒体；企业传播涵盖组织内外沟通。",
+        "relatedIds": [
+          "MKT367",
+          "MKT385"
+        ]
+      }
+    },
+    {
+      "id": "MKT367",
+      "term": "Media relations",
+      "comparison": {
+        "note": "公共关系面向多类公众；媒体关系聚焦新闻媒体；企业传播涵盖组织内外沟通。",
+        "relatedIds": [
+          "MKT366",
+          "MKT385"
+        ]
+      }
+    },
+    {
+      "id": "MKT385",
+      "term": "Corporate communications",
+      "comparison": {
+        "note": "公共关系面向多类公众；媒体关系聚焦新闻媒体；企业传播涵盖组织内外沟通。",
+        "relatedIds": [
+          "MKT366",
+          "MKT367"
+        ]
+      }
+    },
+    {
+      "id": "MKT392",
+      "term": "Event registration",
+      "comparison": {
+        "note": "报名是登记行为；到场率衡量实际到场比例；缺席率衡量报名后未到场比例，需统一分母。",
+        "relatedIds": [
+          "MKT393",
+          "MKT394"
+        ]
+      }
+    },
+    {
+      "id": "MKT393",
+      "term": "Attendance rate",
+      "comparison": {
+        "note": "报名是登记行为；到场率衡量实际到场比例；缺席率衡量报名后未到场比例，需统一分母。",
+        "relatedIds": [
+          "MKT392",
+          "MKT394"
+        ]
+      }
+    },
+    {
+      "id": "MKT394",
+      "term": "No-show rate",
+      "comparison": {
+        "note": "报名是登记行为；到场率衡量实际到场比例；缺席率衡量报名后未到场比例，需统一分母。",
+        "relatedIds": [
+          "MKT392",
+          "MKT393"
+        ]
+      }
+    },
+    {
+      "id": "MKT404",
+      "term": "Sell-in",
+      "comparison": {
+        "note": "Sell-in关注向渠道销售；sell-through关注渠道向终端销售或库存售出比例，需明确口径。",
+        "relatedIds": [
+          "MKT405"
+        ]
+      }
+    },
+    {
+      "id": "MKT405",
+      "term": "Sell-through",
+      "comparison": {
+        "note": "Sell-in关注向渠道销售；sell-through关注渠道向终端销售或库存售出比例，需明确口径。",
+        "relatedIds": [
+          "MKT404"
+        ]
+      }
+    },
+    {
+      "id": "MKT416",
+      "term": "Numeric distribution",
+      "comparison": {
+        "note": "数值铺货率按门店数量计算；加权铺货率按门店销售权重计算。",
+        "relatedIds": [
+          "MKT417"
+        ]
+      }
+    },
+    {
+      "id": "MKT417",
+      "term": "Weighted distribution",
+      "comparison": {
+        "note": "数值铺货率按门店数量计算；加权铺货率按门店销售权重计算。",
+        "relatedIds": [
+          "MKT416"
+        ]
+      }
+    },
+    {
+      "id": "MKT428",
+      "term": "Basket size",
+      "comparison": {
+        "note": "购物篮大小通常指每单商品数量；客单价指每笔交易金额；零售转化率指访客成交比例。",
+        "relatedIds": [
+          "MKT429",
+          "MKT431"
+        ]
+      }
+    },
+    {
+      "id": "MKT429",
+      "term": "Average transaction value",
+      "comparison": {
+        "note": "购物篮大小通常指每单商品数量；客单价指每笔交易金额；零售转化率指访客成交比例。",
+        "relatedIds": [
+          "MKT428",
+          "MKT431"
+        ]
+      }
+    },
+    {
+      "id": "MKT431",
+      "term": "Retail conversion rate",
+      "comparison": {
+        "note": "购物篮大小通常指每单商品数量；客单价指每笔交易金额；零售转化率指访客成交比例。",
+        "relatedIds": [
+          "MKT428",
+          "MKT429"
+        ]
+      }
+    },
+    {
+      "id": "MKT452",
+      "term": "Organic acquisition",
+      "comparison": {
+        "note": "自然获客不依赖直接付费投放；付费获客通过付费渠道；引荐流量是来自推荐链接或来源的访问，不一定已转化。",
+        "relatedIds": [
+          "MKT453",
+          "MKT454"
+        ]
+      }
+    },
+    {
+      "id": "MKT453",
+      "term": "Paid acquisition",
+      "comparison": {
+        "note": "自然获客不依赖直接付费投放；付费获客通过付费渠道；引荐流量是来自推荐链接或来源的访问，不一定已转化。",
+        "relatedIds": [
+          "MKT452",
+          "MKT454"
+        ]
+      }
+    },
+    {
+      "id": "MKT454",
+      "term": "Referral traffic",
+      "comparison": {
+        "note": "自然获客不依赖直接付费投放；付费获客通过付费渠道；引荐流量是来自推荐链接或来源的访问，不一定已转化。",
+        "relatedIds": [
+          "MKT452",
+          "MKT453"
+        ]
+      }
+    },
+    {
+      "id": "MKT466",
+      "term": "Lead scoring",
+      "comparison": {
+        "note": "线索评分评估线索优先级；线索培育推动关系发展；营销自动化是支持这些流程的技术与规则。",
+        "relatedIds": [
+          "MKT467",
+          "MKT468"
+        ]
+      }
+    },
+    {
+      "id": "MKT467",
+      "term": "Lead nurturing",
+      "comparison": {
+        "note": "线索评分评估线索优先级；线索培育推动关系发展；营销自动化是支持这些流程的技术与规则。",
+        "relatedIds": [
+          "MKT466",
+          "MKT468"
+        ]
+      }
+    },
+    {
+      "id": "MKT468",
+      "term": "Marketing automation",
+      "comparison": {
+        "note": "线索评分评估线索优先级；线索培育推动关系发展；营销自动化是支持这些流程的技术与规则。",
+        "relatedIds": [
+          "MKT466",
+          "MKT467"
+        ]
+      }
+    },
+    {
+      "id": "MKT487",
+      "term": "Repeat purchase rate",
+      "comparison": {
+        "note": "留存率衡量持续保留；流失率衡量失去客户；复购率衡量再次购买，三者需明确时间窗口和分母。",
+        "relatedIds": [
+          "MKT099",
+          "MKT100"
+        ]
+      }
+    },
+    {
+      "id": "MKT497",
+      "term": "Cross-selling",
+      "comparison": {
+        "note": "交叉销售推荐互补产品；向上销售推荐更高价值的版本或方案。",
+        "relatedIds": [
+          "MKT498"
+        ]
+      }
+    },
+    {
+      "id": "MKT498",
+      "term": "Upselling",
+      "comparison": {
+        "note": "交叉销售推荐互补产品；向上销售推荐更高价值的版本或方案。",
+        "relatedIds": [
+          "MKT497"
+        ]
+      }
+    },
+    {
+      "id": "MKT502",
+      "term": "Multi-touch attribution",
+      "comparison": {
+        "note": "归因分配转化贡献；增量评估关注没有干预时不会发生的结果；末次点击与多触点是不同归因规则。",
+        "relatedIds": [
+          "MKT015",
+          "MKT016",
+          "MKT503"
+        ]
+      }
+    },
+    {
+      "id": "MKT503",
+      "term": "Last-click attribution",
+      "comparison": {
+        "note": "归因分配转化贡献；增量评估关注没有干预时不会发生的结果；末次点击与多触点是不同归因规则。",
+        "relatedIds": [
+          "MKT015",
+          "MKT016",
+          "MKT502"
+        ]
+      }
+    },
+    {
+      "id": "MKT507",
+      "term": "Incremental ROAS",
+      "comparison": {
+        "note": "ROAS关注广告收入与广告支出；ROI关注投资收益与成本；增量ROAS关注因果增量；边际ROAS关注额外投入的回报。",
+        "relatedIds": [
+          "MKT014",
+          "MKT095",
+          "MKT508"
+        ]
+      }
+    },
+    {
+      "id": "MKT508",
+      "term": "Marginal ROAS",
+      "comparison": {
+        "note": "ROAS关注广告收入与广告支出；ROI关注投资收益与成本；增量ROAS关注因果增量；边际ROAS关注额外投入的回报。",
+        "relatedIds": [
+          "MKT014",
+          "MKT095",
+          "MKT507"
+        ]
+      }
+    },
+    {
+      "id": "MKT521",
+      "term": "Leading indicator",
+      "comparison": {
+        "note": "领先指标提供未来结果的提前信号；滞后指标反映已经发生的结果。",
+        "relatedIds": [
+          "MKT522"
+        ]
+      }
+    },
+    {
+      "id": "MKT522",
+      "term": "Lagging indicator",
+      "comparison": {
+        "note": "领先指标提供未来结果的提前信号；滞后指标反映已经发生的结果。",
+        "relatedIds": [
+          "MKT521"
+        ]
+      }
+    },
+    {
+      "id": "MKT529",
+      "term": "Global brand consistency",
+      "comparison": {
+        "note": "全球品牌一致性维护核心品牌表达；区域适配调整本地内容；区域自主权关注授权范围内的决策权限。",
+        "relatedIds": [
+          "MKT543",
+          "MKT538"
+        ]
+      }
+    },
+    {
+      "id": "MKT538",
+      "term": "Regional autonomy",
+      "comparison": {
+        "note": "全球品牌一致性维护核心品牌表达；区域适配调整本地内容；区域自主权关注授权范围内的决策权限。",
+        "relatedIds": [
+          "MKT529",
+          "MKT543"
+        ]
+      }
+    },
+    {
+      "id": "MKT543",
+      "term": "Regional adaptation",
+      "comparison": {
+        "note": "全球品牌一致性维护核心品牌表达；区域适配调整本地内容；区域自主权关注授权范围内的决策权限。",
+        "relatedIds": [
+          "MKT529",
+          "MKT538"
+        ]
+      }
+    },
+    {
+      "id": "MKT547",
+      "term": "Market attractiveness",
+      "comparison": {
+        "note": "市场吸引力衡量机会；市场可行性衡量进入条件；市场优先级排序综合比较候选市场。",
+        "relatedIds": [
+          "MKT551",
+          "MKT548"
+        ]
+      }
+    },
+    {
+      "id": "MKT548",
+      "term": "Market prioritization",
+      "comparison": {
+        "note": "市场吸引力衡量机会；市场可行性衡量进入条件；市场优先级排序综合比较候选市场。",
+        "relatedIds": [
+          "MKT547",
+          "MKT551"
+        ]
+      }
+    },
+    {
+      "id": "MKT551",
+      "term": "Market feasibility",
+      "comparison": {
+        "note": "市场吸引力衡量机会；市场可行性衡量进入条件；市场优先级排序综合比较候选市场。",
+        "relatedIds": [
+          "MKT547",
+          "MKT548"
+        ]
+      }
+    },
+    {
+      "id": "MKT561",
+      "term": "Transcreation",
+      "comparison": {
+        "note": "创译重新创作以保留传播意图；文化适配范围更广；翻译记忆库存储可复用的双语片段。",
+        "relatedIds": [
+          "MKT562",
+          "MKT568"
+        ]
+      }
+    },
+    {
+      "id": "MKT562",
+      "term": "Cultural adaptation",
+      "comparison": {
+        "note": "创译重新创作以保留传播意图；文化适配范围更广；翻译记忆库存储可复用的双语片段。",
+        "relatedIds": [
+          "MKT561",
+          "MKT568"
+        ]
+      }
+    },
+    {
+      "id": "MKT568",
+      "term": "Translation memory",
+      "comparison": {
+        "note": "创译重新创作以保留传播意图；文化适配范围更广；翻译记忆库存储可复用的双语片段。",
+        "relatedIds": [
+          "MKT561",
+          "MKT562"
+        ]
+      }
+    },
+    {
+      "id": "MKT576",
+      "term": "Budget allocation",
+      "comparison": {
+        "note": "预算分配安排资源；预算重新分配调整既有安排；预算差异比较实际或预测金额与预算。",
+        "relatedIds": [
+          "MKT583",
+          "MKT577"
+        ]
+      }
+    },
+    {
+      "id": "MKT577",
+      "term": "Budget variance",
+      "comparison": {
+        "note": "预算分配安排资源；预算重新分配调整既有安排；预算差异比较实际或预测金额与预算。",
+        "relatedIds": [
+          "MKT576",
+          "MKT583"
+        ]
+      }
+    },
+    {
+      "id": "MKT583",
+      "term": "Budget reallocation",
+      "comparison": {
+        "note": "预算分配安排资源；预算重新分配调整既有安排；预算差异比较实际或预测金额与预算。",
+        "relatedIds": [
+          "MKT576",
+          "MKT577"
+        ]
+      }
+    },
+    {
+      "id": "MKT590",
+      "term": "Revenue contribution",
+      "comparison": {
+        "note": "边际贡献是收入减变动成本；毛利率通常是毛利除以收入；收入贡献关注收入金额或份额。",
+        "relatedIds": [
+          "MKT591",
+          "MKT592"
+        ]
+      }
+    },
+    {
+      "id": "MKT591",
+      "term": "Contribution margin",
+      "comparison": {
+        "note": "边际贡献是收入减变动成本；毛利率通常是毛利除以收入；收入贡献关注收入金额或份额。",
+        "relatedIds": [
+          "MKT592",
+          "MKT590"
+        ]
+      }
+    },
+    {
+      "id": "MKT592",
+      "term": "Gross margin",
+      "comparison": {
+        "note": "边际贡献是收入减变动成本；毛利率通常是毛利除以收入；收入贡献关注收入金额或份额。",
+        "relatedIds": [
+          "MKT591",
+          "MKT590"
+        ]
+      }
+    }
+  ],
+  "limitations": "94 structured comparisons; remaining entries retain existing distinctions or pending; no real device test"
+}

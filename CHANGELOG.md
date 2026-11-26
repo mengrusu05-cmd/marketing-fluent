@@ -149,3 +149,6 @@ PWA precache reload and secure-context detection; simulated service worker tests
 - Cache-first normal launch; explicit refresh retains network-first with 5s timeout.
 - Startup stage progress, deferred initial render and post-render update check.
 - Forest-green app icons.
+
+## 1.0.74
+Balanced new-word selection, scoped review, persisted deck, 94 structured comparisons.

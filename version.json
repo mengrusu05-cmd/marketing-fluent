@@ -1,6 +1,6 @@
 {
-  "version": "1.0.73",
-  "build": "marketing-fluent-v1-0-73-20261125",
-  "notes": "Automatic local saving and per-module learning records",
+  "version": "1.0.74",
+  "build": "marketing-fluent-v1-0-74-20261125",
+  "notes": "Balanced new-word cards, module review, persisted deck and marketing comparisons",
   "release": "1.0"
 }
