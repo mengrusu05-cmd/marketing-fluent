@@ -1,0 +1,12 @@
+{
+  "version": "1.0.76",
+  "changes": [
+    "Collapsed-by-default native details, compact 11–13px text, 44px touch targets, theme colors",
+    "Preserve expansion during rerender",
+    "Version metadata and cache updated",
+    "Update test fixture adjusted to future version"
+  ],
+  "limitations": [
+    "No real browser or iOS test; native select may zoom on iOS at 13px."
+  ]
+}

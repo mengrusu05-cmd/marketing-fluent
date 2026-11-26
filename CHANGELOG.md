@@ -1,3 +1,12 @@
+## 1.0.77
+- Dual-source version checks and consent-based update reminders.
+
+## 1.0.76
+- Compact, collapsed-by-default study settings; preserve expansion during rendering.
+
+## V1.0.75
+- 卡片学习选择器：响应式布局、主题色、44px 触控区域、保留原生选择交互。
+
 ## V1.0.73
 - Automatic local saving and module learning records.
 
@@ -152,3 +161,6 @@ PWA precache reload and secure-context detection; simulated service worker tests
 
 ## 1.0.74
 Balanced new-word selection, scoped review, persisted deck, 94 structured comparisons.
+
+## 1.0.79
+- Compact single-line version entry; update behavior unchanged.

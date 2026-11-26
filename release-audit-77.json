@@ -1,0 +1,22 @@
+{
+  "version": "1.0.77",
+  "baseline": "1.0.76",
+  "changed_files": [
+    "部署说明.txt",
+    "update-test-77.cjs",
+    "sw.js",
+    "version.json",
+    "marketing-vocabulary.json",
+    "index.html"
+  ],
+  "changes": [
+    "parallel manifest and HTML version checks",
+    "explicit consent",
+    "30 minute reminder persisted separately",
+    "manual check overrides reminder",
+    "save guard and published version guard"
+  ],
+  "limitations": [
+    "No live GitHub Pages or physical device test"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "base": "1.0.78",
+  "version": "1.0.79",
+  "changes": [
+    "compact status text",
+    "scoped nowrap and ellipsis",
+    "12px subtitle, 11px narrow screen",
+    "version and cache bump"
+  ],
+  "limitations": [
+    "no physical device or browser layout test"
+  ]
+}

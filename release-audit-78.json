@@ -1,0 +1,16 @@
+{
+  "version": "1.0.78",
+  "base": "1.0.77",
+  "changes": [
+    "Retain independent version panel",
+    "Live update status on entry",
+    "Retain consent and reminder prompt",
+    "Clear stale prompt when deployment incomplete",
+    "Dark theme and 44px update buttons",
+    "Synchronize version metadata"
+  ],
+  "limitations": [
+    "No browser or physical device test",
+    "No live deployment"
+  ]
+}
