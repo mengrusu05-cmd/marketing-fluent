@@ -1,6 +1,8 @@
-V1.0.79
-PASS: JavaScript and service worker syntax (node --check).
-PASS: update-test-79.cjs (consent, reminder, save guard, staged release, network failure, refresh).
-PASS: vocabulary unchanged except version; scenarios byte-identical.
-PASS: single-line CSS and compact status source assertions.
-NOT RUN: browser layout / iPhone physical device / online deployment.
+V1.0.80
+JS 0: PASS
+JS 1: PASS
+JS 2: PASS
+JS 3: PASS
+Vocabulary unchanged except version: PASS
+Scenarios unchanged: PASS
+Browser layout and physical device tests: NOT RUN

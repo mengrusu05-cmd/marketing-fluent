@@ -1,0 +1,11 @@
+{
+  "base": "1.0.79",
+  "version": "1.0.80",
+  "changes": [
+    "compact home heading",
+    "shorter home action",
+    "separate flashcard toolbar",
+    "compact local save hint",
+    "version sync"
+  ]
+}

@@ -164,3 +164,6 @@ Balanced new-word selection, scoped review, persisted deck, 94 structured compar
 
 ## 1.0.79
 - Compact single-line version entry; update behavior unchanged.
+
+## 1.0.80
+- Compact home heading and flashcard toolbar.

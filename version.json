@@ -1,6 +1,6 @@
 {
-  "version": "1.0.79",
-  "build": "marketing-fluent-v1-0-79-20261125",
-  "notes": "Single-line compact version entry",
+  "version": "1.0.80",
+  "build": "marketing-fluent-v1-0-80-20261125",
+  "notes": "Compact home heading and flashcard toolbar",
   "release": "1.0"
 }
