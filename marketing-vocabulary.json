@@ -1,5 +1,5 @@
 {
-  "version": "1.0.80",
+  "version": "1.0.82",
   "date": "2026-11-26",
   "modules": [
     {
@@ -179,20 +179,30 @@
       "term": "Target market",
       "zh": "目标市场",
       "definition": "企业选择重点服务的消费者或组织群体。",
-      "example": "We need to define the target market before launch.",
-      "exampleZh": "上市前我们需要明确目标市场。",
+      "example": "Our target market consists of small businesses with limited marketing budgets.",
+      "exampleZh": "我们的目标市场是营销预算有限的小型企业。",
       "collocation": "define the target market",
       "collocationZh": "明确目标市场",
       "dialogue": [
         {
           "role": "Marketing Manager",
-          "en": "Which customers are we designing the launch for?",
-          "zh": "这次上市主要面向哪些客户？"
+          "en": "Which customers should we focus on for the launch?",
+          "zh": "这次新品上市应该重点关注哪些客户？"
         },
         {
           "role": "Marketing Specialist",
-          "en": "We need to define the target market before launch.",
-          "zh": "上市前我们需要明确目标市场。"
+          "en": "Our research suggests that young professionals are a promising target market.",
+          "zh": "调研显示，年轻职场人士是一个具有潜力的目标市场。"
+        },
+        {
+          "role": "Marketing Manager",
+          "en": "What makes this group attractive?",
+          "zh": "这个群体为什么具有吸引力？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "They have a clear need for the product and are relatively easy to reach online.",
+          "zh": "他们对产品有明确需求，而且相对容易通过线上渠道触达。"
         }
       ],
       "usage": "",
@@ -213,7 +223,46 @@
           "MKT002",
           "MKT047"
         ]
-      }
+      },
+      "definitionEn": "A group of consumers or organizations that a company chooses to serve.",
+      "extensions": [
+        {
+          "en": "We should narrow our focus to the most promising customer segment.",
+          "zh": "我们应该将重点缩小至最有潜力的客户细分群体。"
+        },
+        {
+          "en": "Before entering a new market, we need to validate customer demand.",
+          "zh": "进入新市场之前，我们需要验证客户需求。"
+        },
+        {
+          "en": "Does our positioning resonate with the customers we want to reach?",
+          "zh": "我们的定位能否引起目标客户的共鸣？"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "define the target market",
+          "zh": "明确目标市场"
+        },
+        {
+          "en": "identify a target market",
+          "zh": "识别目标市场"
+        },
+        {
+          "en": "reach the target market",
+          "zh": "触达目标市场"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Our target market consists of small businesses with limited marketing budgets.",
+          "zh": "我们的目标市场是营销预算有限的小型企业。"
+        },
+        {
+          "en": "The retailer expanded its target market to include university students.",
+          "zh": "这家零售商扩大了目标市场，将大学生纳入其中。"
+        }
+      ]
     },
     {
       "id": "MKT002",
@@ -222,20 +271,30 @@
       "term": "Market segmentation",
       "zh": "市场细分",
       "definition": "按共同特征将市场划分为不同群体。",
-      "example": "Market segmentation helps us tailor our messaging.",
-      "exampleZh": "市场细分有助于我们针对不同客群调整传播信息。",
-      "collocation": "conduct market segmentation",
-      "collocationZh": "开展市场细分",
+      "example": "Our market segmentation revealed distinct needs among first-time buyers.",
+      "exampleZh": "市场细分发现首次购买者存在不同需求。",
+      "collocation": "segment the market by behavior",
+      "collocationZh": "按行为进行市场细分",
       "dialogue": [
         {
           "role": "Marketing Manager",
-          "en": "Why are we using different messages for different customer groups?",
-          "zh": "为什么要针对不同客户群使用不同的传播信息？"
+          "en": "Why are repeat buyers responding differently to our offers?",
+          "zh": "为什么复购客户对促销活动的反应不同？"
         },
         {
           "role": "Marketing Specialist",
-          "en": "Market segmentation helps us tailor our messaging.",
-          "zh": "市场细分有助于我们针对不同客群调整传播信息。"
+          "en": "Our market segmentation separates occasional shoppers from frequent buyers.",
+          "zh": "我们的市场细分将偶尔购物的客户与高频购买者区分开来。"
+        },
+        {
+          "role": "Marketing Manager",
+          "en": "Should we offer both groups the same discount?",
+          "zh": "我们应该给两个群体提供相同折扣吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "No. Frequent buyers may respond better to loyalty rewards than introductory discounts.",
+          "zh": "不一定。高频购买者可能更喜欢会员奖励，而非首次购买优惠。"
         }
       ],
       "usage": "",
@@ -251,12 +310,52 @@
       "ipaReview": "编辑复核",
       "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
       "comparison": {
-        "note": "目标市场是选择服务的群体；市场细分是划分群体的过程；买家画像是代表性客户的描述。",
+        "note": "市场细分是划分群体的过程；目标市场是企业选择服务的群体；买家画像是代表性客户的描述，不等同于统计意义上的细分群体。",
         "relatedIds": [
           "MKT001",
           "MKT047"
         ]
-      }
+      },
+      "definitionEn": "The process of dividing a market into groups with shared characteristics or needs.",
+      "collocations": [
+        {
+          "en": "segment the market by behavior",
+          "zh": "按行为进行市场细分"
+        },
+        {
+          "en": "conduct market segmentation",
+          "zh": "开展市场细分"
+        },
+        {
+          "en": "refine customer segments",
+          "zh": "优化客户细分群体"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Our market segmentation revealed distinct needs among first-time buyers.",
+          "zh": "市场细分发现首次购买者存在不同需求。"
+        },
+        {
+          "en": "Effective market segmentation can guide product development as well as advertising.",
+          "zh": "有效的市场细分不仅能指导广告投放，也能指导产品开发。"
+        }
+      ],
+      "extensions": [
+        {
+          "en": "Let's group customers by their purchasing patterns rather than age alone.",
+          "zh": "我们按购买行为而不是仅按年龄划分客户吧。"
+        },
+        {
+          "en": "We need to test whether these segments are large enough to serve profitably.",
+          "zh": "我们需要验证这些细分群体的规模是否足以支持盈利经营。"
+        },
+        {
+          "en": "The segmentation model should be refreshed as customer behavior changes.",
+          "zh": "随着客户行为变化，应更新细分模型。"
+        }
+      ],
+      "contentReview": "独立内容编辑复核；未外部终审"
     },
     {
       "id": "MKT003",
@@ -265,20 +364,30 @@
       "term": "Value proposition",
       "zh": "价值主张",
       "definition": "向目标客户说明产品或服务能提供什么价值，以及为何值得选择。",
-      "example": "Let's refine the value proposition for small businesses.",
-      "exampleZh": "我们来优化面向小企业的价值主张。",
-      "collocation": "refine the value proposition",
-      "collocationZh": "优化价值主张",
+      "example": "The value proposition emphasizes reduced administrative work for small retailers.",
+      "exampleZh": "该价值主张强调帮助小型零售商减少行政工作。",
+      "collocation": "articulate a value proposition",
+      "collocationZh": "清晰阐述价值主张",
       "dialogue": [
         {
           "role": "Marketing Manager",
-          "en": "How can we make the offer more compelling to small businesses?",
-          "zh": "怎样让我们的产品方案更吸引小企业？"
+          "en": "Why are prospects abandoning the pricing page?",
+          "zh": "为什么潜在客户在定价页面流失？"
         },
         {
           "role": "Marketing Specialist",
-          "en": "Let's refine the value proposition for small businesses.",
-          "zh": "我们来优化面向小企业的价值主张。"
+          "en": "Our value proposition does not explain the savings clearly enough.",
+          "zh": "我们的价值主张没有足够清晰地说明能节省哪些成本。"
+        },
+        {
+          "role": "Marketing Manager",
+          "en": "Can we quantify the benefit without overstating it?",
+          "zh": "我们能否在不夸大的情况下量化收益？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "Yes, we can use verified results from the pilot program.",
+          "zh": "可以，我们可以使用试点项目中经过验证的结果。"
         }
       ],
       "usage": "",
@@ -294,12 +403,52 @@
       "ipaReview": "编辑复核",
       "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
       "comparison": {
-        "note": "产品定位强调相对竞争位置；独特卖点强调差异；价值主张强调客户获得的价值。",
+        "note": "价值主张强调客户获得的价值及选择理由；竞争优势强调相对竞争者的优势；品牌定位强调品牌希望在目标受众心中占据的位置。",
         "relatedIds": [
-          "MKT072",
-          "MKT073"
+          "MKT004",
+          "MKT005"
         ]
-      }
+      },
+      "definitionEn": "A statement of the benefits a product or service offers to its intended customers and why they should choose it.",
+      "collocations": [
+        {
+          "en": "articulate a value proposition",
+          "zh": "清晰阐述价值主张"
+        },
+        {
+          "en": "test a value proposition",
+          "zh": "测试价值主张"
+        },
+        {
+          "en": "refine the value proposition",
+          "zh": "优化价值主张"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The value proposition emphasizes reduced administrative work for small retailers.",
+          "zh": "该价值主张强调帮助小型零售商减少行政工作。"
+        },
+        {
+          "en": "A compelling value proposition should address a customer problem rather than simply list features.",
+          "zh": "有吸引力的价值主张应回应客户痛点，而非仅列举功能。"
+        }
+      ],
+      "extensions": [
+        {
+          "en": "Lead with the customer outcome, not the technical specification.",
+          "zh": "先突出客户能够获得的结果，而不是技术规格。"
+        },
+        {
+          "en": "We should substantiate that claim with evidence from actual users.",
+          "zh": "我们应该用真实用户的证据支持这一宣传表述。"
+        },
+        {
+          "en": "The message needs to explain why the offer is worth the price.",
+          "zh": "传播信息需要说明为什么这项产品或服务值得这个价格。"
+        }
+      ],
+      "contentReview": "独立内容编辑复核；未外部终审"
     },
     {
       "id": "MKT004",
@@ -308,20 +457,30 @@
       "term": "Competitive advantage",
       "zh": "竞争优势",
       "definition": "企业相对于竞争对手拥有的、能够创造更高价值或更低成本的优势。",
-      "example": "Fast delivery gives us a competitive advantage.",
-      "exampleZh": "快速交付为我们带来竞争优势。",
+      "example": "Exclusive distribution agreements give the company a competitive advantage in rural markets.",
+      "exampleZh": "独家分销协议使该公司在乡村市场拥有竞争优势。",
       "collocation": "build a competitive advantage",
       "collocationZh": "建立竞争优势",
       "dialogue": [
         {
           "role": "Marketing Manager",
-          "en": "Why would shoppers choose us over other retailers?",
-          "zh": "购物者为什么会选择我们而不是其他零售商？"
+          "en": "Our rivals have introduced similar products. How should we respond?",
+          "zh": "竞争对手推出了类似产品，我们应该如何应对？"
         },
         {
           "role": "Marketing Specialist",
-          "en": "Fast delivery gives us a competitive advantage.",
-          "zh": "快速交付为我们带来竞争优势。"
+          "en": "Our competitive advantage lies in the reliability of our after-sales service.",
+          "zh": "我们的竞争优势在于售后服务的可靠性。"
+        },
+        {
+          "role": "Marketing Manager",
+          "en": "Do customers actually value that difference?",
+          "zh": "客户真的重视这一差异吗？"
+        },
+        {
+          "role": "Marketing Specialist",
+          "en": "The renewal interviews suggest they do, but we should validate it with a larger sample.",
+          "zh": "续约访谈表明他们重视这一点，但我们应扩大样本进行验证。"
         }
       ],
       "usage": "",
@@ -335,7 +494,54 @@
       "ipaSource": "编辑复核 · 未经词典独立核验",
       "speakTerm": "Competitive advantage",
       "ipaReview": "编辑复核",
-      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。"
+      "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+      "definitionEn": "An attribute or capability that enables a business to outperform competitors in a relevant market.",
+      "collocations": [
+        {
+          "en": "build a competitive advantage",
+          "zh": "建立竞争优势"
+        },
+        {
+          "en": "sustain a competitive advantage",
+          "zh": "维持竞争优势"
+        },
+        {
+          "en": "identify sources of competitive advantage",
+          "zh": "识别竞争优势的来源"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Exclusive distribution agreements give the company a competitive advantage in rural markets.",
+          "zh": "独家分销协议使该公司在乡村市场拥有竞争优势。"
+        },
+        {
+          "en": "A competitive advantage based solely on price may be difficult to sustain.",
+          "zh": "仅依靠价格形成的竞争优势可能难以持续。"
+        }
+      ],
+      "extensions": [
+        {
+          "en": "We need a capability that competitors cannot easily replicate.",
+          "zh": "我们需要一种竞争对手难以轻易复制的能力。"
+        },
+        {
+          "en": "Compare the total cost of ownership, not just the purchase price.",
+          "zh": "比较总拥有成本，而不只是购买价格。"
+        },
+        {
+          "en": "The differentiation must matter to customers if it is to support a premium.",
+          "zh": "差异化必须对客户有价值，才能支撑溢价。"
+        }
+      ],
+      "comparison": {
+        "note": "竞争优势是相对竞争者的优势；价值主张是面向客户的利益承诺；品牌定位是品牌在受众心中的相对位置。",
+        "relatedIds": [
+          "MKT003",
+          "MKT005"
+        ]
+      },
+      "contentReview": "独立内容编辑复核；未外部终审"
     },
     {
       "id": "MKT005",

@@ -1,3 +1,6 @@
+## 1.0.82 candidate (partial content)
+Multi-example rendering, content-specific favorite keys, four edited entries. Remaining 596 not rewritten.
+
 ## 1.0.77
 - Dual-source version checks and consent-based update reminders.
 

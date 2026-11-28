@@ -1,6 +1,6 @@
 {
-  "version": "1.0.80",
-  "build": "marketing-fluent-v1-0-80-20261125",
-  "notes": "Compact home heading and flashcard toolbar",
+  "version": "1.0.82",
+  "build": "marketing-fluent-v1-0-82-20261125",
+  "notes": "Partial content rewrite; multi-example rendering and favorite compatibility",
   "release": "1.0"
 }

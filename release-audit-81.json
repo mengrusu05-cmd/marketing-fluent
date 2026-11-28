@@ -1,0 +1,113 @@
+{
+  "scope": "partial structural candidate",
+  "rewritten": 1,
+  "pending": 599,
+  "before": {
+    "id": "MKT001",
+    "moduleId": "m1",
+    "module": "市场战略",
+    "term": "Target market",
+    "zh": "目标市场",
+    "definition": "企业选择重点服务的消费者或组织群体。",
+    "example": "We need to define the target market before launch.",
+    "exampleZh": "上市前我们需要明确目标市场。",
+    "collocation": "define the target market",
+    "collocationZh": "明确目标市场",
+    "dialogue": [
+      {
+        "role": "Marketing Manager",
+        "en": "Which customers are we designing the launch for?",
+        "zh": "这次上市主要面向哪些客户？"
+      },
+      {
+        "role": "Marketing Specialist",
+        "en": "We need to define the target market before launch.",
+        "zh": "上市前我们需要明确目标市场。"
+      }
+    ],
+    "usage": "",
+    "new": true,
+    "order": 1,
+    "aliases": [],
+    "distinction": "",
+    "collocationReview": "编辑复核",
+    "ipaUK": "ˈtɑːɡɪt ˈmɑːkɪt",
+    "ipaUS": "ˈtɑːrɡɪt ˈmɑːrkɪt",
+    "ipaSource": "编辑复核 · 未经词典独立核验",
+    "speakTerm": "Target market",
+    "ipaReview": "编辑复核",
+    "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+    "comparison": {
+      "note": "目标市场是选择服务的群体；市场细分是划分群体的过程；买家画像是代表性客户的描述。",
+      "relatedIds": [
+        "MKT002",
+        "MKT047"
+      ]
+    }
+  },
+  "after": {
+    "id": "MKT001",
+    "moduleId": "m1",
+    "module": "市场战略",
+    "term": "Target market",
+    "zh": "目标市场",
+    "definition": "企业选择重点服务的消费者或组织群体。",
+    "example": "Our target market consists of small businesses with limited marketing budgets.",
+    "exampleZh": "我们的目标市场是营销预算有限的小型企业。",
+    "collocation": "define the target market",
+    "collocationZh": "明确目标市场",
+    "dialogue": [
+      {
+        "role": "Marketing Manager",
+        "en": "Which customers should we focus on for the launch?",
+        "zh": "这次新品上市应该重点关注哪些客户？"
+      },
+      {
+        "role": "Marketing Specialist",
+        "en": "Our research suggests that young professionals are a promising target market.",
+        "zh": "调研显示，年轻职场人士是一个具有潜力的目标市场。"
+      },
+      {
+        "role": "Marketing Manager",
+        "en": "What makes this group attractive?",
+        "zh": "这个群体为什么具有吸引力？"
+      },
+      {
+        "role": "Marketing Specialist",
+        "en": "They have a clear need for the product and are relatively easy to reach online.",
+        "zh": "他们对产品有明确需求，而且相对容易通过线上渠道触达。"
+      }
+    ],
+    "usage": "",
+    "new": true,
+    "order": 1,
+    "aliases": [],
+    "distinction": "",
+    "collocationReview": "编辑复核",
+    "ipaUK": "ˈtɑːɡɪt ˈmɑːkɪt",
+    "ipaUS": "ˈtɑːrɡɪt ˈmɑːrkɪt",
+    "ipaSource": "编辑复核 · 未经词典独立核验",
+    "speakTerm": "Target market",
+    "ipaReview": "编辑复核",
+    "ipaNote": "宽式 IPA 编辑复核；尚未逐项对照权威词典。朗读使用设备语音包。",
+    "comparison": {
+      "note": "目标市场是选择服务的群体；市场细分是划分群体的过程；买家画像是代表性客户的描述。",
+      "relatedIds": [
+        "MKT002",
+        "MKT047"
+      ]
+    },
+    "definitionEn": "A group of consumers or organizations that a company chooses to serve.",
+    "extensions": [
+      {
+        "en": "We should narrow our focus to the most promising customer segment.",
+        "zh": "我们应该将重点缩小至最有潜力的客户细分群体。"
+      },
+      {
+        "en": "Before entering a new market, we need to validate customer demand.",
+        "zh": "进入新市场之前，我们需要验证客户需求。"
+      }
+    ]
+  },
+  "duplicate_example_count": 562
+}

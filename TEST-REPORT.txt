@@ -1,8 +1,8 @@
-V1.0.80
-JS 0: PASS
-JS 1: PASS
-JS 2: PASS
-JS 3: PASS
-Vocabulary unchanged except version: PASS
-Scenarios unchanged: PASS
-Browser layout and physical device tests: NOT RUN
+PASS script 1 syntax
+PASS script 2 syntax
+PASS script 3 syntax
+PASS SW syntax
+PASS 6 favorite/render assertions
+PASS 600 unique IDs; 596 untouched entries
+NOT RUN browser, actual backup restore, full language review
+PARTIAL: 4/600 content entries; 596 outstanding
